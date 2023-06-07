@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: ec50c9b3-a6ce-4bb7-9ce8-cebb65b9cc9e
+title: Coaching Paradox
 ---
 ---
 id: iQc47QANWPd7WVZbUZfog

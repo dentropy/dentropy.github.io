@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: be804dcd-1a4e-4a3f-a17e-b56d1fdd40d6
+title: vps
 ---
 ## Places to get a VPS
 

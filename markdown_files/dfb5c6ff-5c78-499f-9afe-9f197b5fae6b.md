@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: dfb5c6ff-5c78-499f-9afe-9f197b5fae6b
+title: media-management
 ---
 ---
 id: uYPlZMexK4A4xoSzwIswV

@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 80990cc1-fafc-4b8f-afe2-a3ae6b185f2f
+title: Code Server
 ---
 ## Install
 

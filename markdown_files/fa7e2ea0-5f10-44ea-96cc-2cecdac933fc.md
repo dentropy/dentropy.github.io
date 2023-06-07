@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: fa7e2ea0-5f10-44ea-96cc-2cecdac933fc
+title: change hostname
 ---
 ---
 id: cHmoOXoNkXYkYUScrIBpP

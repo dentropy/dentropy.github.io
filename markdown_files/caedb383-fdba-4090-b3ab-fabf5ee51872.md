@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: caedb383-fdba-4090-b3ab-fabf5ee51872
+title: The Trinity of Terrible Ideas
 ---
 (Victimhood + Equity + Utopia) + Power = big trouble.
 

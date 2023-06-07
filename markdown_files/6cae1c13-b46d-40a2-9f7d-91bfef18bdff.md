@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 6cae1c13-b46d-40a2-9f7d-91bfef18bdff
+title: cypher
 ---
 [dentropydaemon-wiki/Software/Catagories/Language/Language - Query](/undefined)
 

@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 146656b4-573a-4e42-8f00-239ab29eac3b
+title: index
 ---
 Hello, this is Dentropy. Here you have a chance to know me better and 
 

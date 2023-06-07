@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e
+title: Files in Python3
 ---
 ## Check if file, directory, or both exists
 

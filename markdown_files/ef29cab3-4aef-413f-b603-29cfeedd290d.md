@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: ef29cab3-4aef-413f-b603-29cfeedd290d
+title: Data Visualization
 ---
 * [ZingChart](https://www.zingchart.com/docs/)
   * [zingchart-react](https://www.zingchart.com/docs/integrations/react)

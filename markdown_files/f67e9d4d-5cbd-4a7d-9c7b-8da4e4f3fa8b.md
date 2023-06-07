@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: f67e9d4d-5cbd-4a7d-9c7b-8da4e4f3fa8b
+title: lvm - logical volume manager
 ---
 ---
 id: VjZ1GvlmjjFXXfa97opDc

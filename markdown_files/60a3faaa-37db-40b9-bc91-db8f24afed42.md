@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 60a3faaa-37db-40b9-bc91-db8f24afed42
+title: linux partition exercises
 ---
 ---
 id: NOx2ZRgXMCefQEY7APfXE

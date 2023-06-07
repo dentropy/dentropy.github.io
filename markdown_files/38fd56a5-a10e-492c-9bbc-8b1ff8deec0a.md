@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 38fd56a5-a10e-492c-9bbc-8b1ff8deec0a
+title: Catechism - DentropyCloud
 ---
 * What are you trying to do? Articulate your objectives using absolutely no jargon.
   * tl;dr The goal of DentropyCloud is to allow one to easily deploy, maintain, and secure any of a set of self hosted applications.

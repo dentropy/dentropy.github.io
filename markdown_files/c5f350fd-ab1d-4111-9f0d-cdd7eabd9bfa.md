@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: c5f350fd-ab1d-4111-9f0d-cdd7eabd9bfa
+title: Cooking
 ---
 * [Honey Garlic Chicken with Broccoli and Brown Rice Recipe -- Based Cooking](https://based.cooking/honey-garlic-chicken.html)
 * [Japanese Noodle Soup Recipe -- Based Cooking](https://based.cooking/japanese-noodle-soup.html)

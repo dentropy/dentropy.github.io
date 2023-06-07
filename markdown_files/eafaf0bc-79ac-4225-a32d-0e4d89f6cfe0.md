@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: eafaf0bc-79ac-4225-a32d-0e4d89f6cfe0
+title: schema
 ---
 ---
 id: cQqHHjds5vsBu1QnkdIsp

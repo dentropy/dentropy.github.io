@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 20adbc1f-6daf-4a06-8dca-f8a7bac42cb4
+title: SchoolOfLife The Mind Body Problem
 ---
 ---
 id: y0062ng8dss503sdpbdrsog

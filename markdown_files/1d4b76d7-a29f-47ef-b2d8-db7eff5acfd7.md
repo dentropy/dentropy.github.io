@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 1d4b76d7-a29f-47ef-b2d8-db7eff5acfd7
+title: Inital Design Doc - DentropyCloud
 ---
 ## More detailed plan
 

@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 2831accf-38a0-4cd6-a2bc-a0a6a0f5de0f
+title: Dentropy s Heuristics of Sociology
 ---
 ---
 id: 1kmrdhjud6mp9qpysthuix0

@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: a0e8088e-cf07-4717-abef-eacfdeb268b8
+title: Recommended Media
 ---
 ## Required Reading and Watching
 

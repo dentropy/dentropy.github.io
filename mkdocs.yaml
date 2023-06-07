@@ -198,10 +198,9 @@ nav:
             - cypher:
                 - examples:
                     - Movie Graph Example.md: 67def507-3b83-4123-aed6-77b782ea4a50
-                - queries.md: 59430e1c-f2a6-4e81-aafd-9b5777c4408c
                 - examples Simplist Example.md: f2173374-5af8-44aa-9c70-f6529cddf9d8
+                - Cypher Queries.md: 59430e1c-f2a6-4e81-aafd-9b5777c4408c
                 - CSVs.md: f98ce084-328d-4bf4-b3a4-9ba93c92454c
-                - Basic Queries.md: 9a428d12-e075-40ee-a25e-8cd6aee62545
             - cardano:
                 - cardano-node:
                     - cardnao-cli commands.md: 1164490b-6e0e-469c-97dc-38f6c8dabf0a
@@ -413,7 +412,6 @@ nav:
             - minio.md: 56cdc9d1-1ef0-4dd8-93d2-70c14b0716a5
             - mergestat.md: 43e5059a-e7e2-4961-a684-657640084cd3
             - memex.garden.md: c6cc57b2-ed86-4f69-b656-c534988f6673
-            - megasync.md: b2c60839-1e96-42ff-812c-4a491ba8fa1d
             - mega-cmd.md: 6824a4cc-8501-42a2-8450-ef0d88d36f6b
             - mediagoblin.md: d0573927-80c5-4128-bd20-5b13c7948572
             - matrix-docker-ansible-deploy.md: 91a662b1-7fbf-41bc-a413-8a2866d6ba41
@@ -1400,7 +1398,7 @@ nav:
                     - Lens Protocol.md: 2e4b8504-85db-4ad1-bbfa-4cfb1216bdfe
                     - Deep Work.md: 5d76918e-df1c-48fd-8e09-50ef334c0112
                     - DAOhaus.md: 688dae83-c9c3-44d3-b32c-c6248ea0958e
-                - DAO Research Logs.md: 2fa7bcd5-8775-45f7-b6df-e86977b335f9
+                - Logs - DAO Research.md: 2fa7bcd5-8775-45f7-b6df-e86977b335f9
                 - DAO Research Home.md: 63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7
                 - DAO Interrorgation.md: d2e34182-88c3-4e81-b926-07650ad30ee6
                 - DAO Incubators.md: a7402f58-2c31-407a-a435-d98834d6a5d9
@@ -1725,12 +1723,13 @@ nav:
                         - Elastic Search.md: ea840011-88ea-4ed3-86fe-ac41a6870502
                         - Class Documentation.md: 75030eca-fb42-46ca-93c6-95b520292bd1
                     - schema.md: eafaf0bc-79ac-4225-a32d-0e4d89f6cfe0
-                    - research.Databases.md: 688eca70-ec90-4539-b73d-abae92e109ab
                     - research.Dashboards.md: 5a448eab-2246-424e-bd1f-fff5cfd692e1
+                    - research.Dashboards 1.md: f1326c13-c6c0-4de0-ba21-1a9734247243
                     - requests.md: bcd665e4-18ed-43f5-99a6-96d4246ea329
+                    - keybase data questions.md: e8844eeb-76f6-4df1-b639-dc776b63ffc1
                     - docs.md: ff5752fb-5c45-47d3-a96a-305817af6db4
-                    - data questions.md: e8844eeb-76f6-4df1-b639-dc776b63ffc1
                     - dashboards.md: f50c8a78-ae51-42a0-a1e7-4de6e2db668d
+                    - Research Databases.md: 688eca70-ec90-4539-b73d-abae92e109ab
                     - README.md: 6543f142-5b4f-4727-8f41-ab70eb031e16
                     - Keybase Binding Inital Docs.md: 65f9c304-affc-4dc5-bde9-43994e99b2b9
                     - Keybase Binding Elastic Queries.md: d3b690e2-60fc-4bbc-b90b-1ca72360b64c
@@ -1754,8 +1753,8 @@ nav:
                 - Git:
                     - schema.md: 6671c909-9693-4a8d-82dc-8df9870899ba
                     - research.md: c49ff73e-a032-4af0-aada-91f8cc9c19d7
-                    - queries.md: 8fa0416d-6ed7-4798-aa15-c155284fa6d1
                     - bash script.md: 186f641d-f0e2-4740-b532-6336c81b2861
+                    - Git Queries.md: 8fa0416d-6ed7-4798-aa15-c155284fa6d1
                     - Git Binding.md: 04934aa0-9a0c-40d2-a207-4b8ddc6128c7
                 - Facebook:
                     - Facebook Binding.md: 3f2b1b8f-6760-42c4-b752-b80f5ae60057
@@ -1802,7 +1801,6 @@ nav:
             - Specific Aims - DDaemon.md: d6321a61-0b6f-49f7-b537-0476879dad25
             - Situation Scan - DDaemon.md: ce95a2c6-06de-4289-bd97-a94257439970
             - Semantic Forum.md: 0c58c83e-707f-423c-8b57-1c0f8224e494
-            - Scoping - DDaemon.md: 1f61dd91-421e-4b60-9b53-05fc3bcec210
             - Research - Semantic Forum.md: 44928702-3e41-482c-9005-2b5862c4ee5a
             - Reference Deisgn - DDaemon.md: a19c9978-9dba-45f0-af19-d8020b67e5e3
             - Queue Management.md: 6900cdfd-b809-4bcd-8ee2-bf3e7f96e079
@@ -1872,9 +1870,10 @@ nav:
             - dentropycloud.archives.md: 9990c551-867e-4678-b70f-1e79fd60dfcc
             - ddaemon-webapp.md: 96e3ea02-9a99-4783-af83-bb7a0ca6e44d
             - DentroptyDaemon Monorepo.md: 65af23d6-ebd9-4f19-94a7-85fba48aeaff
+        - Unorganized:
+            - KMS Analysis.md: ea7bef36-42df-455b-8fb6-c8bdb458b6e5
         - dentropycloud.research.reference-designs.md: 890c1069-453d-4b96-80b0-6d153cfbbe9f
         - Logs - DDaemon.md: 7621dfbb-6988-4e80-9836-a8011f664099
-        - KMS Analysis.md: ea7bef36-42df-455b-8fb6-c8bdb458b6e5
         - DentropyCloud Software.md: db82f3a7-04a5-4403-b16a-057177b2ae10
         - Dentropy Daemon - Home.md: 488cb22c-91d3-4d1e-bd47-b1588e3fb899
         - DenropyDaemon TODO.md: b9cd3e8b-1727-4a22-9332-90b42b5a7ffb

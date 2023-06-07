@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: e1aed0af-98ef-4514-9a7e-8e6eaaac2f1d
+title: Chinese Room
 ---
 ---
 id: OvBUWyoCWlvkvp10kDDlt

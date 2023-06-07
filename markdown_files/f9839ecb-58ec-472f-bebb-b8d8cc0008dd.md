@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: f9839ecb-58ec-472f-bebb-b8d8cc0008dd
+title: Human Condition
 ---
 ---
 id: ae3YoZ49OCP0MCOBB2Fpl

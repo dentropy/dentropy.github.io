@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 253c9f0b-fdaf-41e4-ae0b-584e2bc15cee
+title: RClone
 ---
 ## Install RCLONE
 ``` bash

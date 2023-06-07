@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: a47c8a35-8cb1-4e0f-b0dc-a6e02eefe5a7
+title: Digital Immortality
 ---
 ---
 id: bpsNJV7AZ5mBYJRE4VZvt

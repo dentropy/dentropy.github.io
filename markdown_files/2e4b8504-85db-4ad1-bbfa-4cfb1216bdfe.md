@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 2e4b8504-85db-4ad1-bbfa-4cfb1216bdfe
+title: Lens Protocol
 ---
 #blockchain #DAO 
 [Lens Protocol: A composable decentralized social graph for a web3-ready community](https://cryptoslate.com/lens-protocol-a-composable-decentralized-social-graph-for-a-web3-ready-community/)

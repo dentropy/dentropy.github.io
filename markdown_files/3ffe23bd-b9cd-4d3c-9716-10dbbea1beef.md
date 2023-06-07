@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: 3ffe23bd-b9cd-4d3c-9716-10dbbea1beef
+title: Meme Permissions
 ---
 ## Meme Permissions List
 * Permissions List

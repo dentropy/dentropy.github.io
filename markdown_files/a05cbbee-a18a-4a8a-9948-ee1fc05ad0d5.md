@@ -1,6 +1,7 @@
 ---
 share: true
 uuid: a05cbbee-a18a-4a8a-9948-ee1fc05ad0d5
+title: Inmon s Corporate Information Factory
 ---
 ---
 id: Y94MpMYioKDcjBZdfvXBT
