@@ -11,7 +11,7 @@ Hello, this is Dentropy. Here you have a chance to know me better and
 * [Learning Pathways](/10708552-def9-4391-9126-8a4f53cb5e00)
 * [Dentropy's Projects](/e76c8ac9-69f3-477f-8015-556e83738432)
 	* [Intro - DDaemon](/3aac9f98-9264-4093-8402-be32de0295cb)
-	* [What is the Mimetic File System?](/undefined)
+	* [What is the Mimetic File System?](/d6bc0e0e-54f2-4389-a143-3bb60f8daa61)
 	* [DentropyCloud](/53b4819a-70af-4a7d-be7f-c79d3b1fa40a)
 * Lists of Useful Stuff
 	* [Browser Extensions](/810020e2-c875-440a-b0c3-2a48333da314)

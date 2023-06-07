@@ -2253,5 +2253,22 @@ nav:
     - Dentropy's Tutorials.md: b554fe38-0be3-4e5e-a817-41077f5f6e69
     - Dentropy's Projects.md: e76c8ac9-69f3-477f-8015-556e83738432
     - Dentropy's Blog Posts and Videos.md: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
+- Questions:
+    - list:
+        - What is the Mimetic File System?.md: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
+- Mimetic File System:
+    - Proposals:
+        - SFeed.md: 37a516db-3864-4f75-af96-89c93469c9b6
+        - Reddit on ENS.md: b94cf625-8011-492f-bf35-b2127dd9e646
+        - Activity Watch Upgrade.md: abd210c0-7723-46af-80a9-72205bf58e5c
+    - MFS - Thoughts.md: d107b0cc-7fe9-4d95-84bc-ad06cb6ddfa4
+    - MFS - Tasks.md: 19a2c18c-3479-41c5-8c80-0609c4e8ec7d
+    - MFS - TODO Projects.md: 8ad09f02-06bc-40cc-b079-789cb461b86d
+    - MFS - Questions.md: 3aea3735-f4db-4e42-be73-909c55bcf060
+    - MFS - Projects.md: d2de5cc9-f1a5-4fcc-8eb4-008690124728
+    - MFS - MVP.md: 728984f8-e3d3-4240-b500-1f82862993c2
+    - MFS - Logs.md: 44e97955-3c27-4c44-ad3f-35740e9b3990
+    - MFS - Heilmeier Catechism.md: c24284e0-dfe6-443d-978c-82d6bc2384a0
+    - MFS - Brainstorming.md: 571b748d-4064-4c65-b505-3eb63e6c66a1
 - index.md: 146656b4-573a-4e42-8f00-239ab29eac3b
 - Mimetic File System - MFS.md: 174ec832-c137-4d44-b581-3e552e0c047e
