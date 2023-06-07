@@ -932,7 +932,7 @@ nav:
         - TODO.md: feed7620-f082-43ed-b082-45d440b737b7
         - Software Languages.md: 09d86337-622e-4709-9f61-c6d5587704f6
         - Dentropy's Ideal DevSecOps Stack.md: 406a13ea-5f64-440a-b454-6b43afe9e0d5
-        - Dentropy's Favorite Apps.md: 444ff7c7-77b4-483c-b801-3955d2daeb0a
+        - Dentropy's Favourite Apps.md: 444ff7c7-77b4-483c-b801-3955d2daeb0a
         - Catagories.md: cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5
         - Awesome.md: 595558e9-ad0f-420a-bf21-8d87a41c68ba
     - Wiki:
@@ -1716,7 +1716,6 @@ nav:
             - Specific Bindings:
                 - Keybase:
                     - docs:
-                        - design.md: e90f8ac6-da30-4ae2-948a-43ec1d157c31
                         - Snippits.md: 084fccb4-3a13-4be0-93d7-57aea116e200
                         - Generate Analytics.md: 0c17a138-56fe-4ec2-a4cc-2a9833ad60bf
                         - Export Keybase.md: 99ac375c-13a3-4b9e-8a72-a3384c0f56ad
@@ -1859,12 +1858,12 @@ nav:
                     - web.md: fb44a66d-7522-4fd8-9433-f360b427ea7b
                 - whiteboard.md: fc4cf111-20c3-46ea-9ec2-b27c20304146
                 - docs.md: cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4
-                - design.md: de520619-5c6f-4275-a5ec-3154b2ca86bd
                 - backlog.md: 8ef2b6ba-94d4-48c1-afe5-47c6dcc61249
                 - User Stories - DDaemon.md: 92a22ef8-5137-47e9-a48a-ece9720f6169
                 - TODO - DDameon.md: b6cdc671-377e-4b01-b0f8-6a2849e84405
                 - Social Media Bindings.md: 6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a
                 - Roadmap.md: 2ffcf8b7-75d5-4f99-bf20-10826df12580
+                - Dentropy Daemon Design.md: de520619-5c6f-4275-a5ec-3154b2ca86bd
             - dentropycloud.archives.md: 9990c551-867e-4678-b70f-1e79fd60dfcc
             - ddaemon-webapp.md: 96e3ea02-9a99-4783-af83-bb7a0ca6e44d
             - DentroptyDaemon Monorepo.md: 65af23d6-ebd9-4f19-94a7-85fba48aeaff
@@ -2053,7 +2052,7 @@ nav:
                 - Learn and Teach to Code (James).md: fc6f3dd3-7c14-47a7-8b89-453d1068fcd1
                 - First User Signup (Randy).md: bd5c091b-6af3-48b9-bc4d-f17fb60961a7
                 - Example Conversation.md: b2c0b7c3-4f0a-4d97-8136-82deea30ddba
-                - Archatypal Naratives (Addison).md: ef511fa2-29a5-40cb-a8a1-325b8bc37b36
+                - Archetypal Narratives (Addison).md: ef511fa2-29a5-40cb-a8a1-325b8bc37b36
             - Schema:
                 - Database Codes - Quest(ion) Engine.md: 452c6440-b79b-445f-99e2-c56374133051
             - Peronas:
@@ -2233,11 +2232,11 @@ nav:
         - docker nginx proxy with auth.md: c9972dec-d741-4735-9998-1c81b5e0c192
         - Web Scraping.md: 6c19c7df-11cb-401d-a833-bca29d59aa6a
         - Web Scraping Tutorial.md: 83ffe54f-3356-44ae-9d1a-878ef448fb57
+        - Using the History command on Unix Systems.md: c01c8156-996f-4a53-97f5-1f287e28f1d6
         - Umbrel - Secure Install.md: c14c9c80-6039-4bf8-bb72-0afbaceb08ea
         - Umbrel - Migrate App.md: 06913657-30a0-4e59-98b1-42371710dafb
         - Umbrel - Backup and Restore.md: 92aa8e61-712a-414d-95c1-7b9ff98c2f98
         - Tutorials Backlog.md: 31f7e81a-967e-41f4-872e-91d1571df726
-        - Terminal Logging on Unix Systems.md: c01c8156-996f-4a53-97f5-1f287e28f1d6
         - Searching Through Files Tutorial.md: 21c0a45b-3f65-446a-bcae-89242cc63469
         - SQL Alchemy Tutorial.md: 34aa710f-0d0e-4098-88aa-e0b554a2298e
         - Mastering SQL.md: fa961bbf-f992-45c2-99d4-8ff4d5a1d4a1
