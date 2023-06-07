@@ -864,7 +864,7 @@ nav:
             - Networking.md: e9e0b998-ae2d-4500-bace-1ef9df4c65f8
             - Mind Map.md: 3e4abceb-b485-4ded-851e-c095080043a3
             - Knowledge Management System.md: b09af5f6-0f41-432f-a5eb-1eb909da4ade
-            - Keylogger.md: 23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c
+            - Keylogger Binding.md: 23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c
             - KMS - Knowledge Management Systems.md: 6aef6fe9-4c4e-4f3a-850c-e163e2303f81
             - Identity.md: c2e91197-a7cb-4521-aa52-e7410b02e030
             - Frontend.md: ae60275d-2624-4a0e-93ab-aa65a8cda795
@@ -1748,8 +1748,6 @@ nav:
                     - Reddit Binding.md: 2ab15421-459c-4512-914e-4431809b210a
                 - Netflix:
                     - Netflix Binding.md: cd81d896-ac0c-4fe4-a5a6-f449cca19abf
-                - Keylogger:
-                    - Keylogger Binding.md: 03ce87b5-898b-4e7a-9c47-6694c8d652fe
                 - Git:
                     - schema.md: 6671c909-9693-4a8d-82dc-8df9870899ba
                     - research.md: c49ff73e-a032-4af0-aada-91f8cc9c19d7
@@ -2148,6 +2146,7 @@ nav:
         - Keybase Binding.md: 3ff1df10-10b8-4206-b9b2-3bbad4b748d5
         - Docker VPN Router.md: aeb2a3d9-c371-404a-ae82-f9c70253e0e2
         - DentropyCloud.md: 53b4819a-70af-4a7d-be7f-c79d3b1fa40a
+        - DIY Keylogger.md: 03ce87b5-898b-4e7a-9c47-6694c8d652fe
         - Blockchain Royalties.md: 04ffe6b4-1ff0-41b0-82f3-6c0d1a742268
         - ActivityPub Utils.md: d41891f6-34ec-48e2-bed3-4e1bb4edd4a8
         - 3D Printing.md: facd4e1d-89a3-4120-a8c1-72e0e953142f

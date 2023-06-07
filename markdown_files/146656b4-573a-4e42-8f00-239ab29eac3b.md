@@ -3,8 +3,7 @@ share: true
 uuid: 146656b4-573a-4e42-8f00-239ab29eac3b
 title: index
 ---
-Hello, this is Dentropy. Here you have a chance to know me better and 
-
+Hello, this is Dentropy and this is my personal wiki.
 
 * [Dentropy's Blog Posts and Videos](/3d59d5cc-de9f-42d3-96fd-e4bb02710a33)
 * [Dentropy's Tutorials](/b554fe38-0be3-4e5e-a817-41077f5f6e69)
