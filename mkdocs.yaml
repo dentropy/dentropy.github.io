@@ -1819,6 +1819,7 @@ nav:
             - Brainstorming - DDaemon.md: 88f4c833-cb02-4ff8-a6fd-a216813a7e5c
             - Braingoop - Ddaemon.md: 045ce59f-7fa3-4846-a4c8-1682a99de7b6
             - Behavior Tracking - DDaemon.md: 910c3fb9-9023-47b5-9966-ca7a651fbfe0
+            - Analysis Queries.md: fe4c8191-b213-44c3-9e9b-0cd31b42e303
             - Agency - DDaemon.md: 26b25984-ce01-4aa6-99cf-757eb46ffddd
         - Archive:
             - Monorepo:
@@ -2254,6 +2255,7 @@ nav:
 - Questions:
     - list:
         - What is the Mimetic File System?.md: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
+        - How do I become who I am?.md: c62c2add-e005-4a80-b6f9-370612abc42d
 - Mimetic File System:
     - Proposals:
         - SFeed.md: 37a516db-3864-4f75-af96-89c93469c9b6
