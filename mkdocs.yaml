@@ -2114,6 +2114,7 @@ nav:
             - User Stories - Quest(ion) Engine.md: f137b314-579f-42ab-8be5-1c72bf9ebcd9
             - Schema - Quest(ion) Engine.md: a8d5e7ea-e112-4625-96c7-9ac3513c36c9
             - Pages - Quest(ion) Engine.md: a27724cd-21c5-4d8d-ae24-97fc746fe09d
+            - Initial Questions for Question Engine.md: 344c2005-e043-44c9-82a2-1ae504cdee33
             - Context Feed.md: 645edce8-3a74-423c-a889-6fec0c1beaa9
             - API - Quest(ion) Engine.md: 5fd78387-a5c4-4163-a464-861316fe4ba1
         - KMS Analysis:
@@ -2254,8 +2255,12 @@ nav:
     - Dentropy's Blog Posts and Videos.md: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
 - Questions:
     - list:
+        - Why am I building Question Engine?.md: 114d3861-6af9-4254-8cee-0e7aa0b47532
         - What is the Mimetic File System?.md: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
         - How do I become who I am?.md: c62c2add-e005-4a80-b6f9-370612abc42d
+- MyProjects:
+    - Holium White Paper:
+        - Redefining Human Insturmentality White Paper v0.0.2.md: dc0faa57-ac29-446f-b1a7-0c38ee771633
 - Mimetic File System:
     - Proposals:
         - SFeed.md: 37a516db-3864-4f75-af96-89c93469c9b6
@@ -2271,6 +2276,4 @@ nav:
     - MFS - Heilmeier Catechism.md: c24284e0-dfe6-443d-978c-82d6bc2384a0
     - MFS - Brainstorming.md: 571b748d-4064-4c65-b505-3eb63e6c66a1
 - index.md: 146656b4-573a-4e42-8f00-239ab29eac3b
-- Why am I building Question Engine?.md: 114d3861-6af9-4254-8cee-0e7aa0b47532
 - Mimetic File System - MFS.md: 174ec832-c137-4d44-b581-3e552e0c047e
-- Initial Questions for Question Engine.md: 344c2005-e043-44c9-82a2-1ae504cdee33
