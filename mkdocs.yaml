@@ -1442,6 +1442,7 @@ nav:
             - WAGMI.md: 99dc23d5-ebf9-4bba-b259-bb34c491a44b
             - TZM.md: b39a1e1f-e391-4451-bccb-b3e6052de91d
             - TF-IDF.md: 76c6adee-7782-4a88-b47b-a073853dbefc
+            - PKM.md: 10e57c0e-9c54-41fb-82d0-f36f3165c4ac
             - OLTP.md: bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3
             - OLAP.md: 515a019e-5333-4996-956c-d4661cd215c8
             - MVP.md: 41018894-c14f-4996-bc7a-e8c656d10d26
@@ -1959,7 +1960,6 @@ nav:
         - Inital Writings:
             - You took the Transhumanist Wager Now What?.md: 34608d94-e304-4aa4-9339-f23d3fa39359
             - "The Daemon is Real, Now What?.md": 952abb04-36df-4913-ace1-651763fa1c88
-            - Privacy Should You Care?.md: f13b6872-242b-4a1c-aff7-aab784718eae
             - How Does One Go About Wielding Their Own Plot Armor?.md: 7de2eb48-087b-4936-8446-dcc021b74966
             - Consciousness and Parasites.md: b31360a6-ae1d-45d2-95e1-cd884a27971f
             - Blockchain as the Operating System for the Technological Singularity.md: 09275ad7-56d9-47e1-b3ea-0e8ded3dce90
@@ -2262,6 +2262,8 @@ nav:
 - MyProjects:
     - Holium White Paper:
         - Redefining Human Insturmentality White Paper v0.0.2.md: dc0faa57-ac29-446f-b1a7-0c38ee771633
+        - Redefining Human Instrumentality White Paper Outline and Versions.md: d529d7cc-2073-4451-a7c9-c0125b6f17f9
+        - Redefining Human Instrumentality Directory.md: 7e1a7e96-1b7e-4893-b51e-625206beaa55
 - Mimetic File System:
     - Proposals:
         - SFeed.md: 37a516db-3864-4f75-af96-89c93469c9b6
@@ -2276,5 +2278,8 @@ nav:
     - MFS - Logs.md: 44e97955-3c27-4c44-ad3f-35740e9b3990
     - MFS - Heilmeier Catechism.md: c24284e0-dfe6-443d-978c-82d6bc2384a0
     - MFS - Brainstorming.md: 571b748d-4064-4c65-b505-3eb63e6c66a1
+- MyResearch:
+    - White Paper and Project Summaries.md: 4edd1389-1223-4dfa-b004-7fd601c714ad
+    - White Paper and Project Outlines.md: 3ebc2356-8b1a-42a2-8136-9e693039c00f
 - index.md: 146656b4-573a-4e42-8f00-239ab29eac3b
 - Mimetic File System - MFS.md: 174ec832-c137-4d44-b581-3e552e0c047e
