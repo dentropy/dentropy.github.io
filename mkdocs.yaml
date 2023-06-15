@@ -1895,9 +1895,9 @@ nav:
             - Programming:
                 - Unit Testing.md: 3b40d33b-20e8-4d6e-9c8c-767c688bc663
                 - FIle Stuff.md: e752df77-e20e-4fda-800e-508cb5838050
-            - SysAdmin Skills.md: 29d7fc31-bf16-4efb-90b2-58dae5c546e3
             - Robotics Skills.md: 3bfa50de-20f8-48a7-b6e4-12e2019b710e
             - Learn to Code.md: 130694a5-2d87-49f7-bb8b-123bf5c320a4
+            - Homalab and SysAdmin Skills.md: 29d7fc31-bf16-4efb-90b2-58dae5c546e3
             - Hacking Skills.md: 652995f9-62b4-444c-be5e-04a8904a158e
             - Devops Skills.md: 47fd4d4b-d614-4a98-9720-fa3c0844589c
             - Developer.md: c7cb7eda-c89b-4236-87db-0e262e9eb3e9
@@ -2039,7 +2039,7 @@ nav:
         - 7 Habits Of Highly Effective People.md: fe01797b-d552-497f-b861-bf8e86e2038b
         - 12 Rules of Relationship Database Design.md: 13d4d10c-d1ae-43dd-87e9-ff4d5f7fa7fd
     - Projects:
-        - Quest(ion) Engine:
+        - Question Engine:
             - User Stories:
                 - User posts first questions and answers (Randy).md: 18993f72-82e2-4297-af4f-1d07a7e220ae
                 - The History Buff (Dan).md: c344bb6d-47d0-452b-9579-77798d05d3f7
@@ -2225,7 +2225,7 @@ nav:
             - Nats Tutorial.md: b6cf6d9d-1433-4cb2-ac5f-15bbb0527751
             - Minio Tutorial.md: 26061bfb-d9c5-4c08-b45b-76248f47e305
             - Merge SQLite databases.md: b275f008-18da-4f9c-bf78-d5819afa371e
-            - Markdown Contextualising.md: 2f0c38e1-054c-42a8-bd2c-0cb1733af116
+            - Markdown Contextualizing.md: 2f0c38e1-054c-42a8-bd2c-0cb1733af116
             - Getting Started with Hoon.md: ac3f27d3-cec7-4fb7-b0cf-e29269210256
             - Forward docker traffic through VPN.md: a59bb549-475b-4ad1-bdfb-7734cc49c999
             - Dockerize Postgres with Extensions.md: d7280f31-9dcc-4816-b205-8a7f93650f88
@@ -2241,12 +2241,12 @@ nav:
         - Umbrel - Backup and Restore.md: 92aa8e61-712a-414d-95c1-7b9ff98c2f98
         - Tutorials Backlog.md: 31f7e81a-967e-41f4-872e-91d1571df726
         - Searching Through Files Tutorial.md: 21c0a45b-3f65-446a-bcae-89242cc63469
-        - SQL Alchemy Tutorial.md: 34aa710f-0d0e-4098-88aa-e0b554a2298e
         - Mastering SQL.md: fa961bbf-f992-45c2-99d4-8ff4d5a1d4a1
         - Mastering Docker.md: a00212a5-a743-4dfe-a796-eb8c0bb65233
         - JSON in sqlite.md: b1112011-a44d-4764-bff7-21b74dc2e57c
         - How To Do Research.md: de8df389-b5c2-41b9-baad-63582d46c832
         - Docker Postgres with Backup and Restore.md: c32224a7-826f-47a5-a7af-dfe0ffcdb2f1
+        - Dentropys's SQL Alchemy Tutorial.md: 34aa710f-0d0e-4098-88aa-e0b554a2298e
         - Create a Multi ISO USB Drive and document the process as a tutorial.md: 69a15b0e-608e-4f59-ba71-a4b159ca12a0
     - Ideas:
         - Functional Programming applied to memes.md: 1bcf09cd-6a42-4d1f-8bb7-09ac5262396a
@@ -2259,6 +2259,7 @@ nav:
         - Why am I building Question Engine?.md: 114d3861-6af9-4254-8cee-0e7aa0b47532
         - What is the Mimetic File System?.md: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
         - How do I become who I am?.md: c62c2add-e005-4a80-b6f9-370612abc42d
+    - Questions for Question Engine.md: a739aa8a-2a04-4f01-bd2e-0434d47d96bd
 - MyProjects:
     - Holium White Paper:
         - Redefining Human Insturmentality White Paper v0.0.2.md: dc0faa57-ac29-446f-b1a7-0c38ee771633
