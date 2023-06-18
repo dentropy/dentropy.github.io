@@ -7,4 +7,3 @@ title: snipe-it
 
 
 [Docker supervisor-exit-event-listener exits with status 127, "not expected" · Issue #10231 · snipe/snipe-it](https://github.com/snipe/snipe-it/issues/10231#issuecomment-954134965)
-

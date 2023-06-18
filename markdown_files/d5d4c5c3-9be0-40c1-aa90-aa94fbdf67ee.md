@@ -3,8 +3,6 @@ share: true
 uuid: d5d4c5c3-9be0-40c1-aa90-aa94fbdf67ee
 title: dentropycloud
 ---
-
-
 # Dentropy Cloud Backup Research
 
 As they say if your data does not exist in three locations it might as well not exist. Dentropy Cloud needs automated remote backup procedures so one's data is not lost. The ability to do encrypted back ups to third party storage providers is required.

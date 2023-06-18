@@ -3,7 +3,6 @@ share: true
 uuid: 90d2da70-b13d-49c9-adba-5eedf3ec08f9
 title: Human Instrumentality
 ---
-
 #TODO Read [Neon Genesis Evangelion Instrumentality / WMG - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/WMG/NeonGenesisEvangelionInstrumentality)
 
 ## #ELI5 Human Instrumentality

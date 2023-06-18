@@ -3,8 +3,6 @@ share: true
 uuid: edef3bf5-37bd-407d-bf2b-8cce7d95305b
 title: dentropycloud
 ---
-
-
 # Dentropy Cloud Presentation Notes
 
 ----
@@ -167,7 +165,3 @@ The second phase is due when at the end of the semester. It includes upgrading t
 
 
 ----
-
-
-
-

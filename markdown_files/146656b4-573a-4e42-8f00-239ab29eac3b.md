@@ -17,4 +17,5 @@ Hello, this is Dentropy and this is my personal wiki.
 	* [VSCode Extensions](/59a298a0-ccc3-4027-8d22-1df8c7b58b43)
 	* [Dentropy's Favourite Apps](/444ff7c7-77b4-483c-b801-3955d2daeb0a)
 	* [Dentropy's Ideal DevSecOps Stack](/406a13ea-5f64-440a-b454-6b43afe9e0d5)
-
+	* [Dentropy's Favourite Media](/undefined)
+	* [Media Dentropy's Currently Consuming](/undefined)

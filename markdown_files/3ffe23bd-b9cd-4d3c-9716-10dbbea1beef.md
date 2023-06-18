@@ -17,4 +17,4 @@ title: Meme Permissions
 * Theoretical Permissions
 	* X_DEGREE
 		* DEGREE_VALUE = NUM
-	* X_PEOPLE - show a specific 
+	* X_PEOPLE - show a specific

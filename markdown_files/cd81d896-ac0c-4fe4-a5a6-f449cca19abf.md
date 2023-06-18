@@ -3,7 +3,6 @@ share: true
 uuid: cd81d896-ac0c-4fe4-a5a6-f449cca19abf
 title: Netflix Binding
 ---
-
 [Trackt.tv](/undefined)
 [dentropydaemon-wiki/Software/List/Netflix](/undefined)
 
