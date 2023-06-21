@@ -2964,6 +2964,13 @@
                     ]
                   },
                   {
+                    "Raindrop": [
+                      {
+                        "Raindrop Binding": "9ea6bc24-4645-4ee2-b365-05de36bfca4c"
+                      }
+                    ]
+                  },
+                  {
                     "Netflix": [
                       {
                         "Netflix Binding": "cd81d896-ac0c-4fe4-a5a6-f449cca19abf"
@@ -3582,6 +3589,9 @@
             ]
           },
           {
+            "Mimetic File System - MFS": "174ec832-c137-4d44-b581-3e552e0c047e"
+          },
+          {
             "MFS - Thoughts": "d107b0cc-7fe9-4d95-84bc-ad06cb6ddfa4"
           },
           {
@@ -3710,7 +3720,7 @@
         "Robotics": "2bd2c8f1-17c2-4636-b525-42eceeb599f1"
       },
       {
-        "Question Engine": "cc5cc49d-f554-4f29-b31a-b8789688e6a3"
+        "Question Engine - QE": "cc5cc49d-f554-4f29-b31a-b8789688e6a3"
       },
       {
         "Python Compressor": "ddc9710c-d779-404b-baff-2611d41f2235"
@@ -3722,7 +3732,7 @@
         "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
       },
       {
-        "DentropyCloud": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
+        "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
       },
       {
         "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
@@ -4062,7 +4072,7 @@
                 "dissociation": "2884e45d-0ba4-48f6-b8e0-1e0e8e7267cc"
               },
               {
-                "dentropydaemon": "074834fe-d249-470e-8349-0298a0b0efe7"
+                "dentropydaemon - dd": "074834fe-d249-470e-8349-0298a0b0efe7"
               },
               {
                 "datum": "10209b0f-e9ea-4108-8c73-1f4fde6716d8"
@@ -6772,7 +6782,7 @@
     ]
   },
   {
-    "Question Engine": [
+    "QuestionEngine": [
       {
         "User Stories": [
           {
@@ -7001,7 +7011,7 @@
         ]
       },
       {
-        "User Stories - Quest(ion) Engine": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
+        "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
       },
       {
         "Schema - Quest(ion) Engine": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
@@ -7049,9 +7059,6 @@
   },
   {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
-  },
-  {
-    "Mimetic File System - MFS": "174ec832-c137-4d44-b581-3e552e0c047e"
   },
   {
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"
