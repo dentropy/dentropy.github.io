@@ -3467,12 +3467,12 @@
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "Questions/list/How to conduct user research through surveys?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
-    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema - Quest(ion) Engine.md",
+    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema - QE.md",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "QuestionEngine/Roadmap - Question Engine.md",
-    "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "QuestionEngine/Pages - Quest(ion) Engine.md",
+    "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "QuestionEngine/Pages Screens - QE.md",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "QuestionEngine/Initial Questions for Question Engine.md",
     "645edce8-3a74-423c-a889-6fec0c1beaa9": "QuestionEngine/Context Feed.md",
-    "5fd78387-a5c4-4163-a464-861316fe4ba1": "QuestionEngine/API - Quest(ion) Engine.md",
+    "5fd78387-a5c4-4163-a464-861316fe4ba1": "QuestionEngine/API - Question Engine.md",
     "18993f72-82e2-4297-af4f-1d07a7e220ae": "QuestionEngine/User Stories/User posts first questions and answers (Randy).md",
     "c344bb6d-47d0-452b-9579-77798d05d3f7": "QuestionEngine/User Stories/The History Buff (Dan).md",
     "379d116f-4383-4a56-9a13-8de2e8ad5758": "QuestionEngine/User Stories/The Fight for Context.md",
@@ -3488,12 +3488,12 @@
     "b2c0b7c3-4f0a-4d97-8136-82deea30ddba": "QuestionEngine/User Stories/Example Conversation.md",
     "ef511fa2-29a5-40cb-a8a1-325b8bc37b36": "QuestionEngine/User Stories/Archetypal Narratives (Addison).md",
     "452c6440-b79b-445f-99e2-c56374133051": "QuestionEngine/Schema/Database Codes - Quest(ion) Engine.md",
-    "237f1f5e-1447-4a11-8326-7de7bef7dabd": "QuestionEngine/Peronas/Stacy.md",
-    "bd56e2cf-3805-4ed5-982b-7a2162d05eda": "QuestionEngine/Peronas/Randy.md",
-    "fbce9f55-dc21-4643-ba5f-388eb715bdc7": "QuestionEngine/Peronas/John.md",
-    "23cf5e86-8c2d-45c5-b271-e4368592cb5f": "QuestionEngine/Peronas/James.md",
-    "3df31a3b-4bf9-4e5a-957d-68a66e91ed4d": "QuestionEngine/Peronas/Gwen.md",
-    "be91a116-d89b-4a9c-b2ec-8d4de0a00da4": "QuestionEngine/Peronas/Dan.md",
+    "237f1f5e-1447-4a11-8326-7de7bef7dabd": "QuestionEngine/Personas/Stacy.md",
+    "bd56e2cf-3805-4ed5-982b-7a2162d05eda": "QuestionEngine/Personas/Randy.md",
+    "fbce9f55-dc21-4643-ba5f-388eb715bdc7": "QuestionEngine/Personas/John.md",
+    "23cf5e86-8c2d-45c5-b271-e4368592cb5f": "QuestionEngine/Personas/James.md",
+    "3df31a3b-4bf9-4e5a-957d-68a66e91ed4d": "QuestionEngine/Personas/Gwen.md",
+    "be91a116-d89b-4a9c-b2ec-8d4de0a00da4": "QuestionEngine/Personas/Dan.md",
     "b3533689-04f1-4549-9dee-6def145cfcc2": "QuestionEngine/Pages/wield_persona - Screen.md",
     "1846d418-926f-43e8-b892-fa451049d212": "QuestionEngine/Pages/view_persona - Screen.md",
     "e95f184e-0cf9-4df6-946b-9179ae64d4fb": "QuestionEngine/Pages/question_log - Screen.md",
@@ -5516,12 +5516,12 @@
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "How to conduct user research through surveys?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
-    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema - Quest(ion) Engine",
+    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema - QE",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "Roadmap - Question Engine",
-    "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "Pages - Quest(ion) Engine",
+    "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "Pages Screens - QE",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "Initial Questions for Question Engine",
     "645edce8-3a74-423c-a889-6fec0c1beaa9": "Context Feed",
-    "5fd78387-a5c4-4163-a464-861316fe4ba1": "API - Quest(ion) Engine",
+    "5fd78387-a5c4-4163-a464-861316fe4ba1": "API - Question Engine",
     "18993f72-82e2-4297-af4f-1d07a7e220ae": "User posts first questions and answers (Randy)",
     "c344bb6d-47d0-452b-9579-77798d05d3f7": "The History Buff (Dan)",
     "379d116f-4383-4a56-9a13-8de2e8ad5758": "The Fight for Context",
@@ -7565,12 +7565,12 @@
     "Questions/list/How to conduct user research through surveys?.md": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
-    "QuestionEngine/Schema - Quest(ion) Engine.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
+    "QuestionEngine/Schema - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "QuestionEngine/Roadmap - Question Engine.md": "a421f02e-264c-4885-acdc-18b08cdc678e",
-    "QuestionEngine/Pages - Quest(ion) Engine.md": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
+    "QuestionEngine/Pages Screens - QE.md": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
     "QuestionEngine/Initial Questions for Question Engine.md": "344c2005-e043-44c9-82a2-1ae504cdee33",
     "QuestionEngine/Context Feed.md": "645edce8-3a74-423c-a889-6fec0c1beaa9",
-    "QuestionEngine/API - Quest(ion) Engine.md": "5fd78387-a5c4-4163-a464-861316fe4ba1",
+    "QuestionEngine/API - Question Engine.md": "5fd78387-a5c4-4163-a464-861316fe4ba1",
     "QuestionEngine/User Stories/User posts first questions and answers (Randy).md": "18993f72-82e2-4297-af4f-1d07a7e220ae",
     "QuestionEngine/User Stories/The History Buff (Dan).md": "c344bb6d-47d0-452b-9579-77798d05d3f7",
     "QuestionEngine/User Stories/The Fight for Context.md": "379d116f-4383-4a56-9a13-8de2e8ad5758",
@@ -7586,12 +7586,12 @@
     "QuestionEngine/User Stories/Example Conversation.md": "b2c0b7c3-4f0a-4d97-8136-82deea30ddba",
     "QuestionEngine/User Stories/Archetypal Narratives (Addison).md": "ef511fa2-29a5-40cb-a8a1-325b8bc37b36",
     "QuestionEngine/Schema/Database Codes - Quest(ion) Engine.md": "452c6440-b79b-445f-99e2-c56374133051",
-    "QuestionEngine/Peronas/Stacy.md": "237f1f5e-1447-4a11-8326-7de7bef7dabd",
-    "QuestionEngine/Peronas/Randy.md": "bd56e2cf-3805-4ed5-982b-7a2162d05eda",
-    "QuestionEngine/Peronas/John.md": "fbce9f55-dc21-4643-ba5f-388eb715bdc7",
-    "QuestionEngine/Peronas/James.md": "23cf5e86-8c2d-45c5-b271-e4368592cb5f",
-    "QuestionEngine/Peronas/Gwen.md": "3df31a3b-4bf9-4e5a-957d-68a66e91ed4d",
-    "QuestionEngine/Peronas/Dan.md": "be91a116-d89b-4a9c-b2ec-8d4de0a00da4",
+    "QuestionEngine/Personas/Stacy.md": "237f1f5e-1447-4a11-8326-7de7bef7dabd",
+    "QuestionEngine/Personas/Randy.md": "bd56e2cf-3805-4ed5-982b-7a2162d05eda",
+    "QuestionEngine/Personas/John.md": "fbce9f55-dc21-4643-ba5f-388eb715bdc7",
+    "QuestionEngine/Personas/James.md": "23cf5e86-8c2d-45c5-b271-e4368592cb5f",
+    "QuestionEngine/Personas/Gwen.md": "3df31a3b-4bf9-4e5a-957d-68a66e91ed4d",
+    "QuestionEngine/Personas/Dan.md": "be91a116-d89b-4a9c-b2ec-8d4de0a00da4",
     "QuestionEngine/Pages/wield_persona - Screen.md": "b3533689-04f1-4549-9dee-6def145cfcc2",
     "QuestionEngine/Pages/view_persona - Screen.md": "1846d418-926f-43e8-b892-fa451049d212",
     "QuestionEngine/Pages/question_log - Screen.md": "e95f184e-0cf9-4df6-946b-9179ae64d4fb",
@@ -9576,12 +9576,12 @@
     "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
-    "Schema - Quest(ion) Engine": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
+    "Schema - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "Roadmap - Question Engine": "a421f02e-264c-4885-acdc-18b08cdc678e",
-    "Pages - Quest(ion) Engine": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
+    "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
     "Initial Questions for Question Engine": "344c2005-e043-44c9-82a2-1ae504cdee33",
     "Context Feed": "645edce8-3a74-423c-a889-6fec0c1beaa9",
-    "API - Quest(ion) Engine": "5fd78387-a5c4-4163-a464-861316fe4ba1",
+    "API - Question Engine": "5fd78387-a5c4-4163-a464-861316fe4ba1",
     "User posts first questions and answers (Randy)": "18993f72-82e2-4297-af4f-1d07a7e220ae",
     "The History Buff (Dan)": "c344bb6d-47d0-452b-9579-77798d05d3f7",
     "The Fight for Context": "379d116f-4383-4a56-9a13-8de2e8ad5758",
@@ -17256,7 +17256,7 @@
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": {
       "share": true,
       "uuid": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
-      "title": "Schema - Quest(ion) Engine"
+      "title": "Schema - QE"
     },
     "a421f02e-264c-4885-acdc-18b08cdc678e": {
       "uuid": "a421f02e-264c-4885-acdc-18b08cdc678e",
@@ -17266,7 +17266,7 @@
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": {
       "share": true,
       "uuid": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
-      "title": "Pages - Quest(ion) Engine"
+      "title": "Pages Screens - QE"
     },
     "344c2005-e043-44c9-82a2-1ae504cdee33": {
       "uuid": "344c2005-e043-44c9-82a2-1ae504cdee33",
@@ -17281,7 +17281,7 @@
     "5fd78387-a5c4-4163-a464-861316fe4ba1": {
       "share": true,
       "uuid": "5fd78387-a5c4-4163-a464-861316fe4ba1",
-      "title": "API - Quest(ion) Engine"
+      "title": "API - Question Engine"
     },
     "18993f72-82e2-4297-af4f-1d07a7e220ae": {
       "share": true,
@@ -24957,13 +24957,13 @@
       "User Stories - QE.md": {
         "uuid": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
       },
-      "Schema - Quest(ion) Engine.md": {
+      "Schema - QE.md": {
         "uuid": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
       },
       "Roadmap - Question Engine.md": {
         "uuid": "a421f02e-264c-4885-acdc-18b08cdc678e"
       },
-      "Pages - Quest(ion) Engine.md": {
+      "Pages Screens - QE.md": {
         "uuid": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
       },
       "Initial Questions for Question Engine.md": {
@@ -24972,7 +24972,7 @@
       "Context Feed.md": {
         "uuid": "645edce8-3a74-423c-a889-6fec0c1beaa9"
       },
-      "API - Quest(ion) Engine.md": {
+      "API - Question Engine.md": {
         "uuid": "5fd78387-a5c4-4163-a464-861316fe4ba1"
       },
       "User Stories": {
@@ -25024,7 +25024,7 @@
           "uuid": "452c6440-b79b-445f-99e2-c56374133051"
         }
       },
-      "Peronas": {
+      "Personas": {
         "Stacy.md": {
           "uuid": "237f1f5e-1447-4a11-8326-7de7bef7dabd"
         },
@@ -28596,7 +28596,7 @@
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": [
       {
-        "text": "Schema 0.0.9.svg",
+        "text": "Schema 0.0.10.svg",
         "heading": ""
       }
     ],
@@ -28776,8 +28776,7 @@
         "heading": ""
       },
       {
-        "text": "dentropydaemon-wiki/Projects/Quest(ion",
-        "heading": ""
+        "text": "ion"
       }
     ],
     "237f1f5e-1447-4a11-8326-7de7bef7dabd": [
@@ -36016,6 +36015,9 @@
         "text": "Can you go through each of my personal questions and mark which ones you find interesting?"
       },
       {
+        "text": "What would your Ideal Social Media Platform look like?"
+      },
+      {
         "text": "Am I a midwit?"
       },
       {
@@ -36076,6 +36078,12 @@
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [
+      {
+        "text": "Permissions on Question Engine"
+      },
+      {
+        "text": "Context on Question Engine"
+      },
       {
         "text": "Conduct user surveys through Question Engine"
       },
@@ -36200,27 +36208,35 @@
     ],
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": [
       {
+        "link": "0cc409fa-8498-41ea-bc37-4cdf82686746",
         "text": "home - Screen"
       },
       {
+        "link": "b3533689-04f1-4549-9dee-6def145cfcc2",
         "text": "wield_persona - Screen"
       },
       {
+        "link": "34aca245-6ca0-4599-ad2b-11f8e7156c87",
         "text": "Root Logged In User - Component"
       },
       {
+        "link": "4625a1ff-3de7-4d75-ad50-09b13d6949f1",
         "text": "context_feed - Screen"
       },
       {
+        "link": "e95f184e-0cf9-4df6-946b-9179ae64d4fb",
         "text": "question_log - Screen"
       },
       {
+        "link": "43f8a9a1-e563-4f0d-8596-48486b98add1",
         "text": "discovery - Screen"
       },
       {
+        "link": "aaf21e6e-d448-49f2-8a7e-1ce05e0d2342",
         "text": "my_persona - Screen"
       },
       {
+        "link": "1846d418-926f-43e8-b892-fa451049d212",
         "text": "view_persona - Screen"
       }
     ],
@@ -37491,7 +37507,7 @@
       },
       {
         "link": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
-        "text": "Schema - Quest(ion) Engine"
+        "text": "Schema - QE"
       },
       {
         "link": "e99c7bdd-3987-441e-a043-bcc81d6d2b29",

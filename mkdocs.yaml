@@ -2229,7 +2229,7 @@ nav:
         - Archetypal Narratives (Addison): ef511fa2-29a5-40cb-a8a1-325b8bc37b36
     - Schema:
         - Database Codes - Quest(ion) Engine: 452c6440-b79b-445f-99e2-c56374133051
-    - Peronas:
+    - Personas:
         - Stacy: 237f1f5e-1447-4a11-8326-7de7bef7dabd
         - Randy: bd56e2cf-3805-4ed5-982b-7a2162d05eda
         - John: fbce9f55-dc21-4643-ba5f-388eb715bdc7
@@ -2285,12 +2285,12 @@ nav:
         - POST wield_persona: a95871fe-2754-4b3e-bc28-ab156477f16e
         - POST query_memes: 8f9771f1-4961-4e47-bd7a-d973418e1a0b
     - User Stories - QE: f137b314-579f-42ab-8be5-1c72bf9ebcd9
-    - Schema - Quest(ion) Engine: a8d5e7ea-e112-4625-96c7-9ac3513c36c9
+    - Schema - QE: a8d5e7ea-e112-4625-96c7-9ac3513c36c9
     - Roadmap - Question Engine: a421f02e-264c-4885-acdc-18b08cdc678e
-    - Pages - Quest(ion) Engine: a27724cd-21c5-4d8d-ae24-97fc746fe09d
+    - Pages Screens - QE: a27724cd-21c5-4d8d-ae24-97fc746fe09d
     - Initial Questions for Question Engine: 344c2005-e043-44c9-82a2-1ae504cdee33
     - Context Feed: 645edce8-3a74-423c-a889-6fec0c1beaa9
-    - API - Quest(ion) Engine: 5fd78387-a5c4-4163-a464-861316fe4ba1
+    - API - Question Engine: 5fd78387-a5c4-4163-a464-861316fe4ba1
 - Queries and Prompts:
     - ChatGPT Prompts: 6161b22c-4f8a-456f-82e1-f30b56f0940a
 - MyResearch:

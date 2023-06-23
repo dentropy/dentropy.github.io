@@ -6837,7 +6837,7 @@
         ]
       },
       {
-        "Peronas": [
+        "Personas": [
           {
             "Stacy": "237f1f5e-1447-4a11-8326-7de7bef7dabd"
           },
@@ -7014,13 +7014,13 @@
         "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
       },
       {
-        "Schema - Quest(ion) Engine": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
+        "Schema - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
       },
       {
         "Roadmap - Question Engine": "a421f02e-264c-4885-acdc-18b08cdc678e"
       },
       {
-        "Pages - Quest(ion) Engine": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
+        "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
       },
       {
         "Initial Questions for Question Engine": "344c2005-e043-44c9-82a2-1ae504cdee33"
@@ -7029,7 +7029,7 @@
         "Context Feed": "645edce8-3a74-423c-a889-6fec0c1beaa9"
       },
       {
-        "API - Quest(ion) Engine": "5fd78387-a5c4-4163-a464-861316fe4ba1"
+        "API - Question Engine": "5fd78387-a5c4-4163-a464-861316fe4ba1"
       }
     ]
   },
