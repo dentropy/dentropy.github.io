@@ -1818,7 +1818,6 @@ nav:
         - sphygm.us: 53f0db9f-79ac-4afb-b488-b389ee93812e
         - sourcetarget.email: 6c535cb3-a28d-4629-81b4-596b0a71ed1b
         - simonwillison.net: 84eb6ae3-694c-4739-a0d9-563a1367e5d0
-        - sapians: 816c0ab2-1934-4642-89fd-1bc1edd96961
         - notes.nicolevanderhoeven.com: d0a4afe3-56f4-454c-a116-cbc90fcd356f
         - notes.andymatuschak.org: 5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b
         - huberman lab: c283e49b-3187-466d-95c2-733260f653b6
@@ -1878,6 +1877,7 @@ nav:
         - Serial Experiments Lain: a21bd76e-903f-477b-8855-03e2f2b50d91
         - SchoolOfLife The Mind Body Problem: 20adbc1f-6daf-4a06-8dca-f8a7bac42cb4
         - Satisfactory: b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c
+        - Sapiens Book: 816c0ab2-1934-4642-89fd-1bc1edd96961
         - SAOAlternateGungale: 7f75b38d-8d9d-4433-986f-8e8f3c27dc90
         - Redo The Healer: a086e10a-046c-4a83-a089-fde2e8d0b9ae
         - Red Notice: abd62e8b-845b-41d5-92d3-6ecaa7dca540
@@ -1981,7 +1981,7 @@ nav:
         - Algorithms To Live By: 2222807f-4fcd-41cd-90e4-72d74cb06887
         - 5 Elements of Effective Thinking: d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac
         - "1984": 8d27c0e2-820e-48cf-909e-fb0034b8ccaa
-        - 12 Rules For Life: 442b74e1-5e44-4330-90d3-cfb935acaf85
+        - "12 Rules For Life, An Antidote to Chaos": 442b74e1-5e44-4330-90d3-cfb935acaf85
     - Videos:
         - Why Hegel knew there would be days like these: a75ff251-e084-43b9-afa7-ee9b23e25141
         - NRx: ef3f0c6d-548b-4741-a573-ed357e9230e4
@@ -2204,6 +2204,9 @@ nav:
     - Docker Postgres with Backup and Restore: c32224a7-826f-47a5-a7af-dfe0ffcdb2f1
     - Dentropys's SQL Alchemy Tutorial: 34aa710f-0d0e-4098-88aa-e0b554a2298e
     - Create a Multi ISO USB Drive and document the process as a tutorial: 69a15b0e-608e-4f59-ba71-a4b159ca12a0
+- Relationships:
+    - People:
+        - Ted Kaczynski: 8d993396-f877-4f00-9ec2-38b6ff760ab1
 - Questions:
     - list:
         - Why am I building Question Engine?: 114d3861-6af9-4254-8cee-0e7aa0b47532

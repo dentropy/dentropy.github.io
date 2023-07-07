@@ -5561,9 +5561,6 @@
             "simonwillison.net": "84eb6ae3-694c-4739-a0d9-563a1367e5d0"
           },
           {
-            "sapians": "816c0ab2-1934-4642-89fd-1bc1edd96961"
-          },
-          {
             "notes.nicolevanderhoeven.com": "d0a4afe3-56f4-454c-a116-cbc90fcd356f"
           },
           {
@@ -5739,6 +5736,9 @@
           },
           {
             "Satisfactory": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c"
+          },
+          {
+            "Sapiens Book": "816c0ab2-1934-4642-89fd-1bc1edd96961"
           },
           {
             "SAOAlternateGungale": "7f75b38d-8d9d-4433-986f-8e8f3c27dc90"
@@ -6050,7 +6050,7 @@
             "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa"
           },
           {
-            "12 Rules For Life": "442b74e1-5e44-4330-90d3-cfb935acaf85"
+            "12 Rules For Life, An Antidote to Chaos": "442b74e1-5e44-4330-90d3-cfb935acaf85"
           }
         ]
       },
@@ -6755,6 +6755,17 @@
       },
       {
         "Create a Multi ISO USB Drive and document the process as a tutorial": "69a15b0e-608e-4f59-ba71-a4b159ca12a0"
+      }
+    ]
+  },
+  {
+    "Relationships": [
+      {
+        "People": [
+          {
+            "Ted Kaczynski": "8d993396-f877-4f00-9ec2-38b6ff760ab1"
+          }
+        ]
       }
     ]
   },

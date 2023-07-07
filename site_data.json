@@ -1412,6 +1412,7 @@
     "db93629c-7b83-4889-ad42-5a167b81cf74",
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "618bbd30-179e-44bc-881a-36d4b8ebb694",
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
@@ -1783,7 +1784,6 @@
     "53f0db9f-79ac-4afb-b488-b389ee93812e",
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b",
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0",
-    "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f",
     "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b",
     "c283e49b-3187-466d-95c2-733260f653b6",
@@ -1843,6 +1843,7 @@
     "a21bd76e-903f-477b-8855-03e2f2b50d91",
     "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4",
     "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c",
+    "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90",
     "a086e10a-046c-4a83-a089-fde2e8d0b9ae",
     "abd62e8b-845b-41d5-92d3-6ecaa7dca540",
@@ -3461,6 +3462,7 @@
     "db93629c-7b83-4889-ad42-5a167b81cf74": "Skills/Cooking/recipes/Easy Mexican Casserole.md",
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": "Skills/Cooking/recipes/Chili Mac  n  Cheese Bake.md",
     "618bbd30-179e-44bc-881a-36d4b8ebb694": "Skills/Cooking/recipes/Chicken Parmesan.md",
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Relationships/People/Ted Kaczynski.md",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions/Questions for Question Engine.md",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Questions/list/Why am I building Question Engine?.md",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "Questions/list/What is the Mimetic File System?.md",
@@ -3832,7 +3834,6 @@
     "53f0db9f-79ac-4afb-b488-b389ee93812e": "Media/List/sphygm.us.md",
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b": "Media/List/sourcetarget.email.md",
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0": "Media/List/simonwillison.net.md",
-    "816c0ab2-1934-4642-89fd-1bc1edd96961": "Media/List/sapians.md",
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f": "Media/List/notes.nicolevanderhoeven.com.md",
     "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b": "Media/List/notes.andymatuschak.org.md",
     "c283e49b-3187-466d-95c2-733260f653b6": "Media/List/huberman lab.md",
@@ -3892,6 +3893,7 @@
     "a21bd76e-903f-477b-8855-03e2f2b50d91": "Media/List/Serial Experiments Lain.md",
     "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4": "Media/List/SchoolOfLife The Mind Body Problem.md",
     "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c": "Media/List/Satisfactory.md",
+    "816c0ab2-1934-4642-89fd-1bc1edd96961": "Media/List/Sapiens Book.md",
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90": "Media/List/SAOAlternateGungale.md",
     "a086e10a-046c-4a83-a089-fde2e8d0b9ae": "Media/List/Redo The Healer.md",
     "abd62e8b-845b-41d5-92d3-6ecaa7dca540": "Media/List/Red Notice.md",
@@ -3995,7 +3997,7 @@
     "2222807f-4fcd-41cd-90e4-72d74cb06887": "Media/List/Algorithms To Live By.md",
     "d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac": "Media/List/5 Elements of Effective Thinking.md",
     "8d27c0e2-820e-48cf-909e-fb0034b8ccaa": "Media/List/1984.md",
-    "442b74e1-5e44-4330-90d3-cfb935acaf85": "Media/List/12 Rules For Life.md",
+    "442b74e1-5e44-4330-90d3-cfb935acaf85": "Media/List/12 Rules For Life, An Antidote to Chaos.md",
     "15c6a5d9-ce98-49df-b233-8d79adf0230d": "Media/List/The Secret Teachings of All Ages/quotes.md",
     "9f353cc7-fb86-4f95-8635-cfb5b69a448d": "Media/List/The Parasitic Mind How Infectious Ideas Are Killing Common Sense/Terminology.md",
     "21df1d8c-89b9-4e38-a5c2-d3179939041c": "Media/List/The Parasitic Mind How Infectious Ideas Are Killing Common Sense/Chapter 008 Call to Action.md",
@@ -5510,6 +5512,7 @@
     "db93629c-7b83-4889-ad42-5a167b81cf74": "Easy Mexican Casserole",
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": "Chili Mac  n  Cheese Bake",
     "618bbd30-179e-44bc-881a-36d4b8ebb694": "Chicken Parmesan",
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Ted Kaczynski",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions for Question Engine",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Why am I building Question Engine?",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "What is the Mimetic File System?",
@@ -5881,7 +5884,6 @@
     "53f0db9f-79ac-4afb-b488-b389ee93812e": "sphygm",
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b": "sourcetarget",
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0": "simonwillison",
-    "816c0ab2-1934-4642-89fd-1bc1edd96961": "sapians",
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f": "notes",
     "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b": "notes",
     "c283e49b-3187-466d-95c2-733260f653b6": "huberman lab",
@@ -5941,6 +5943,7 @@
     "a21bd76e-903f-477b-8855-03e2f2b50d91": "Serial Experiments Lain",
     "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4": "SchoolOfLife The Mind Body Problem",
     "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c": "Satisfactory",
+    "816c0ab2-1934-4642-89fd-1bc1edd96961": "Sapiens Book",
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90": "SAOAlternateGungale",
     "a086e10a-046c-4a83-a089-fde2e8d0b9ae": "Redo The Healer",
     "abd62e8b-845b-41d5-92d3-6ecaa7dca540": "Red Notice",
@@ -6044,7 +6047,7 @@
     "2222807f-4fcd-41cd-90e4-72d74cb06887": "Algorithms To Live By",
     "d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac": "5 Elements of Effective Thinking",
     "8d27c0e2-820e-48cf-909e-fb0034b8ccaa": "1984",
-    "442b74e1-5e44-4330-90d3-cfb935acaf85": "12 Rules For Life",
+    "442b74e1-5e44-4330-90d3-cfb935acaf85": "12 Rules For Life, An Antidote to Chaos",
     "15c6a5d9-ce98-49df-b233-8d79adf0230d": "quotes",
     "9f353cc7-fb86-4f95-8635-cfb5b69a448d": "Terminology",
     "21df1d8c-89b9-4e38-a5c2-d3179939041c": "Chapter 008 Call to Action",
@@ -7559,6 +7562,7 @@
     "Skills/Cooking/recipes/Easy Mexican Casserole.md": "db93629c-7b83-4889-ad42-5a167b81cf74",
     "Skills/Cooking/recipes/Chili Mac  n  Cheese Bake.md": "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "Skills/Cooking/recipes/Chicken Parmesan.md": "618bbd30-179e-44bc-881a-36d4b8ebb694",
+    "Relationships/People/Ted Kaczynski.md": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
     "Questions/Questions for Question Engine.md": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Questions/list/Why am I building Question Engine?.md": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "Questions/list/What is the Mimetic File System?.md": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
@@ -7930,7 +7934,6 @@
     "Media/List/sphygm.us.md": "53f0db9f-79ac-4afb-b488-b389ee93812e",
     "Media/List/sourcetarget.email.md": "6c535cb3-a28d-4629-81b4-596b0a71ed1b",
     "Media/List/simonwillison.net.md": "84eb6ae3-694c-4739-a0d9-563a1367e5d0",
-    "Media/List/sapians.md": "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "Media/List/notes.nicolevanderhoeven.com.md": "d0a4afe3-56f4-454c-a116-cbc90fcd356f",
     "Media/List/notes.andymatuschak.org.md": "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b",
     "Media/List/huberman lab.md": "c283e49b-3187-466d-95c2-733260f653b6",
@@ -7990,6 +7993,7 @@
     "Media/List/Serial Experiments Lain.md": "a21bd76e-903f-477b-8855-03e2f2b50d91",
     "Media/List/SchoolOfLife The Mind Body Problem.md": "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4",
     "Media/List/Satisfactory.md": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c",
+    "Media/List/Sapiens Book.md": "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "Media/List/SAOAlternateGungale.md": "7f75b38d-8d9d-4433-986f-8e8f3c27dc90",
     "Media/List/Redo The Healer.md": "a086e10a-046c-4a83-a089-fde2e8d0b9ae",
     "Media/List/Red Notice.md": "abd62e8b-845b-41d5-92d3-6ecaa7dca540",
@@ -8093,7 +8097,7 @@
     "Media/List/Algorithms To Live By.md": "2222807f-4fcd-41cd-90e4-72d74cb06887",
     "Media/List/5 Elements of Effective Thinking.md": "d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac",
     "Media/List/1984.md": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
-    "Media/List/12 Rules For Life.md": "442b74e1-5e44-4330-90d3-cfb935acaf85",
+    "Media/List/12 Rules For Life, An Antidote to Chaos.md": "442b74e1-5e44-4330-90d3-cfb935acaf85",
     "Media/List/The Secret Teachings of All Ages/quotes.md": "15c6a5d9-ce98-49df-b233-8d79adf0230d",
     "Media/List/The Parasitic Mind How Infectious Ideas Are Killing Common Sense/Terminology.md": "9f353cc7-fb86-4f95-8635-cfb5b69a448d",
     "Media/List/The Parasitic Mind How Infectious Ideas Are Killing Common Sense/Chapter 008 Call to Action.md": "21df1d8c-89b9-4e38-a5c2-d3179939041c",
@@ -9570,6 +9574,7 @@
     "Easy Mexican Casserole": "db93629c-7b83-4889-ad42-5a167b81cf74",
     "Chili Mac  n  Cheese Bake": "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "Chicken Parmesan": "618bbd30-179e-44bc-881a-36d4b8ebb694",
+    "Ted Kaczynski": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
     "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
@@ -9900,7 +9905,6 @@
     "sphygm": "53f0db9f-79ac-4afb-b488-b389ee93812e",
     "sourcetarget": "6c535cb3-a28d-4629-81b4-596b0a71ed1b",
     "simonwillison": "84eb6ae3-694c-4739-a0d9-563a1367e5d0",
-    "sapians": "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "notes": "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b",
     "huberman lab": "c283e49b-3187-466d-95c2-733260f653b6",
     "do androids dream of electric sheep": "1b4927ed-ea12-4d9a-90f3-1111a539c355",
@@ -9959,6 +9963,7 @@
     "Serial Experiments Lain": "a21bd76e-903f-477b-8855-03e2f2b50d91",
     "SchoolOfLife The Mind Body Problem": "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4",
     "Satisfactory": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c",
+    "Sapiens Book": "816c0ab2-1934-4642-89fd-1bc1edd96961",
     "SAOAlternateGungale": "7f75b38d-8d9d-4433-986f-8e8f3c27dc90",
     "Redo The Healer": "a086e10a-046c-4a83-a089-fde2e8d0b9ae",
     "Red Notice": "abd62e8b-845b-41d5-92d3-6ecaa7dca540",
@@ -10061,7 +10066,7 @@
     "All NFTs Torrent": "3ccbfb83-29bb-4195-a6a7-81dbe7dd3f72",
     "Algorithms To Live By": "2222807f-4fcd-41cd-90e4-72d74cb06887",
     "5 Elements of Effective Thinking": "d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac",
-    "12 Rules For Life": "550c359a-b6b9-45f7-87f0-3325be73cf59",
+    "12 Rules For Life, An Antidote to Chaos": "442b74e1-5e44-4330-90d3-cfb935acaf85",
     "quotes": "15c6a5d9-ce98-49df-b233-8d79adf0230d",
     "Terminology": "9f353cc7-fb86-4f95-8635-cfb5b69a448d",
     "Chapter 008 Call to Action": "21df1d8c-89b9-4e38-a5c2-d3179939041c",
@@ -10139,6 +10144,7 @@
     "12 Rules of Relationship Database Design": "13d4d10c-d1ae-43dd-87e9-ff4d5f7fa7fd",
     "Omega": "b592fc61-d288-4eaf-b0c1-4824109efc9a",
     "Codd s 12 Rules": "53a14827-c7d2-4c67-a6ea-2d24006e0a99",
+    "12 Rules For Life": "550c359a-b6b9-45f7-87f0-3325be73cf59",
     "10 Rules of a Zen Programmer": "66a20950-2aaf-4657-97c3-c316f98c8aa7",
     "Get What You Want": "313cddcc-06a6-4456-ab61-cbf83b667bfc",
     "Non Contradiction": "36f4c545-9fa4-41b3-84f9-0441b72fb58c",
@@ -17223,6 +17229,11 @@
       "uuid": "618bbd30-179e-44bc-881a-36d4b8ebb694",
       "title": "Chicken Parmesan"
     },
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1": {
+      "uuid": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+      "share": true,
+      "title": "Ted Kaczynski"
+    },
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": {
       "uuid": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
       "share": true,
@@ -19078,11 +19089,6 @@
       "uuid": "84eb6ae3-694c-4739-a0d9-563a1367e5d0",
       "title": "simonwillison"
     },
-    "816c0ab2-1934-4642-89fd-1bc1edd96961": {
-      "share": true,
-      "uuid": "816c0ab2-1934-4642-89fd-1bc1edd96961",
-      "title": "sapians"
-    },
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f": {
       "share": true,
       "uuid": "d0a4afe3-56f4-454c-a116-cbc90fcd356f",
@@ -19377,6 +19383,11 @@
       "share": true,
       "uuid": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c",
       "title": "Satisfactory"
+    },
+    "816c0ab2-1934-4642-89fd-1bc1edd96961": {
+      "share": true,
+      "uuid": "816c0ab2-1934-4642-89fd-1bc1edd96961",
+      "title": "Sapiens Book"
     },
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90": {
       "share": true,
@@ -19896,7 +19907,7 @@
     "442b74e1-5e44-4330-90d3-cfb935acaf85": {
       "share": true,
       "uuid": "442b74e1-5e44-4330-90d3-cfb935acaf85",
-      "title": "12 Rules For Life"
+      "title": "12 Rules For Life, An Antidote to Chaos"
     },
     "15c6a5d9-ce98-49df-b233-8d79adf0230d": {
       "share": true,
@@ -24934,6 +24945,13 @@
         }
       }
     },
+    "Relationships": {
+      "People": {
+        "Ted Kaczynski.md": {
+          "uuid": "8d993396-f877-4f00-9ec2-38b6ff760ab1"
+        }
+      }
+    },
     "Questions": {
       "Questions for Question Engine.md": {
         "uuid": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd"
@@ -26203,9 +26221,6 @@
         "simonwillison.net.md": {
           "uuid": "84eb6ae3-694c-4739-a0d9-563a1367e5d0"
         },
-        "sapians.md": {
-          "uuid": "816c0ab2-1934-4642-89fd-1bc1edd96961"
-        },
         "notes.nicolevanderhoeven.com.md": {
           "uuid": "d0a4afe3-56f4-454c-a116-cbc90fcd356f"
         },
@@ -26382,6 +26397,9 @@
         },
         "Satisfactory.md": {
           "uuid": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c"
+        },
+        "Sapiens Book.md": {
+          "uuid": "816c0ab2-1934-4642-89fd-1bc1edd96961"
         },
         "SAOAlternateGungale.md": {
           "uuid": "7f75b38d-8d9d-4433-986f-8e8f3c27dc90"
@@ -26692,7 +26710,7 @@
         "1984.md": {
           "uuid": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa"
         },
-        "12 Rules For Life.md": {
+        "12 Rules For Life, An Antidote to Chaos.md": {
           "uuid": "442b74e1-5e44-4330-90d3-cfb935acaf85"
         },
         "The Secret Teachings of All Ages": {
@@ -28588,6 +28606,7 @@
     "db93629c-7b83-4889-ad42-5a167b81cf74": [],
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": [],
     "618bbd30-179e-44bc-881a-36d4b8ebb694": [],
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1": [],
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [],
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [],
@@ -29197,7 +29216,6 @@
     "53f0db9f-79ac-4afb-b488-b389ee93812e": [],
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b": [],
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0": [],
-    "816c0ab2-1934-4642-89fd-1bc1edd96961": [],
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f": [],
     "5bdbf3bd-a18b-4f04-830e-6d33a82b5c4b": [],
     "c283e49b-3187-466d-95c2-733260f653b6": [],
@@ -29266,6 +29284,7 @@
     "a21bd76e-903f-477b-8855-03e2f2b50d91": [],
     "20adbc1f-6daf-4a06-8dca-f8a7bac42cb4": [],
     "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c": [],
+    "816c0ab2-1934-4642-89fd-1bc1edd96961": [],
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90": [],
     "a086e10a-046c-4a83-a089-fde2e8d0b9ae": [],
     "abd62e8b-845b-41d5-92d3-6ecaa7dca540": [],
@@ -30619,6 +30638,7 @@
     "a149485b-e789-4289-8610-8e381519107d": [],
     "520389b2-39a2-4555-9515-c8e1f6e0b68b": [
       {
+        "link": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
         "text": "Ted Kaczynski"
       },
       {
@@ -35921,6 +35941,16 @@
     "db93629c-7b83-4889-ad42-5a167b81cf74": [],
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": [],
     "618bbd30-179e-44bc-881a-36d4b8ebb694": [],
+    "8d993396-f877-4f00-9ec2-38b6ff760ab1": [
+      {
+        "link": "68b44843-081c-4fde-9c75-f64cd99228c0",
+        "text": "Unabomber"
+      },
+      {
+        "link": "520389b2-39a2-4555-9515-c8e1f6e0b68b",
+        "text": "The Power Process"
+      }
+    ],
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [
       {
         "text": "Design - Question Engine"
@@ -37472,6 +37502,9 @@
     "2bd2c8f1-17c2-4636-b525-42eceeb599f1": [],
     "cc5cc49d-f554-4f29-b31a-b8789688e6a3": [
       {
+        "text": "Egregore Manager"
+      },
+      {
         "text": "Question Engine Transformation Schema"
       },
       {
@@ -37986,6 +38019,9 @@
       }
     ],
     "dc0faa57-ac29-446f-b1a7-0c38ee771633": [
+      {
+        "text": "Realm Token Clear Paper"
+      },
       {
         "text": "What are we to do with our lives?"
       },
@@ -40696,7 +40732,6 @@
         "text": "Website"
       }
     ],
-    "816c0ab2-1934-4642-89fd-1bc1edd96961": [],
     "d0a4afe3-56f4-454c-a116-cbc90fcd356f": [
       {
         "link": "5f36394e-9b44-4bf3-b04a-39aa6c7789aa",
@@ -40929,6 +40964,7 @@
         "text": "Video Games"
       }
     ],
+    "816c0ab2-1934-4642-89fd-1bc1edd96961": [],
     "7f75b38d-8d9d-4433-986f-8e8f3c27dc90": [
       {
         "link": "a0b15bdd-022a-4893-b12a-db25bfb5e041",
@@ -41728,7 +41764,16 @@
     "13d4d10c-d1ae-43dd-87e9-ff4d5f7fa7fd": [],
     "b592fc61-d288-4eaf-b0c1-4824109efc9a": [],
     "53a14827-c7d2-4c67-a6ea-2d24006e0a99": [],
-    "550c359a-b6b9-45f7-87f0-3325be73cf59": [],
+    "550c359a-b6b9-45f7-87f0-3325be73cf59": [
+      {
+        "link": "53cac48c-9a6a-4d4f-9eb8-25076289c26d",
+        "text": "Beyond Order 12 More Rules for Life"
+      },
+      {
+        "link": "442b74e1-5e44-4330-90d3-cfb935acaf85",
+        "text": "12 Rules For Life, An Antidote to Chaos"
+      }
+    ],
     "66a20950-2aaf-4657-97c3-c316f98c8aa7": [],
     "313cddcc-06a6-4456-ab61-cbf83b667bfc": [],
     "36f4c545-9fa4-41b3-84f9-0441b72fb58c": [],
