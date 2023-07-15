@@ -1198,7 +1198,6 @@ nav:
         - Logs - Robotics: 665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1
     - Learn Hoon:
         - Questions: 8e539dde-dc26-4fe0-a185-4949f1aca9fc
-        - Logs - Hoon: c1ebfd05-367e-4746-8b22-798e930df83f
     - Junk Projects:
         - obsidian-publish + hugo: 55f88f15-e0a1-48eb-a9b4-3bf370ede0f1
         - Let's Learn Web Scraping: 3dc8dff3-226e-4315-a126-df63912c5265
@@ -2208,6 +2207,9 @@ nav:
 - Relationships:
     - People:
         - Ted Kaczynski: 8d993396-f877-4f00-9ec2-38b6ff760ab1
+- Quests:
+    - List:
+        - Encrypted Git Backup: 80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03
 - Questions:
     - list:
         - Why am I building Question Engine?: 114d3861-6af9-4254-8cee-0e7aa0b47532

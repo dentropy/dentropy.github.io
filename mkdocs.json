@@ -3652,9 +3652,6 @@
         "Learn Hoon": [
           {
             "Questions": "8e539dde-dc26-4fe0-a185-4949f1aca9fc"
-          },
-          {
-            "Logs - Hoon": "c1ebfd05-367e-4746-8b22-798e930df83f"
           }
         ]
       },
@@ -6767,6 +6764,17 @@
         "People": [
           {
             "Ted Kaczynski": "8d993396-f877-4f00-9ec2-38b6ff760ab1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Quests": [
+      {
+        "List": [
+          {
+            "Encrypted Git Backup": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03"
           }
         ]
       }
