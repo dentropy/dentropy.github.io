@@ -2990,7 +2990,7 @@
     "d5fca6b8-c3bf-41f0-b7d3-d29143b11c56": "Software/List/Invoice Ninja.md",
     "20305bf4-fd35-473e-9ff7-f4aed64c3ca5": "Software/List/Immich.md",
     "13547fe6-d956-4006-9fec-2100980a0eb9": "Software/List/IDx.md",
-    "dedecb5f-c142-402e-84d4-126b3e6cda9f": "Software/List/Hypothes.md",
+    "dedecb5f-c142-402e-84d4-126b3e6cda9f": "Software/List/Hypothes.is.md",
     "1bf9acd0-5f73-4152-b608-977dd1964892": "Software/List/Hume.md",
     "dd417f12-48a5-466c-989d-bcb0bd8aa136": "Software/List/Hugo.md",
     "0ab0ec48-c7b6-49ef-bfb4-a2cb93e39e92": "Software/List/Hoon.md",
@@ -7090,7 +7090,7 @@
     "Software/List/Invoice Ninja.md": "d5fca6b8-c3bf-41f0-b7d3-d29143b11c56",
     "Software/List/Immich.md": "20305bf4-fd35-473e-9ff7-f4aed64c3ca5",
     "Software/List/IDx.md": "13547fe6-d956-4006-9fec-2100980a0eb9",
-    "Software/List/Hypothes.md": "dedecb5f-c142-402e-84d4-126b3e6cda9f",
+    "Software/List/Hypothes.is.md": "dedecb5f-c142-402e-84d4-126b3e6cda9f",
     "Software/List/Hume.md": "1bf9acd0-5f73-4152-b608-977dd1964892",
     "Software/List/Hugo.md": "dd417f12-48a5-466c-989d-bcb0bd8aa136",
     "Software/List/Hoon.md": "0ab0ec48-c7b6-49ef-bfb4-a2cb93e39e92",
@@ -23343,7 +23343,7 @@
         "IDx.md": {
           "uuid": "13547fe6-d956-4006-9fec-2100980a0eb9"
         },
-        "Hypothes.md": {
+        "Hypothes.is.md": {
           "uuid": "dedecb5f-c142-402e-84d4-126b3e6cda9f"
         },
         "Hume.md": {
@@ -29848,6 +29848,12 @@
       {
         "link": "9b36ec68-7ab1-4427-acd3-e327fcf4e438",
         "text": "dentLog 013 Engineering a Persona"
+      },
+      {
+        "text": "dentLog 014 Vicariously Reflecting Under Pressure"
+      },
+      {
+        "text": "dentLog 015 Applying the Golden Rule"
       }
     ],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
@@ -30651,6 +30657,9 @@
       {
         "link": "2f48755e-570f-451f-b7ee-735dc7ac23eb",
         "text": "Industrial Society and its Future"
+      },
+      {
+        "text": "What does the next step look like?"
       }
     ],
     "d19c1ed9-6cb6-4a37-b4ae-f25c9fcbf237": [
@@ -30716,8 +30725,7 @@
     "cd32f0e6-d80d-4d4e-9137-268793180b7f": [],
     "644dd14f-7a90-472a-9475-1596ce8cb4de": [
       {
-        "link": "dedecb5f-c142-402e-84d4-126b3e6cda9f",
-        "text": "Hypothes"
+        "text": "Hypothes.is"
       },
       {
         "text": "memex.garden"
@@ -31050,7 +31058,8 @@
     "dd913574-84ca-444a-b78d-f9e09d952677": [],
     "b20c7712-31fd-40f3-aeca-61214d5e05bc": [
       {
-        "text": "media.list.Dune"
+        "link": "24229833-9146-4417-9a5a-0c46fa1efb1a",
+        "text": "Dune"
       }
     ],
     "e2cad632-0c65-44c3-924c-1b2cd870862a": [],
@@ -32232,8 +32241,7 @@
         "text": "Protonmail"
       },
       {
-        "link": "dedecb5f-c142-402e-84d4-126b3e6cda9f",
-        "text": "Hypothes"
+        "text": "Hypothes.is"
       },
       {
         "text": "memex.garden"
@@ -32683,7 +32691,8 @@
     "2c37e79d-9050-4762-8cc6-42f9060bd348": [],
     "5c347a60-b0fd-4797-993a-c0a6f0943dc9": [
       {
-        "text": "dentropydaemon-wiki/Software/List/nginx"
+        "link": "2c37e79d-9050-4762-8cc6-42f9060bd348",
+        "text": "nginx"
       }
     ],
     "0bc9d3a5-ff6f-4a87-8e4d-22924a766aa5": [],
@@ -33358,7 +33367,22 @@
     ],
     "aaa6f541-e5eb-4f8c-997b-2d185fcccf06": [
       {
-        "text": "[OpenWrt Wiki"
+        "text": "How to restart networking using OpenWRT?"
+      },
+      {
+        "text": "How to change interface Network using OpenWRT?"
+      },
+      {
+        "text": "How do I troubleshoot SSH error on OpenWRT?"
+      },
+      {
+        "text": "How to install and configure Wireguard Client using OpenWRT"
+      },
+      {
+        "text": "Setting up a Static Route using OpenWRT"
+      },
+      {
+        "text": "How to install and configure Wireguard Server on OpenWRT"
       }
     ],
     "b73a5e7e-9373-472b-993f-72c992f84327": [],
@@ -35956,6 +35980,9 @@
         "text": "Design - Question Engine"
       },
       {
+        "text": "How does Question Engine deal with links between Memes?"
+      },
+      {
         "text": "How do we do zero knowledge token transfers?"
       },
       {
@@ -36110,6 +36137,9 @@
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [
       {
         "text": "Permissions on Question Engine"
+      },
+      {
+        "text": "Home Feed Pinterest Style"
       },
       {
         "text": "Context on Question Engine"
@@ -36797,6 +36827,12 @@
       {
         "link": "9b36ec68-7ab1-4427-acd3-e327fcf4e438",
         "text": "dentLog 013 Engineering a Persona"
+      },
+      {
+        "text": "dentLog 014 Vicariously Reflecting Under Pressure"
+      },
+      {
+        "text": "dentLog 015 Applying the Golden Rule"
       }
     ],
     "6d0bbf21-e1ea-4a09-9597-ec479b998235": [
