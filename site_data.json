@@ -13,6 +13,7 @@
     "4620935a-64c8-45de-9da7-5878621236a5",
     "94dfc14e-03c4-4a11-9b16-51e82db2351d",
     "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7",
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6",
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9",
     "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7",
     "d2e34182-88c3-4e81-b926-07650ad30ee6",
@@ -2064,6 +2065,7 @@
     "4620935a-64c8-45de-9da7-5878621236a5": "Wiki/Research/Network Hardware.md",
     "94dfc14e-03c4-4a11-9b16-51e82db2351d": "Wiki/Research/Event Organization Platforms.md",
     "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7": "Wiki/Research/Decentralized Storage.md",
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": "Wiki/Research/Contextualizing Azimuth.md",
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9": "Wiki/Research/DAOs/Logs - DAO Research.md",
     "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7": "Wiki/Research/DAOs/DAO Research Home.md",
     "d2e34182-88c3-4e81-b926-07650ad30ee6": "Wiki/Research/DAOs/DAO Interrorgation.md",
@@ -4115,6 +4117,7 @@
     "4620935a-64c8-45de-9da7-5878621236a5": "Network Hardware",
     "94dfc14e-03c4-4a11-9b16-51e82db2351d": "Event Organization Platforms",
     "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7": "Decentralized Storage",
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": "Contextualizing Azimuth",
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9": "Logs - DAO Research",
     "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7": "DAO Research Home",
     "d2e34182-88c3-4e81-b926-07650ad30ee6": "DAO Interrorgation",
@@ -6166,6 +6169,7 @@
     "Wiki/Research/Network Hardware.md": "4620935a-64c8-45de-9da7-5878621236a5",
     "Wiki/Research/Event Organization Platforms.md": "94dfc14e-03c4-4a11-9b16-51e82db2351d",
     "Wiki/Research/Decentralized Storage.md": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7",
+    "Wiki/Research/Contextualizing Azimuth.md": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6",
     "Wiki/Research/DAOs/Logs - DAO Research.md": "2fa7bcd5-8775-45f7-b6df-e86977b335f9",
     "Wiki/Research/DAOs/DAO Research Home.md": "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7",
     "Wiki/Research/DAOs/DAO Interrorgation.md": "d2e34182-88c3-4e81-b926-07650ad30ee6",
@@ -8221,6 +8225,7 @@
     "Network Hardware": "4620935a-64c8-45de-9da7-5878621236a5",
     "Event Organization Platforms": "94dfc14e-03c4-4a11-9b16-51e82db2351d",
     "Decentralized Storage": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7",
+    "Contextualizing Azimuth": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6",
     "Logs - DAO Research": "2fa7bcd5-8775-45f7-b6df-e86977b335f9",
     "DAO Research Home": "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7",
     "DAO Interrorgation": "d2e34182-88c3-4e81-b926-07650ad30ee6",
@@ -10238,6 +10243,11 @@
       "share": true,
       "uuid": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7",
       "title": "Decentralized Storage"
+    },
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": {
+      "uuid": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6",
+      "share": true,
+      "title": "Contextualizing Azimuth"
     },
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9": {
       "share": true,
@@ -20508,6 +20518,9 @@
         "Decentralized Storage.md": {
           "uuid": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7"
         },
+        "Contextualizing Azimuth.md": {
+          "uuid": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6"
+        },
         "DAOs": {
           "Logs - DAO Research.md": {
             "uuid": "2fa7bcd5-8775-45f7-b6df-e86977b335f9"
@@ -27109,6 +27122,7 @@
     "4620935a-64c8-45de-9da7-5878621236a5": [],
     "94dfc14e-03c4-4a11-9b16-51e82db2351d": [],
     "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7": [],
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": [],
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9": [],
     "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7": [
       {
@@ -29897,6 +29911,32 @@
     "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7": [
       {
         "text": "swarmio.Swarmio Research.Swarmio Product Research.IPFS"
+      }
+    ],
+    "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": [
+      {
+        "text": "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?"
+      },
+      {
+        "text": "How were Galaxies Distributed?"
+      },
+      {
+        "text": "How were Stars Distributed?"
+      },
+      {
+        "text": "How do I spawn Planet's from a Star"
+      },
+      {
+        "text": "How do these network keys work?"
+      },
+      {
+        "text": "What is this network Sponsor thing?"
+      },
+      {
+        "text": "ELI5 what is up with Urbit L2"
+      },
+      {
+        "text": "Logs - Contextualizing Azimuth"
       }
     ],
     "2fa7bcd5-8775-45f7-b6df-e86977b335f9": [
