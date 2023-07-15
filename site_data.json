@@ -1534,6 +1534,7 @@
     "2bd2c8f1-17c2-4636-b525-42eceeb599f1",
     "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
     "ddc9710c-d779-404b-baff-2611d41f2235",
+    "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -3584,6 +3585,7 @@
     "2bd2c8f1-17c2-4636-b525-42eceeb599f1": "MyProjects/Robotics.md",
     "cc5cc49d-f554-4f29-b31a-b8789688e6a3": "MyProjects/Question Engine - QE.md",
     "ddc9710c-d779-404b-baff-2611d41f2235": "MyProjects/Python Compressor.md",
+    "1059a94c-58af-4593-9fa9-82770fdf9f80": "MyProjects/Proxy Pubic IP address into my Home Network.md",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "MyProjects/Keybase Binding.md",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "MyProjects/Docker VPN Router.md",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "MyProjects/DentropyCloud - dc.md",
@@ -5634,6 +5636,7 @@
     "2bd2c8f1-17c2-4636-b525-42eceeb599f1": "Robotics",
     "cc5cc49d-f554-4f29-b31a-b8789688e6a3": "Question Engine - QE",
     "ddc9710c-d779-404b-baff-2611d41f2235": "Python Compressor",
+    "1059a94c-58af-4593-9fa9-82770fdf9f80": "Proxy Pubic IP address into my Home Network",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "Keybase Binding",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "Docker VPN Router",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "DentropyCloud - dc",
@@ -7684,6 +7687,7 @@
     "MyProjects/Robotics.md": "2bd2c8f1-17c2-4636-b525-42eceeb599f1",
     "MyProjects/Question Engine - QE.md": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
     "MyProjects/Python Compressor.md": "ddc9710c-d779-404b-baff-2611d41f2235",
+    "MyProjects/Proxy Pubic IP address into my Home Network.md": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "MyProjects/Keybase Binding.md": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "MyProjects/Docker VPN Router.md": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "MyProjects/DentropyCloud - dc.md": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -9694,6 +9698,7 @@
     "Robotics": "2bd2c8f1-17c2-4636-b525-42eceeb599f1",
     "Question Engine - QE": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
     "Python Compressor": "ddc9710c-d779-404b-baff-2611d41f2235",
+    "Proxy Pubic IP address into my Home Network": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "Keybase Binding": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -17839,6 +17844,11 @@
       "uuid": "ddc9710c-d779-404b-baff-2611d41f2235",
       "title": "Python Compressor"
     },
+    "1059a94c-58af-4593-9fa9-82770fdf9f80": {
+      "uuid": "1059a94c-58af-4593-9fa9-82770fdf9f80",
+      "share": true,
+      "title": "Proxy Pubic IP address into my Home Network"
+    },
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": {
       "share": true,
       "uuid": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
@@ -25364,6 +25374,9 @@
       "Python Compressor.md": {
         "uuid": "ddc9710c-d779-404b-baff-2611d41f2235"
       },
+      "Proxy Pubic IP address into my Home Network.md": {
+        "uuid": "1059a94c-58af-4593-9fa9-82770fdf9f80"
+      },
       "Keybase Binding.md": {
         "uuid": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5"
       },
@@ -28937,6 +28950,7 @@
       }
     ],
     "ddc9710c-d779-404b-baff-2611d41f2235": [],
+    "1059a94c-58af-4593-9fa9-82770fdf9f80": [],
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": [],
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
@@ -37621,6 +37635,24 @@
       }
     ],
     "ddc9710c-d779-404b-baff-2611d41f2235": [],
+    "1059a94c-58af-4593-9fa9-82770fdf9f80": [
+      {
+        "link": "5c347a60-b0fd-4797-993a-c0a6f0943dc9",
+        "text": "nginx-proxy-manager"
+      },
+      {
+        "link": "b04649d5-c9c1-4d05-bf04-15db21b3d393",
+        "text": "Wireguard"
+      },
+      {
+        "link": "aaa6f541-e5eb-4f8c-997b-2d185fcccf06",
+        "text": "OpenWRT"
+      },
+      {
+        "link": "4b98c736-45b5-4151-80b5-7ab0c746f1ea",
+        "text": "Dentropy Cloud"
+      }
+    ],
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": [
       {
         "text": "keybase-discord-migrater"
