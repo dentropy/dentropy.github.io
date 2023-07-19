@@ -1414,6 +1414,7 @@
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "618bbd30-179e-44bc-881a-36d4b8ebb694",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "114d3861-6af9-4254-8cee-0e7aa0b47532",
@@ -3466,6 +3467,7 @@
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": "Skills/Cooking/recipes/Chili Mac  n  Cheese Bake.md",
     "618bbd30-179e-44bc-881a-36d4b8ebb694": "Skills/Cooking/recipes/Chicken Parmesan.md",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Relationships/People/Ted Kaczynski.md",
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb": "Quests/List/If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": "Quests/List/Encrypted Git Backup.md",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions/Questions for Question Engine.md",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Questions/list/Why am I building Question Engine?.md",
@@ -5518,6 +5520,7 @@
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": "Chili Mac  n  Cheese Bake",
     "618bbd30-179e-44bc-881a-36d4b8ebb694": "Chicken Parmesan",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Ted Kaczynski",
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb": "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": "Encrypted Git Backup",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions for Question Engine",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Why am I building Question Engine?",
@@ -7570,6 +7573,7 @@
     "Skills/Cooking/recipes/Chili Mac  n  Cheese Bake.md": "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "Skills/Cooking/recipes/Chicken Parmesan.md": "618bbd30-179e-44bc-881a-36d4b8ebb694",
     "Relationships/People/Ted Kaczynski.md": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "Quests/List/If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "Quests/List/Encrypted Git Backup.md": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "Questions/Questions for Question Engine.md": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Questions/list/Why am I building Question Engine?.md": "114d3861-6af9-4254-8cee-0e7aa0b47532",
@@ -9584,6 +9588,7 @@
     "Chili Mac  n  Cheese Bake": "f5de1b3f-0f01-4e1e-8b7a-3244388af517",
     "Chicken Parmesan": "618bbd30-179e-44bc-881a-36d4b8ebb694",
     "Ted Kaczynski": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "Encrypted Git Backup": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532",
@@ -17249,6 +17254,11 @@
       "share": true,
       "title": "Ted Kaczynski"
     },
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb": {
+      "uuid": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
+      "share": true,
+      "title": "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?"
+    },
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": {
       "uuid": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
       "share": true,
@@ -20441,6 +20451,12 @@
       "note_uuid": "b53946d2-24eb-4282-9b29-4c5ec8f3c3cd",
       "image_links": [
         "https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/06/eva15.png"
+      ]
+    },
+    {
+      "note_uuid": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
+      "image_links": [
+        "https://media.urbit.org/fora/proposals/UP-8.jpg"
       ]
     },
     {
@@ -24977,6 +24993,9 @@
     },
     "Quests": {
       "List": {
+        "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md": {
+          "uuid": "17db1c37-5a7e-4f24-98d5-5ef5276553bb"
+        },
         "Encrypted Git Backup.md": {
           "uuid": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03"
         }
@@ -28638,6 +28657,7 @@
     "f5de1b3f-0f01-4e1e-8b7a-3244388af517": [],
     "618bbd30-179e-44bc-881a-36d4b8ebb694": [],
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": [],
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb": [],
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": [],
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [],
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
@@ -29915,7 +29935,14 @@
     ],
     "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6": [
       {
+        "link": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
         "text": "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?"
+      },
+      {
+        "text": "Testing Azimuth"
+      },
+      {
+        "text": "Let's get Azimuth on TheGraph"
       },
       {
         "text": "How were Galaxies Distributed?"
@@ -36032,6 +36059,18 @@
       {
         "link": "520389b2-39a2-4555-9515-c8e1f6e0b68b",
         "text": "The Power Process"
+      }
+    ],
+    "17db1c37-5a7e-4f24-98d5-5ef5276553bb": [
+      {
+        "text": "ethereum"
+      },
+      {
+        "link": "c88039ab-e567-4305-9e36-8cfa6440a5bd",
+        "text": "urbit"
+      },
+      {
+        "text": "Urbit - Azimuth"
       }
     ],
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": [
