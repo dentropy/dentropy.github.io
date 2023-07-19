@@ -58,6 +58,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#git-remote-gcrypt" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -41971,6 +41976,28 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#git-remote-gcrypt" class="md-nav__link">
+    git-remote-gcrypt
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-tools" class="md-nav__link">
+    Other Tools
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -41986,17 +42013,9 @@
 
   <h1>Encrypted Git Backup</h1>
 
+<h2 id="git-remote-gcrypt"><a href="/undefined">git-remote-gcrypt</a></h2>
 <ul>
-<li><a href="/a479e882-a101-4508-8646-26bd11b4b9fe">git-crypt</a> does not encrypt file names, which is a big problem</li>
-<li><a href="/undefined">git-annex</a> seems to do what we want<ul>
-<li>Does much more then encryption, not what we want</li>
-<li>Complex to use</li>
-</ul>
-</li>
-<li><a href="/undefined">git-remote-gcrypt</a><ul>
 <li>This thing works perfectly and is exactly what I want, just stores an encrypted blog for each commit, have no idea what is actually in it server side</li>
-</ul>
-</li>
 </ul>
 <pre><code class="language-bash">
 git init
@@ -42012,6 +42031,15 @@ git push -u cryptoremote master
 git push --force -u cryptoremote master
 
 </code></pre>
+<h2 id="other-tools">Other Tools</h2>
+<ul>
+<li><a href="/a479e882-a101-4508-8646-26bd11b4b9fe">git-crypt</a> does not encrypt file names, which is a big problem</li>
+<li><a href="/undefined">git-annex</a> seems to do what we want<ul>
+<li>Does much more then encryption, not what we want</li>
+<li>Complex to use</li>
+</ul>
+</li>
+</ul>
 
 
 
