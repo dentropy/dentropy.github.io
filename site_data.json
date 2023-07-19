@@ -20460,17 +20460,17 @@
       ]
     },
     {
-      "note_uuid": "e95f184e-0cf9-4df6-946b-9179ae64d4fb",
-      "image_links": [
-        "ion"
-      ]
-    },
-    {
       "note_uuid": "cef3066c-8a14-467b-979e-9036068e3653",
       "image_links": [
         "https://i.redd.it/63g5a6g9amp61.jpg",
         "https://i.redd.it/6sv5vdnx4v271.jpg",
         "https://i.redd.it/alucmadruhj41.jpg"
+      ]
+    },
+    {
+      "note_uuid": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
+      "image_links": [
+        "AnalysisQueries.svg"
       ]
     },
     {
@@ -28868,12 +28868,7 @@
         "heading": ""
       }
     ],
-    "e95f184e-0cf9-4df6-946b-9179ae64d4fb": [
-      {
-        "text": "Quest(ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion) Log Screen No Logs Message",
-        "heading": ""
-      }
-    ],
+    "e95f184e-0cf9-4df6-946b-9179ae64d4fb": [],
     "aaf21e6e-d448-49f2-8a7e-1ce05e0d2342": [],
     "0cc409fa-8498-41ea-bc37-4cdf82686746": [],
     "43f8a9a1-e563-4f0d-8596-48486b98add1": [],
@@ -29108,12 +29103,7 @@
     "88f4c833-cb02-4ff8-a6fd-a216813a7e5c": [],
     "045ce59f-7fa3-4846-a4c8-1682a99de7b6": [],
     "910c3fb9-9023-47b5-9966-ca7a651fbfe0": [],
-    "fe4c8191-b213-44c3-9e9b-0cd31b42e303": [
-      {
-        "text": "dentropydaemon-wiki/assets/AnalysisQueries.svg",
-        "heading": ""
-      }
-    ],
+    "fe4c8191-b213-44c3-9e9b-0cd31b42e303": [],
     "26b25984-ce01-4aa6-99cf-757eb46ffddd": [],
     "e31b6996-be14-48bd-a5fa-ab084285ad6e": [],
     "f83e0ae3-8d62-4763-b5f0-5efd69466d4c": [],
@@ -36711,11 +36701,7 @@
         "text": "Add your Question or Statement - Component"
       }
     ],
-    "e95f184e-0cf9-4df6-946b-9179ae64d4fb": [
-      {
-        "text": "Quest(ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion|[ion) Log - Component"
-      }
-    ],
+    "e95f184e-0cf9-4df6-946b-9179ae64d4fb": [],
     "aaf21e6e-d448-49f2-8a7e-1ce05e0d2342": [
       {
         "text": "Your Persona Pseudonym - Component"
