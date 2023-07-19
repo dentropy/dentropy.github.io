@@ -36036,14 +36036,14 @@
     ],
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": [
       {
+        "text": "git-remote-gcrypt"
+      },
+      {
         "link": "a479e882-a101-4508-8646-26bd11b4b9fe",
         "text": "git-crypt"
       },
       {
         "text": "git-annex"
-      },
-      {
-        "text": "git-remote-gcrypt"
       }
     ],
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [
