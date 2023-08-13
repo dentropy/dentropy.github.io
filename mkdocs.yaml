@@ -87,12 +87,12 @@ nav:
                 - Bash Time: 7c2da23f-2984-45da-a29f-100a3e2a7ba7
                 - Bash History: 9598c522-57cf-4bfe-9c30-70072f70bb93
             - luks: 23035396-e01b-4f16-8464-fbf1e18b12a5
-            - logs: 767e388b-3e3b-40bb-b2f8-557f28da89e2
             - change hostname: fa7e2ea0-5f10-44ea-96cc-2cecdac933fc
             - Time: 2bf115ab-a6e9-4411-b801-324ac6f06754
             - SELinux: 0105f1e0-e6bc-49fd-8f18-37a0593659cc
             - Networking: 9fffcfb6-c2b6-4647-9cb6-22189af9e06d
             - Managing Software: 52891afa-19b7-4346-bb20-144eaa05b18f
+            - Linux Logs: 767e388b-3e3b-40bb-b2f8-557f28da89e2
             - File Systems: c9b2dcba-6102-40ed-9e31-c41d683e5dd4
             - Cron  Systemd  Process Management: 84b3acad-4589-455a-ba83-ebf1ab469036
             - CLI Heuristics: 149fa427-0339-425f-997f-cc4a0460eac1
@@ -1201,10 +1201,6 @@ nav:
     - Junk Projects:
         - obsidian-publish + hugo: 55f88f15-e0a1-48eb-a9b4-3bf370ede0f1
         - Let's Learn Web Scraping: 3dc8dff3-226e-4315-a126-df63912c5265
-    - Holium White Paper:
-        - Redefining Human Insturmentality White Paper v0.0.2: dc0faa57-ac29-446f-b1a7-0c38ee771633
-        - Redefining Human Instrumentality White Paper Outline and Versions: d529d7cc-2073-4451-a7c9-c0125b6f17f9
-        - Redefining Human Instrumentality Directory: 7e1a7e96-1b7e-4893-b51e-625206beaa55
     - ENS Indexing:
         - Logs - ENS Indexing: 3bbb81b1-154a-494f-acdf-781ad8ff35cf
         - ENS Indexing: 28740a43-67c5-4930-8b5c-41c06e659c6a
@@ -1212,7 +1208,6 @@ nav:
         - Research - Blockchain Royalties: 0ee9b116-204d-4f4e-a7c7-cd2dca56c95f
         - Questions - Blockchain Royalties: 10c2c0f1-0577-42e5-9660-a2bec73747e9
         - Logs - Blockchain Royalties: 2e191352-0a11-410d-b4a5-50574257b3d6
-        - Blockchain Communities: ebbd0aff-9a73-4922-bc91-a7d5ada3d602
     - tags: 891fd1bf-0ed5-4e95-a892-28ba606e91de
     - dentropys-obsidian-publisher: f43d858e-c32e-4d15-bfc4-456bb7f56ceb
     - Web Scraping Orchestration: dd43be98-5e8e-45b2-b279-6cfb7474bba9
@@ -1676,11 +1671,10 @@ nav:
     - Research:
         - DAOs:
             - List of DAOs:
-                - Sourcecred: 4b7fcda9-08f9-4b63-9d65-877690bde53f
+                - Sourcecred DAO: 4b7fcda9-08f9-4b63-9d65-877690bde53f
                 - Sobol: 4d2a9441-0c44-4723-a392-2c8d2ad6601c
                 - Proof of Humanity: 14df1c24-0732-42bb-abd8-34bb4ddfc0a1
                 - Opolis: 2ee5e73f-3d36-465e-896b-ba0542dd75ae
-                - Metagame: 865ef0eb-56ab-4ac0-ab58-5afedd958460
                 - Lex: fbf0de09-d543-4456-847c-57fb27ee4e3d
                 - Fraktal DAO: 9cc23bdc-e38e-460a-a8d5-93a579fb9bef
                 - ENS Dao: 78c3cc09-c983-428b-81dc-e78ed7a9c0e7
@@ -1851,7 +1845,6 @@ nav:
         - The Subtle Art of Not Giving a F*ck: 76dc52eb-cd8e-423e-b9c3-979fcfc55384
         - The Singularity Is Near: 051e7911-5b2a-43e8-89be-899447d13e80
         - The Sims: 54df0011-226d-4cc6-b778-196e55d806eb
-        - The Secret: 1dcd0bf8-f462-45cd-b351-092be7b31637
         - The Secret Teachings of All Ages: e0848d37-a95f-432f-ac21-2af2de7db879
         - The Rediscovery of Man: a1e22b45-2551-43af-aa2d-5f4dc4c788c8
         - The Pretender: 43969bae-648b-428c-9a76-c122025b03bd
@@ -2190,7 +2183,6 @@ nav:
         - Docker Postgres with Backup and Restore: 984a339d-135b-447f-a2d3-1ae03829743b
         - Docker MySQL and MariaDB with Backup and Restore: 065d3a41-1745-4c38-8950-4939f0d0b606
     - docker nginx proxy with auth: c9972dec-d741-4735-9998-1c81b5e0c192
-    - Web Scraping: 6c19c7df-11cb-401d-a833-bca29d59aa6a
     - Web Scraping Tutorial: 83ffe54f-3356-44ae-9d1a-878ef448fb57
     - Using the History command on Unix Systems: c01c8156-996f-4a53-97f5-1f287e28f1d6
     - Umbrel - Secure Install: c14c9c80-6039-4bf8-bb72-0afbaceb08ea
@@ -2258,13 +2250,11 @@ nav:
     - Holium Stuff:
         - Memetic Routing Protocol: afec0d76-59fb-48aa-b062-2a562e28eaa1
         - Holium User Stories: c73ff582-6cf4-41b1-b791-9bbfe4819878
-        - Holium Transaction Types: 1c0641f5-1af1-4ce9-9e19-fb8416e5996e
     - DAO Analysis:
         - Thinking Through Creator Reputation Token: d68d4ede-ee87-4422-b04f-eb77b16bdda9
         - Private Torrent Tracker DAO Archatype: 5c8d263c-c8df-4a78-a952-870b7b78467c
         - Media Curation DAO's: b0f5a90a-3b22-4d10-b008-d744f4e79a7d
         - Investigating Private Torrent Trackers: 618c581d-7359-4027-adb0-ac2b2937f0d0
-        - Investigating Private Torrent Trackers 1: 9acd21b7-0282-407f-a14a-21c1203dec53
         - Appointed Board DAO: dae63116-f8d7-46f5-b753-7e79fc3d17b1
     - Context Feed:
         - Context Feed User Stories: 4dbd9d5a-37e4-4b19-b778-f82537c21498
@@ -2306,6 +2296,8 @@ nav:
     - White Paper and Project Outlines: 3ebc2356-8b1a-42a2-8136-9e693039c00f
 - Ideas:
     - Functional Programming applied to memes: 1bcf09cd-6a42-4d1f-8bb7-09ac5262396a
+- Community:
+    - Blockchain Communities: ebbd0aff-9a73-4922-bc91-a7d5ada3d602
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69

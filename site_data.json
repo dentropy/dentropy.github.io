@@ -23,7 +23,6 @@
     "4d2a9441-0c44-4723-a392-2c8d2ad6601c",
     "14df1c24-0732-42bb-abd8-34bb4ddfc0a1",
     "2ee5e73f-3d36-465e-896b-ba0542dd75ae",
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460",
     "fbf0de09-d543-4456-847c-57fb27ee4e3d",
     "9cc23bdc-e38e-460a-a8d5-93a579fb9bef",
     "78c3cc09-c983-428b-81dc-e78ed7a9c0e7",
@@ -511,7 +510,6 @@
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97",
     "c9972dec-d741-4735-9998-1c81b5e0c192",
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a",
     "83ffe54f-3356-44ae-9d1a-878ef448fb57",
     "c01c8156-996f-4a53-97f5-1f287e28f1d6",
     "c14c9c80-6039-4bf8-bb72-0afbaceb08ea",
@@ -1102,12 +1100,12 @@
     "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8",
     "9a90bfb8-aaef-41cf-9681-e20f571c79c3",
     "23035396-e01b-4f16-8464-fbf1e18b12a5",
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc",
     "2bf115ab-a6e9-4411-b801-324ac6f06754",
     "0105f1e0-e6bc-49fd-8f18-37a0593659cc",
     "9fffcfb6-c2b6-4647-9cb6-22189af9e06d",
     "52891afa-19b7-4346-bb20-144eaa05b18f",
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4",
     "84b3acad-4589-455a-ba83-ebf1ab469036",
     "149fa427-0339-425f-997f-cc4a0460eac1",
@@ -1460,12 +1458,10 @@
     "e26135b0-01e6-4ffd-b515-1478fdb2a1b5",
     "afec0d76-59fb-48aa-b062-2a562e28eaa1",
     "c73ff582-6cf4-41b1-b791-9bbfe4819878",
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e",
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9",
     "5c8d263c-c8df-4a78-a952-870b7b78467c",
     "b0f5a90a-3b22-4d10-b008-d744f4e79a7d",
     "618c581d-7359-4027-adb0-ac2b2937f0d0",
-    "9acd21b7-0282-407f-a14a-21c1203dec53",
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1",
     "4dbd9d5a-37e4-4b19-b778-f82537c21498",
     "53794e4b-fa08-4d96-8fb3-a0ff54e4116f",
@@ -1565,9 +1561,6 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "3dc8dff3-226e-4315-a126-df63912c5265",
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633",
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9",
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -1761,7 +1754,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -1819,7 +1811,6 @@
     "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "051e7911-5b2a-43e8-89be-899447d13e80",
     "54df0011-226d-4cc6-b778-196e55d806eb",
-    "1dcd0bf8-f462-45cd-b351-092be7b31637",
     "e0848d37-a95f-432f-ac21-2af2de7db879",
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "43969bae-648b-428c-9a76-c122025b03bd",
@@ -2050,7 +2041,8 @@
     "9a7f9967-e0ea-4374-b0c0-ff682eb4d737",
     "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "2781f257-2980-4661-bc02-635e6cc59112",
-    "1db708e2-6a7b-4ba6-8d28-b891508f3c45"
+    "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
@@ -2072,11 +2064,10 @@
     "d2e34182-88c3-4e81-b926-07650ad30ee6": "Wiki/Research/DAOs/DAO Interrorgation.md",
     "a7402f58-2c31-407a-a435-d98834d6a5d9": "Wiki/Research/DAOs/DAO Incubators.md",
     "9c289005-e2e3-41fe-93c8-3ab0acabae3f": "Wiki/Research/DAOs/Blockchain Sniff Test.md",
-    "4b7fcda9-08f9-4b63-9d65-877690bde53f": "Wiki/Research/DAOs/List of DAOs/Sourcecred.md",
+    "4b7fcda9-08f9-4b63-9d65-877690bde53f": "Wiki/Research/DAOs/List of DAOs/Sourcecred DAO.md",
     "4d2a9441-0c44-4723-a392-2c8d2ad6601c": "Wiki/Research/DAOs/List of DAOs/Sobol.md",
     "14df1c24-0732-42bb-abd8-34bb4ddfc0a1": "Wiki/Research/DAOs/List of DAOs/Proof of Humanity.md",
     "2ee5e73f-3d36-465e-896b-ba0542dd75ae": "Wiki/Research/DAOs/List of DAOs/Opolis.md",
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460": "Wiki/Research/DAOs/List of DAOs/Metagame.md",
     "fbf0de09-d543-4456-847c-57fb27ee4e3d": "Wiki/Research/DAOs/List of DAOs/Lex.md",
     "9cc23bdc-e38e-460a-a8d5-93a579fb9bef": "Wiki/Research/DAOs/List of DAOs/Fraktal DAO.md",
     "78c3cc09-c983-428b-81dc-e78ed7a9c0e7": "Wiki/Research/DAOs/List of DAOs/ENS Dao.md",
@@ -2564,7 +2555,6 @@
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": "Wiki/Acronyms/ACID.md",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": "Wiki/Acronyms/AAA.md",
     "c9972dec-d741-4735-9998-1c81b5e0c192": "Tutorials/docker nginx proxy with auth.md",
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a": "Tutorials/Web Scraping.md",
     "83ffe54f-3356-44ae-9d1a-878ef448fb57": "Tutorials/Web Scraping Tutorial.md",
     "c01c8156-996f-4a53-97f5-1f287e28f1d6": "Tutorials/Using the History command on Unix Systems.md",
     "c14c9c80-6039-4bf8-bb72-0afbaceb08ea": "Tutorials/Umbrel - Secure Install.md",
@@ -3155,12 +3145,12 @@
     "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8": "Software/List/neo4j/terms/Properties.md",
     "9a90bfb8-aaef-41cf-9681-e20f571c79c3": "Software/List/neo4j/terms/Label.md",
     "23035396-e01b-4f16-8464-fbf1e18b12a5": "Software/List/linux/luks.md",
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2": "Software/List/linux/logs.md",
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc": "Software/List/linux/change hostname.md",
     "2bf115ab-a6e9-4411-b801-324ac6f06754": "Software/List/linux/Time.md",
     "0105f1e0-e6bc-49fd-8f18-37a0593659cc": "Software/List/linux/SELinux.md",
     "9fffcfb6-c2b6-4647-9cb6-22189af9e06d": "Software/List/linux/Networking.md",
     "52891afa-19b7-4346-bb20-144eaa05b18f": "Software/List/linux/Managing Software.md",
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2": "Software/List/linux/Linux Logs.md",
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4": "Software/List/linux/File Systems.md",
     "84b3acad-4589-455a-ba83-ebf1ab469036": "Software/List/linux/Cron  Systemd  Process Management.md",
     "149fa427-0339-425f-997f-cc4a0460eac1": "Software/List/linux/CLI Heuristics.md",
@@ -3513,12 +3503,10 @@
     "e26135b0-01e6-4ffd-b515-1478fdb2a1b5": "QuestionEngine/Logs/Logs - Context Feed.md",
     "afec0d76-59fb-48aa-b062-2a562e28eaa1": "QuestionEngine/Holium Stuff/Memetic Routing Protocol.md",
     "c73ff582-6cf4-41b1-b791-9bbfe4819878": "QuestionEngine/Holium Stuff/Holium User Stories.md",
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e": "QuestionEngine/Holium Stuff/Holium Transaction Types.md",
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9": "QuestionEngine/DAO Analysis/Thinking Through Creator Reputation Token.md",
     "5c8d263c-c8df-4a78-a952-870b7b78467c": "QuestionEngine/DAO Analysis/Private Torrent Tracker DAO Archatype.md",
     "b0f5a90a-3b22-4d10-b008-d744f4e79a7d": "QuestionEngine/DAO Analysis/Media Curation DAO's.md",
     "618c581d-7359-4027-adb0-ac2b2937f0d0": "QuestionEngine/DAO Analysis/Investigating Private Torrent Trackers.md",
-    "9acd21b7-0282-407f-a14a-21c1203dec53": "QuestionEngine/DAO Analysis/Investigating Private Torrent Trackers 1.md",
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1": "QuestionEngine/DAO Analysis/Appointed Board DAO.md",
     "4dbd9d5a-37e4-4b19-b778-f82537c21498": "QuestionEngine/Context Feed/Context Feed User Stories.md",
     "53794e4b-fa08-4d96-8fb3-a0ff54e4116f": "QuestionEngine/Context Feed/Context Feed Transaction Types.md",
@@ -3618,9 +3606,6 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": "MyProjects/KMS Analysis/Letters to the Community/Humman Accelerator - Trying to Define A Problem.md",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "MyProjects/Junk Projects/obsidian-publish + hugo.md",
     "3dc8dff3-226e-4315-a126-df63912c5265": "MyProjects/Junk Projects/Let's Learn Web Scraping.md",
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633": "MyProjects/Holium White Paper/Redefining Human Insturmentality White Paper v0.0.2.md",
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9": "MyProjects/Holium White Paper/Redefining Human Instrumentality White Paper Outline and Versions.md",
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55": "MyProjects/Holium White Paper/Redefining Human Instrumentality Directory.md",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "MyProjects/ENS Indexing/Logs - ENS Indexing.md",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "MyProjects/ENS Indexing/ENS Indexing.md",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md",
@@ -3814,7 +3799,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "MyProjects/Blockchain Royalties/Blockchain Communities.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
@@ -3872,7 +3856,6 @@
     "76dc52eb-cd8e-423e-b9c3-979fcfc55384": "Media/List/The Subtle Art of Not Giving a F*ck.md",
     "051e7911-5b2a-43e8-89be-899447d13e80": "Media/List/The Singularity Is Near.md",
     "54df0011-226d-4cc6-b778-196e55d806eb": "Media/List/The Sims.md",
-    "1dcd0bf8-f462-45cd-b351-092be7b31637": "Media/List/The Secret.md",
     "e0848d37-a95f-432f-ac21-2af2de7db879": "Media/List/The Secret Teachings of All Ages.md",
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8": "Media/List/The Rediscovery of Man.md",
     "43969bae-648b-428c-9a76-c122025b03bd": "Media/List/The Pretender.md",
@@ -4103,7 +4086,8 @@
     "9a7f9967-e0ea-4374-b0c0-ff682eb4d737": "Heuristics/Effect/Dunning-Kruger.md",
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "Heuristics/Conversation/36 Questions To Fall In Love.md",
     "2781f257-2980-4661-bc02-635e6cc59112": "Heuristics/Axioms/Cosmic Sociology.md",
-    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "Heuristics/Axioms/20 Axioms of Sociology.md"
+    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "Heuristics/Axioms/20 Axioms of Sociology.md",
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Community/Blockchain Communities.md"
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
@@ -4125,11 +4109,10 @@
     "d2e34182-88c3-4e81-b926-07650ad30ee6": "DAO Interrorgation",
     "a7402f58-2c31-407a-a435-d98834d6a5d9": "DAO Incubators",
     "9c289005-e2e3-41fe-93c8-3ab0acabae3f": "Blockchain Sniff Test",
-    "4b7fcda9-08f9-4b63-9d65-877690bde53f": "Sourcecred",
+    "4b7fcda9-08f9-4b63-9d65-877690bde53f": "Sourcecred DAO",
     "4d2a9441-0c44-4723-a392-2c8d2ad6601c": "Sobol",
     "14df1c24-0732-42bb-abd8-34bb4ddfc0a1": "Proof of Humanity",
     "2ee5e73f-3d36-465e-896b-ba0542dd75ae": "Opolis",
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460": "Metagame",
     "fbf0de09-d543-4456-847c-57fb27ee4e3d": "Lex",
     "9cc23bdc-e38e-460a-a8d5-93a579fb9bef": "Fraktal DAO",
     "78c3cc09-c983-428b-81dc-e78ed7a9c0e7": "ENS Dao",
@@ -4617,7 +4600,6 @@
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": "ACID",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": "AAA",
     "c9972dec-d741-4735-9998-1c81b5e0c192": "docker nginx proxy with auth",
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a": "Web Scraping",
     "83ffe54f-3356-44ae-9d1a-878ef448fb57": "Web Scraping Tutorial",
     "c01c8156-996f-4a53-97f5-1f287e28f1d6": "Using the History command on Unix Systems",
     "c14c9c80-6039-4bf8-bb72-0afbaceb08ea": "Umbrel - Secure Install",
@@ -5208,12 +5190,12 @@
     "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8": "Properties",
     "9a90bfb8-aaef-41cf-9681-e20f571c79c3": "Label",
     "23035396-e01b-4f16-8464-fbf1e18b12a5": "luks",
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2": "logs",
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc": "change hostname",
     "2bf115ab-a6e9-4411-b801-324ac6f06754": "Time",
     "0105f1e0-e6bc-49fd-8f18-37a0593659cc": "SELinux",
     "9fffcfb6-c2b6-4647-9cb6-22189af9e06d": "Networking",
     "52891afa-19b7-4346-bb20-144eaa05b18f": "Managing Software",
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2": "Linux Logs",
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4": "File Systems",
     "84b3acad-4589-455a-ba83-ebf1ab469036": "Cron  Systemd  Process Management",
     "149fa427-0339-425f-997f-cc4a0460eac1": "CLI Heuristics",
@@ -5566,12 +5548,10 @@
     "e26135b0-01e6-4ffd-b515-1478fdb2a1b5": "Logs - Context Feed",
     "afec0d76-59fb-48aa-b062-2a562e28eaa1": "Memetic Routing Protocol",
     "c73ff582-6cf4-41b1-b791-9bbfe4819878": "Holium User Stories",
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e": "Holium Transaction Types",
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9": "Thinking Through Creator Reputation Token",
     "5c8d263c-c8df-4a78-a952-870b7b78467c": "Private Torrent Tracker DAO Archatype",
     "b0f5a90a-3b22-4d10-b008-d744f4e79a7d": "Media Curation DAO's",
     "618c581d-7359-4027-adb0-ac2b2937f0d0": "Investigating Private Torrent Trackers",
-    "9acd21b7-0282-407f-a14a-21c1203dec53": "Investigating Private Torrent Trackers 1",
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1": "Appointed Board DAO",
     "4dbd9d5a-37e4-4b19-b778-f82537c21498": "Context Feed User Stories",
     "53794e4b-fa08-4d96-8fb3-a0ff54e4116f": "Context Feed Transaction Types",
@@ -5671,9 +5651,6 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": "Humman Accelerator - Trying to Define A Problem",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "obsidian-publish + hugo",
     "3dc8dff3-226e-4315-a126-df63912c5265": "Let's Learn Web Scraping",
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633": "Redefining Human Insturmentality White Paper v0",
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9": "Redefining Human Instrumentality White Paper Outline and Versions",
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55": "Redefining Human Instrumentality Directory",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "Logs - ENS Indexing",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "ENS Indexing",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "dentropycloud",
@@ -5867,7 +5844,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "Research - Blockchain Royalties",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "Questions - Blockchain Royalties",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Blockchain Communities",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
@@ -5925,7 +5901,6 @@
     "76dc52eb-cd8e-423e-b9c3-979fcfc55384": "The Subtle Art of Not Giving a F*ck",
     "051e7911-5b2a-43e8-89be-899447d13e80": "The Singularity Is Near",
     "54df0011-226d-4cc6-b778-196e55d806eb": "The Sims",
-    "1dcd0bf8-f462-45cd-b351-092be7b31637": "The Secret",
     "e0848d37-a95f-432f-ac21-2af2de7db879": "The Secret Teachings of All Ages",
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8": "The Rediscovery of Man",
     "43969bae-648b-428c-9a76-c122025b03bd": "The Pretender",
@@ -6156,7 +6131,8 @@
     "9a7f9967-e0ea-4374-b0c0-ff682eb4d737": "Dunning-Kruger",
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "36 Questions To Fall In Love",
     "2781f257-2980-4661-bc02-635e6cc59112": "Cosmic Sociology",
-    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "20 Axioms of Sociology"
+    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "20 Axioms of Sociology",
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Blockchain Communities"
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
@@ -6178,11 +6154,10 @@
     "Wiki/Research/DAOs/DAO Interrorgation.md": "d2e34182-88c3-4e81-b926-07650ad30ee6",
     "Wiki/Research/DAOs/DAO Incubators.md": "a7402f58-2c31-407a-a435-d98834d6a5d9",
     "Wiki/Research/DAOs/Blockchain Sniff Test.md": "9c289005-e2e3-41fe-93c8-3ab0acabae3f",
-    "Wiki/Research/DAOs/List of DAOs/Sourcecred.md": "4b7fcda9-08f9-4b63-9d65-877690bde53f",
+    "Wiki/Research/DAOs/List of DAOs/Sourcecred DAO.md": "4b7fcda9-08f9-4b63-9d65-877690bde53f",
     "Wiki/Research/DAOs/List of DAOs/Sobol.md": "4d2a9441-0c44-4723-a392-2c8d2ad6601c",
     "Wiki/Research/DAOs/List of DAOs/Proof of Humanity.md": "14df1c24-0732-42bb-abd8-34bb4ddfc0a1",
     "Wiki/Research/DAOs/List of DAOs/Opolis.md": "2ee5e73f-3d36-465e-896b-ba0542dd75ae",
-    "Wiki/Research/DAOs/List of DAOs/Metagame.md": "865ef0eb-56ab-4ac0-ab58-5afedd958460",
     "Wiki/Research/DAOs/List of DAOs/Lex.md": "fbf0de09-d543-4456-847c-57fb27ee4e3d",
     "Wiki/Research/DAOs/List of DAOs/Fraktal DAO.md": "9cc23bdc-e38e-460a-a8d5-93a579fb9bef",
     "Wiki/Research/DAOs/List of DAOs/ENS Dao.md": "78c3cc09-c983-428b-81dc-e78ed7a9c0e7",
@@ -6670,7 +6645,6 @@
     "Wiki/Acronyms/ACID.md": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "Wiki/Acronyms/AAA.md": "f695942a-96ad-4a1f-9f10-cced4ae7bf97",
     "Tutorials/docker nginx proxy with auth.md": "c9972dec-d741-4735-9998-1c81b5e0c192",
-    "Tutorials/Web Scraping.md": "6c19c7df-11cb-401d-a833-bca29d59aa6a",
     "Tutorials/Web Scraping Tutorial.md": "83ffe54f-3356-44ae-9d1a-878ef448fb57",
     "Tutorials/Using the History command on Unix Systems.md": "c01c8156-996f-4a53-97f5-1f287e28f1d6",
     "Tutorials/Umbrel - Secure Install.md": "c14c9c80-6039-4bf8-bb72-0afbaceb08ea",
@@ -7261,12 +7235,12 @@
     "Software/List/neo4j/terms/Properties.md": "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8",
     "Software/List/neo4j/terms/Label.md": "9a90bfb8-aaef-41cf-9681-e20f571c79c3",
     "Software/List/linux/luks.md": "23035396-e01b-4f16-8464-fbf1e18b12a5",
-    "Software/List/linux/logs.md": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "Software/List/linux/change hostname.md": "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc",
     "Software/List/linux/Time.md": "2bf115ab-a6e9-4411-b801-324ac6f06754",
     "Software/List/linux/SELinux.md": "0105f1e0-e6bc-49fd-8f18-37a0593659cc",
     "Software/List/linux/Networking.md": "9fffcfb6-c2b6-4647-9cb6-22189af9e06d",
     "Software/List/linux/Managing Software.md": "52891afa-19b7-4346-bb20-144eaa05b18f",
+    "Software/List/linux/Linux Logs.md": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "Software/List/linux/File Systems.md": "c9b2dcba-6102-40ed-9e31-c41d683e5dd4",
     "Software/List/linux/Cron  Systemd  Process Management.md": "84b3acad-4589-455a-ba83-ebf1ab469036",
     "Software/List/linux/CLI Heuristics.md": "149fa427-0339-425f-997f-cc4a0460eac1",
@@ -7619,12 +7593,10 @@
     "QuestionEngine/Logs/Logs - Context Feed.md": "e26135b0-01e6-4ffd-b515-1478fdb2a1b5",
     "QuestionEngine/Holium Stuff/Memetic Routing Protocol.md": "afec0d76-59fb-48aa-b062-2a562e28eaa1",
     "QuestionEngine/Holium Stuff/Holium User Stories.md": "c73ff582-6cf4-41b1-b791-9bbfe4819878",
-    "QuestionEngine/Holium Stuff/Holium Transaction Types.md": "1c0641f5-1af1-4ce9-9e19-fb8416e5996e",
     "QuestionEngine/DAO Analysis/Thinking Through Creator Reputation Token.md": "d68d4ede-ee87-4422-b04f-eb77b16bdda9",
     "QuestionEngine/DAO Analysis/Private Torrent Tracker DAO Archatype.md": "5c8d263c-c8df-4a78-a952-870b7b78467c",
     "QuestionEngine/DAO Analysis/Media Curation DAO's.md": "b0f5a90a-3b22-4d10-b008-d744f4e79a7d",
     "QuestionEngine/DAO Analysis/Investigating Private Torrent Trackers.md": "618c581d-7359-4027-adb0-ac2b2937f0d0",
-    "QuestionEngine/DAO Analysis/Investigating Private Torrent Trackers 1.md": "9acd21b7-0282-407f-a14a-21c1203dec53",
     "QuestionEngine/DAO Analysis/Appointed Board DAO.md": "dae63116-f8d7-46f5-b753-7e79fc3d17b1",
     "QuestionEngine/Context Feed/Context Feed User Stories.md": "4dbd9d5a-37e4-4b19-b778-f82537c21498",
     "QuestionEngine/Context Feed/Context Feed Transaction Types.md": "53794e4b-fa08-4d96-8fb3-a0ff54e4116f",
@@ -7724,9 +7696,6 @@
     "MyProjects/KMS Analysis/Letters to the Community/Humman Accelerator - Trying to Define A Problem.md": "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "MyProjects/Junk Projects/obsidian-publish + hugo.md": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "MyProjects/Junk Projects/Let's Learn Web Scraping.md": "3dc8dff3-226e-4315-a126-df63912c5265",
-    "MyProjects/Holium White Paper/Redefining Human Insturmentality White Paper v0.0.2.md": "dc0faa57-ac29-446f-b1a7-0c38ee771633",
-    "MyProjects/Holium White Paper/Redefining Human Instrumentality White Paper Outline and Versions.md": "d529d7cc-2073-4451-a7c9-c0125b6f17f9",
-    "MyProjects/Holium White Paper/Redefining Human Instrumentality Directory.md": "7e1a7e96-1b7e-4893-b51e-625206beaa55",
     "MyProjects/ENS Indexing/Logs - ENS Indexing.md": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "MyProjects/ENS Indexing/ENS Indexing.md": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -7920,7 +7889,6 @@
     "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "MyProjects/Blockchain Royalties/Blockchain Communities.md": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -7978,7 +7946,6 @@
     "Media/List/The Subtle Art of Not Giving a F*ck.md": "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "Media/List/The Singularity Is Near.md": "051e7911-5b2a-43e8-89be-899447d13e80",
     "Media/List/The Sims.md": "54df0011-226d-4cc6-b778-196e55d806eb",
-    "Media/List/The Secret.md": "1dcd0bf8-f462-45cd-b351-092be7b31637",
     "Media/List/The Secret Teachings of All Ages.md": "e0848d37-a95f-432f-ac21-2af2de7db879",
     "Media/List/The Rediscovery of Man.md": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "Media/List/The Pretender.md": "43969bae-648b-428c-9a76-c122025b03bd",
@@ -8209,7 +8176,8 @@
     "Heuristics/Effect/Dunning-Kruger.md": "9a7f9967-e0ea-4374-b0c0-ff682eb4d737",
     "Heuristics/Conversation/36 Questions To Fall In Love.md": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Heuristics/Axioms/Cosmic Sociology.md": "2781f257-2980-4661-bc02-635e6cc59112",
-    "Heuristics/Axioms/20 Axioms of Sociology.md": "1db708e2-6a7b-4ba6-8d28-b891508f3c45"
+    "Heuristics/Axioms/20 Axioms of Sociology.md": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "Community/Blockchain Communities.md": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
   },
   "filename_uuid": {
     "165": "1b8c6f90-a2e5-42f9-b484-12432d413ace",
@@ -8235,11 +8203,10 @@
     "DAO Interrorgation": "d2e34182-88c3-4e81-b926-07650ad30ee6",
     "DAO Incubators": "a7402f58-2c31-407a-a435-d98834d6a5d9",
     "Blockchain Sniff Test": "9c289005-e2e3-41fe-93c8-3ab0acabae3f",
-    "Sourcecred": "4b7fcda9-08f9-4b63-9d65-877690bde53f",
+    "Sourcecred DAO": "4b7fcda9-08f9-4b63-9d65-877690bde53f",
     "Sobol": "4d2a9441-0c44-4723-a392-2c8d2ad6601c",
     "Proof of Humanity": "14df1c24-0732-42bb-abd8-34bb4ddfc0a1",
     "Opolis": "2ee5e73f-3d36-465e-896b-ba0542dd75ae",
-    "Metagame": "865ef0eb-56ab-4ac0-ab58-5afedd958460",
     "Lex": "fbf0de09-d543-4456-847c-57fb27ee4e3d",
     "Fraktal DAO": "9cc23bdc-e38e-460a-a8d5-93a579fb9bef",
     "ENS Dao": "78c3cc09-c983-428b-81dc-e78ed7a9c0e7",
@@ -8723,7 +8690,6 @@
     "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "AAA": "f695942a-96ad-4a1f-9f10-cced4ae7bf97",
     "docker nginx proxy with auth": "c9972dec-d741-4735-9998-1c81b5e0c192",
-    "Web Scraping": "a4d5154b-6474-4bb6-8a82-ed04bfc722ab",
     "Web Scraping Tutorial": "83ffe54f-3356-44ae-9d1a-878ef448fb57",
     "Using the History command on Unix Systems": "c01c8156-996f-4a53-97f5-1f287e28f1d6",
     "Umbrel - Secure Install": "c14c9c80-6039-4bf8-bb72-0afbaceb08ea",
@@ -9303,12 +9269,12 @@
     "Properties": "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8",
     "Label": "9a90bfb8-aaef-41cf-9681-e20f571c79c3",
     "luks": "23035396-e01b-4f16-8464-fbf1e18b12a5",
-    "logs": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "change hostname": "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc",
     "Time": "2bf115ab-a6e9-4411-b801-324ac6f06754",
     "SELinux": "0105f1e0-e6bc-49fd-8f18-37a0593659cc",
     "Networking": "e9e0b998-ae2d-4500-bace-1ef9df4c65f8",
     "Managing Software": "52891afa-19b7-4346-bb20-144eaa05b18f",
+    "Linux Logs": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
     "File Systems": "c9b2dcba-6102-40ed-9e31-c41d683e5dd4",
     "Cron  Systemd  Process Management": "84b3acad-4589-455a-ba83-ebf1ab469036",
     "CLI Heuristics": "149fa427-0339-425f-997f-cc4a0460eac1",
@@ -9483,6 +9449,7 @@
     "images": "aa3fa3a8-5c37-4401-9034-219ba4930d81",
     "eBooks": "2eae3e8b-d415-498a-a4f8-88316ebe0843",
     "Website Analytics": "972caf8a-58c6-43b7-9652-9c6962628d48",
+    "Web Scraping": "a4d5154b-6474-4bb6-8a82-ed04bfc722ab",
     "Web Scraping Browser Extensions": "0140c7c3-1132-4be7-b39b-c64380c08ce1",
     "Wallets": "b7cdbb95-2f92-4f9b-a962-05319b6fb6ac",
     "Video Hosting": "6120f326-2493-4e10-b75f-4e2725cb0257",
@@ -9634,12 +9601,10 @@
     "Logs - Context Feed": "e26135b0-01e6-4ffd-b515-1478fdb2a1b5",
     "Memetic Routing Protocol": "afec0d76-59fb-48aa-b062-2a562e28eaa1",
     "Holium User Stories": "c73ff582-6cf4-41b1-b791-9bbfe4819878",
-    "Holium Transaction Types": "1c0641f5-1af1-4ce9-9e19-fb8416e5996e",
     "Thinking Through Creator Reputation Token": "d68d4ede-ee87-4422-b04f-eb77b16bdda9",
     "Private Torrent Tracker DAO Archatype": "5c8d263c-c8df-4a78-a952-870b7b78467c",
     "Media Curation DAO's": "b0f5a90a-3b22-4d10-b008-d744f4e79a7d",
     "Investigating Private Torrent Trackers": "618c581d-7359-4027-adb0-ac2b2937f0d0",
-    "Investigating Private Torrent Trackers 1": "9acd21b7-0282-407f-a14a-21c1203dec53",
     "Appointed Board DAO": "dae63116-f8d7-46f5-b753-7e79fc3d17b1",
     "Context Feed User Stories": "4dbd9d5a-37e4-4b19-b778-f82537c21498",
     "Context Feed Transaction Types": "53794e4b-fa08-4d96-8fb3-a0ff54e4116f",
@@ -9736,9 +9701,6 @@
     "Humman Accelerator - Trying to Define A Problem": "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "obsidian-publish + hugo": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "Let's Learn Web Scraping": "3dc8dff3-226e-4315-a126-df63912c5265",
-    "Redefining Human Insturmentality White Paper v0": "dc0faa57-ac29-446f-b1a7-0c38ee771633",
-    "Redefining Human Instrumentality White Paper Outline and Versions": "d529d7cc-2073-4451-a7c9-c0125b6f17f9",
-    "Redefining Human Instrumentality Directory": "7e1a7e96-1b7e-4893-b51e-625206beaa55",
     "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "ENS Indexing": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "dentropycloud": "e98a394d-7608-4f7b-916e-d4863e6aa62a",
@@ -9894,7 +9856,6 @@
     "Research - Blockchain Royalties": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "Questions - Blockchain Royalties": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -9951,7 +9912,6 @@
     "The Subtle Art of Not Giving a F*ck": "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "The Singularity Is Near": "051e7911-5b2a-43e8-89be-899447d13e80",
     "The Sims": "54df0011-226d-4cc6-b778-196e55d806eb",
-    "The Secret": "1dcd0bf8-f462-45cd-b351-092be7b31637",
     "The Secret Teachings of All Ages": "e0848d37-a95f-432f-ac21-2af2de7db879",
     "The Rediscovery of Man": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "The Pretender": "43969bae-648b-428c-9a76-c122025b03bd",
@@ -10181,7 +10141,8 @@
     "Dunning-Kruger": "9a7f9967-e0ea-4374-b0c0-ff682eb4d737",
     "36 Questions To Fall In Love": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Cosmic Sociology": "2781f257-2980-4661-bc02-635e6cc59112",
-    "20 Axioms of Sociology": "1db708e2-6a7b-4ba6-8d28-b891508f3c45"
+    "20 Axioms of Sociology": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
   },
   "yaml_uuid": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": {
@@ -10282,7 +10243,7 @@
     "4b7fcda9-08f9-4b63-9d65-877690bde53f": {
       "share": true,
       "uuid": "4b7fcda9-08f9-4b63-9d65-877690bde53f",
-      "title": "Sourcecred"
+      "title": "Sourcecred DAO"
     },
     "4d2a9441-0c44-4723-a392-2c8d2ad6601c": {
       "share": true,
@@ -10298,11 +10259,6 @@
       "share": true,
       "uuid": "2ee5e73f-3d36-465e-896b-ba0542dd75ae",
       "title": "Opolis"
-    },
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460": {
-      "share": true,
-      "uuid": "865ef0eb-56ab-4ac0-ab58-5afedd958460",
-      "title": "Metagame"
     },
     "fbf0de09-d543-4456-847c-57fb27ee4e3d": {
       "share": true,
@@ -12738,11 +12694,6 @@
       "share": true,
       "uuid": "c9972dec-d741-4735-9998-1c81b5e0c192",
       "title": "docker nginx proxy with auth"
-    },
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a": {
-      "share": true,
-      "uuid": "6c19c7df-11cb-401d-a833-bca29d59aa6a",
-      "title": "Web Scraping"
     },
     "83ffe54f-3356-44ae-9d1a-878ef448fb57": {
       "share": true,
@@ -15694,11 +15645,6 @@
       "uuid": "23035396-e01b-4f16-8464-fbf1e18b12a5",
       "title": "luks"
     },
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2": {
-      "share": true,
-      "uuid": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
-      "title": "logs"
-    },
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc": {
       "share": true,
       "uuid": "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc",
@@ -15723,6 +15669,11 @@
       "share": true,
       "uuid": "52891afa-19b7-4346-bb20-144eaa05b18f",
       "title": "Managing Software"
+    },
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2": {
+      "share": true,
+      "uuid": "767e388b-3e3b-40bb-b2f8-557f28da89e2",
+      "title": "Linux Logs"
     },
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4": {
       "share": true,
@@ -17484,11 +17435,6 @@
       "uuid": "c73ff582-6cf4-41b1-b791-9bbfe4819878",
       "title": "Holium User Stories"
     },
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e": {
-      "share": true,
-      "uuid": "1c0641f5-1af1-4ce9-9e19-fb8416e5996e",
-      "title": "Holium Transaction Types"
-    },
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9": {
       "share": true,
       "uuid": "d68d4ede-ee87-4422-b04f-eb77b16bdda9",
@@ -17508,11 +17454,6 @@
       "share": true,
       "uuid": "618c581d-7359-4027-adb0-ac2b2937f0d0",
       "title": "Investigating Private Torrent Trackers"
-    },
-    "9acd21b7-0282-407f-a14a-21c1203dec53": {
-      "share": true,
-      "uuid": "9acd21b7-0282-407f-a14a-21c1203dec53",
-      "title": "Investigating Private Torrent Trackers 1"
     },
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1": {
       "share": true,
@@ -18008,21 +17949,6 @@
       "share": true,
       "uuid": "3dc8dff3-226e-4315-a126-df63912c5265",
       "title": "Let's Learn Web Scraping"
-    },
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633": {
-      "uuid": "dc0faa57-ac29-446f-b1a7-0c38ee771633",
-      "share": true,
-      "title": "Redefining Human Insturmentality White Paper v0"
-    },
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9": {
-      "uuid": "d529d7cc-2073-4451-a7c9-c0125b6f17f9",
-      "share": true,
-      "title": "Redefining Human Instrumentality White Paper Outline and Versions"
-    },
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55": {
-      "uuid": "7e1a7e96-1b7e-4893-b51e-625206beaa55",
-      "share": true,
-      "title": "Redefining Human Instrumentality Directory"
     },
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": {
       "share": true,
@@ -18989,11 +18915,6 @@
       "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6",
       "title": "Logs - Blockchain Royalties"
     },
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": {
-      "share": true,
-      "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
-      "title": "Blockchain Communities"
-    },
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": {
       "share": true,
       "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
@@ -19278,11 +19199,6 @@
       "share": true,
       "uuid": "54df0011-226d-4cc6-b778-196e55d806eb",
       "title": "The Sims"
-    },
-    "1dcd0bf8-f462-45cd-b351-092be7b31637": {
-      "share": true,
-      "uuid": "1dcd0bf8-f462-45cd-b351-092be7b31637",
-      "title": "The Secret"
     },
     "e0848d37-a95f-432f-ac21-2af2de7db879": {
       "share": true,
@@ -20438,6 +20354,11 @@
       "share": true,
       "uuid": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
       "title": "20 Axioms of Sociology"
+    },
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": {
+      "share": true,
+      "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
+      "title": "Blockchain Communities"
     }
   },
   "images": [
@@ -20554,7 +20475,7 @@
             "uuid": "9c289005-e2e3-41fe-93c8-3ab0acabae3f"
           },
           "List of DAOs": {
-            "Sourcecred.md": {
+            "Sourcecred DAO.md": {
               "uuid": "4b7fcda9-08f9-4b63-9d65-877690bde53f"
             },
             "Sobol.md": {
@@ -20565,9 +20486,6 @@
             },
             "Opolis.md": {
               "uuid": "2ee5e73f-3d36-465e-896b-ba0542dd75ae"
-            },
-            "Metagame.md": {
-              "uuid": "865ef0eb-56ab-4ac0-ab58-5afedd958460"
             },
             "Lex.md": {
               "uuid": "fbf0de09-d543-4456-847c-57fb27ee4e3d"
@@ -22078,9 +21996,6 @@
     "Tutorials": {
       "docker nginx proxy with auth.md": {
         "uuid": "c9972dec-d741-4735-9998-1c81b5e0c192"
-      },
-      "Web Scraping.md": {
-        "uuid": "6c19c7df-11cb-401d-a833-bca29d59aa6a"
       },
       "Web Scraping Tutorial.md": {
         "uuid": "83ffe54f-3356-44ae-9d1a-878ef448fb57"
@@ -23886,9 +23801,6 @@
           "luks.md": {
             "uuid": "23035396-e01b-4f16-8464-fbf1e18b12a5"
           },
-          "logs.md": {
-            "uuid": "767e388b-3e3b-40bb-b2f8-557f28da89e2"
-          },
           "change hostname.md": {
             "uuid": "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc"
           },
@@ -23903,6 +23815,9 @@
           },
           "Managing Software.md": {
             "uuid": "52891afa-19b7-4346-bb20-144eaa05b18f"
+          },
+          "Linux Logs.md": {
+            "uuid": "767e388b-3e3b-40bb-b2f8-557f28da89e2"
           },
           "File Systems.md": {
             "uuid": "c9b2dcba-6102-40ed-9e31-c41d683e5dd4"
@@ -25148,9 +25063,6 @@
         },
         "Holium User Stories.md": {
           "uuid": "c73ff582-6cf4-41b1-b791-9bbfe4819878"
-        },
-        "Holium Transaction Types.md": {
-          "uuid": "1c0641f5-1af1-4ce9-9e19-fb8416e5996e"
         }
       },
       "DAO Analysis": {
@@ -25165,9 +25077,6 @@
         },
         "Investigating Private Torrent Trackers.md": {
           "uuid": "618c581d-7359-4027-adb0-ac2b2937f0d0"
-        },
-        "Investigating Private Torrent Trackers 1.md": {
-          "uuid": "9acd21b7-0282-407f-a14a-21c1203dec53"
         },
         "Appointed Board DAO.md": {
           "uuid": "dae63116-f8d7-46f5-b753-7e79fc3d17b1"
@@ -25511,17 +25420,6 @@
         },
         "Let's Learn Web Scraping.md": {
           "uuid": "3dc8dff3-226e-4315-a126-df63912c5265"
-        }
-      },
-      "Holium White Paper": {
-        "Redefining Human Insturmentality White Paper v0.0.2.md": {
-          "uuid": "dc0faa57-ac29-446f-b1a7-0c38ee771633"
-        },
-        "Redefining Human Instrumentality White Paper Outline and Versions.md": {
-          "uuid": "d529d7cc-2073-4451-a7c9-c0125b6f17f9"
-        },
-        "Redefining Human Instrumentality Directory.md": {
-          "uuid": "7e1a7e96-1b7e-4893-b51e-625206beaa55"
         }
       },
       "ENS Indexing": {
@@ -26181,9 +26079,6 @@
         },
         "Logs - Blockchain Royalties.md": {
           "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6"
-        },
-        "Blockchain Communities.md": {
-          "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
         }
       }
     },
@@ -26365,9 +26260,6 @@
         },
         "The Sims.md": {
           "uuid": "54df0011-226d-4cc6-b778-196e55d806eb"
-        },
-        "The Secret.md": {
-          "uuid": "1dcd0bf8-f462-45cd-b351-092be7b31637"
         },
         "The Secret Teachings of All Ages.md": {
           "uuid": "e0848d37-a95f-432f-ac21-2af2de7db879"
@@ -27119,6 +27011,11 @@
           "uuid": "1db708e2-6a7b-4ba6-8d28-b891508f3c45"
         }
       }
+    },
+    "Community": {
+      "Blockchain Communities.md": {
+        "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
+      }
     }
   },
   "embedded_note_links": {
@@ -27156,7 +27053,6 @@
     "4d2a9441-0c44-4723-a392-2c8d2ad6601c": [],
     "14df1c24-0732-42bb-abd8-34bb4ddfc0a1": [],
     "2ee5e73f-3d36-465e-896b-ba0542dd75ae": [],
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460": [],
     "fbf0de09-d543-4456-847c-57fb27ee4e3d": [],
     "9cc23bdc-e38e-460a-a8d5-93a579fb9bef": [],
     "78c3cc09-c983-428b-81dc-e78ed7a9c0e7": [],
@@ -27724,7 +27620,6 @@
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": [],
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": [],
     "c9972dec-d741-4735-9998-1c81b5e0c192": [],
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a": [],
     "83ffe54f-3356-44ae-9d1a-878ef448fb57": [],
     "c01c8156-996f-4a53-97f5-1f287e28f1d6": [],
     "c14c9c80-6039-4bf8-bb72-0afbaceb08ea": [
@@ -28335,7 +28230,6 @@
     "a73228c1-fa70-4ec0-9e0e-ee251c5ce2b8": [],
     "9a90bfb8-aaef-41cf-9681-e20f571c79c3": [],
     "23035396-e01b-4f16-8464-fbf1e18b12a5": [],
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2": [],
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc": [],
     "2bf115ab-a6e9-4411-b801-324ac6f06754": [],
     "0105f1e0-e6bc-49fd-8f18-37a0593659cc": [],
@@ -28346,6 +28240,7 @@
       }
     ],
     "52891afa-19b7-4346-bb20-144eaa05b18f": [],
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2": [],
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4": [],
     "84b3acad-4589-455a-ba83-ebf1ab469036": [],
     "149fa427-0339-425f-997f-cc4a0460eac1": [],
@@ -28671,12 +28566,7 @@
         "heading": ""
       }
     ],
-    "a421f02e-264c-4885-acdc-18b08cdc678e": [
-      {
-        "text": "Logs - dentropys-obsidian-publisher",
-        "heading": "Feature Backlog"
-      }
-    ],
+    "a421f02e-264c-4885-acdc-18b08cdc678e": [],
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": [],
     "344c2005-e043-44c9-82a2-1ae504cdee33": [],
     "645edce8-3a74-423c-a889-6fec0c1beaa9": [],
@@ -28877,12 +28767,10 @@
     "e26135b0-01e6-4ffd-b515-1478fdb2a1b5": [],
     "afec0d76-59fb-48aa-b062-2a562e28eaa1": [],
     "c73ff582-6cf4-41b1-b791-9bbfe4819878": [],
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e": [],
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9": [],
     "5c8d263c-c8df-4a78-a952-870b7b78467c": [],
     "b0f5a90a-3b22-4d10-b008-d744f4e79a7d": [],
     "618c581d-7359-4027-adb0-ac2b2937f0d0": [],
-    "9acd21b7-0282-407f-a14a-21c1203dec53": [],
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1": [],
     "4dbd9d5a-37e4-4b19-b778-f82537c21498": [],
     "53794e4b-fa08-4d96-8fb3-a0ff54e4116f": [],
@@ -29021,14 +28909,6 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": [],
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": [],
     "3dc8dff3-226e-4315-a126-df63912c5265": [],
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633": [],
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9": [],
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55": [
-      {
-        "text": "Pasted image 20230610150902.png",
-        "heading": ""
-      }
-    ],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [],
     "28740a43-67c5-4930-8b5c-41c06e659c6a": [],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
@@ -29232,7 +29112,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": [],
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": [],
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
@@ -29290,7 +29169,6 @@
     "76dc52eb-cd8e-423e-b9c3-979fcfc55384": [],
     "051e7911-5b2a-43e8-89be-899447d13e80": [],
     "54df0011-226d-4cc6-b778-196e55d806eb": [],
-    "1dcd0bf8-f462-45cd-b351-092be7b31637": [],
     "e0848d37-a95f-432f-ac21-2af2de7db879": [],
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8": [],
     "43969bae-648b-428c-9a76-c122025b03bd": [],
@@ -29530,7 +29408,8 @@
     "9a7f9967-e0ea-4374-b0c0-ff682eb4d737": [],
     "4b4921f5-3d0d-4698-ad55-434e6c117943": [],
     "2781f257-2980-4661-bc02-635e6cc59112": [],
-    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": []
+    "1db708e2-6a7b-4ba6-8d28-b891508f3c45": [],
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": []
   },
   "note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [
@@ -29953,6 +29832,9 @@
         "text": "ELI5 what is up with Urbit L2"
       },
       {
+        "text": "How many planets booted?"
+      },
+      {
         "text": "Logs - Contextualizing Azimuth"
       }
     ],
@@ -29984,13 +29866,7 @@
     "9c289005-e2e3-41fe-93c8-3ab0acabae3f": [],
     "4b7fcda9-08f9-4b63-9d65-877690bde53f": [
       {
-        "text": "https://roamresearch.com/#/app/SourceCred/page/F2TN61FYN"
-      },
-      {
-        "text": "daily.journal.2021.11.24"
-      },
-      {
-        "text": "Relationships.People.Shashank Padala.ALOYSIOUS"
+        "text": "ALOYSIOUS"
       },
       {
         "text": "https://sourcecred.io/docs#so-what-is-sourcecred"
@@ -30021,7 +29897,6 @@
         "text": "swarmio.Swarmio Research.DAOs.list.Sobol"
       }
     ],
-    "865ef0eb-56ab-4ac0-ab58-5afedd958460": [],
     "fbf0de09-d543-4456-847c-57fb27ee4e3d": [],
     "9cc23bdc-e38e-460a-a8d5-93a579fb9bef": [
       {
@@ -30560,10 +30435,8 @@
     ],
     "19a688e9-c7c0-4860-9007-4f07778049f9": [
       {
-        "text": "media.list.Financial Services Revolution: How Blockchain is Transforming Money, Markets, and Banking"
-      },
-      {
-        "text": "wiki.concepts.list.bitcoin"
+        "link": "661f0e89-294a-4700-b640-2b11b5ed1f19",
+        "text": "bitcoin"
       }
     ],
     "661f0e89-294a-4700-b640-2b11b5ed1f19": [
@@ -30615,7 +30488,7 @@
         "text": "Relationships.People.Jason#jason"
       },
       {
-        "text": "Community.list.ComplexityWeekend"
+        "text": "Complexity Weekend"
       }
     ],
     "ba556fc4-5521-4ac8-95e1-f055e61d90f4": [],
@@ -31910,7 +31783,6 @@
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": [],
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": [],
     "c9972dec-d741-4735-9998-1c81b5e0c192": [],
-    "6c19c7df-11cb-401d-a833-bca29d59aa6a": [],
     "83ffe54f-3356-44ae-9d1a-878ef448fb57": [
       {
         "link": "dd43be98-5e8e-45b2-b279-6cfb7474bba9",
@@ -33955,7 +33827,8 @@
     "e10bdd5e-16bb-4c28-9839-f83ffe7f5b02": [],
     "9158b8fa-8cd1-4fe7-af66-8f4cccde3c79": [
       {
-        "text": "dentropydaemon-wiki/Software/List/Synapse for Matrix Protocol"
+        "link": "54fe7bec-84b3-482e-ba8f-24c47286934e",
+        "text": "Synapse for Matrix Protocol"
       }
     ],
     "c7a66d7a-c239-405f-bbe6-1f210e0b3f3b": [
@@ -34251,10 +34124,14 @@
     "41a08157-3b15-4c2a-8836-35b97fa97131": [],
     "c01a2d70-0b4b-4ba3-9149-928494bb231b": [
       {
-        "text": "wiki.media.list.do androids dream of electric sheep"
+        "link": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
+        "text": "ActivityWatch Experiments"
       },
       {
-        "text": "media.list.Bold"
+        "text": "Where is sqlite database for ActivityWatch?"
+      },
+      {
+        "text": "wiki.media.list.do androids dream of electric sheep"
       }
     ],
     "d21e6cea-b431-4e16-a547-021fc24f2352": [],
@@ -34401,12 +34278,12 @@
       }
     ],
     "23035396-e01b-4f16-8464-fbf1e18b12a5": [],
-    "767e388b-3e3b-40bb-b2f8-557f28da89e2": [],
     "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc": [],
     "2bf115ab-a6e9-4411-b801-324ac6f06754": [],
     "0105f1e0-e6bc-49fd-8f18-37a0593659cc": [],
     "9fffcfb6-c2b6-4647-9cb6-22189af9e06d": [],
     "52891afa-19b7-4346-bb20-144eaa05b18f": [],
+    "767e388b-3e3b-40bb-b2f8-557f28da89e2": [],
     "c9b2dcba-6102-40ed-9e31-c41d683e5dd4": [
       {
         "text": "wiki.software.list.linux.File Systems.File System Basics"
@@ -34900,7 +34777,8 @@
     ],
     "2eae3e8b-d415-498a-a4f8-88316ebe0843": [
       {
-        "text": "wiki.software.Catagories.Annotation"
+        "link": "02313f15-9c64-4b12-9c56-383ff9adcdf3",
+        "text": "Annotation"
       }
     ],
     "972caf8a-58c6-43b7-9652-9c6962628d48": [],
@@ -34983,19 +34861,19 @@
     "57bca37b-c176-4cc1-8891-6fb9e16b22fc": [
       {
         "link": "ec8c9244-b8d5-43ec-9432-cad045c075e5",
-        "text": "wiki.ddaemon.monorepo.bindings.proposed.Telegram"
+        "text": "Telegram Binding"
       },
       {
-        "link": "65f9c304-affc-4dc5-bde9-43994e99b2b9",
-        "text": "wiki.ddaemon.monorepo.bindings.keybase"
+        "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
+        "text": "Keybase Binding"
       },
       {
         "link": "04a10593-c9c5-43ce-a8f0-d457f2353d88",
-        "text": "wiki.ddaemon.monorepo.bindings.proposed.Whatsapp"
+        "text": "Whatsapp Binding"
       },
       {
         "link": "3f2b1b8f-6760-42c4-b752-b80f5ae60057",
-        "text": "wiki.ddaemon.monorepo.bindings.proposed.Facebook"
+        "text": "Facebook Binding"
       }
     ],
     "c938becf-734b-4f55-b075-28fa6a24bea5": [
@@ -36438,7 +36316,8 @@
         "text": "Logs - DAO Research"
       },
       {
-        "text": "dentropydaemon-wiki/Wiki/Research/DAOs/DAO Research Home"
+        "link": "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7",
+        "text": "DAO Research Home"
       },
       {
         "link": "d68d4ede-ee87-4422-b04f-eb77b16bdda9",
@@ -36718,7 +36597,6 @@
     "4625a1ff-3de7-4d75-ad50-09b13d6949f1": [],
     "c80871f3-af43-45f8-a562-d84fdd046608": [
       {
-        "link": "7e1a7e96-1b7e-4893-b51e-625206beaa55",
         "text": "Redefining Human Instrumentality Directory"
       },
       {
@@ -36762,7 +36640,6 @@
     ],
     "afec0d76-59fb-48aa-b062-2a562e28eaa1": [],
     "c73ff582-6cf4-41b1-b791-9bbfe4819878": [],
-    "1c0641f5-1af1-4ce9-9e19-fb8416e5996e": [],
     "d68d4ede-ee87-4422-b04f-eb77b16bdda9": [
       {
         "text": "dentropydaemon-wiki/Software/List/Gnosis Safe 1"
@@ -36803,7 +36680,6 @@
       }
     ],
     "618c581d-7359-4027-adb0-ac2b2937f0d0": [],
-    "9acd21b7-0282-407f-a14a-21c1203dec53": [],
     "dae63116-f8d7-46f5-b753-7e79fc3d17b1": [
       {
         "text": "dentropydaemon-wiki/Wiki/Concepts/List/Appointed Board"
@@ -36815,7 +36691,8 @@
         "text": "dentropydaemon-wiki/Wiki/Concepts/List/Appointed Board"
       },
       {
-        "text": "dentropydaemon-wiki/Software/List/Gnosis Safe 1"
+        "link": "86cef5db-02ab-4632-ad1d-6141a185f418",
+        "text": "Gnosis Safe"
       }
     ],
     "4dbd9d5a-37e4-4b19-b778-f82537c21498": [],
@@ -37323,6 +37200,7 @@
         "text": "wiki.media.list.Old Man s War"
       },
       {
+        "link": "6472852f-3e10-4551-941d-95a970870d7c",
         "text": "wiki.concepts.list.FAANG"
       },
       {
@@ -38167,208 +38045,6 @@
         "text": "dentropydaemon-wiki/Media/List/Fandom.com"
       }
     ],
-    "dc0faa57-ac29-446f-b1a7-0c38ee771633": [
-      {
-        "text": "Realm Token Clear Paper"
-      },
-      {
-        "text": "What are we to do with our lives?"
-      },
-      {
-        "link": "a532d417-d6c1-4af0-a2cf-3b33ee4f9a67",
-        "text": "\"The Open Conspiracy: Blue Prints for a World Revolution\""
-      },
-      {
-        "link": "d1b154d8-010c-4266-b18f-064092dc272b",
-        "text": "Fake Internet Theory"
-      },
-      {
-        "text": "Sword Art Online"
-      },
-      {
-        "text": "Appcoins"
-      }
-    ],
-    "d529d7cc-2073-4451-a7c9-c0125b6f17f9": [
-      {
-        "text": "Redefining Human Insturmentality White Paper v0.0.1"
-      },
-      {
-        "text": "Redefining Human Insturmentality White Paper v0.0.2"
-      },
-      {
-        "link": "a532d417-d6c1-4af0-a2cf-3b33ee4f9a67",
-        "text": "An Open Conspiracy"
-      },
-      {
-        "text": "Peter Zeihan"
-      },
-      {
-        "text": "The End of the World Is Just the Beginning"
-      },
-      {
-        "text": "Thomas Sowell"
-      },
-      {
-        "text": "Constrained verses Open Vision"
-      },
-      {
-        "link": "f59c2d75-4642-49d2-b90d-fa62b0594a63",
-        "text": "Game Seed"
-      },
-      {
-        "text": "Sword Art Online"
-      },
-      {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
-      },
-      {
-        "link": "6aef6fe9-4c4e-4f3a-850c-e163e2303f81",
-        "text": "KMS - Knowledge Management Systems"
-      },
-      {
-        "text": "Appcoins"
-      },
-      {
-        "text": "AWS Mechanical Turk"
-      },
-      {
-        "text": "Chainlink"
-      },
-      {
-        "text": "Augar"
-      },
-      {
-        "link": "86cef5db-02ab-4632-ad1d-6141a185f418",
-        "text": "Gnosis Safe"
-      },
-      {
-        "link": "b24ee33c-b3bb-400e-ac10-fe833a536955",
-        "text": "Snapshot"
-      },
-      {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
-      },
-      {
-        "link": "45ae90e1-c4fd-4d7a-b290-a4050b37b573",
-        "text": "seduce"
-      }
-    ],
-    "7e1a7e96-1b7e-4893-b51e-625206beaa55": [
-      {
-        "text": "Reading Realm token strategy overview"
-      },
-      {
-        "link": "4edd1389-1223-4dfa-b004-7fd601c714ad",
-        "text": "White Paper and Project Summaries"
-      },
-      {
-        "link": "3ebc2356-8b1a-42a2-8136-9e693039c00f",
-        "text": "White Paper and Project Outlines"
-      },
-      {
-        "link": "d529d7cc-2073-4451-a7c9-c0125b6f17f9",
-        "text": "Redefining Human Instrumentality White Paper Outline and Versions"
-      },
-      {
-        "text": "Redefining Human Instrumentality Brain Goop"
-      },
-      {
-        "text": "Situation Scan"
-      },
-      {
-        "link": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
-        "text": "The Rediscovery of Man"
-      },
-      {
-        "text": "What problem are we trying to solve?"
-      },
-      {
-        "text": "Token Types"
-      },
-      {
-        "text": "Blockchain Tournaments Proposal"
-      },
-      {
-        "text": "Blockchain Oracle"
-      },
-      {
-        "text": "Play to Earn"
-      },
-      {
-        "text": "NFT Questions"
-      },
-      {
-        "text": "Blockchain Gaming Projects"
-      },
-      {
-        "text": "Tokenomics"
-      },
-      {
-        "text": "Livepeer"
-      },
-      {
-        "text": "Theta THETA"
-      },
-      {
-        "text": "Basic Attention Token  BAT"
-      },
-      {
-        "text": "ENS Token"
-      },
-      {
-        "text": "Ocean Protocol"
-      },
-      {
-        "text": "NFT Shit"
-      },
-      {
-        "text": "MyProjects/Holium/Research/Product Research/Axie Infinity"
-      },
-      {
-        "text": "Blockchain Oracle"
-      },
-      {
-        "text": "Chainlink"
-      },
-      {
-        "text": "Augar"
-      },
-      {
-        "text": "Play to Earn"
-      },
-      {
-        "link": "3079829e-6163-4297-9701-ba03086bde7d",
-        "text": "Decentraland"
-      },
-      {
-        "text": "The Sandbox"
-      },
-      {
-        "text": "MyNeighborAlice"
-      },
-      {
-        "text": "Firstblood"
-      },
-      {
-        "link": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7",
-        "text": "Decentralized Storage"
-      },
-      {
-        "text": "Arweave"
-      },
-      {
-        "text": "Filecoin"
-      },
-      {
-        "text": "Storj"
-      },
-      {
-        "text": "Curtis Yarvin"
-      }
-    ],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [
       {
         "link": "28740a43-67c5-4930-8b5c-41c06e659c6a",
@@ -38642,6 +38318,9 @@
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": [],
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": [
       {
+        "text": "Logs Merge ActivityWatch Exports"
+      },
+      {
         "text": "https://docs.activitywatch.net/en/latest/directories.html#data-directory"
       },
       {
@@ -38661,10 +38340,8 @@
     ],
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": [
       {
-        "text": "dentropydaemon-wiki/Software/List/Telegram"
-      },
-      {
-        "text": "karlicoss/telegram-backup-to-txt: Tool to dump telegram into text files for quick search (e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep|[e.g. with grep)"
+        "link": "0f693b68-2bb2-4679-8665-e25024c47a34",
+        "text": "Telegram"
       }
     ],
     "2ab15421-459c-4512-914e-4431809b210a": [
@@ -38912,6 +38589,9 @@
       }
     ],
     "16cc922f-56ea-422e-95be-72f5f55e4111": [
+      {
+        "text": "Discord Binding Logs"
+      },
       {
         "text": "Discord Binding Logs"
       },
@@ -40663,7 +40343,6 @@
         "text": "2022-11-29"
       }
     ],
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [
       {
         "text": "[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)"
@@ -40987,7 +40666,6 @@
       }
     ],
     "54df0011-226d-4cc6-b778-196e55d806eb": [],
-    "1dcd0bf8-f462-45cd-b351-092be7b31637": [],
     "e0848d37-a95f-432f-ac21-2af2de7db879": [],
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8": [
       {
@@ -41453,7 +41131,7 @@
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": [],
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": [
       {
-        "text": "wiki.media.type.books"
+        "text": "Software/Catagories/eBooks"
       },
       {
         "text": "research.Mission vs Vision Statements"
@@ -42007,6 +41685,7 @@
         "link": "4ca766d9-10c8-45c0-bf2c-db54930cb94d",
         "text": "wiki.concepts.list.humor"
       }
-    ]
+    ],
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": []
   }
 }

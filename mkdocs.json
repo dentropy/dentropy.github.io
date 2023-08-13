@@ -203,9 +203,6 @@
                 "luks": "23035396-e01b-4f16-8464-fbf1e18b12a5"
               },
               {
-                "logs": "767e388b-3e3b-40bb-b2f8-557f28da89e2"
-              },
-              {
                 "change hostname": "fa7e2ea0-5f10-44ea-96cc-2cecdac933fc"
               },
               {
@@ -219,6 +216,9 @@
               },
               {
                 "Managing Software": "52891afa-19b7-4346-bb20-144eaa05b18f"
+              },
+              {
+                "Linux Logs": "767e388b-3e3b-40bb-b2f8-557f28da89e2"
               },
               {
                 "File Systems": "c9b2dcba-6102-40ed-9e31-c41d683e5dd4"
@@ -3666,19 +3666,6 @@
         ]
       },
       {
-        "Holium White Paper": [
-          {
-            "Redefining Human Insturmentality White Paper v0.0.2": "dc0faa57-ac29-446f-b1a7-0c38ee771633"
-          },
-          {
-            "Redefining Human Instrumentality White Paper Outline and Versions": "d529d7cc-2073-4451-a7c9-c0125b6f17f9"
-          },
-          {
-            "Redefining Human Instrumentality Directory": "7e1a7e96-1b7e-4893-b51e-625206beaa55"
-          }
-        ]
-      },
-      {
         "ENS Indexing": [
           {
             "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf"
@@ -3698,9 +3685,6 @@
           },
           {
             "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6"
-          },
-          {
-            "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
           }
         ]
       },
@@ -5106,7 +5090,7 @@
               {
                 "List of DAOs": [
                   {
-                    "Sourcecred": "4b7fcda9-08f9-4b63-9d65-877690bde53f"
+                    "Sourcecred DAO": "4b7fcda9-08f9-4b63-9d65-877690bde53f"
                   },
                   {
                     "Sobol": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
@@ -5116,9 +5100,6 @@
                   },
                   {
                     "Opolis": "2ee5e73f-3d36-465e-896b-ba0542dd75ae"
-                  },
-                  {
-                    "Metagame": "865ef0eb-56ab-4ac0-ab58-5afedd958460"
                   },
                   {
                     "Lex": "fbf0de09-d543-4456-847c-57fb27ee4e3d"
@@ -5658,9 +5639,6 @@
           },
           {
             "The Sims": "54df0011-226d-4cc6-b778-196e55d806eb"
-          },
-          {
-            "The Secret": "1dcd0bf8-f462-45cd-b351-092be7b31637"
           },
           {
             "The Secret Teachings of All Ages": "e0848d37-a95f-432f-ac21-2af2de7db879"
@@ -6715,9 +6693,6 @@
         "docker nginx proxy with auth": "c9972dec-d741-4735-9998-1c81b5e0c192"
       },
       {
-        "Web Scraping": "6c19c7df-11cb-401d-a833-bca29d59aa6a"
-      },
-      {
         "Web Scraping Tutorial": "83ffe54f-3356-44ae-9d1a-878ef448fb57"
       },
       {
@@ -6928,9 +6903,6 @@
           },
           {
             "Holium User Stories": "c73ff582-6cf4-41b1-b791-9bbfe4819878"
-          },
-          {
-            "Holium Transaction Types": "1c0641f5-1af1-4ce9-9e19-fb8416e5996e"
           }
         ]
       },
@@ -6947,9 +6919,6 @@
           },
           {
             "Investigating Private Torrent Trackers": "618c581d-7359-4027-adb0-ac2b2937f0d0"
-          },
-          {
-            "Investigating Private Torrent Trackers 1": "9acd21b7-0282-407f-a14a-21c1203dec53"
           },
           {
             "Appointed Board DAO": "dae63116-f8d7-46f5-b753-7e79fc3d17b1"
@@ -7082,6 +7051,13 @@
     "Ideas": [
       {
         "Functional Programming applied to memes": "1bcf09cd-6a42-4d1f-8bb7-09ac5262396a"
+      }
+    ]
+  },
+  {
+    "Community": [
+      {
+        "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
       }
     ]
   },
