@@ -5761,7 +5761,7 @@
             "Outline Your Life": "96c0ff92-7cea-4138-bf9b-f4601fcf670f"
           },
           {
-            "Open Source Inteligence": "186d92ba-1238-4523-8dfb-6520f90b88cf"
+            "Open Source Intelligence - Book": "186d92ba-1238-4523-8dfb-6520f90b88cf"
           },
           {
             "Old Man s War": "a4b61ba6-0298-4022-a2e2-9901cc8aebe0"
@@ -6772,6 +6772,9 @@
             "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61"
           },
           {
+            "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638"
+          },
+          {
             "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
           },
           {
@@ -7011,7 +7014,7 @@
         "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
       },
       {
-        "Schema - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
+        "Schema 0.0.x - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
       },
       {
         "Roadmap - Question Engine": "a421f02e-264c-4885-acdc-18b08cdc678e"

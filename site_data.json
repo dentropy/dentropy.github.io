@@ -1417,6 +1417,7 @@
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
+    "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
     "c62c2add-e005-4a80-b6f9-370612abc42d",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -3462,10 +3463,11 @@
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions/Questions for Question Engine.md",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Questions/list/Why am I building Question Engine?.md",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "Questions/list/What is the Mimetic File System?.md",
+    "e0fcec25-9225-4926-bfc3-8318ec40a638": "Questions/list/What is cognitive computing?.md",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "Questions/list/How to conduct user research through surveys?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
-    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema - QE.md",
+    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema 0.0.x - QE.md",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "QuestionEngine/Roadmap - Question Engine.md",
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "QuestionEngine/Pages Screens - QE.md",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "QuestionEngine/Initial Questions for Question Engine.md",
@@ -3896,7 +3898,7 @@
     "91c882b1-420a-4a1d-bab9-ae264ea6071f": "Media/List/Person of Interest.md",
     "e978d88a-4e23-41fb-81bf-f1f60ccdd6e4": "Media/List/PHILOSOPHY - Mind: Mind-Body Dualism.md",
     "96c0ff92-7cea-4138-bf9b-f4601fcf670f": "Media/List/Outline Your Life.md",
-    "186d92ba-1238-4523-8dfb-6520f90b88cf": "Media/List/Open Source Inteligence.md",
+    "186d92ba-1238-4523-8dfb-6520f90b88cf": "Media/List/Open Source Intelligence - Book.md",
     "a4b61ba6-0298-4022-a2e2-9901cc8aebe0": "Media/List/Old Man s War.md",
     "2b9df8f4-5647-4d9f-92d0-84f7e8f75bff": "Media/List/No Mans Sky.md",
     "a029913d-ddb5-47e3-9667-9638345ccaa7": "Media/List/No Cure for Being Human.md",
@@ -5507,10 +5509,11 @@
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions for Question Engine",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Why am I building Question Engine?",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "What is the Mimetic File System?",
+    "e0fcec25-9225-4926-bfc3-8318ec40a638": "What is cognitive computing?",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "How to conduct user research through surveys?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
-    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema - QE",
+    "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema 0",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "Roadmap - Question Engine",
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "Pages Screens - QE",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "Initial Questions for Question Engine",
@@ -5941,7 +5944,7 @@
     "91c882b1-420a-4a1d-bab9-ae264ea6071f": "Person of Interest",
     "e978d88a-4e23-41fb-81bf-f1f60ccdd6e4": "PHILOSOPHY - Mind: Mind-Body Dualism",
     "96c0ff92-7cea-4138-bf9b-f4601fcf670f": "Outline Your Life",
-    "186d92ba-1238-4523-8dfb-6520f90b88cf": "Open Source Inteligence",
+    "186d92ba-1238-4523-8dfb-6520f90b88cf": "Open Source Intelligence - Book",
     "a4b61ba6-0298-4022-a2e2-9901cc8aebe0": "Old Man s War",
     "2b9df8f4-5647-4d9f-92d0-84f7e8f75bff": "No Mans Sky",
     "a029913d-ddb5-47e3-9667-9638345ccaa7": "No Cure for Being Human",
@@ -7552,10 +7555,11 @@
     "Questions/Questions for Question Engine.md": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Questions/list/Why am I building Question Engine?.md": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "Questions/list/What is the Mimetic File System?.md": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
+    "Questions/list/What is cognitive computing?.md": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "Questions/list/How to conduct user research through surveys?.md": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
-    "QuestionEngine/Schema - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
+    "QuestionEngine/Schema 0.0.x - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "QuestionEngine/Roadmap - Question Engine.md": "a421f02e-264c-4885-acdc-18b08cdc678e",
     "QuestionEngine/Pages Screens - QE.md": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
     "QuestionEngine/Initial Questions for Question Engine.md": "344c2005-e043-44c9-82a2-1ae504cdee33",
@@ -7986,7 +7990,7 @@
     "Media/List/Person of Interest.md": "91c882b1-420a-4a1d-bab9-ae264ea6071f",
     "Media/List/PHILOSOPHY - Mind: Mind-Body Dualism.md": "e978d88a-4e23-41fb-81bf-f1f60ccdd6e4",
     "Media/List/Outline Your Life.md": "96c0ff92-7cea-4138-bf9b-f4601fcf670f",
-    "Media/List/Open Source Inteligence.md": "186d92ba-1238-4523-8dfb-6520f90b88cf",
+    "Media/List/Open Source Intelligence - Book.md": "186d92ba-1238-4523-8dfb-6520f90b88cf",
     "Media/List/Old Man s War.md": "a4b61ba6-0298-4022-a2e2-9901cc8aebe0",
     "Media/List/No Mans Sky.md": "2b9df8f4-5647-4d9f-92d0-84f7e8f75bff",
     "Media/List/No Cure for Being Human.md": "a029913d-ddb5-47e3-9667-9638345ccaa7",
@@ -9560,10 +9564,11 @@
     "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
     "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
+    "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
-    "Schema - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
+    "Schema 0": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "Roadmap - Question Engine": "a421f02e-264c-4885-acdc-18b08cdc678e",
     "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
     "Initial Questions for Question Engine": "344c2005-e043-44c9-82a2-1ae504cdee33",
@@ -9952,7 +9957,7 @@
     "Person of Interest": "91c882b1-420a-4a1d-bab9-ae264ea6071f",
     "PHILOSOPHY - Mind: Mind-Body Dualism": "e978d88a-4e23-41fb-81bf-f1f60ccdd6e4",
     "Outline Your Life": "96c0ff92-7cea-4138-bf9b-f4601fcf670f",
-    "Open Source Inteligence": "186d92ba-1238-4523-8dfb-6520f90b88cf",
+    "Open Source Intelligence - Book": "186d92ba-1238-4523-8dfb-6520f90b88cf",
     "Old Man s War": "a4b61ba6-0298-4022-a2e2-9901cc8aebe0",
     "No Mans Sky": "2b9df8f4-5647-4d9f-92d0-84f7e8f75bff",
     "No Cure for Being Human": "a029913d-ddb5-47e3-9667-9638345ccaa7",
@@ -17230,6 +17235,11 @@
       "share": true,
       "title": "What is the Mimetic File System?"
     },
+    "e0fcec25-9225-4926-bfc3-8318ec40a638": {
+      "uuid": "e0fcec25-9225-4926-bfc3-8318ec40a638",
+      "share": true,
+      "title": "What is cognitive computing?"
+    },
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": {
       "uuid": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
       "share": true,
@@ -17248,7 +17258,7 @@
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": {
       "share": true,
       "uuid": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
-      "title": "Schema - QE"
+      "title": "Schema 0"
     },
     "a421f02e-264c-4885-acdc-18b08cdc678e": {
       "uuid": "a421f02e-264c-4885-acdc-18b08cdc678e",
@@ -19403,7 +19413,7 @@
     "186d92ba-1238-4523-8dfb-6520f90b88cf": {
       "share": true,
       "uuid": "186d92ba-1238-4523-8dfb-6520f90b88cf",
-      "title": "Open Source Inteligence"
+      "title": "Open Source Intelligence - Book"
     },
     "a4b61ba6-0298-4022-a2e2-9901cc8aebe0": {
       "share": true,
@@ -24927,6 +24937,9 @@
         "What is the Mimetic File System?.md": {
           "uuid": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61"
         },
+        "What is cognitive computing?.md": {
+          "uuid": "e0fcec25-9225-4926-bfc3-8318ec40a638"
+        },
         "How to conduct user research through surveys?.md": {
           "uuid": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
         },
@@ -24939,7 +24952,7 @@
       "User Stories - QE.md": {
         "uuid": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
       },
-      "Schema - QE.md": {
+      "Schema 0.0.x - QE.md": {
         "uuid": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
       },
       "Roadmap - Question Engine.md": {
@@ -26381,7 +26394,7 @@
         "Outline Your Life.md": {
           "uuid": "96c0ff92-7cea-4138-bf9b-f4601fcf670f"
         },
-        "Open Source Inteligence.md": {
+        "Open Source Intelligence - Book.md": {
           "uuid": "186d92ba-1238-4523-8dfb-6520f90b88cf"
         },
         "Old Man s War.md": {
@@ -28557,6 +28570,7 @@
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [],
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [],
+    "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
@@ -29434,10 +29448,6 @@
         "text": "Dentropy Daemon - dd"
       },
       {
-        "link": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
-        "text": "Mimetic File System"
-      },
-      {
         "link": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
         "text": "DentropyCloud - dc"
       },
@@ -29775,6 +29785,15 @@
       },
       {
         "text": "dentLog 015 Applying the Golden Rule"
+      },
+      {
+        "text": "dentLog 016 Frustration with my own existential crisis"
+      },
+      {
+        "text": "dentLog 017 Sapience and Religion"
+      },
+      {
+        "text": "dentLog 018 Religions enforce Action"
       }
     ],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
@@ -30366,7 +30385,8 @@
     "dfda1180-e79f-4f05-880a-91f26f7c906c": [],
     "596226d9-9379-401a-a131-20902c02f99d": [
       {
-        "text": "wiki.ddaemon.design.Dentropy Cloud.Reference Designs"
+        "link": "7fd81784-994f-4b82-864e-fe340e980358",
+        "text": "Reference Designs"
       }
     ],
     "7325ec18-5c6a-4e43-bb36-437050d54025": [],
@@ -30820,15 +30840,11 @@
     "e5a5a594-f979-4aa3-bbd0-da97ff62c224": [
       {
         "link": "186d92ba-1238-4523-8dfb-6520f90b88cf",
-        "text": "Open Source Inteligence"
+        "text": "Open Source Intelligence - Book"
       },
       {
         "link": "23c1443f-cccc-4393-9ed5-69bc41b93c90",
         "text": "OSINT Handbook"
-      },
-      {
-        "link": "e5a5a594-f979-4aa3-bbd0-da97ff62c224",
-        "text": "Open-Source Intelligence (OSINT|[OSINT) in 5 Hours - Full Course - Learn OSINT! - YouTube"
       }
     ],
     "283d27f8-1257-438b-9159-5fc825d17eb1": [
@@ -32876,7 +32892,11 @@
       }
     ],
     "52cc940b-cfb1-4ee8-8707-61ab6d304ce8": [],
-    "b04649d5-c9c1-4d05-bf04-15db21b3d393": [],
+    "b04649d5-c9c1-4d05-bf04-15db21b3d393": [
+      {
+        "text": "Install raw Wireguard"
+      }
+    ],
     "eed08874-c882-4c0a-bca7-fc8339338b79": [],
     "4645362f-8f5b-4b47-b1bc-caa97ad4e3bc": [],
     "b830a5f1-b10d-4728-941b-b3adfef36ff2": [
@@ -36110,6 +36130,7 @@
         "text": "How to extract questions from text using NLP?"
       }
     ],
+    "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [
@@ -36806,6 +36827,15 @@
       },
       {
         "text": "dentLog 015 Applying the Golden Rule"
+      },
+      {
+        "text": "dentLog 016 Frustration with my own existential crisis"
+      },
+      {
+        "text": "dentLog 017 Sapience and Religion"
+      },
+      {
+        "text": "dentLog 018 Religions enforce Action"
       }
     ],
     "6d0bbf21-e1ea-4a09-9597-ec479b998235": [
@@ -36889,7 +36919,7 @@
     ],
     "9185d692-f387-421a-b48f-ea0b61ca2152": [
       {
-        "text": "Script"
+        "text": "dentropydaemon001"
       }
     ],
     "79b96e31-19be-481e-bdcc-82152f6c86ac": [],
@@ -37549,8 +37579,11 @@
         "text": "Queries for DDaemon"
       },
       {
-        "link": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
-        "text": "Schema - QE"
+        "text": "Schema 0.0.x - QE"
+      },
+      {
+        "link": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
+        "text": "Mimetic File System"
       },
       {
         "link": "e99c7bdd-3987-441e-a043-bcc81d6d2b29",
@@ -38863,7 +38896,8 @@
     ],
     "e9b17dc4-1c1a-4b70-8122-cdae0c962608": [
       {
-        "text": "wiki.heuristics.Heilmeier Catechism"
+        "link": "edc84150-2be7-4533-8a4b-768eeff624af",
+        "text": "Heilmeier Catechism"
       }
     ],
     "86442875-292e-4241-ae1d-c5b0e39c8583": [],

@@ -10,7 +10,6 @@ Hello, this is Dentropy and this is my personal wiki.
 * [Dentropy's Projects](/e76c8ac9-69f3-477f-8015-556e83738432)
 	* [Question Engine - QE](/cc5cc49d-f554-4f29-b31a-b8789688e6a3)
 	* [Dentropy Daemon - dd](/3aac9f98-9264-4093-8402-be32de0295cb)
-	* [Mimetic File System](/d6bc0e0e-54f2-4389-a143-3bb60f8daa61)
 	* [DentropyCloud - dc](/53b4819a-70af-4a7d-be7f-c79d3b1fa40a)
 * Lists of Useful Stuff
 	* [Browser Extensions](/810020e2-c875-440a-b0c3-2a48333da314)
