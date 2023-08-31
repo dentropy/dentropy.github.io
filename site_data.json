@@ -1755,6 +1755,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -3801,6 +3802,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": "MyProjects/Blockchain Research/BFT Protocols/Internet Computer ICP.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
@@ -5847,6 +5849,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "Research - Blockchain Royalties",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "Questions - Blockchain Royalties",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": "Internet Computer ICP",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
@@ -7893,6 +7896,7 @@
     "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "MyProjects/Blockchain Research/BFT Protocols/Internet Computer ICP.md": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -9861,6 +9865,7 @@
     "Research - Blockchain Royalties": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "Questions - Blockchain Royalties": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "Internet Computer ICP": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -18925,6 +18930,11 @@
       "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6",
       "title": "Logs - Blockchain Royalties"
     },
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": {
+      "uuid": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
+      "share": true,
+      "title": "Internet Computer ICP"
+    },
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": {
       "share": true,
       "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
@@ -26093,6 +26103,13 @@
         "Logs - Blockchain Royalties.md": {
           "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6"
         }
+      },
+      "Blockchain Research": {
+        "BFT Protocols": {
+          "Internet Computer ICP.md": {
+            "uuid": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff"
+          }
+        }
       }
     },
     "Media": {
@@ -29126,6 +29143,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": [],
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": [],
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
@@ -40377,6 +40395,7 @@
         "text": "2022-11-29"
       }
     ],
+    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [
       {
         "text": "[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)"
