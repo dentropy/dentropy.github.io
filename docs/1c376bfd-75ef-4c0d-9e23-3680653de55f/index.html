@@ -41996,18 +41996,6 @@
 </li>
 </ul>
 </li>
-<li>LIST_CHANNELS_USER_POSTED_IN<ul>
-<li>Description:<ul>
-<li>Channels User Posed In</li>
-</ul>
-</li>
-<li>Requires<ul>
-<li>GUILD_ID</li>
-<li>USER_ID</li>
-</ul>
-</li>
-</ul>
-</li>
 <li>NUM_MESSAGES_....<ul>
 <li>NUM_MESSAGES_IN_GUILD<ul>
 <li>Requires<ul>
@@ -42016,22 +42004,21 @@
 </li>
 </ul>
 </li>
-<li>NUM_MESSAGES_IN_CHANNELS<ul>
+<li>NUM_MESSAGES_PER_USER<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>NUM_MESSAGES_IN_CHANNEL<ul>
+<li>NUM_MESSAGES_PER_CHANNEL<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
-<li>CHANNEL_ID</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>NUM_MESSAGES_FROM_USER_IN_CHANNEL<ul>
+<li>NUM_MESSAGES_FROM_USER_PER_CHANNEL<ul>
 <li>Description<ul>
 <li>Number of Messages user posted in each Channel</li>
 </ul>
@@ -42045,23 +42032,14 @@
 </li>
 </ul>
 </li>
-<li>MOST_MESSAGES_PER....<ul>
-<li>MOST_MESSAGES_PER_GUILD<ul>
-<li>Actually means total Total Message Count</li>
+<li>LIST_CHANNELS...<ul>
+<li>LIST_CHANNELS_USER_POSTED_IN<ul>
+<li>Description:<ul>
+<li>Channels User Posed In</li>
 </ul>
 </li>
-<li>MOST_MESSAGES_PER_USER</li>
-<li>MOST_MESSAGES_PER_CHANNEL<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>MOST_MESSAGES_PER_USER_IN_CHANNEL<ul>
-<li>Requires<ul>
-<li>GUILD_ID</li>
-<li>CHANNEL_ID</li>
 <li>USER_ID</li>
 </ul>
 </li>
@@ -42093,7 +42071,7 @@
 </li>
 </ul>
 </li>
-<li>GET_MESSAGES_.....<ul>
+<li>GET_ORDERED_MESSAGES.....<ul>
 <li>GET_MESSAGE_COUNT_FROM_CHANNEL<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
@@ -42102,7 +42080,7 @@
 </li>
 </ul>
 </li>
-<li>GET_MESSAGES_FROM_CHANNEL<ul>
+<li>GET_ORDERED_MESSAGES_FROM_GUILD<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
 <li>CHANNEL_ID</li>
@@ -42117,7 +42095,7 @@
 </li>
 </ul>
 </li>
-<li>GET_MESSAGES_FROM_GUILD<ul>
+<li>GET_ORDERED_MESSAGES_FROM_CHANNEL<ul>
 <li>Requires<ul>
 <li>GUILD_ID</li>
 <li>CHANNEL_ID</li>
@@ -42132,42 +42110,95 @@
 </li>
 </ul>
 </li>
+<li>GET_ORDERED_MESSAGES_FROM_USER<ul>
+<li>Requires<ul>
+<li>GUILD_ID</li>
+<li>USER_ID</li>
+<li>PAGE_NUM : INTEGER</li>
+</ul>
+</li>
+<li>Optional<ul>
+<li>BEFORE : DATETIME</li>
+<li>After : DATETIME</li>
+<li>ORDER : "ASC" or "DSC"</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>GET_ORDERED_MESSAGES_FROM_USER_IN_CHANNEL<ul>
+<li>Requires<ul>
+<li>GUILD_ID</li>
+<li>USER_ID</li>
+<li>PAGE_NUM : INTEGER</li>
+</ul>
+</li>
+<li>Optional<ul>
+<li>BEFORE : DATETIME</li>
+<li>After : DATETIME</li>
+<li>ORDER : "ASC" or "DSC"</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Average message length per<ul>
+<li>AVERAGE_MESSAGE_LENGTH....<ul>
+<li>AVERAGE_MESSAGE_LENGTH_PER_GUILD</li>
+<li>AVERAGE_MESSAGE_LENGTH_FOR_USER</li>
+<li>AVERAGE_MESSAGE_LENGTH_PER_USER</li>
+<li>AVERAGE_MESSAGE_LENGTH_PER_CHANNEL</li>
+<li>AVERAGE_MESSAGE_LENGTH_PER_USER_IN_CHANNEL</li>
+</ul>
+</li>
+<li>SUM_OF_REACTIONS_....<ul>
+<li>SUM_OF_REACTIONS_PER_GUILD</li>
+<li>SUM_OF_REACTIONS_TO_USER</li>
+<li>SUM_OF_REACTIONS_TO_EACH_USER</li>
+<li>SUM_OF_REACTIONS_PER_CHANNEL</li>
+<li>SUM_OF_REACTIONS_TO_USER_IN_CHANNEL #TODO</li>
+</ul>
+</li>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI.... #TODO<ul>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI_PER_GUILD</li>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI_FOR_USER</li>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI_PER_USER</li>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI_PER_CHANNEL</li>
+<li>MOST_REACTED_TO_MESSAGES_SINGLE_EMOJI_PER_USER_IN_CHANNEL</li>
+</ul>
+</li>
+<li>MOST_REACTED_TO_MESSAGES_SUM_EMOJI... #TODO<ul>
+<li>MOST_REACTED_TO_MESSAGES_SUM_EMOJI_PER_GUILD</li>
+<li>MOST_REACTED_TO_MESSAGES_SUM_EMOJI_FOR_USER</li>
+<li>MOST_REACTED_TO_MESSAGES_SUM_EMOJI_PER_USER</li>
+<li>MOST_REACTED_TO_MESSAGES_SUM_EMOJI_PER_USER_IN_CHANNEL</li>
+</ul>
+</li>
+<li>POPULARITY_OF_EMOJI_... #TODO<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Sum of Reactions #TODO - Reactions do not store channel and author in themselves yet<ul>
-<li>Guild (Sum of all Reactions), User, Channel, User in Channel</li>
-</ul>
-</li>
-<li>Most reacted to message (Single Emoji)<ul>
+<li>NUMBER_OF_MESSAGES_PER_DAY.... #TODO<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Most reacted to message (All Emoji)<ul>
-<li>Guild (Sum of all Reactions), User, Channel, User in Channel</li>
-</ul>
-</li>
-<li>Popularity of Emoji per<ul>
+<li>Number of Messages based on Hour of Day #TODO<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Number of Messages per Day<ul>
+<li>AVERAGE_NUMBER_OF_MESSAGES_ON_WEEKDAYS #TODO<ul>
+<li>
+<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Number of Messages based on Hour of Day<ul>
+</ul>
+</li>
+<li>AVERAGE_NUMBER_OF_MESSAGES_ON_WEEKENDS #TODO<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
-<li>Average Messages Week Day verses Week End<ul>
-<li>Guild, User, Channel, User in Channel</li>
-</ul>
-</li>
-<li>Median message length per<ul>
+<li>Median message length per #TODO<ul>
 <li>Guild, User, Channel, User in Channel</li>
 </ul>
 </li>
