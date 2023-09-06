@@ -733,9 +733,6 @@
                 "strings": "fa401295-0c33-420d-ad32-77cafd91140e"
               },
               {
-                "requests": "c538ab15-be66-4a39-b17c-dc719e11de3d"
-              },
-              {
                 "python glob": "0492f7e1-1174-46ba-82ea-f3ef4d7c5421"
               },
               {
@@ -749,6 +746,9 @@
               },
               {
                 "dict": "d7948c4d-633e-4472-b2f2-91e31a3576eb"
+              },
+              {
+                "Python requests package": "c538ab15-be66-4a39-b17c-dc719e11de3d"
               },
               {
                 "Python Virtual Environments": "f56d0381-aed6-47cf-937f-07cc97dc51ad"
@@ -3635,17 +3635,6 @@
         ]
       },
       {
-        "Blockchain Research": [
-          {
-            "BFT Protocols": [
-              {
-                "Internet Computer ICP": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "TODO": [
           {
             "Umbrel Clearweb Proxy": "dd514eed-43e6-42fb-b722-b33e27c1f7e1"
@@ -3731,6 +3720,9 @@
       },
       {
         "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
+      },
+      {
+        "DAO Auditing via Discord": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
       },
       {
         "Blockchain Royalties": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268"
@@ -6663,6 +6655,9 @@
             "RBAC for my entire Obsidian Vault": "1f1f914c-8e6e-48b7-9068-bc7b290b6b64"
           },
           {
+            "Questions to Learn Hoon": "ac3f27d3-cec7-4fb7-b0cf-e29269210256"
+          },
+          {
             "Programing Tutorials": "959c1ce5-8183-40dc-ba26-613095263557"
           },
           {
@@ -6679,9 +6674,6 @@
           },
           {
             "Markdown Contextualizing": "2f0c38e1-054c-42a8-bd2c-0cb1733af116"
-          },
-          {
-            "Getting Started with Hoon": "ac3f27d3-cec7-4fb7-b0cf-e29269210256"
           },
           {
             "Forward docker traffic through VPN": "a59bb549-475b-4ad1-bdfb-7734cc49c999"
@@ -7089,5 +7081,8 @@
   },
   {
     "Dentropy's Blog Posts and Videos": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
+  },
+  {
+    "Catechism - Discord Auditing, DAO Use case": "ed188fb4-fc23-4352-90f9-34b6fe1718e3"
   }
 ]

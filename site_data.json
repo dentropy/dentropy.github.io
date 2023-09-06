@@ -5,6 +5,7 @@
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "e76c8ac9-69f3-477f-8015-556e83738432",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "974f7445-a807-4edc-bf61-4155c155ffe5",
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff",
@@ -529,13 +530,13 @@
     "df7749a8-3943-4aa1-a2ef-e29b293c13d5",
     "b3a29c74-a6a1-415e-b1ae-68048431d2ac",
     "1f1f914c-8e6e-48b7-9068-bc7b290b6b64",
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "959c1ce5-8183-40dc-ba26-613095263557",
     "40be8974-36f7-4552-90f8-9cb003920e4a",
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751",
     "26061bfb-d9c5-4c08-b45b-76248f47e305",
     "b275f008-18da-4f9c-bf78-d5819afa371e",
     "2f0c38e1-054c-42a8-bd2c-0cb1733af116",
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "a59bb549-475b-4ad1-bdfb-7734cc49c999",
     "d7280f31-9dcc-4816-b205-8a7f93650f88",
     "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238",
@@ -1054,12 +1055,12 @@
     "64876391-b188-4f48-9df6-ce01aa68e4ce",
     "b236f051-ac71-4e71-9062-b81e3e07a007",
     "fa401295-0c33-420d-ad32-77cafd91140e",
-    "c538ab15-be66-4a39-b17c-dc719e11de3d",
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421",
     "8a7d4549-fadc-4ce0-aee6-ec8131ae2158",
     "bf06f138-bfe7-4124-8576-5931021f57ec",
     "db5bdd8b-94ac-461c-9b29-ad906aab0551",
     "d7948c4d-633e-4472-b2f2-91e31a3576eb",
+    "c538ab15-be66-4a39-b17c-dc719e11de3d",
     "f56d0381-aed6-47cf-937f-07cc97dc51ad",
     "8d6ea4f2-79c7-47fa-8eac-93698953ee94",
     "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e",
@@ -1539,6 +1540,7 @@
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -1755,7 +1757,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -2052,6 +2053,7 @@
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects.md",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts and Videos.md",
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case.md",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki/Wiki Backlog.md",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "Wiki/HU - Hustler's University.md",
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff": "Wiki/Research/reddit export.md",
@@ -2576,13 +2578,13 @@
     "df7749a8-3943-4aa1-a2ef-e29b293c13d5": "Tutorials/TODO Tutorials/WebDev.md",
     "b3a29c74-a6a1-415e-b1ae-68048431d2ac": "Tutorials/TODO Tutorials/S3 Backup and Restore.md",
     "1f1f914c-8e6e-48b7-9068-bc7b290b6b64": "Tutorials/TODO Tutorials/RBAC for my entire Obsidian Vault.md",
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": "Tutorials/TODO Tutorials/Questions to Learn Hoon.md",
     "959c1ce5-8183-40dc-ba26-613095263557": "Tutorials/TODO Tutorials/Programing Tutorials.md",
     "40be8974-36f7-4552-90f8-9cb003920e4a": "Tutorials/TODO Tutorials/Postgres with users and roles.md",
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751": "Tutorials/TODO Tutorials/Nats Tutorial.md",
     "26061bfb-d9c5-4c08-b45b-76248f47e305": "Tutorials/TODO Tutorials/Minio Tutorial.md",
     "b275f008-18da-4f9c-bf78-d5819afa371e": "Tutorials/TODO Tutorials/Merge SQLite databases.md",
     "2f0c38e1-054c-42a8-bd2c-0cb1733af116": "Tutorials/TODO Tutorials/Markdown Contextualizing.md",
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": "Tutorials/TODO Tutorials/Getting Started with Hoon.md",
     "a59bb549-475b-4ad1-bdfb-7734cc49c999": "Tutorials/TODO Tutorials/Forward docker traffic through VPN.md",
     "d7280f31-9dcc-4816-b205-8a7f93650f88": "Tutorials/TODO Tutorials/Dockerize Postgres with Extensions.md",
     "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238": "Tutorials/TODO Tutorials/Docker Traffic Through VPN.md",
@@ -3101,12 +3103,12 @@
     "64876391-b188-4f48-9df6-ce01aa68e4ce": "Software/List/python/time.md",
     "b236f051-ac71-4e71-9062-b81e3e07a007": "Software/List/python/subprocess.md",
     "fa401295-0c33-420d-ad32-77cafd91140e": "Software/List/python/strings.md",
-    "c538ab15-be66-4a39-b17c-dc719e11de3d": "Software/List/python/requests.md",
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421": "Software/List/python/python glob.md",
     "8a7d4549-fadc-4ce0-aee6-ec8131ae2158": "Software/List/python/pip upgrade packages.md",
     "bf06f138-bfe7-4124-8576-5931021f57ec": "Software/List/python/learning.md",
     "db5bdd8b-94ac-461c-9b29-ad906aab0551": "Software/List/python/iPyWidgets.md",
     "d7948c4d-633e-4472-b2f2-91e31a3576eb": "Software/List/python/dict.md",
+    "c538ab15-be66-4a39-b17c-dc719e11de3d": "Software/List/python/Python requests package.md",
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": "Software/List/python/Python Virtual Environments.md",
     "8d6ea4f2-79c7-47fa-8eac-93698953ee94": "Software/List/python/Python Json.md",
     "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e": "Software/List/python/Files in Python3.md",
@@ -3586,6 +3588,7 @@
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "MyProjects/Docker VPN Router.md",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "MyProjects/DentropyCloud - dc.md",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "MyProjects/DIY Keylogger.md",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/DAO Auditing via Discord.md",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "MyProjects/Blockchain Royalties.md",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "MyProjects/ActivityPub Utils.md",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": "MyProjects/3D Printing.md",
@@ -3802,7 +3805,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": "MyProjects/Blockchain Research/BFT Protocols/Internet Computer ICP.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
@@ -4099,6 +4101,7 @@
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts and Videos",
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki Backlog",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "HU - Hustler's University",
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff": "reddit export",
@@ -4623,13 +4626,13 @@
     "df7749a8-3943-4aa1-a2ef-e29b293c13d5": "WebDev",
     "b3a29c74-a6a1-415e-b1ae-68048431d2ac": "S3 Backup and Restore",
     "1f1f914c-8e6e-48b7-9068-bc7b290b6b64": "RBAC for my entire Obsidian Vault",
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": "Questions to Learn Hoon",
     "959c1ce5-8183-40dc-ba26-613095263557": "Programing Tutorials",
     "40be8974-36f7-4552-90f8-9cb003920e4a": "Postgres with users and roles",
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751": "Nats Tutorial",
     "26061bfb-d9c5-4c08-b45b-76248f47e305": "Minio Tutorial",
     "b275f008-18da-4f9c-bf78-d5819afa371e": "Merge SQLite databases",
     "2f0c38e1-054c-42a8-bd2c-0cb1733af116": "Markdown Contextualizing",
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": "Getting Started with Hoon",
     "a59bb549-475b-4ad1-bdfb-7734cc49c999": "Forward docker traffic through VPN",
     "d7280f31-9dcc-4816-b205-8a7f93650f88": "Dockerize Postgres with Extensions",
     "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238": "Docker Traffic Through VPN",
@@ -5148,12 +5151,12 @@
     "64876391-b188-4f48-9df6-ce01aa68e4ce": "time",
     "b236f051-ac71-4e71-9062-b81e3e07a007": "subprocess",
     "fa401295-0c33-420d-ad32-77cafd91140e": "strings",
-    "c538ab15-be66-4a39-b17c-dc719e11de3d": "requests",
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421": "python glob",
     "8a7d4549-fadc-4ce0-aee6-ec8131ae2158": "pip upgrade packages",
     "bf06f138-bfe7-4124-8576-5931021f57ec": "learning",
     "db5bdd8b-94ac-461c-9b29-ad906aab0551": "iPyWidgets",
     "d7948c4d-633e-4472-b2f2-91e31a3576eb": "dict",
+    "c538ab15-be66-4a39-b17c-dc719e11de3d": "Python requests package",
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": "Python Virtual Environments",
     "8d6ea4f2-79c7-47fa-8eac-93698953ee94": "Python Json",
     "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e": "Files in Python3",
@@ -5633,6 +5636,7 @@
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "Docker VPN Router",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "DentropyCloud - dc",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "DIY Keylogger",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "DAO Auditing via Discord",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "Blockchain Royalties",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "ActivityPub Utils",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": "3D Printing",
@@ -5849,7 +5853,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "Research - Blockchain Royalties",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "Questions - Blockchain Royalties",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": "Internet Computer ICP",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
@@ -6146,6 +6149,7 @@
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Dentropy's Blog Posts and Videos.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Catechism - Discord Auditing, DAO Use case.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki/Wiki Backlog.md": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "Wiki/HU - Hustler's University.md": "974f7445-a807-4edc-bf61-4155c155ffe5",
     "Wiki/Research/reddit export.md": "2ddae3c6-92e8-454e-8eee-5ebb62930fff",
@@ -6670,13 +6674,13 @@
     "Tutorials/TODO Tutorials/WebDev.md": "df7749a8-3943-4aa1-a2ef-e29b293c13d5",
     "Tutorials/TODO Tutorials/S3 Backup and Restore.md": "b3a29c74-a6a1-415e-b1ae-68048431d2ac",
     "Tutorials/TODO Tutorials/RBAC for my entire Obsidian Vault.md": "1f1f914c-8e6e-48b7-9068-bc7b290b6b64",
+    "Tutorials/TODO Tutorials/Questions to Learn Hoon.md": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "Tutorials/TODO Tutorials/Programing Tutorials.md": "959c1ce5-8183-40dc-ba26-613095263557",
     "Tutorials/TODO Tutorials/Postgres with users and roles.md": "40be8974-36f7-4552-90f8-9cb003920e4a",
     "Tutorials/TODO Tutorials/Nats Tutorial.md": "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751",
     "Tutorials/TODO Tutorials/Minio Tutorial.md": "26061bfb-d9c5-4c08-b45b-76248f47e305",
     "Tutorials/TODO Tutorials/Merge SQLite databases.md": "b275f008-18da-4f9c-bf78-d5819afa371e",
     "Tutorials/TODO Tutorials/Markdown Contextualizing.md": "2f0c38e1-054c-42a8-bd2c-0cb1733af116",
-    "Tutorials/TODO Tutorials/Getting Started with Hoon.md": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "Tutorials/TODO Tutorials/Forward docker traffic through VPN.md": "a59bb549-475b-4ad1-bdfb-7734cc49c999",
     "Tutorials/TODO Tutorials/Dockerize Postgres with Extensions.md": "d7280f31-9dcc-4816-b205-8a7f93650f88",
     "Tutorials/TODO Tutorials/Docker Traffic Through VPN.md": "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238",
@@ -7195,12 +7199,12 @@
     "Software/List/python/time.md": "64876391-b188-4f48-9df6-ce01aa68e4ce",
     "Software/List/python/subprocess.md": "b236f051-ac71-4e71-9062-b81e3e07a007",
     "Software/List/python/strings.md": "fa401295-0c33-420d-ad32-77cafd91140e",
-    "Software/List/python/requests.md": "c538ab15-be66-4a39-b17c-dc719e11de3d",
     "Software/List/python/python glob.md": "0492f7e1-1174-46ba-82ea-f3ef4d7c5421",
     "Software/List/python/pip upgrade packages.md": "8a7d4549-fadc-4ce0-aee6-ec8131ae2158",
     "Software/List/python/learning.md": "bf06f138-bfe7-4124-8576-5931021f57ec",
     "Software/List/python/iPyWidgets.md": "db5bdd8b-94ac-461c-9b29-ad906aab0551",
     "Software/List/python/dict.md": "d7948c4d-633e-4472-b2f2-91e31a3576eb",
+    "Software/List/python/Python requests package.md": "c538ab15-be66-4a39-b17c-dc719e11de3d",
     "Software/List/python/Python Virtual Environments.md": "f56d0381-aed6-47cf-937f-07cc97dc51ad",
     "Software/List/python/Python Json.md": "8d6ea4f2-79c7-47fa-8eac-93698953ee94",
     "Software/List/python/Files in Python3.md": "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e",
@@ -7680,6 +7684,7 @@
     "MyProjects/Docker VPN Router.md": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "MyProjects/DentropyCloud - dc.md": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "MyProjects/DIY Keylogger.md": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
+    "MyProjects/DAO Auditing via Discord.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "MyProjects/Blockchain Royalties.md": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "MyProjects/ActivityPub Utils.md": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "MyProjects/3D Printing.md": "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -7896,7 +7901,6 @@
     "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "MyProjects/Blockchain Research/BFT Protocols/Internet Computer ICP.md": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -8197,6 +8201,7 @@
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Dentropy's Blog Posts and Videos": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Catechism - Discord Auditing, DAO Use case": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki Backlog": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "HU - Hustler's University": "974f7445-a807-4edc-bf61-4155c155ffe5",
     "reddit export": "2ddae3c6-92e8-454e-8eee-5ebb62930fff",
@@ -8717,13 +8722,13 @@
     "WebDev": "df7749a8-3943-4aa1-a2ef-e29b293c13d5",
     "S3 Backup and Restore": "b3a29c74-a6a1-415e-b1ae-68048431d2ac",
     "RBAC for my entire Obsidian Vault": "1f1f914c-8e6e-48b7-9068-bc7b290b6b64",
+    "Questions to Learn Hoon": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "Programing Tutorials": "959c1ce5-8183-40dc-ba26-613095263557",
     "Postgres with users and roles": "40be8974-36f7-4552-90f8-9cb003920e4a",
     "Nats Tutorial": "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751",
     "Minio Tutorial": "26061bfb-d9c5-4c08-b45b-76248f47e305",
     "Merge SQLite databases": "b275f008-18da-4f9c-bf78-d5819afa371e",
     "Markdown Contextualizing": "2f0c38e1-054c-42a8-bd2c-0cb1733af116",
-    "Getting Started with Hoon": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
     "Forward docker traffic through VPN": "a59bb549-475b-4ad1-bdfb-7734cc49c999",
     "Dockerize Postgres with Extensions": "d7280f31-9dcc-4816-b205-8a7f93650f88",
     "Docker Traffic Through VPN": "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238",
@@ -9238,12 +9243,12 @@
     "time": "64876391-b188-4f48-9df6-ce01aa68e4ce",
     "subprocess": "b236f051-ac71-4e71-9062-b81e3e07a007",
     "strings": "fa401295-0c33-420d-ad32-77cafd91140e",
-    "requests": "bcd665e4-18ed-43f5-99a6-96d4246ea329",
     "python glob": "0492f7e1-1174-46ba-82ea-f3ef4d7c5421",
     "pip upgrade packages": "8a7d4549-fadc-4ce0-aee6-ec8131ae2158",
     "learning": "bf06f138-bfe7-4124-8576-5931021f57ec",
     "iPyWidgets": "db5bdd8b-94ac-461c-9b29-ad906aab0551",
     "dict": "d7948c4d-633e-4472-b2f2-91e31a3576eb",
+    "Python requests package": "c538ab15-be66-4a39-b17c-dc719e11de3d",
     "Python Virtual Environments": "f56d0381-aed6-47cf-937f-07cc97dc51ad",
     "Python Json": "8d6ea4f2-79c7-47fa-8eac-93698953ee94",
     "Files in Python3": "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e",
@@ -9688,6 +9693,7 @@
     "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
     "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
+    "DAO Auditing via Discord": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "Blockchain Royalties": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "ActivityPub Utils": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "3D Printing": "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -9726,6 +9732,7 @@
     "Reddit Binding": "2ab15421-459c-4512-914e-4431809b210a",
     "Raindrop Binding": "9ea6bc24-4645-4ee2-b365-05de36bfca4c",
     "Netflix Binding": "cd81d896-ac0c-4fe4-a5a6-f449cca19abf",
+    "requests": "bcd665e4-18ed-43f5-99a6-96d4246ea329",
     "keybase data questions": "e8844eeb-76f6-4df1-b639-dc776b63ffc1",
     "docs": "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4",
     "dashboards": "f50c8a78-ae51-42a0-a1e7-4de6e2db668d",
@@ -9865,7 +9872,6 @@
     "Research - Blockchain Royalties": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "Questions - Blockchain Royalties": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
-    "Internet Computer ICP": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -10179,6 +10185,11 @@
       "share": true,
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
       "title": "Dentropy's Blog Posts and Videos"
+    },
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": {
+      "uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+      "share": true,
+      "title": "Catechism - Discord Auditing, DAO Use case"
     },
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": {
       "share": true,
@@ -12800,6 +12811,11 @@
       "uuid": "1f1f914c-8e6e-48b7-9068-bc7b290b6b64",
       "title": "RBAC for my entire Obsidian Vault"
     },
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": {
+      "share": true,
+      "uuid": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
+      "title": "Questions to Learn Hoon"
+    },
     "959c1ce5-8183-40dc-ba26-613095263557": {
       "share": true,
       "uuid": "959c1ce5-8183-40dc-ba26-613095263557",
@@ -12829,11 +12845,6 @@
       "share": true,
       "uuid": "2f0c38e1-054c-42a8-bd2c-0cb1733af116",
       "title": "Markdown Contextualizing"
-    },
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": {
-      "share": true,
-      "uuid": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
-      "title": "Getting Started with Hoon"
     },
     "a59bb549-475b-4ad1-bdfb-7734cc49c999": {
       "share": true,
@@ -15425,11 +15436,6 @@
       "uuid": "fa401295-0c33-420d-ad32-77cafd91140e",
       "title": "strings"
     },
-    "c538ab15-be66-4a39-b17c-dc719e11de3d": {
-      "share": true,
-      "uuid": "c538ab15-be66-4a39-b17c-dc719e11de3d",
-      "title": "requests"
-    },
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421": {
       "share": true,
       "uuid": "0492f7e1-1174-46ba-82ea-f3ef4d7c5421",
@@ -15454,6 +15460,11 @@
       "share": true,
       "uuid": "d7948c4d-633e-4472-b2f2-91e31a3576eb",
       "title": "dict"
+    },
+    "c538ab15-be66-4a39-b17c-dc719e11de3d": {
+      "share": true,
+      "uuid": "c538ab15-be66-4a39-b17c-dc719e11de3d",
+      "title": "Python requests package"
     },
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": {
       "share": true,
@@ -17850,6 +17861,11 @@
       "uuid": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
       "title": "DIY Keylogger"
     },
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
+      "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+      "share": true,
+      "title": "DAO Auditing via Discord"
+    },
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": {
       "share": true,
       "uuid": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
@@ -18929,11 +18945,6 @@
       "share": true,
       "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6",
       "title": "Logs - Blockchain Royalties"
-    },
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": {
-      "uuid": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff",
-      "share": true,
-      "title": "Internet Computer ICP"
     },
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": {
       "share": true,
@@ -20383,6 +20394,12 @@
   },
   "images": [
     {
+      "note_uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+      "image_links": [
+        "AnalysisQueries.svg"
+      ]
+    },
+    {
       "note_uuid": "b5376a11-140c-4854-87e9-3bfe1b117512",
       "image_links": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/1920px-Peacock_Plumage.jpg"
@@ -20448,6 +20465,9 @@
     },
     "Dentropy's Blog Posts and Videos.md": {
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
+    },
+    "Catechism - Discord Auditing, DAO Use case.md": {
+      "uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3"
     },
     "Wiki": {
       "Wiki Backlog.md": {
@@ -22077,6 +22097,9 @@
         "RBAC for my entire Obsidian Vault.md": {
           "uuid": "1f1f914c-8e6e-48b7-9068-bc7b290b6b64"
         },
+        "Questions to Learn Hoon.md": {
+          "uuid": "ac3f27d3-cec7-4fb7-b0cf-e29269210256"
+        },
         "Programing Tutorials.md": {
           "uuid": "959c1ce5-8183-40dc-ba26-613095263557"
         },
@@ -22094,9 +22117,6 @@
         },
         "Markdown Contextualizing.md": {
           "uuid": "2f0c38e1-054c-42a8-bd2c-0cb1733af116"
-        },
-        "Getting Started with Hoon.md": {
-          "uuid": "ac3f27d3-cec7-4fb7-b0cf-e29269210256"
         },
         "Forward docker traffic through VPN.md": {
           "uuid": "a59bb549-475b-4ad1-bdfb-7734cc49c999"
@@ -23667,9 +23687,6 @@
           "strings.md": {
             "uuid": "fa401295-0c33-420d-ad32-77cafd91140e"
           },
-          "requests.md": {
-            "uuid": "c538ab15-be66-4a39-b17c-dc719e11de3d"
-          },
           "python glob.md": {
             "uuid": "0492f7e1-1174-46ba-82ea-f3ef4d7c5421"
           },
@@ -23684,6 +23701,9 @@
           },
           "dict.md": {
             "uuid": "d7948c4d-633e-4472-b2f2-91e31a3576eb"
+          },
+          "Python requests package.md": {
+            "uuid": "c538ab15-be66-4a39-b17c-dc719e11de3d"
           },
           "Python Virtual Environments.md": {
             "uuid": "f56d0381-aed6-47cf-937f-07cc97dc51ad"
@@ -25360,6 +25380,9 @@
       "DIY Keylogger.md": {
         "uuid": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
       },
+      "DAO Auditing via Discord.md": {
+        "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+      },
       "Blockchain Royalties.md": {
         "uuid": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268"
       },
@@ -26102,13 +26125,6 @@
         },
         "Logs - Blockchain Royalties.md": {
           "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6"
-        }
-      },
-      "Blockchain Research": {
-        "BFT Protocols": {
-          "Internet Computer ICP.md": {
-            "uuid": "a792d483-f6fa-4368-a7cb-2d4ad85d79ff"
-          }
         }
       }
     },
@@ -27060,6 +27076,7 @@
         "heading": ""
       }
     ],
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
     "974f7445-a807-4edc-bf61-4155c155ffe5": [],
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff": [],
@@ -27679,13 +27696,13 @@
     "df7749a8-3943-4aa1-a2ef-e29b293c13d5": [],
     "b3a29c74-a6a1-415e-b1ae-68048431d2ac": [],
     "1f1f914c-8e6e-48b7-9068-bc7b290b6b64": [],
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [],
     "959c1ce5-8183-40dc-ba26-613095263557": [],
     "40be8974-36f7-4552-90f8-9cb003920e4a": [],
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751": [],
     "26061bfb-d9c5-4c08-b45b-76248f47e305": [],
     "b275f008-18da-4f9c-bf78-d5819afa371e": [],
     "2f0c38e1-054c-42a8-bd2c-0cb1733af116": [],
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [],
     "a59bb549-475b-4ad1-bdfb-7734cc49c999": [],
     "d7280f31-9dcc-4816-b205-8a7f93650f88": [],
     "c979bf71-7ba7-40d1-b8d8-9f8fa6bac238": [],
@@ -28209,12 +28226,12 @@
     "64876391-b188-4f48-9df6-ce01aa68e4ce": [],
     "b236f051-ac71-4e71-9062-b81e3e07a007": [],
     "fa401295-0c33-420d-ad32-77cafd91140e": [],
-    "c538ab15-be66-4a39-b17c-dc719e11de3d": [],
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421": [],
     "8a7d4549-fadc-4ce0-aee6-ec8131ae2158": [],
     "bf06f138-bfe7-4124-8576-5931021f57ec": [],
     "db5bdd8b-94ac-461c-9b29-ad906aab0551": [],
     "d7948c4d-633e-4472-b2f2-91e31a3576eb": [],
+    "c538ab15-be66-4a39-b17c-dc719e11de3d": [],
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": [],
     "8d6ea4f2-79c7-47fa-8eac-93698953ee94": [],
     "3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e": [],
@@ -28908,6 +28925,7 @@
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [],
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [],
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": [],
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": [],
@@ -29143,7 +29161,6 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": [],
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": [],
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
@@ -29812,6 +29829,24 @@
       },
       {
         "text": "dentLog 018 Religions enforce Action"
+      }
+    ],
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [
+      {
+        "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
+        "text": "Analysis Queries"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "DAO Auditing via Discord"
+      },
+      {
+        "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
+        "text": "Analysis Queries"
+      },
+      {
+        "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
+        "text": "Analysis Queries"
       }
     ],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
@@ -32012,6 +32047,7 @@
         "text": "JuiceFS"
       }
     ],
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [],
     "959c1ce5-8183-40dc-ba26-613095263557": [],
     "40be8974-36f7-4552-90f8-9cb003920e4a": [],
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751": [],
@@ -32033,7 +32069,6 @@
         "text": "What is the best Markdown parser?"
       }
     ],
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [],
     "a59bb549-475b-4ad1-bdfb-7734cc49c999": [],
     "d7280f31-9dcc-4816-b205-8a7f93650f88": [
       {
@@ -34186,11 +34221,6 @@
     ],
     "b236f051-ac71-4e71-9062-b81e3e07a007": [],
     "fa401295-0c33-420d-ad32-77cafd91140e": [],
-    "c538ab15-be66-4a39-b17c-dc719e11de3d": [
-      {
-        "text": "dentropydaemon-wiki/Software/List/pip"
-      }
-    ],
     "0492f7e1-1174-46ba-82ea-f3ef4d7c5421": [
       {
         "link": "ceb61472-539e-4d96-8db5-9168bf51b6e9",
@@ -34201,6 +34231,12 @@
     "bf06f138-bfe7-4124-8576-5931021f57ec": [],
     "db5bdd8b-94ac-461c-9b29-ad906aab0551": [],
     "d7948c4d-633e-4472-b2f2-91e31a3576eb": [],
+    "c538ab15-be66-4a39-b17c-dc719e11de3d": [
+      {
+        "link": "281aeb90-8a3a-4a12-ac70-4f0f56efa762",
+        "text": "pip"
+      }
+    ],
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": [
       {
         "text": "wiki.software.List.pyenv"
@@ -34822,6 +34858,9 @@
     "972caf8a-58c6-43b7-9652-9c6962628d48": [],
     "a4d5154b-6474-4bb6-8a82-ed04bfc722ab": [
       {
+        "text": "crawlee"
+      },
+      {
         "link": "56e3cca8-c586-4d84-8e61-4ceb272580d1",
         "text": "Selenium"
       },
@@ -34845,7 +34884,8 @@
         "text": "Python"
       },
       {
-        "text": "dentropydaemon-wiki/Software/List/python/requests"
+        "link": "c538ab15-be66-4a39-b17c-dc719e11de3d",
+        "text": "Python requests package"
       },
       {
         "link": "63d04b10-f4ad-4735-92c4-c18f93475977",
@@ -35626,6 +35666,9 @@
       }
     ],
     "810020e2-c875-440a-b0c3-2a48333da314": [
+      {
+        "text": "Save page with single file"
+      },
       {
         "text": "https://www.xbrowsersync.org/#download"
       },
@@ -36687,18 +36730,21 @@
         "text": "reality.eth"
       },
       {
-        "text": "Design Process"
+        "link": "87a64729-08ab-4eb9-b3f0-23c9454772b4",
+        "text": "Design"
       }
     ],
     "5c8d263c-c8df-4a78-a952-870b7b78467c": [
       {
+        "link": "87a64729-08ab-4eb9-b3f0-23c9454772b4",
         "text": "Design Process"
       },
       {
         "text": "Ethernal September"
       },
       {
-        "text": "dentropydaemon-wiki/Wiki/Concepts/List/Private Torrent Trackers"
+        "link": "f13c1b64-dcb4-4e33-9ce5-de4930771974",
+        "text": "Private Torrent Trackers"
       }
     ],
     "b0f5a90a-3b22-4d10-b008-d744f4e79a7d": [
@@ -37701,6 +37747,11 @@
       },
       {
         "text": "keylogger research"
+      }
+    ],
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
+      {
+        "text": "DAO Auditing via Discord Logs"
       }
     ],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [
@@ -40395,7 +40446,6 @@
         "text": "2022-11-29"
       }
     ],
-    "a792d483-f6fa-4368-a7cb-2d4ad85d79ff": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [
       {
         "text": "[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)"

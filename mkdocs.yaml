@@ -254,12 +254,12 @@ nav:
             - time: 64876391-b188-4f48-9df6-ce01aa68e4ce
             - subprocess: b236f051-ac71-4e71-9062-b81e3e07a007
             - strings: fa401295-0c33-420d-ad32-77cafd91140e
-            - requests: c538ab15-be66-4a39-b17c-dc719e11de3d
             - python glob: 0492f7e1-1174-46ba-82ea-f3ef4d7c5421
             - pip upgrade packages: 8a7d4549-fadc-4ce0-aee6-ec8131ae2158
             - learning: bf06f138-bfe7-4124-8576-5931021f57ec
             - iPyWidgets: db5bdd8b-94ac-461c-9b29-ad906aab0551
             - dict: d7948c4d-633e-4472-b2f2-91e31a3576eb
+            - Python requests package: c538ab15-be66-4a39-b17c-dc719e11de3d
             - Python Virtual Environments: f56d0381-aed6-47cf-937f-07cc97dc51ad
             - Python Json: 8d6ea4f2-79c7-47fa-8eac-93698953ee94
             - Files in Python3: 3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e
@@ -1192,9 +1192,6 @@ nav:
         - Letters to the Community:
             - Humman Accelerator - Trying to Define A Problem: 5b7b6673-14a6-4823-a5c8-44439156f2ad
         - Logs - KMS Analysis: b9ca9c26-5838-498b-9081-2ca3a77ce22f
-    - Blockchain Research:
-        - BFT Protocols:
-            - Internet Computer ICP: a792d483-f6fa-4368-a7cb-2d4ad85d79ff
     - TODO:
         - Umbrel Clearweb Proxy: dd514eed-43e6-42fb-b722-b33e27c1f7e1
     - Robotics:
@@ -1222,6 +1219,7 @@ nav:
     - Docker VPN Router: aeb2a3d9-c371-404a-ae82-f9c70253e0e2
     - DentropyCloud - dc: 53b4819a-70af-4a7d-be7f-c79d3b1fa40a
     - DIY Keylogger: 03ce87b5-898b-4e7a-9c47-6694c8d652fe
+    - DAO Auditing via Discord: 1c376bfd-75ef-4c0d-9e23-3680653de55f
     - Blockchain Royalties: 04ffe6b4-1ff0-41b0-82f3-6c0d1a742268
     - ActivityPub Utils: d41891f6-34ec-48e2-bed3-4e1bb4edd4a8
     - 3D Printing: facd4e1d-89a3-4120-a8c1-72e0e953142f
@@ -2173,13 +2171,13 @@ nav:
         - WebDev: df7749a8-3943-4aa1-a2ef-e29b293c13d5
         - S3 Backup and Restore: b3a29c74-a6a1-415e-b1ae-68048431d2ac
         - RBAC for my entire Obsidian Vault: 1f1f914c-8e6e-48b7-9068-bc7b290b6b64
+        - Questions to Learn Hoon: ac3f27d3-cec7-4fb7-b0cf-e29269210256
         - Programing Tutorials: 959c1ce5-8183-40dc-ba26-613095263557
         - Postgres with users and roles: 40be8974-36f7-4552-90f8-9cb003920e4a
         - Nats Tutorial: b6cf6d9d-1433-4cb2-ac5f-15bbb0527751
         - Minio Tutorial: 26061bfb-d9c5-4c08-b45b-76248f47e305
         - Merge SQLite databases: b275f008-18da-4f9c-bf78-d5819afa371e
         - Markdown Contextualizing: 2f0c38e1-054c-42a8-bd2c-0cb1733af116
-        - Getting Started with Hoon: ac3f27d3-cec7-4fb7-b0cf-e29269210256
         - Forward docker traffic through VPN: a59bb549-475b-4ad1-bdfb-7734cc49c999
         - Dockerize Postgres with Extensions: d7280f31-9dcc-4816-b205-8a7f93650f88
         - Docker Traffic Through VPN: c979bf71-7ba7-40d1-b8d8-9f8fa6bac238
@@ -2307,3 +2305,4 @@ nav:
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Dentropy's Blog Posts and Videos: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
+- "Catechism - Discord Auditing, DAO Use case": ed188fb4-fc23-4352-90f9-34b6fe1718e3
