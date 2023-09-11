@@ -194,7 +194,6 @@
     "644dd14f-7a90-472a-9475-1596ce8cb4de",
     "7f9d9842-5d16-4933-b896-e3567d964168",
     "5241197b-7146-46d5-9084-e10a1f56804f",
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
     "b49d524c-d04d-48bb-9440-20fc2af95bc0",
     "34e4e459-5645-4dc4-9bf6-a877efe927c7",
     "cc6c5e5e-cec2-4fca-9417-735223a0b0bd",
@@ -1576,6 +1575,7 @@
     "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
     "04a10593-c9c5-43ce-a8f0-d457f2353d88",
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6",
     "ec8c9244-b8d5-43ec-9432-cad045c075e5",
     "2ab15421-459c-4512-914e-4431809b210a",
     "9ea6bc24-4645-4ee2-b365-05de36bfca4c",
@@ -1612,11 +1612,11 @@
     "ea7bef36-42df-455b-8fb6-c8bdb458b6e5",
     "7516a3e2-9926-48be-af0b-5ddf8e2279dc",
     "d6c7b9d4-1ce5-4661-9040-28be18e457ca",
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81",
+    "92a22ef8-5137-47e9-a48a-ece9720f6169",
     "b55e907e-63f1-48b0-8bda-a813d06118cf",
     "d6321a61-0b6f-49f7-b537-0476879dad25",
     "ce95a2c6-06de-4289-bd97-a94257439970",
-    "0c58c83e-707f-423c-8b57-1c0f8224e494",
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
     "44928702-3e41-482c-9005-2b5862c4ee5a",
     "a19c9978-9dba-45f0-af19-d8020b67e5e3",
     "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079",
@@ -1627,6 +1627,7 @@
     "1f11a496-ebd1-4a2f-b286-44e27e792258",
     "3aac9f98-9264-4093-8402-be32de0295cb",
     "e9b17dc4-1c1a-4b70-8122-cdae0c962608",
+    "57b016eb-5704-449d-875a-7a228770b576",
     "86442875-292e-4241-ae1d-c5b0e39c8583",
     "d9a9fbdc-33b0-4bdb-b964-7d2d05698219",
     "702312c0-e3ed-464f-bc49-beb2de1169b6",
@@ -1664,7 +1665,6 @@
     "fc4cf111-20c3-46ea-9ec2-b27c20304146",
     "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4",
     "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249",
-    "92a22ef8-5137-47e9-a48a-ece9720f6169",
     "b6cdc671-377e-4b01-b0f8-6a2849e84405",
     "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a",
     "2ffcf8b7-75d5-4f99-bf20-10826df12580",
@@ -1758,6 +1758,7 @@
     "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "2e191352-0a11-410d-b4a5-50574257b3d6",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4",
@@ -1909,6 +1910,7 @@
     "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "053917a5-82f8-436b-bc18-730a4f28e983",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "072dd632-729b-4e18-9a48-5df256881d68",
@@ -2045,7 +2047,8 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "2781f257-2980-4661-bc02-635e6cc59112",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
@@ -2242,7 +2245,6 @@
     "644dd14f-7a90-472a-9475-1596ce8cb4de": "Wiki/Concepts/List/Social Annotation.md",
     "7f9d9842-5d16-4933-b896-e3567d964168": "Wiki/Concepts/List/Smart Contract.md",
     "5241197b-7146-46d5-9084-e10a1f56804f": "Wiki/Concepts/List/Six degrees of separation.md",
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": "Wiki/Concepts/List/Semantic Forum.md",
     "b49d524c-d04d-48bb-9440-20fc2af95bc0": "Wiki/Concepts/List/SegWit.md",
     "34e4e459-5645-4dc4-9bf6-a877efe927c7": "Wiki/Concepts/List/Second Brain.md",
     "cc6c5e5e-cec2-4fca-9417-735223a0b0bd": "Wiki/Concepts/List/Science.md",
@@ -3624,6 +3626,7 @@
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": "MyProjects/Dentropy Daemon/bindings/ActivityWatch Experiments.md",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Blockchain Binding.md",
     "04a10593-c9c5-43ce-a8f0-d457f2353d88": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Whatsapp/Whatsapp Binding.md",
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Twitter/Twitter Binding.md",
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Telegram/Telegram Binding.md",
     "2ab15421-459c-4512-914e-4431809b210a": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Reddit/Reddit Binding.md",
     "9ea6bc24-4645-4ee2-b365-05de36bfca4c": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Raindrop/Raindrop Binding.md",
@@ -3660,11 +3663,11 @@
     "ea7bef36-42df-455b-8fb6-c8bdb458b6e5": "MyProjects/Dentropy Daemon/Unorganized/KMS Analysis.md",
     "7516a3e2-9926-48be-af0b-5ddf8e2279dc": "MyProjects/Dentropy Daemon/Design/Whitepaper - DDaemon.md",
     "d6c7b9d4-1ce5-4661-9040-28be18e457ca": "MyProjects/Dentropy Daemon/Design/Vision - DDaemon.md",
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81": "MyProjects/Dentropy Daemon/Design/User Stories - DDaemon.md",
+    "92a22ef8-5137-47e9-a48a-ece9720f6169": "MyProjects/Dentropy Daemon/Design/User Stories - DDaemon.md",
     "b55e907e-63f1-48b0-8bda-a813d06118cf": "MyProjects/Dentropy Daemon/Design/Thought Annotation - DDaemon.md",
     "d6321a61-0b6f-49f7-b537-0476879dad25": "MyProjects/Dentropy Daemon/Design/Specific Aims - DDaemon.md",
     "ce95a2c6-06de-4289-bd97-a94257439970": "MyProjects/Dentropy Daemon/Design/Situation Scan - DDaemon.md",
-    "0c58c83e-707f-423c-8b57-1c0f8224e494": "MyProjects/Dentropy Daemon/Design/Semantic Forum.md",
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": "MyProjects/Dentropy Daemon/Design/Semantic Forum.md",
     "44928702-3e41-482c-9005-2b5862c4ee5a": "MyProjects/Dentropy Daemon/Design/Research - Semantic Forum.md",
     "a19c9978-9dba-45f0-af19-d8020b67e5e3": "MyProjects/Dentropy Daemon/Design/Reference Deisgn - DDaemon.md",
     "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079": "MyProjects/Dentropy Daemon/Design/Queue Management.md",
@@ -3675,6 +3678,7 @@
     "1f11a496-ebd1-4a2f-b286-44e27e792258": "MyProjects/Dentropy Daemon/Design/MVP - DDaemon.md",
     "3aac9f98-9264-4093-8402-be32de0295cb": "MyProjects/Dentropy Daemon/Design/Intro - DDaemon.md",
     "e9b17dc4-1c1a-4b70-8122-cdae0c962608": "MyProjects/Dentropy Daemon/Design/Heilmeier Catechism - Dentropy Damon.md",
+    "57b016eb-5704-449d-875a-7a228770b576": "MyProjects/Dentropy Daemon/Design/Heilmeier Catechism -  DDaemon.md",
     "86442875-292e-4241-ae1d-c5b0e39c8583": "MyProjects/Dentropy Daemon/Design/First Principals - Dentropy Daemon.md",
     "d9a9fbdc-33b0-4bdb-b964-7d2d05698219": "MyProjects/Dentropy Daemon/Design/Facilitators Catechism - DDaemon.md",
     "702312c0-e3ed-464f-bc49-beb2de1169b6": "MyProjects/Dentropy Daemon/Design/Design Brief - DDaemon.md",
@@ -3712,7 +3716,6 @@
     "fc4cf111-20c3-46ea-9ec2-b27c20304146": "MyProjects/Dentropy Daemon/Archive/Monorepo/whiteboard.md",
     "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4": "MyProjects/Dentropy Daemon/Archive/Monorepo/docs.md",
     "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249": "MyProjects/Dentropy Daemon/Archive/Monorepo/backlog.md",
-    "92a22ef8-5137-47e9-a48a-ece9720f6169": "MyProjects/Dentropy Daemon/Archive/Monorepo/User Stories - DDaemon.md",
     "b6cdc671-377e-4b01-b0f8-6a2849e84405": "MyProjects/Dentropy Daemon/Archive/Monorepo/TODO - DDameon.md",
     "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a": "MyProjects/Dentropy Daemon/Archive/Monorepo/Social Media Bindings.md",
     "2ffcf8b7-75d5-4f99-bf20-10826df12580": "MyProjects/Dentropy Daemon/Archive/Monorepo/Roadmap.md",
@@ -3806,6 +3809,7 @@
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media Dentropy's Currently Consuming.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "Media/Videos/NRx.md",
@@ -3957,6 +3961,7 @@
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": "Media/List/ELI5 What exactly is the mind-body problem.md",
     "24229833-9146-4417-9a5a-0c46fa1efb1a": "Media/List/Dune.md",
     "053917a5-82f8-436b-bc18-730a4f28e983": "Media/List/Dune Messiah.md",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Media/List/Dentropy's Favourite Media.md",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": "Media/List/Default Wisdom.md",
     "a0226036-bfd9-45c4-858e-445dabaa9d30": "Media/List/Death s END.md",
     "072dd632-729b-4e18-9a48-5df256881d68": "Media/List/Daniel Dennett: How Does the Brain Store Beliefs?.md",
@@ -4093,7 +4098,8 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "Heuristics/Conversation/36 Questions To Fall In Love.md",
     "2781f257-2980-4661-bc02-635e6cc59112": "Heuristics/Axioms/Cosmic Sociology.md",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "Heuristics/Axioms/20 Axioms of Sociology.md",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Community/Blockchain Communities.md"
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Community/Blockchain Communities.md",
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913": "Catechisms/List of Catechisms.md"
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
@@ -4290,7 +4296,6 @@
     "644dd14f-7a90-472a-9475-1596ce8cb4de": "Social Annotation",
     "7f9d9842-5d16-4933-b896-e3567d964168": "Smart Contract",
     "5241197b-7146-46d5-9084-e10a1f56804f": "Six degrees of separation",
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": "Semantic Forum",
     "b49d524c-d04d-48bb-9440-20fc2af95bc0": "SegWit",
     "34e4e459-5645-4dc4-9bf6-a877efe927c7": "Second Brain",
     "cc6c5e5e-cec2-4fca-9417-735223a0b0bd": "Science",
@@ -5672,6 +5677,7 @@
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": "ActivityWatch Experiments",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": "Blockchain Binding",
     "04a10593-c9c5-43ce-a8f0-d457f2353d88": "Whatsapp Binding",
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6": "Twitter Binding",
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": "Telegram Binding",
     "2ab15421-459c-4512-914e-4431809b210a": "Reddit Binding",
     "9ea6bc24-4645-4ee2-b365-05de36bfca4c": "Raindrop Binding",
@@ -5708,11 +5714,11 @@
     "ea7bef36-42df-455b-8fb6-c8bdb458b6e5": "KMS Analysis",
     "7516a3e2-9926-48be-af0b-5ddf8e2279dc": "Whitepaper - DDaemon",
     "d6c7b9d4-1ce5-4661-9040-28be18e457ca": "Vision - DDaemon",
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81": "User Stories - DDaemon",
+    "92a22ef8-5137-47e9-a48a-ece9720f6169": "User Stories - DDaemon",
     "b55e907e-63f1-48b0-8bda-a813d06118cf": "Thought Annotation - DDaemon",
     "d6321a61-0b6f-49f7-b537-0476879dad25": "Specific Aims - DDaemon",
     "ce95a2c6-06de-4289-bd97-a94257439970": "Situation Scan - DDaemon",
-    "0c58c83e-707f-423c-8b57-1c0f8224e494": "Semantic Forum",
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": "Semantic Forum",
     "44928702-3e41-482c-9005-2b5862c4ee5a": "Research - Semantic Forum",
     "a19c9978-9dba-45f0-af19-d8020b67e5e3": "Reference Deisgn - DDaemon",
     "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079": "Queue Management",
@@ -5723,6 +5729,7 @@
     "1f11a496-ebd1-4a2f-b286-44e27e792258": "MVP - DDaemon",
     "3aac9f98-9264-4093-8402-be32de0295cb": "Intro - DDaemon",
     "e9b17dc4-1c1a-4b70-8122-cdae0c962608": "Heilmeier Catechism - Dentropy Damon",
+    "57b016eb-5704-449d-875a-7a228770b576": "Heilmeier Catechism -  DDaemon",
     "86442875-292e-4241-ae1d-c5b0e39c8583": "First Principals - Dentropy Daemon",
     "d9a9fbdc-33b0-4bdb-b964-7d2d05698219": "Facilitators Catechism - DDaemon",
     "702312c0-e3ed-464f-bc49-beb2de1169b6": "Design Brief - DDaemon",
@@ -5760,7 +5767,6 @@
     "fc4cf111-20c3-46ea-9ec2-b27c20304146": "whiteboard",
     "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4": "docs",
     "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249": "backlog",
-    "92a22ef8-5137-47e9-a48a-ece9720f6169": "User Stories - DDaemon",
     "b6cdc671-377e-4b01-b0f8-6a2849e84405": "TODO - DDameon",
     "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a": "Social Media Bindings",
     "2ffcf8b7-75d5-4f99-bf20-10826df12580": "Roadmap",
@@ -5854,6 +5860,7 @@
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "Questions - Blockchain Royalties",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media Dentropy's Currently Consuming",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "NRx",
@@ -6005,6 +6012,7 @@
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": "ELI5 What exactly is the mind-body problem",
     "24229833-9146-4417-9a5a-0c46fa1efb1a": "Dune",
     "053917a5-82f8-436b-bc18-730a4f28e983": "Dune Messiah",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Dentropy's Favourite Media",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": "Default Wisdom",
     "a0226036-bfd9-45c4-858e-445dabaa9d30": "Death s END",
     "072dd632-729b-4e18-9a48-5df256881d68": "Daniel Dennett: How Does the Brain Store Beliefs?",
@@ -6141,7 +6149,8 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "36 Questions To Fall In Love",
     "2781f257-2980-4661-bc02-635e6cc59112": "Cosmic Sociology",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "20 Axioms of Sociology",
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Blockchain Communities"
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Blockchain Communities",
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913": "List of Catechisms"
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
@@ -6338,7 +6347,6 @@
     "Wiki/Concepts/List/Social Annotation.md": "644dd14f-7a90-472a-9475-1596ce8cb4de",
     "Wiki/Concepts/List/Smart Contract.md": "7f9d9842-5d16-4933-b896-e3567d964168",
     "Wiki/Concepts/List/Six degrees of separation.md": "5241197b-7146-46d5-9084-e10a1f56804f",
-    "Wiki/Concepts/List/Semantic Forum.md": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
     "Wiki/Concepts/List/SegWit.md": "b49d524c-d04d-48bb-9440-20fc2af95bc0",
     "Wiki/Concepts/List/Second Brain.md": "34e4e459-5645-4dc4-9bf6-a877efe927c7",
     "Wiki/Concepts/List/Science.md": "cc6c5e5e-cec2-4fca-9417-735223a0b0bd",
@@ -7720,6 +7728,7 @@
     "MyProjects/Dentropy Daemon/bindings/ActivityWatch Experiments.md": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Blockchain Binding.md": "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Whatsapp/Whatsapp Binding.md": "04a10593-c9c5-43ce-a8f0-d457f2353d88",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Twitter/Twitter Binding.md": "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Telegram/Telegram Binding.md": "ec8c9244-b8d5-43ec-9432-cad045c075e5",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Reddit/Reddit Binding.md": "2ab15421-459c-4512-914e-4431809b210a",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Raindrop/Raindrop Binding.md": "9ea6bc24-4645-4ee2-b365-05de36bfca4c",
@@ -7756,11 +7765,11 @@
     "MyProjects/Dentropy Daemon/Unorganized/KMS Analysis.md": "ea7bef36-42df-455b-8fb6-c8bdb458b6e5",
     "MyProjects/Dentropy Daemon/Design/Whitepaper - DDaemon.md": "7516a3e2-9926-48be-af0b-5ddf8e2279dc",
     "MyProjects/Dentropy Daemon/Design/Vision - DDaemon.md": "d6c7b9d4-1ce5-4661-9040-28be18e457ca",
-    "MyProjects/Dentropy Daemon/Design/User Stories - DDaemon.md": "9dd3667c-231c-43f1-81d6-b96adff4ea81",
+    "MyProjects/Dentropy Daemon/Design/User Stories - DDaemon.md": "92a22ef8-5137-47e9-a48a-ece9720f6169",
     "MyProjects/Dentropy Daemon/Design/Thought Annotation - DDaemon.md": "b55e907e-63f1-48b0-8bda-a813d06118cf",
     "MyProjects/Dentropy Daemon/Design/Specific Aims - DDaemon.md": "d6321a61-0b6f-49f7-b537-0476879dad25",
     "MyProjects/Dentropy Daemon/Design/Situation Scan - DDaemon.md": "ce95a2c6-06de-4289-bd97-a94257439970",
-    "MyProjects/Dentropy Daemon/Design/Semantic Forum.md": "0c58c83e-707f-423c-8b57-1c0f8224e494",
+    "MyProjects/Dentropy Daemon/Design/Semantic Forum.md": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
     "MyProjects/Dentropy Daemon/Design/Research - Semantic Forum.md": "44928702-3e41-482c-9005-2b5862c4ee5a",
     "MyProjects/Dentropy Daemon/Design/Reference Deisgn - DDaemon.md": "a19c9978-9dba-45f0-af19-d8020b67e5e3",
     "MyProjects/Dentropy Daemon/Design/Queue Management.md": "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079",
@@ -7771,6 +7780,7 @@
     "MyProjects/Dentropy Daemon/Design/MVP - DDaemon.md": "1f11a496-ebd1-4a2f-b286-44e27e792258",
     "MyProjects/Dentropy Daemon/Design/Intro - DDaemon.md": "3aac9f98-9264-4093-8402-be32de0295cb",
     "MyProjects/Dentropy Daemon/Design/Heilmeier Catechism - Dentropy Damon.md": "e9b17dc4-1c1a-4b70-8122-cdae0c962608",
+    "MyProjects/Dentropy Daemon/Design/Heilmeier Catechism -  DDaemon.md": "57b016eb-5704-449d-875a-7a228770b576",
     "MyProjects/Dentropy Daemon/Design/First Principals - Dentropy Daemon.md": "86442875-292e-4241-ae1d-c5b0e39c8583",
     "MyProjects/Dentropy Daemon/Design/Facilitators Catechism - DDaemon.md": "d9a9fbdc-33b0-4bdb-b964-7d2d05698219",
     "MyProjects/Dentropy Daemon/Design/Design Brief - DDaemon.md": "702312c0-e3ed-464f-bc49-beb2de1169b6",
@@ -7808,7 +7818,6 @@
     "MyProjects/Dentropy Daemon/Archive/Monorepo/whiteboard.md": "fc4cf111-20c3-46ea-9ec2-b27c20304146",
     "MyProjects/Dentropy Daemon/Archive/Monorepo/docs.md": "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4",
     "MyProjects/Dentropy Daemon/Archive/Monorepo/backlog.md": "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249",
-    "MyProjects/Dentropy Daemon/Archive/Monorepo/User Stories - DDaemon.md": "92a22ef8-5137-47e9-a48a-ece9720f6169",
     "MyProjects/Dentropy Daemon/Archive/Monorepo/TODO - DDameon.md": "b6cdc671-377e-4b01-b0f8-6a2849e84405",
     "MyProjects/Dentropy Daemon/Archive/Monorepo/Social Media Bindings.md": "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a",
     "MyProjects/Dentropy Daemon/Archive/Monorepo/Roadmap.md": "2ffcf8b7-75d5-4f99-bf20-10826df12580",
@@ -7902,6 +7911,7 @@
     "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
+    "Media/Media Dentropy's Currently Consuming.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "Media/Videos/NRx.md": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
@@ -8053,6 +8063,7 @@
     "Media/List/ELI5 What exactly is the mind-body problem.md": "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "Media/List/Dune.md": "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "Media/List/Dune Messiah.md": "053917a5-82f8-436b-bc18-730a4f28e983",
+    "Media/List/Dentropy's Favourite Media.md": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Media/List/Default Wisdom.md": "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "Media/List/Death s END.md": "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "Media/List/Daniel Dennett: How Does the Brain Store Beliefs?.md": "072dd632-729b-4e18-9a48-5df256881d68",
@@ -8189,7 +8200,8 @@
     "Heuristics/Conversation/36 Questions To Fall In Love.md": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Heuristics/Axioms/Cosmic Sociology.md": "2781f257-2980-4661-bc02-635e6cc59112",
     "Heuristics/Axioms/20 Axioms of Sociology.md": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
-    "Community/Blockchain Communities.md": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
+    "Community/Blockchain Communities.md": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
+    "Catechisms/List of Catechisms.md": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   },
   "filename_uuid": {
     "165": "1b8c6f90-a2e5-42f9-b484-12432d413ace",
@@ -8390,7 +8402,6 @@
     "Social Annotation": "644dd14f-7a90-472a-9475-1596ce8cb4de",
     "Smart Contract": "7f9d9842-5d16-4933-b896-e3567d964168",
     "Six degrees of separation": "5241197b-7146-46d5-9084-e10a1f56804f",
-    "Semantic Forum": "0c58c83e-707f-423c-8b57-1c0f8224e494",
     "SegWit": "b49d524c-d04d-48bb-9440-20fc2af95bc0",
     "Second Brain": "34e4e459-5645-4dc4-9bf6-a877efe927c7",
     "Science": "cc6c5e5e-cec2-4fca-9417-735223a0b0bd",
@@ -9728,6 +9739,7 @@
     "ActivityWatch Experiments": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "Blockchain Binding": "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
     "Whatsapp Binding": "04a10593-c9c5-43ce-a8f0-d457f2353d88",
+    "Twitter Binding": "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6",
     "Telegram Binding": "ec8c9244-b8d5-43ec-9432-cad045c075e5",
     "Reddit Binding": "2ab15421-459c-4512-914e-4431809b210a",
     "Raindrop Binding": "9ea6bc24-4645-4ee2-b365-05de36bfca4c",
@@ -9762,6 +9774,7 @@
     "Thought Annotation - DDaemon": "b55e907e-63f1-48b0-8bda-a813d06118cf",
     "Specific Aims - DDaemon": "d6321a61-0b6f-49f7-b537-0476879dad25",
     "Situation Scan - DDaemon": "ce95a2c6-06de-4289-bd97-a94257439970",
+    "Semantic Forum": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
     "Research - Semantic Forum": "44928702-3e41-482c-9005-2b5862c4ee5a",
     "Reference Deisgn - DDaemon": "a19c9978-9dba-45f0-af19-d8020b67e5e3",
     "Queue Management": "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079",
@@ -9772,6 +9785,7 @@
     "MVP - DDaemon": "1f11a496-ebd1-4a2f-b286-44e27e792258",
     "Intro - DDaemon": "3aac9f98-9264-4093-8402-be32de0295cb",
     "Heilmeier Catechism - Dentropy Damon": "e9b17dc4-1c1a-4b70-8122-cdae0c962608",
+    "Heilmeier Catechism -  DDaemon": "57b016eb-5704-449d-875a-7a228770b576",
     "First Principals - Dentropy Daemon": "86442875-292e-4241-ae1d-c5b0e39c8583",
     "Facilitators Catechism - DDaemon": "d9a9fbdc-33b0-4bdb-b964-7d2d05698219",
     "Design Brief - DDaemon": "702312c0-e3ed-464f-bc49-beb2de1169b6",
@@ -9873,6 +9887,7 @@
     "Questions - Blockchain Royalties": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
+    "Media Dentropy's Currently Consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "NRx": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
@@ -10023,6 +10038,7 @@
     "ELI5 What exactly is the mind-body problem": "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "Dune": "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "Dune Messiah": "053917a5-82f8-436b-bc18-730a4f28e983",
+    "Dentropy's Favourite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Default Wisdom": "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "Death s END": "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "Daniel Dennett: How Does the Brain Store Beliefs?": "072dd632-729b-4e18-9a48-5df256881d68",
@@ -10158,7 +10174,8 @@
     "36 Questions To Fall In Love": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Cosmic Sociology": "2781f257-2980-4661-bc02-635e6cc59112",
     "20 Axioms of Sociology": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
-    "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
+    "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
+    "List of Catechisms": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   },
   "yaml_uuid": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": {
@@ -11130,11 +11147,6 @@
       "share": true,
       "uuid": "5241197b-7146-46d5-9084-e10a1f56804f",
       "title": "Six degrees of separation"
-    },
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": {
-      "share": true,
-      "uuid": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
-      "title": "Semantic Forum"
     },
     "b49d524c-d04d-48bb-9440-20fc2af95bc0": {
       "share": true,
@@ -18041,6 +18053,11 @@
       "uuid": "04a10593-c9c5-43ce-a8f0-d457f2353d88",
       "title": "Whatsapp Binding"
     },
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6": {
+      "uuid": "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6",
+      "share": true,
+      "title": "Twitter Binding"
+    },
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": {
       "share": true,
       "uuid": "ec8c9244-b8d5-43ec-9432-cad045c075e5",
@@ -18221,9 +18238,9 @@
       "uuid": "d6c7b9d4-1ce5-4661-9040-28be18e457ca",
       "title": "Vision - DDaemon"
     },
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81": {
+    "92a22ef8-5137-47e9-a48a-ece9720f6169": {
       "share": true,
-      "uuid": "9dd3667c-231c-43f1-81d6-b96adff4ea81",
+      "uuid": "92a22ef8-5137-47e9-a48a-ece9720f6169",
       "title": "User Stories - DDaemon"
     },
     "b55e907e-63f1-48b0-8bda-a813d06118cf": {
@@ -18241,9 +18258,9 @@
       "uuid": "ce95a2c6-06de-4289-bd97-a94257439970",
       "title": "Situation Scan - DDaemon"
     },
-    "0c58c83e-707f-423c-8b57-1c0f8224e494": {
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": {
       "share": true,
-      "uuid": "0c58c83e-707f-423c-8b57-1c0f8224e494",
+      "uuid": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
       "title": "Semantic Forum"
     },
     "44928702-3e41-482c-9005-2b5862c4ee5a": {
@@ -18295,6 +18312,11 @@
       "share": true,
       "uuid": "e9b17dc4-1c1a-4b70-8122-cdae0c962608",
       "title": "Heilmeier Catechism - Dentropy Damon"
+    },
+    "57b016eb-5704-449d-875a-7a228770b576": {
+      "uuid": "57b016eb-5704-449d-875a-7a228770b576",
+      "share": true,
+      "title": "Heilmeier Catechism -  DDaemon"
     },
     "86442875-292e-4241-ae1d-c5b0e39c8583": {
       "share": true,
@@ -18480,11 +18502,6 @@
       "share": true,
       "uuid": "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249",
       "title": "backlog"
-    },
-    "92a22ef8-5137-47e9-a48a-ece9720f6169": {
-      "share": true,
-      "uuid": "92a22ef8-5137-47e9-a48a-ece9720f6169",
-      "title": "User Stories - DDaemon"
     },
     "b6cdc671-377e-4b01-b0f8-6a2849e84405": {
       "share": true,
@@ -18950,6 +18967,11 @@
       "share": true,
       "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
       "title": "Recommended Media"
+    },
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": {
+      "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+      "share": true,
+      "title": "Media Dentropy's Currently Consuming"
     },
     "3d6300be-801b-4df3-93ad-ac452f22831d": {
       "share": true,
@@ -19706,6 +19728,11 @@
       "uuid": "053917a5-82f8-436b-bc18-730a4f28e983",
       "title": "Dune Messiah"
     },
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": {
+      "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
+      "share": true,
+      "title": "Dentropy's Favourite Media"
+    },
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": {
       "share": true,
       "uuid": "e3ad5c22-a336-434d-a3b4-61ca249c496f",
@@ -20390,6 +20417,11 @@
       "share": true,
       "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
       "title": "Blockchain Communities"
+    },
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913": {
+      "uuid": "cbe6af2b-2be1-40d5-95f9-08caa4869913",
+      "share": true,
+      "title": "List of Catechisms"
     }
   },
   "images": [
@@ -21055,9 +21087,6 @@
           },
           "Six degrees of separation.md": {
             "uuid": "5241197b-7146-46d5-9084-e10a1f56804f"
-          },
-          "Semantic Forum.md": {
-            "uuid": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a"
           },
           "SegWit.md": {
             "uuid": "b49d524c-d04d-48bb-9440-20fc2af95bc0"
@@ -25511,6 +25540,11 @@
                 "uuid": "04a10593-c9c5-43ce-a8f0-d457f2353d88"
               }
             },
+            "Twitter": {
+              "Twitter Binding.md": {
+                "uuid": "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6"
+              }
+            },
             "Telegram": {
               "Telegram Binding.md": {
                 "uuid": "ec8c9244-b8d5-43ec-9432-cad045c075e5"
@@ -25649,7 +25683,7 @@
             "uuid": "d6c7b9d4-1ce5-4661-9040-28be18e457ca"
           },
           "User Stories - DDaemon.md": {
-            "uuid": "9dd3667c-231c-43f1-81d6-b96adff4ea81"
+            "uuid": "92a22ef8-5137-47e9-a48a-ece9720f6169"
           },
           "Thought Annotation - DDaemon.md": {
             "uuid": "b55e907e-63f1-48b0-8bda-a813d06118cf"
@@ -25661,7 +25695,7 @@
             "uuid": "ce95a2c6-06de-4289-bd97-a94257439970"
           },
           "Semantic Forum.md": {
-            "uuid": "0c58c83e-707f-423c-8b57-1c0f8224e494"
+            "uuid": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a"
           },
           "Research - Semantic Forum.md": {
             "uuid": "44928702-3e41-482c-9005-2b5862c4ee5a"
@@ -25692,6 +25726,9 @@
           },
           "Heilmeier Catechism - Dentropy Damon.md": {
             "uuid": "e9b17dc4-1c1a-4b70-8122-cdae0c962608"
+          },
+          "Heilmeier Catechism -  DDaemon.md": {
+            "uuid": "57b016eb-5704-449d-875a-7a228770b576"
           },
           "First Principals - Dentropy Daemon.md": {
             "uuid": "86442875-292e-4241-ae1d-c5b0e39c8583"
@@ -25824,9 +25861,6 @@
             },
             "backlog.md": {
               "uuid": "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249"
-            },
-            "User Stories - DDaemon.md": {
-              "uuid": "92a22ef8-5137-47e9-a48a-ece9720f6169"
             },
             "TODO - DDameon.md": {
               "uuid": "b6cdc671-377e-4b01-b0f8-6a2849e84405"
@@ -26131,6 +26165,9 @@
     "Media": {
       "Recommended Media.md": {
         "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
+      },
+      "Media Dentropy's Currently Consuming.md": {
+        "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       },
       "Media Consumption Backlog.md": {
         "uuid": "3d6300be-801b-4df3-93ad-ac452f22831d"
@@ -26591,6 +26628,9 @@
         },
         "Dune Messiah.md": {
           "uuid": "053917a5-82f8-436b-bc18-730a4f28e983"
+        },
+        "Dentropy's Favourite Media.md": {
+          "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
         },
         "Default Wisdom.md": {
           "uuid": "e3ad5c22-a336-434d-a3b4-61ca249c496f"
@@ -27062,6 +27102,11 @@
       "Blockchain Communities.md": {
         "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
       }
+    },
+    "Catechisms": {
+      "List of Catechisms.md": {
+        "uuid": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
+      }
     }
   },
   "embedded_note_links": {
@@ -27306,7 +27351,6 @@
     "644dd14f-7a90-472a-9475-1596ce8cb4de": [],
     "7f9d9842-5d16-4933-b896-e3567d964168": [],
     "5241197b-7146-46d5-9084-e10a1f56804f": [],
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": [],
     "b49d524c-d04d-48bb-9440-20fc2af95bc0": [],
     "34e4e459-5645-4dc4-9bf6-a877efe927c7": [],
     "cc6c5e5e-cec2-4fca-9417-735223a0b0bd": [],
@@ -28970,6 +29014,7 @@
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": [],
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": [],
     "04a10593-c9c5-43ce-a8f0-d457f2353d88": [],
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6": [],
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": [],
     "2ab15421-459c-4512-914e-4431809b210a": [],
     "9ea6bc24-4645-4ee2-b365-05de36bfca4c": [],
@@ -29006,11 +29051,16 @@
     "ea7bef36-42df-455b-8fb6-c8bdb458b6e5": [],
     "7516a3e2-9926-48be-af0b-5ddf8e2279dc": [],
     "d6c7b9d4-1ce5-4661-9040-28be18e457ca": [],
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81": [],
+    "92a22ef8-5137-47e9-a48a-ece9720f6169": [
+      {
+        "text": "dentropydaemon-wiki/assets/AnalysisQueries.svg",
+        "heading": ""
+      }
+    ],
     "b55e907e-63f1-48b0-8bda-a813d06118cf": [],
     "d6321a61-0b6f-49f7-b537-0476879dad25": [],
     "ce95a2c6-06de-4289-bd97-a94257439970": [],
-    "0c58c83e-707f-423c-8b57-1c0f8224e494": [],
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": [],
     "44928702-3e41-482c-9005-2b5862c4ee5a": [],
     "a19c9978-9dba-45f0-af19-d8020b67e5e3": [],
     "6900cdfd-b809-4bcd-8ee2-bf3e7f96e079": [],
@@ -29021,6 +29071,7 @@
     "1f11a496-ebd1-4a2f-b286-44e27e792258": [],
     "3aac9f98-9264-4093-8402-be32de0295cb": [],
     "e9b17dc4-1c1a-4b70-8122-cdae0c962608": [],
+    "57b016eb-5704-449d-875a-7a228770b576": [],
     "86442875-292e-4241-ae1d-c5b0e39c8583": [],
     "d9a9fbdc-33b0-4bdb-b964-7d2d05698219": [],
     "702312c0-e3ed-464f-bc49-beb2de1169b6": [],
@@ -29058,12 +29109,6 @@
     "fc4cf111-20c3-46ea-9ec2-b27c20304146": [],
     "cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4": [],
     "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249": [],
-    "92a22ef8-5137-47e9-a48a-ece9720f6169": [
-      {
-        "text": "dentropydaemon-wiki/assets/AnalysisQueries.svg",
-        "heading": ""
-      }
-    ],
     "b6cdc671-377e-4b01-b0f8-6a2849e84405": [],
     "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a": [],
     "2ffcf8b7-75d5-4f99-bf20-10826df12580": [
@@ -29162,6 +29207,7 @@
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": [],
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": [],
@@ -29322,6 +29368,7 @@
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": [],
     "24229833-9146-4417-9a5a-0c46fa1efb1a": [],
     "053917a5-82f8-436b-bc18-730a4f28e983": [],
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [],
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": [],
     "a0226036-bfd9-45c4-858e-445dabaa9d30": [],
     "072dd632-729b-4e18-9a48-5df256881d68": [],
@@ -29458,7 +29505,8 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": [],
     "2781f257-2980-4661-bc02-635e6cc59112": [],
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": [],
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": []
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913": []
   },
   "note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [
@@ -29475,12 +29523,12 @@
         "text": "Dentropy's Projects"
       },
       {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
+        "link": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
+        "text": "Dentropy Daemon - Home"
       },
       {
-        "link": "3aac9f98-9264-4093-8402-be32de0295cb",
-        "text": "Dentropy Daemon - dd"
+        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
+        "text": "Question Engine - QE"
       },
       {
         "link": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -29495,6 +29543,9 @@
         "text": "VSCode Extensions"
       },
       {
+        "text": "Obsidian Plugins"
+      },
+      {
         "link": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
         "text": "Dentropy's Favourite Apps"
       },
@@ -29503,9 +29554,11 @@
         "text": "Dentropy's Ideal DevSecOps Stack"
       },
       {
+        "link": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
         "text": "Dentropy's Favourite Media"
       },
       {
+        "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
         "text": "Media Dentropy's Currently Consuming"
       }
     ],
@@ -30762,12 +30815,6 @@
         "text": "wiki.concepts.list.Average path length"
       }
     ],
-    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": [
-      {
-        "link": "da8ee43f-5075-4547-a583-65a941185d4a",
-        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries"
-      }
-    ],
     "b49d524c-d04d-48bb-9440-20fc2af95bc0": [],
     "34e4e459-5645-4dc4-9bf6-a877efe927c7": [],
     "cc6c5e5e-cec2-4fca-9417-735223a0b0bd": [],
@@ -30964,7 +31011,12 @@
       }
     ],
     "e99c7bdd-3987-441e-a043-bcc81d6d2b29": [],
-    "0495f426-37dc-44c5-92fe-a494b814ecf9": [],
+    "0495f426-37dc-44c5-92fe-a494b814ecf9": [
+      {
+        "link": "a984fc49-2539-456b-962b-e801c3379983",
+        "text": "How the Mind Works"
+      }
+    ],
     "19f71300-59ae-448f-980d-9e5df39bef54": [
       {
         "text": "wiki.concepts.list.Materialisim"
@@ -31811,7 +31863,8 @@
     ],
     "41018894-c14f-4996-bc7a-e8c656d10d26": [
       {
-        "text": "dentropydaemon-wiki/Wiki/Concepts/List/Microsoft MVP"
+        "link": "6b3bddf5-aeaa-4adf-955d-9826d6b3e062",
+        "text": "Microsoft MVP"
       }
     ],
     "bb722263-d24b-4205-9485-33b19202e305": [],
@@ -32335,6 +32388,10 @@
         "text": "OrgMode"
       },
       {
+        "link": "2195a706-03d5-4d97-af0f-f9d7f220f30a",
+        "text": "Tiddly Wiki"
+      },
+      {
         "link": "99dfbc86-bdad-4cae-8b6a-031cd240f016",
         "text": "dendron"
       },
@@ -32381,15 +32438,15 @@
         "text": "Windscribe"
       },
       {
-        "link": "14a905df-9f79-42ee-ab8c-8cd32242412b",
-        "text": "TrueNAS"
+        "link": "b04649d5-c9c1-4d05-bf04-15db21b3d393",
+        "text": "Wireguard"
       },
       {
         "text": "Proxmox"
       },
       {
-        "link": "58862bb9-e2b3-4e8e-91c0-2c55d743b76e",
-        "text": "helm"
+        "link": "1fc6c96f-fcb0-40d9-9b57-0645b09dbc92",
+        "text": "TrueNAS Scale"
       },
       {
         "link": "98d27b77-5c46-46c6-bc0a-0a58ec5cd72b",
@@ -33415,6 +33472,17 @@
     "2fb72ee8-23de-4037-8134-a4c4980ede51": [],
     "f76a085e-f2c8-43bd-a852-47760f01e401": [
       {
+        "text": "Obsidian Plugins"
+      },
+      {
+        "link": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
+        "text": "Encrypted Git Backup"
+      },
+      {
+        "link": "f43d858e-c32e-4d15-bfc4-456bb7f56ceb",
+        "text": "dentropys-obsidian-publisher"
+      },
+      {
         "link": "7e20362a-e34a-4158-9e39-9a902a082ccf",
         "text": "Obsidian Publish"
       },
@@ -33423,44 +33491,48 @@
         "text": "Obsidian Quartz"
       },
       {
-        "link": "15656536-0c67-42f0-898b-263e3287568d",
-        "text": "Obsidian Plugin Dataview"
+        "link": "33ed3a6c-3b95-4d21-9cf4-e3b46f9af974",
+        "text": "Customization via Extensions"
       },
       {
-        "text": "dentropydaemon-wiki/Software/List/Obsidian Plugin Dataview"
+        "link": "8688a0f4-aff4-46a1-a83a-9e3908ce72ec",
+        "text": "Multi User Sharing"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Customization via Extensions"
+        "link": "a0c42465-8a0f-400d-86eb-fa7decb35ef0",
+        "text": "File System Sharing"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Sharing/Multi User Sharing"
+        "link": "8ffb70c7-2315-4f73-9867-6885d064457e",
+        "text": "Publishing"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Sharing/File System Sharing"
+        "link": "ef29cab3-4aef-413f-b603-29cfeedd290d",
+        "text": "Data Visualization"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Publishing"
+        "link": "dfc0303f-7458-482a-afda-92c3441180bb",
+        "text": "Active Community"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Data Visualization"
+        "link": "4393acec-181e-4eab-a88d-5a66542ac158",
+        "text": "Application Search"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Active Community"
+        "link": "8e5d1866-cd6a-495d-bd0c-3bf8b4c6c420",
+        "text": "E2EE - End To End Encryption"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Application Search"
+        "link": "1059b83a-2c44-492f-a5b2-e716eb7b7ea8",
+        "text": "Has API"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/E2EE - End To End Encryption"
+        "link": "b5b62336-cd54-408d-990e-a7de11b4d27c",
+        "text": "File Formats Supported"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Has API"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/File Formats Supported"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/Software Catagories/Data Export Functionality"
+        "link": "488b9eda-db35-4ecb-bf55-c6f851af116b",
+        "text": "Data Export Functionality"
       }
     ],
     "da066ac4-8253-4b30-9836-107e3500aa9d": [],
@@ -33492,11 +33564,7 @@
         "text": "Obsidian"
       }
     ],
-    "15656536-0c67-42f0-898b-263e3287568d": [
-      {
-        "text": "dentropydaemon-wiki/Software/List/Obsidian"
-      }
-    ],
+    "15656536-0c67-42f0-898b-263e3287568d": [],
     "85eda353-9816-4f81-8959-65382bf93698": [],
     "a0a9bb26-180a-4800-84fd-bd72fe04f7f6": [
       {
@@ -37751,7 +37819,98 @@
     ],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
+        "link": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+        "text": "Catechism - Discord Auditing, DAO Use case"
+      },
+      {
         "text": "DAO Auditing via Discord Logs"
+      },
+      {
+        "text": "DAO Auditing via Discord - Brainstorming"
+      },
+      {
+        "text": "Who am I looking for?"
+      },
+      {
+        "text": "What kind of people do I want to meet?"
+      },
+      {
+        "text": "What kind of people am I looking for?"
+      },
+      {
+        "text": "What kind of conversations do you want to have?"
+      },
+      {
+        "text": "What kind of Information am I looking for?"
+      },
+      {
+        "text": "How do I want to shape the world?"
+      },
+      {
+        "text": "What kind of relationships do I want to have?"
+      },
+      {
+        "text": "What is this discord data even for?"
+      },
+      {
+        "text": "How can I segment discord data?"
+      },
+      {
+        "text": "How should I tag discord data?"
+      },
+      {
+        "text": "What actionable insights can I have from my queries in Discord data?"
+      },
+      {
+        "text": "How do I want to engage with these communities after I have processed their data?"
+      },
+      {
+        "text": "Who might be interested in buying this data or reports generated from it?"
+      },
+      {
+        "text": "What kind of context do I expect to retrieve by reading through my old Discord Messages?"
+      },
+      {
+        "text": "How do I want to shape discord communities?"
+      },
+      {
+        "text": "What kind of persona do I want to portray to discord communities?"
+      },
+      {
+        "text": "What is the most effective way to engage with Discord Communities?"
+      },
+      {
+        "text": "What do I want from discord communities?"
+      },
+      {
+        "text": "What am I personally looking for within this scraped discord data?"
+      },
+      {
+        "text": "What kind of insights marketers looking for and what tools do they use to get them?"
+      },
+      {
+        "text": "How can I contextualize my personal Discord Messages?"
+      },
+      {
+        "text": "What kind of intelligence do I want to produce from discord servers?"
+      },
+      {
+        "text": "What do I need in terms of Discord DAO Auditing before I can move on to other data sources?"
+      },
+      {
+        "text": "Get a list of every discord message I ever sent"
+      },
+      {
+        "text": "Find best marketing reports and articulate what constitutes them"
+      },
+      {
+        "text": "Interview a Marketer"
+      },
+      {
+        "text": "Write out a user story about auditing a discord server"
+      },
+      {
+        "text": "Develop a procedure to investigate and label individuals on Discord"
       }
     ],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [
@@ -38330,21 +38489,47 @@
         "text": "DDaemon Bindings"
       },
       {
-        "link": "7621dfbb-6988-4e80-9836-a8011f664099",
-        "text": "Logs - DDaemon"
+        "text": "DDaemon - Personal Data Archive"
       },
       {
-        "text": "Design Kit - DDaemon"
+        "text": "DDaemon - Dashboard"
+      },
+      {
+        "text": "DDaemon - P2P plus RBAC"
+      },
+      {
+        "text": "DDaemon - App Marketplace"
+      },
+      {
+        "link": "5e01e1ef-4aa4-491d-8ac3-8f0343201a97",
+        "text": "Design Heuristics"
       },
       {
         "link": "89182d9f-ab57-497c-96c6-0aff10c6724d",
         "text": "Catechism - DDaemon"
       },
       {
+        "link": "57b016eb-5704-449d-875a-7a228770b576",
         "text": "Heilmeier Catechism -  DDaemon"
       },
       {
-        "text": "dentropydaemon-wiki/Dentropy Daemon/Design/User Stories - DDaemon"
+        "text": "Design Kit - DDaemon"
+      },
+      {
+        "link": "6ec01842-ee57-4594-a47c-c7c33bed4c36",
+        "text": "DDaemon Features"
+      },
+      {
+        "link": "1eeef5ad-72cd-4f62-8c70-951927108dd2",
+        "text": "Business Case - DDaemon"
+      },
+      {
+        "link": "71dc6153-9d1b-493d-9c44-e804b26f0c15",
+        "text": "Design Roadmap"
+      },
+      {
+        "link": "92a22ef8-5137-47e9-a48a-ece9720f6169",
+        "text": "User Stories - DDaemon"
       },
       {
         "link": "d6321a61-0b6f-49f7-b537-0476879dad25",
@@ -38366,19 +38551,12 @@
         "text": "MVP - DDaemon"
       },
       {
-        "link": "6ec01842-ee57-4594-a47c-c7c33bed4c36",
-        "text": "DDaemon Features"
-      },
-      {
-        "link": "1eeef5ad-72cd-4f62-8c70-951927108dd2",
-        "text": "Business Case - DDaemon"
-      },
-      {
         "link": "57db9cf5-4b35-4cff-af63-25d6da569ca3",
         "text": "Pure Functions of Human Computer Interaction"
       },
       {
-        "text": "dentropydaemon-wiki/Dentropy Daemon/Design/Semantic Forum"
+        "link": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a",
+        "text": "Semantic Forum"
       },
       {
         "text": "Build a community"
@@ -38438,6 +38616,12 @@
     "04a10593-c9c5-43ce-a8f0-d457f2353d88": [
       {
         "text": "dentropydaemon-wiki/Software/List/Whatsapp"
+      }
+    ],
+    "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6": [
+      {
+        "link": "eba2dd18-4cda-4260-bdde-c4b14038af1c",
+        "text": "twitter-scraper"
       }
     ],
     "ec8c9244-b8d5-43ec-9432-cad045c075e5": [
@@ -38897,7 +39081,65 @@
         "text": "Mission vs Vision Statements"
       }
     ],
-    "9dd3667c-231c-43f1-81d6-b96adff4ea81": [],
+    "92a22ef8-5137-47e9-a48a-ece9720f6169": [
+      {
+        "text": "wiki.concepts.list.graphs#types-of-graphs"
+      },
+      {
+        "text": "wiki.software.Catagories.Data Visualization"
+      },
+      {
+        "text": "Project Management.ddaemon-webapp.Query Data Visualizations"
+      },
+      {
+        "text": "🚀1️⃣ means we need for Version 1. High priority"
+      },
+      {
+        "text": "✅ Basics"
+      },
+      {
+        "text": "❌ Time based filter"
+      },
+      {
+        "text": "❌ Number of Messages Filter"
+      },
+      {
+        "text": "❌ Message Size Filter"
+      },
+      {
+        "text": "❌ Reaction Filter"
+      },
+      {
+        "text": "Courses.Data Visualization with D3, JavaScript, React"
+      },
+      {
+        "text": "wiki.software.list.Elasticsearch.Examples.Fielddata"
+      },
+      {
+        "link": "8fa0416d-6ed7-4798-aa15-c155284fa6d1",
+        "text": "wiki.ddaemon.monorepo.bindings.keybase.queries"
+      },
+      {
+        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries.sort by most"
+      },
+      {
+        "link": "25dd053e-aa23-40e9-b6e0-49bf9643d8a6",
+        "text": "wiki.ddaemon.monorepo.User Stories.Blockchain Queries"
+      },
+      {
+        "text": "wiki.concepts.list.graphs#types-of-graphs"
+      },
+      {
+        "text": "wiki.concepts.list.User Stories"
+      },
+      {
+        "text": "wiki.ddaemon.design.user stories"
+      },
+      {
+        "link": "da8ee43f-5075-4547-a583-65a941185d4a",
+        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries"
+      }
+    ],
     "b55e907e-63f1-48b0-8bda-a813d06118cf": [],
     "d6321a61-0b6f-49f7-b537-0476879dad25": [
       {
@@ -38906,7 +39148,7 @@
       }
     ],
     "ce95a2c6-06de-4289-bd97-a94257439970": [],
-    "0c58c83e-707f-423c-8b57-1c0f8224e494": [
+    "b1c652df-6eb9-4e60-9bb5-c94c972ba35a": [
       {
         "text": "Brainstorming"
       },
@@ -38918,6 +39160,10 @@
       },
       {
         "text": "| discord!"
+      },
+      {
+        "link": "da8ee43f-5075-4547-a583-65a941185d4a",
+        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries"
       }
     ],
     "44928702-3e41-482c-9005-2b5862c4ee5a": [],
@@ -38969,6 +39215,32 @@
         "text": "Heilmeier Catechism"
       }
     ],
+    "57b016eb-5704-449d-875a-7a228770b576": [
+      {
+        "text": "Where can I download my data?"
+      },
+      {
+        "text": "Wolfram Langauge"
+      },
+      {
+        "text": "karlicoss"
+      },
+      {
+        "text": "IDEO Design Kit"
+      },
+      {
+        "text": "DDaemon - Personal Data Archive"
+      },
+      {
+        "text": "DDaemon - Dashboard"
+      },
+      {
+        "text": "DDaemon - P2P plus RBAC"
+      },
+      {
+        "text": "DDaemon - App Marketplace"
+      }
+    ],
     "86442875-292e-4241-ae1d-c5b0e39c8583": [],
     "d9a9fbdc-33b0-4bdb-b964-7d2d05698219": [],
     "702312c0-e3ed-464f-bc49-beb2de1169b6": [],
@@ -39012,16 +39284,20 @@
         "text": "Dentropy Daemon - Home"
       },
       {
+        "link": "34e4e459-5645-4dc4-9bf6-a877efe927c7",
         "text": "second and or outboard Brain"
       },
       {
-        "text": "wiki.concepts.list.Second Brain#eli5-second-brain"
+        "link": "34e4e459-5645-4dc4-9bf6-a877efe927c7",
+        "text": "Second Brain"
       },
       {
-        "text": "wiki.ddaemon.design.Dentropy Cloud.Dentropy Cloud Description"
+        "link": "e34d1e5a-aba6-4570-add8-6b3dfac3f275",
+        "text": "Dentropy Cloud Description"
       },
       {
-        "text": "wiki.ddaemon.design.Dentropy Cloud.Dentropy Cloud Description"
+        "link": "e34d1e5a-aba6-4570-add8-6b3dfac3f275",
+        "text": "Dentropy Cloud Description"
       },
       {
         "link": "65f9c304-affc-4dc5-bde9-43994e99b2b9",
@@ -39032,6 +39308,7 @@
         "text": "wiki.ddaemon.monorepo"
       },
       {
+        "link": "57b016eb-5704-449d-875a-7a228770b576",
         "text": "wiki.ddaemon.design.heilmeier catechism"
       }
     ],
@@ -39202,65 +39479,6 @@
       },
       {
         "text": "ddaemon.monorepo.bindings.git.README"
-      }
-    ],
-    "92a22ef8-5137-47e9-a48a-ece9720f6169": [
-      {
-        "text": "wiki.concepts.list.graphs#types-of-graphs"
-      },
-      {
-        "text": "wiki.software.Catagories.Data Visualization"
-      },
-      {
-        "text": "Project Management.ddaemon-webapp.Query Data Visualizations"
-      },
-      {
-        "text": "🚀1️⃣ means we need for Version 1. High priority"
-      },
-      {
-        "text": "✅ Basics"
-      },
-      {
-        "text": "❌ Time based filter"
-      },
-      {
-        "text": "❌ Number of Messages Filter"
-      },
-      {
-        "text": "❌ Message Size Filter"
-      },
-      {
-        "text": "❌ Reaction Filter"
-      },
-      {
-        "text": "Courses.Data Visualization with D3, JavaScript, React"
-      },
-      {
-        "text": "wiki.software.list.Elasticsearch.Examples.Fielddata"
-      },
-      {
-        "link": "8fa0416d-6ed7-4798-aa15-c155284fa6d1",
-        "text": "wiki.ddaemon.monorepo.bindings.keybase.queries"
-      },
-      {
-        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries.sort by most"
-      },
-      {
-        "link": "25dd053e-aa23-40e9-b6e0-49bf9643d8a6",
-        "text": "wiki.ddaemon.monorepo.User Stories.Blockchain Queries"
-      },
-      {
-        "text": "wiki.concepts.list.graphs#types-of-graphs"
-      },
-      {
-        "text": "wiki.concepts.list.User Stories"
-      },
-      {
-        "text": "wiki.ddaemon.design.user stories"
-      },
-      {
-        "link": "da8ee43f-5075-4547-a583-65a941185d4a",
-        "text": "Project Management.ddaemon-webapp.Query Data Visualizations.analysis queries"
       }
     ],
     "b6cdc671-377e-4b01-b0f8-6a2849e84405": [
@@ -40457,6 +40675,45 @@
         "text": "Banned Discovery Channel Documentary\\"
       }
     ],
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": [
+      {
+        "link": "24229833-9146-4417-9a5a-0c46fa1efb1a",
+        "text": "Dune"
+      },
+      {
+        "link": "3a268c07-a5e3-4594-b20c-264e50c48d93",
+        "text": "We by Yevgeny Zamyatin"
+      },
+      {
+        "link": "cfa80bd3-71c6-4662-b215-bf0340ee2e74",
+        "text": "The Light of Other Days"
+      },
+      {
+        "text": "Darwin and the Machines"
+      },
+      {
+        "text": "Human Forever"
+      },
+      {
+        "text": "Foundation"
+      },
+      {
+        "text": "Severence"
+      },
+      {
+        "text": "For All Mankind"
+      },
+      {
+        "text": "The Eminence in Shadow"
+      },
+      {
+        "text": "Ghost in The Shell Stand Alone Complex"
+      },
+      {
+        "link": "3d6300be-801b-4df3-93ad-ac452f22831d",
+        "text": "Media Consumption Backlog"
+      }
+    ],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [
       {
         "link": "c08deecb-2c73-43a7-a00b-613321905b86",
@@ -41148,7 +41405,7 @@
     "32480141-833f-40b8-826b-fe80b74f4783": [],
     "a984fc49-2539-456b-962b-e801c3379983": [
       {
-        "text": "Relationships.People.Steven Pinker"
+        "text": "Steven Pinker"
       }
     ],
     "8c42c1d5-bf14-4777-91a8-ea0bc100b284": [
@@ -41272,6 +41529,109 @@
       },
       {
         "text": "Redefining My Delusion of Self"
+      }
+    ],
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [
+      {
+        "link": "2055ffd4-310b-4f0f-b7f8-61d91402650c",
+        "text": "Homo Deus"
+      },
+      {
+        "link": "051e7911-5b2a-43e8-89be-899447d13e80",
+        "text": "The Singularity Is Near"
+      },
+      {
+        "text": "Human Forever"
+      },
+      {
+        "link": "550c359a-b6b9-45f7-87f0-3325be73cf59",
+        "text": "12 Rules For Life"
+      },
+      {
+        "link": "b541230e-3354-44a6-ab43-917335802cf5",
+        "text": "Altered Carbon"
+      },
+      {
+        "link": "45ae90e1-c4fd-4d7a-b290-a4050b37b573",
+        "text": "The Culture Series"
+      },
+      {
+        "link": "5e1088f4-7428-487f-9300-86f478f05dca",
+        "text": "Hyperion"
+      },
+      {
+        "link": "96e5b489-1dc8-47ed-a058-25ac9da1cd40",
+        "text": "Daemon by Daniel Suarez"
+      },
+      {
+        "link": "67e55d56-5eac-48d2-890f-04fc0a970d02",
+        "text": "Movies"
+      },
+      {
+        "text": "Blade Runner"
+      },
+      {
+        "text": "Fight Club"
+      },
+      {
+        "link": "1f9b39e7-663b-46f3-951f-f66a9cd360e5",
+        "text": "TV Shows"
+      },
+      {
+        "link": "91c882b1-420a-4a1d-bab9-ae264ea6071f",
+        "text": "Person of Interest"
+      },
+      {
+        "link": "03515a8a-a40a-48fd-9304-1565acfd1ce2",
+        "text": "Westworld"
+      },
+      {
+        "link": "d5de46c0-134d-4329-b3b5-5783f6c2c2e9",
+        "text": "Video Games"
+      },
+      {
+        "text": "Factorio"
+      },
+      {
+        "link": "b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c",
+        "text": "Satisfactory"
+      },
+      {
+        "text": "Starcraft 2"
+      },
+      {
+        "text": "Grand Theft Auto 5"
+      },
+      {
+        "link": "a0b15bdd-022a-4893-b12a-db25bfb5e041",
+        "text": "Anime"
+      },
+      {
+        "text": "Ghost in The Shell"
+      },
+      {
+        "link": "a6a1addb-06e1-48c3-a100-2ace7697354e",
+        "text": "Neon Genesis Evangelion"
+      },
+      {
+        "link": "14b11fef-070f-4850-a102-3d4d3a7b107b",
+        "text": "Madoka Magica"
+      },
+      {
+        "text": "Kino's Journey"
+      },
+      {
+        "text": "Psycho Pass"
+      },
+      {
+        "text": "Violet Evergarden"
+      },
+      {
+        "link": "7871fe55-e7f2-4255-9ffc-95b89f393656",
+        "text": "Re Creators"
+      },
+      {
+        "text": "Ergo Proxy"
       }
     ],
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": [],
@@ -41632,7 +41992,7 @@
         "text": "IDEO - Create a Pitch"
       },
       {
-        "text": "Design Kit"
+        "text": "IDEO Design Kit"
       }
     ],
     "383c9e4d-d96b-45c5-83f0-5bde0d9d6d29": [
@@ -41789,6 +42149,72 @@
         "text": "wiki.concepts.list.humor"
       }
     ],
-    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": []
+    "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
+    "cbe6af2b-2be1-40d5-95f9-08caa4869913": [
+      {
+        "text": "Heilmer Catechism - Semantic Meta Annotation System"
+      },
+      {
+        "text": "Catechism - Personal Data Archive"
+      },
+      {
+        "link": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+        "text": "Catechism - Discord Auditing, DAO Use case"
+      },
+      {
+        "text": "Catechism - Discord Auditing Backend"
+      },
+      {
+        "text": "Catechism - Map Effective Accelerationism"
+      },
+      {
+        "link": "3aac9f98-9264-4093-8402-be32de0295cb",
+        "text": "Intro - DDaemon"
+      },
+      {
+        "link": "89182d9f-ab57-497c-96c6-0aff10c6724d",
+        "text": "Catechism - DDaemon"
+      },
+      {
+        "link": "57b016eb-5704-449d-875a-7a228770b576",
+        "text": "Heilmeier Catechism -  DDaemon"
+      },
+      {
+        "link": "d9a9fbdc-33b0-4bdb-b964-7d2d05698219",
+        "text": "Facilitators Catechism - DDaemon"
+      },
+      {
+        "link": "e9b17dc4-1c1a-4b70-8122-cdae0c962608",
+        "text": "Heilmeier Catechism - Dentropy Damon"
+      },
+      {
+        "text": "Dentropy Cloud"
+      },
+      {
+        "link": "38fd56a5-a10e-492c-9bbc-8b1ff8deec0a",
+        "text": "Catechism - DentropyCloud"
+      },
+      {
+        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
+        "text": "Question Engine - QE"
+      },
+      {
+        "text": "Heilmeier Catechism - Question Engine"
+      },
+      {
+        "link": "174ec832-c137-4d44-b581-3e552e0c047e",
+        "text": "Mimetic File System - MFS"
+      },
+      {
+        "link": "c24284e0-dfe6-443d-978c-82d6bc2384a0",
+        "text": "MFS - Heilmeier Catechism"
+      },
+      {
+        "text": "Holium Passport"
+      },
+      {
+        "text": "Passport Signature Chain Heilmeier Catechism"
+      }
+    ]
   }
 }

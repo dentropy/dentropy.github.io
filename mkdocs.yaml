@@ -977,6 +977,8 @@ nav:
                     - Discord Binding: 16cc922f-56ea-422e-95be-72f5f55e4111
                 - Whatsapp:
                     - Whatsapp Binding: 04a10593-c9c5-43ce-a8f0-d457f2353d88
+                - Twitter:
+                    - Twitter Binding: cad65d7d-f5ee-44fd-bd8b-1e57637a23b6
                 - Telegram:
                     - Telegram Binding: ec8c9244-b8d5-43ec-9432-cad045c075e5
                 - Reddit:
@@ -1031,11 +1033,11 @@ nav:
                 - Bezos Stype: fc091ba2-1257-44a8-9a75-d5f38c173396
             - Whitepaper - DDaemon: 7516a3e2-9926-48be-af0b-5ddf8e2279dc
             - Vision - DDaemon: d6c7b9d4-1ce5-4661-9040-28be18e457ca
-            - User Stories - DDaemon: 9dd3667c-231c-43f1-81d6-b96adff4ea81
+            - User Stories - DDaemon: 92a22ef8-5137-47e9-a48a-ece9720f6169
             - Thought Annotation - DDaemon: b55e907e-63f1-48b0-8bda-a813d06118cf
             - Specific Aims - DDaemon: d6321a61-0b6f-49f7-b537-0476879dad25
             - Situation Scan - DDaemon: ce95a2c6-06de-4289-bd97-a94257439970
-            - Semantic Forum: 0c58c83e-707f-423c-8b57-1c0f8224e494
+            - Semantic Forum: b1c652df-6eb9-4e60-9bb5-c94c972ba35a
             - Research - Semantic Forum: 44928702-3e41-482c-9005-2b5862c4ee5a
             - Reference Deisgn - DDaemon: a19c9978-9dba-45f0-af19-d8020b67e5e3
             - Queue Management: 6900cdfd-b809-4bcd-8ee2-bf3e7f96e079
@@ -1046,6 +1048,7 @@ nav:
             - MVP - DDaemon: 1f11a496-ebd1-4a2f-b286-44e27e792258
             - Intro - DDaemon: 3aac9f98-9264-4093-8402-be32de0295cb
             - Heilmeier Catechism - Dentropy Damon: e9b17dc4-1c1a-4b70-8122-cdae0c962608
+            - Heilmeier Catechism -  DDaemon: 57b016eb-5704-449d-875a-7a228770b576
             - First Principals - Dentropy Daemon: 86442875-292e-4241-ae1d-c5b0e39c8583
             - Facilitators Catechism - DDaemon: d9a9fbdc-33b0-4bdb-b964-7d2d05698219
             - Design Brief - DDaemon: 702312c0-e3ed-464f-bc49-beb2de1169b6
@@ -1098,7 +1101,6 @@ nav:
                 - whiteboard: fc4cf111-20c3-46ea-9ec2-b27c20304146
                 - docs: cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4
                 - backlog: 8ef2b6ba-94d4-48c1-afe5-47c6dcc61249
-                - User Stories - DDaemon: 92a22ef8-5137-47e9-a48a-ece9720f6169
                 - TODO - DDameon: b6cdc671-377e-4b01-b0f8-6a2849e84405
                 - Social Media Bindings: 6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a
                 - Roadmap: 2ffcf8b7-75d5-4f99-bf20-10826df12580
@@ -1403,7 +1405,6 @@ nav:
             - Social Annotation: 644dd14f-7a90-472a-9475-1596ce8cb4de
             - Smart Contract: 7f9d9842-5d16-4933-b896-e3567d964168
             - Six degrees of separation: 5241197b-7146-46d5-9084-e10a1f56804f
-            - Semantic Forum: b1c652df-6eb9-4e60-9bb5-c94c972ba35a
             - SegWit: b49d524c-d04d-48bb-9440-20fc2af95bc0
             - Second Brain: 34e4e459-5645-4dc4-9bf6-a877efe927c7
             - Science: cc6c5e5e-cec2-4fca-9417-735223a0b0bd
@@ -1941,6 +1942,7 @@ nav:
         - ELI5 What exactly is the mind-body problem: 7c7759d0-caa2-4c96-a187-8277dbe56b51
         - Dune: 24229833-9146-4417-9a5a-0c46fa1efb1a
         - Dune Messiah: 053917a5-82f8-436b-bc18-730a4f28e983
+        - Dentropy's Favourite Media: cf6a4db5-dcac-48ae-97ec-cf40f28e2b20
         - Default Wisdom: e3ad5c22-a336-434d-a3b4-61ca249c496f
         - Death s END: a0226036-bfd9-45c4-858e-445dabaa9d30
         - "Daniel Dennett: How Does the Brain Store Beliefs?": 072dd632-729b-4e18-9a48-5df256881d68
@@ -2000,6 +2002,7 @@ nav:
         - OSINT Handbook: 23c1443f-cccc-4393-9ed5-69bc41b93c90
         - Crypto Theses for 2022: 0a1a1f81-db7f-425c-bd2e-9f3c3e79454a
     - Recommended Media: a0e8088e-cf07-4717-abef-eacfdeb268b8
+    - Media Dentropy's Currently Consuming: 78aa36ca-c4c6-40ed-873c-24099d5c2481
     - Media Consumption Backlog: 3d6300be-801b-4df3-93ad-ac452f22831d
 - Skills:
     - Learning Pathways:
@@ -2300,6 +2303,8 @@ nav:
     - Functional Programming applied to memes: 1bcf09cd-6a42-4d1f-8bb7-09ac5262396a
 - Community:
     - Blockchain Communities: ebbd0aff-9a73-4922-bc91-a7d5ada3d602
+- Catechisms:
+    - List of Catechisms: cbe6af2b-2be1-40d5-95f9-08caa4869913
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69

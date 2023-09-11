@@ -2950,6 +2950,13 @@
                     ]
                   },
                   {
+                    "Twitter": [
+                      {
+                        "Twitter Binding": "cad65d7d-f5ee-44fd-bd8b-1e57637a23b6"
+                      }
+                    ]
+                  },
+                  {
                     "Telegram": [
                       {
                         "Telegram Binding": "ec8c9244-b8d5-43ec-9432-cad045c075e5"
@@ -3132,7 +3139,7 @@
                 "Vision - DDaemon": "d6c7b9d4-1ce5-4661-9040-28be18e457ca"
               },
               {
-                "User Stories - DDaemon": "9dd3667c-231c-43f1-81d6-b96adff4ea81"
+                "User Stories - DDaemon": "92a22ef8-5137-47e9-a48a-ece9720f6169"
               },
               {
                 "Thought Annotation - DDaemon": "b55e907e-63f1-48b0-8bda-a813d06118cf"
@@ -3144,7 +3151,7 @@
                 "Situation Scan - DDaemon": "ce95a2c6-06de-4289-bd97-a94257439970"
               },
               {
-                "Semantic Forum": "0c58c83e-707f-423c-8b57-1c0f8224e494"
+                "Semantic Forum": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a"
               },
               {
                 "Research - Semantic Forum": "44928702-3e41-482c-9005-2b5862c4ee5a"
@@ -3175,6 +3182,9 @@
               },
               {
                 "Heilmeier Catechism - Dentropy Damon": "e9b17dc4-1c1a-4b70-8122-cdae0c962608"
+              },
+              {
+                "Heilmeier Catechism -  DDaemon": "57b016eb-5704-449d-875a-7a228770b576"
               },
               {
                 "First Principals - Dentropy Daemon": "86442875-292e-4241-ae1d-c5b0e39c8583"
@@ -3335,9 +3345,6 @@
                   },
                   {
                     "backlog": "8ef2b6ba-94d4-48c1-afe5-47c6dcc61249"
-                  },
-                  {
-                    "User Stories - DDaemon": "92a22ef8-5137-47e9-a48a-ece9720f6169"
                   },
                   {
                     "TODO - DDameon": "b6cdc671-377e-4b01-b0f8-6a2849e84405"
@@ -4282,9 +4289,6 @@
               },
               {
                 "Six degrees of separation": "5241197b-7146-46d5-9084-e10a1f56804f"
-              },
-              {
-                "Semantic Forum": "b1c652df-6eb9-4e60-9bb5-c94c972ba35a"
               },
               {
                 "SegWit": "b49d524c-d04d-48bb-9440-20fc2af95bc0"
@@ -5929,6 +5933,9 @@
             "Dune Messiah": "053917a5-82f8-436b-bc18-730a4f28e983"
           },
           {
+            "Dentropy's Favourite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
+          },
+          {
             "Default Wisdom": "e3ad5c22-a336-434d-a3b4-61ca249c496f"
           },
           {
@@ -6109,6 +6116,9 @@
       },
       {
         "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
+      },
+      {
+        "Media Dentropy's Currently Consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       },
       {
         "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d"
@@ -7064,6 +7074,13 @@
     "Community": [
       {
         "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
+      }
+    ]
+  },
+  {
+    "Catechisms": [
+      {
+        "List of Catechisms": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
       }
     ]
   },
