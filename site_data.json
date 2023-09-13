@@ -1,6 +1,7 @@
 {
   "uuid_list": [
     "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "5a11269f-4323-4052-b079-c996cbde21f1",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -1240,11 +1241,11 @@
     "1522137f-093c-4f7f-8719-eed40c3db26f",
     "5a88c13a-580d-471c-9f2c-5e787b07a7a4",
     "9c5793c0-b821-49b7-a107-bcca109339e5",
-    "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba",
     "dfeff487-cf6a-406c-9d56-a5551eafcfe1",
     "4979bf50-9ebc-415f-9eb4-97e412e90eca",
     "b118a32d-3108-4900-8672-bf0e6a0bca68",
+    "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "8400958a-1727-434c-8b23-4d8268dd85d5",
     "6f000966-6aee-4152-9b50-6ddb6781b057",
     "590dbf96-9cdc-41b2-8891-60e7d33be9f7",
@@ -2052,6 +2053,7 @@
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
+    "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises.md",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects.md",
@@ -3005,7 +3007,7 @@
     "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Software/List/Hamilton.md",
     "272babbb-b019-4290-941a-01ae25d07fe1": "Software/List/HTML.md",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "Software/List/GunDB.md",
-    "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "Software/List/GraphQL.md",
+    "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "Software/List/GraphQL Software.md",
     "87b29a54-0bb9-4c65-92b2-9a82e960228c": "Software/List/Google Play.md",
     "27b9ed36-0be3-452d-a583-2c850f101989": "Software/List/Google Docs.md",
     "92f09cbf-8e87-4840-9a1f-2b743a4e718b": "Software/List/Google Cloud.md",
@@ -3291,11 +3293,11 @@
     "1522137f-093c-4f7f-8719-eed40c3db26f": "Software/List/Hardhat/OpenZepplin.md",
     "5a88c13a-580d-471c-9f2c-5e787b07a7a4": "Software/List/GraphQL/Learning.md",
     "9c5793c0-b821-49b7-a107-bcca109339e5": "Software/List/Ethereum/networkID.md",
-    "524b464f-ccc4-4594-91c7-dc54c21d1074": "Software/List/Ethereum/graphql.md",
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba": "Software/List/Ethereum/Get Transaction Hash in Advance.md",
     "dfeff487-cf6a-406c-9d56-a5551eafcfe1": "Software/List/Ethereum/File Size.md",
     "4979bf50-9ebc-415f-9eb4-97e412e90eca": "Software/List/Ethereum/Events.md",
     "b118a32d-3108-4900-8672-bf0e6a0bca68": "Software/List/Ethereum/Ethereum Graphql.md",
+    "524b464f-ccc4-4594-91c7-dc54c21d1074": "Software/List/Ethereum/Ethereum GraphQL.md",
     "8400958a-1727-434c-8b23-4d8268dd85d5": "Software/List/Ethereum/Detect Contract Creation.md",
     "6f000966-6aee-4152-9b50-6ddb6781b057": "Software/List/Ethereum/Dapps and Libraries.md",
     "590dbf96-9cdc-41b2-8891-60e7d33be9f7": "Software/List/Ethereum/Chains.md",
@@ -4103,6 +4105,7 @@
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
+    "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects",
@@ -5056,7 +5059,7 @@
     "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Hamilton",
     "272babbb-b019-4290-941a-01ae25d07fe1": "HTML",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "GunDB",
-    "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "GraphQL",
+    "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "GraphQL Software",
     "87b29a54-0bb9-4c65-92b2-9a82e960228c": "Google Play",
     "27b9ed36-0be3-452d-a583-2c850f101989": "Google Docs",
     "92f09cbf-8e87-4840-9a1f-2b743a4e718b": "Google Cloud",
@@ -5342,11 +5345,11 @@
     "1522137f-093c-4f7f-8719-eed40c3db26f": "OpenZepplin",
     "5a88c13a-580d-471c-9f2c-5e787b07a7a4": "Learning",
     "9c5793c0-b821-49b7-a107-bcca109339e5": "networkID",
-    "524b464f-ccc4-4594-91c7-dc54c21d1074": "graphql",
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba": "Get Transaction Hash in Advance",
     "dfeff487-cf6a-406c-9d56-a5551eafcfe1": "File Size",
     "4979bf50-9ebc-415f-9eb4-97e412e90eca": "Events",
     "b118a32d-3108-4900-8672-bf0e6a0bca68": "Ethereum Graphql",
+    "524b464f-ccc4-4594-91c7-dc54c21d1074": "Ethereum GraphQL",
     "8400958a-1727-434c-8b23-4d8268dd85d5": "Detect Contract Creation",
     "6f000966-6aee-4152-9b50-6ddb6781b057": "Dapps and Libraries",
     "590dbf96-9cdc-41b2-8891-60e7d33be9f7": "Chains",
@@ -6154,6 +6157,7 @@
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "Mindfulness Prompts and Exercises.md": "5a11269f-4323-4052-b079-c996cbde21f1",
     "Heuristics.md": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -7107,7 +7111,7 @@
     "Software/List/Hamilton.md": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "Software/List/HTML.md": "272babbb-b019-4290-941a-01ae25d07fe1",
     "Software/List/GunDB.md": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
-    "Software/List/GraphQL.md": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
+    "Software/List/GraphQL Software.md": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
     "Software/List/Google Play.md": "87b29a54-0bb9-4c65-92b2-9a82e960228c",
     "Software/List/Google Docs.md": "27b9ed36-0be3-452d-a583-2c850f101989",
     "Software/List/Google Cloud.md": "92f09cbf-8e87-4840-9a1f-2b743a4e718b",
@@ -7393,11 +7397,11 @@
     "Software/List/Hardhat/OpenZepplin.md": "1522137f-093c-4f7f-8719-eed40c3db26f",
     "Software/List/GraphQL/Learning.md": "5a88c13a-580d-471c-9f2c-5e787b07a7a4",
     "Software/List/Ethereum/networkID.md": "9c5793c0-b821-49b7-a107-bcca109339e5",
-    "Software/List/Ethereum/graphql.md": "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "Software/List/Ethereum/Get Transaction Hash in Advance.md": "18ce7f15-7119-454a-b3a9-730d1f05a4ba",
     "Software/List/Ethereum/File Size.md": "dfeff487-cf6a-406c-9d56-a5551eafcfe1",
     "Software/List/Ethereum/Events.md": "4979bf50-9ebc-415f-9eb4-97e412e90eca",
     "Software/List/Ethereum/Ethereum Graphql.md": "b118a32d-3108-4900-8672-bf0e6a0bca68",
+    "Software/List/Ethereum/Ethereum GraphQL.md": "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "Software/List/Ethereum/Detect Contract Creation.md": "8400958a-1727-434c-8b23-4d8268dd85d5",
     "Software/List/Ethereum/Dapps and Libraries.md": "6f000966-6aee-4152-9b50-6ddb6781b057",
     "Software/List/Ethereum/Chains.md": "590dbf96-9cdc-41b2-8891-60e7d33be9f7",
@@ -8209,6 +8213,7 @@
     "1155": "d2b98fd3-621a-44f7-bc53-9108b5822cc6",
     "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1",
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -9155,7 +9160,7 @@
     "Hamilton": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "HTML": "272babbb-b019-4290-941a-01ae25d07fe1",
     "GunDB": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
-    "GraphQL": "17962dab-f88d-4746-b8d7-74dcb179d791",
+    "GraphQL Software": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
     "Google Play": "87b29a54-0bb9-4c65-92b2-9a82e960228c",
     "Google Docs": "27b9ed36-0be3-452d-a583-2c850f101989",
     "Google Cloud": "92f09cbf-8e87-4840-9a1f-2b743a4e718b",
@@ -9423,11 +9428,11 @@
     "OpenZepplin": "1522137f-093c-4f7f-8719-eed40c3db26f",
     "Learning": "5a88c13a-580d-471c-9f2c-5e787b07a7a4",
     "networkID": "9c5793c0-b821-49b7-a107-bcca109339e5",
-    "graphql": "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "Get Transaction Hash in Advance": "18ce7f15-7119-454a-b3a9-730d1f05a4ba",
     "File Size": "dfeff487-cf6a-406c-9d56-a5551eafcfe1",
     "Events": "4979bf50-9ebc-415f-9eb4-97e412e90eca",
     "Ethereum Graphql": "b118a32d-3108-4900-8672-bf0e6a0bca68",
+    "Ethereum GraphQL": "524b464f-ccc4-4594-91c7-dc54c21d1074",
     "Detect Contract Creation": "8400958a-1727-434c-8b23-4d8268dd85d5",
     "Dapps and Libraries": "6f000966-6aee-4152-9b50-6ddb6781b057",
     "Chains": "590dbf96-9cdc-41b2-8891-60e7d33be9f7",
@@ -9535,6 +9540,7 @@
     "Messaging": "2d85b02f-6d12-43a7-88f3-133aac4a3968",
     "SQL Database": "ba705a2b-cd36-41c4-afaa-4668998f17e5",
     "Proprietary": "89107292-cf67-4245-9fca-20b31d4c70f4",
+    "GraphQL": "17962dab-f88d-4746-b8d7-74dcb179d791",
     "Graph Database Software": "d748dfb3-c097-40d1-8275-d5fe47e38f55",
     "SQL Examples": "f49f41a1-c8d1-496b-999a-4e2f9268c6db",
     "Labeled Pie Chart": "156d17b0-753a-490e-a636-69ac9ea67262",
@@ -10182,6 +10188,11 @@
       "share": true,
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b",
       "title": "index"
+    },
+    "5a11269f-4323-4052-b079-c996cbde21f1": {
+      "uuid": "5a11269f-4323-4052-b079-c996cbde21f1",
+      "share": true,
+      "title": "Mindfulness Prompts and Exercises"
     },
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": {
       "share": true,
@@ -14951,7 +14962,7 @@
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": {
       "share": true,
       "uuid": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
-      "title": "GraphQL"
+      "title": "GraphQL Software"
     },
     "87b29a54-0bb9-4c65-92b2-9a82e960228c": {
       "share": true,
@@ -16378,11 +16389,6 @@
       "uuid": "9c5793c0-b821-49b7-a107-bcca109339e5",
       "title": "networkID"
     },
-    "524b464f-ccc4-4594-91c7-dc54c21d1074": {
-      "share": true,
-      "uuid": "524b464f-ccc4-4594-91c7-dc54c21d1074",
-      "title": "graphql"
-    },
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba": {
       "share": true,
       "uuid": "18ce7f15-7119-454a-b3a9-730d1f05a4ba",
@@ -16402,6 +16408,11 @@
       "share": true,
       "uuid": "b118a32d-3108-4900-8672-bf0e6a0bca68",
       "title": "Ethereum Graphql"
+    },
+    "524b464f-ccc4-4594-91c7-dc54c21d1074": {
+      "share": true,
+      "uuid": "524b464f-ccc4-4594-91c7-dc54c21d1074",
+      "title": "Ethereum GraphQL"
     },
     "8400958a-1727-434c-8b23-4d8268dd85d5": {
       "share": true,
@@ -20486,6 +20497,9 @@
     "index.md": {
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b"
     },
+    "Mindfulness Prompts and Exercises.md": {
+      "uuid": "5a11269f-4323-4052-b079-c996cbde21f1"
+    },
     "Heuristics.md": {
       "uuid": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"
     },
@@ -23411,7 +23425,7 @@
         "GunDB.md": {
           "uuid": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf"
         },
-        "GraphQL.md": {
+        "GraphQL Software.md": {
           "uuid": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8"
         },
         "Google Play.md": {
@@ -24386,9 +24400,6 @@
           "networkID.md": {
             "uuid": "9c5793c0-b821-49b7-a107-bcca109339e5"
           },
-          "graphql.md": {
-            "uuid": "524b464f-ccc4-4594-91c7-dc54c21d1074"
-          },
           "Get Transaction Hash in Advance.md": {
             "uuid": "18ce7f15-7119-454a-b3a9-730d1f05a4ba"
           },
@@ -24400,6 +24411,9 @@
           },
           "Ethereum Graphql.md": {
             "uuid": "b118a32d-3108-4900-8672-bf0e6a0bca68"
+          },
+          "Ethereum GraphQL.md": {
+            "uuid": "524b464f-ccc4-4594-91c7-dc54c21d1074"
           },
           "Detect Contract Creation.md": {
             "uuid": "8400958a-1727-434c-8b23-4d8268dd85d5"
@@ -27111,6 +27125,7 @@
   },
   "embedded_note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [],
+    "5a11269f-4323-4052-b079-c996cbde21f1": [],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
@@ -28466,11 +28481,11 @@
     "1522137f-093c-4f7f-8719-eed40c3db26f": [],
     "5a88c13a-580d-471c-9f2c-5e787b07a7a4": [],
     "9c5793c0-b821-49b7-a107-bcca109339e5": [],
-    "524b464f-ccc4-4594-91c7-dc54c21d1074": [],
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba": [],
     "dfeff487-cf6a-406c-9d56-a5551eafcfe1": [],
     "4979bf50-9ebc-415f-9eb4-97e412e90eca": [],
     "b118a32d-3108-4900-8672-bf0e6a0bca68": [],
+    "524b464f-ccc4-4594-91c7-dc54c21d1074": [],
     "8400958a-1727-434c-8b23-4d8268dd85d5": [],
     "6f000966-6aee-4152-9b50-6ddb6781b057": [],
     "590dbf96-9cdc-41b2-8891-60e7d33be9f7": [],
@@ -29562,6 +29577,7 @@
         "text": "Media Dentropy's Currently Consuming"
       }
     ],
+    "5a11269f-4323-4052-b079-c996cbde21f1": [],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [
       {
@@ -33083,7 +33099,7 @@
     "c7838894-8f9f-4bd1-9b5f-d2916bbbcc92": [],
     "2195a706-03d5-4d97-af0f-f9d7f220f30a": [
       {
-        "text": "http://tobibeer.github.io/tw5-plugins/#Welcome"
+        "text": "Tiddly Roam"
       },
       {
         "text": "http://malsandbox.tiddlyspot.com/#Simple Tiddler Version Control"
@@ -33828,10 +33844,8 @@
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": [],
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": [
       {
-        "text": "wiki.software.List.Apollo"
-      },
-      {
-        "text": "wiki.software.List.Hasur"
+        "link": "17962dab-f88d-4746-b8d7-74dcb179d791",
+        "text": "GraphQL"
       }
     ],
     "87b29a54-0bb9-4c65-92b2-9a82e960228c": [],
@@ -34722,7 +34736,6 @@
     "1522137f-093c-4f7f-8719-eed40c3db26f": [],
     "5a88c13a-580d-471c-9f2c-5e787b07a7a4": [],
     "9c5793c0-b821-49b7-a107-bcca109339e5": [],
-    "524b464f-ccc4-4594-91c7-dc54c21d1074": [],
     "18ce7f15-7119-454a-b3a9-730d1f05a4ba": [],
     "dfeff487-cf6a-406c-9d56-a5551eafcfe1": [],
     "4979bf50-9ebc-415f-9eb4-97e412e90eca": [
@@ -34738,6 +34751,7 @@
         "text": "dentropydaemon-wiki/Software/List/Ethereum/graphql"
       }
     ],
+    "524b464f-ccc4-4594-91c7-dc54c21d1074": [],
     "8400958a-1727-434c-8b23-4d8268dd85d5": [],
     "6f000966-6aee-4152-9b50-6ddb6781b057": [
       {
@@ -35675,13 +35689,12 @@
     ],
     "17962dab-f88d-4746-b8d7-74dcb179d791": [
       {
-        "text": "wiki.software.List.directus"
+        "link": "7684dcff-3e0d-4820-a880-6e17859f67f5",
+        "text": "directus"
       },
       {
-        "text": "wiki.software.List.GraphQL"
-      },
-      {
-        "text": "wiki.software.List.neo4j"
+        "link": "5453bdde-1d90-4ae8-8b82-62ce1936bb53",
+        "text": "neo4j"
       }
     ],
     "d748dfb3-c097-40d1-8275-d5fe47e38f55": [
@@ -37674,7 +37687,7 @@
     "2bd2c8f1-17c2-4636-b525-42eceeb599f1": [],
     "cc5cc49d-f554-4f29-b31a-b8789688e6a3": [
       {
-        "text": "Egregore Manager"
+        "text": "Tulpa Manager"
       },
       {
         "text": "Question Engine Transformation Schema"
@@ -37821,6 +37834,9 @@
       {
         "link": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
         "text": "Catechism - Discord Auditing, DAO Use case"
+      },
+      {
+        "text": "DAO Auditing via Discord - Queries"
       },
       {
         "text": "DAO Auditing via Discord Logs"

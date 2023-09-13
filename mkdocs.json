@@ -945,9 +945,6 @@
                 "networkID": "9c5793c0-b821-49b7-a107-bcca109339e5"
               },
               {
-                "graphql": "524b464f-ccc4-4594-91c7-dc54c21d1074"
-              },
-              {
                 "Get Transaction Hash in Advance": "18ce7f15-7119-454a-b3a9-730d1f05a4ba"
               },
               {
@@ -958,6 +955,9 @@
               },
               {
                 "Ethereum Graphql": "b118a32d-3108-4900-8672-bf0e6a0bca68"
+              },
+              {
+                "Ethereum GraphQL": "524b464f-ccc4-4594-91c7-dc54c21d1074"
               },
               {
                 "Detect Contract Creation": "8400958a-1727-434c-8b23-4d8268dd85d5"
@@ -2123,7 +2123,7 @@
             "GunDB": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf"
           },
           {
-            "GraphQL": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8"
+            "GraphQL Software": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8"
           },
           {
             "Google Play": "87b29a54-0bb9-4c65-92b2-9a82e960228c"
@@ -7086,6 +7086,9 @@
   },
   {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
+  },
+  {
+    "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1"
   },
   {
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"

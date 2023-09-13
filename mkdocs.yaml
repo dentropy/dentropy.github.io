@@ -318,11 +318,11 @@ nav:
             - Learning: 5a88c13a-580d-471c-9f2c-5e787b07a7a4
         - Ethereum:
             - networkID: 9c5793c0-b821-49b7-a107-bcca109339e5
-            - graphql: 524b464f-ccc4-4594-91c7-dc54c21d1074
             - Get Transaction Hash in Advance: 18ce7f15-7119-454a-b3a9-730d1f05a4ba
             - File Size: dfeff487-cf6a-406c-9d56-a5551eafcfe1
             - Events: 4979bf50-9ebc-415f-9eb4-97e412e90eca
             - Ethereum Graphql: b118a32d-3108-4900-8672-bf0e6a0bca68
+            - Ethereum GraphQL: 524b464f-ccc4-4594-91c7-dc54c21d1074
             - Detect Contract Creation: 8400958a-1727-434c-8b23-4d8268dd85d5
             - Dapps and Libraries: 6f000966-6aee-4152-9b50-6ddb6781b057
             - Chains: 590dbf96-9cdc-41b2-8891-60e7d33be9f7
@@ -709,7 +709,7 @@ nav:
         - Hamilton: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
         - GunDB: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
-        - GraphQL: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
+        - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
         - Google Play: 87b29a54-0bb9-4c65-92b2-9a82e960228c
         - Google Docs: 27b9ed36-0be3-452d-a583-2c850f101989
         - Google Cloud: 92f09cbf-8e87-4840-9a1f-2b743a4e718b
@@ -2306,6 +2306,7 @@ nav:
 - Catechisms:
     - List of Catechisms: cbe6af2b-2be1-40d5-95f9-08caa4869913
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
+- Mindfulness Prompts and Exercises: 5a11269f-4323-4052-b079-c996cbde21f1
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
