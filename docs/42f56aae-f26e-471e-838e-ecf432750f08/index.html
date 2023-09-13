@@ -7315,20 +7315,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../524b464f-ccc4-4594-91c7-dc54c21d1074" class="md-nav__link">
-        graphql
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../18ce7f15-7119-454a-b3a9-730d1f05a4ba" class="md-nav__link">
         Get Transaction Hash in Advance
       </a>
@@ -7373,6 +7359,20 @@
     <li class="md-nav__item">
       <a href="../b118a32d-3108-4900-8672-bf0e6a0bca68" class="md-nav__link">
         Ethereum Graphql
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../524b464f-ccc4-4594-91c7-dc54c21d1074" class="md-nav__link">
+        Ethereum GraphQL
       </a>
     </li>
   
@@ -12871,7 +12871,7 @@
   
     <li class="md-nav__item">
       <a href="../4ad9fcf5-6717-4e6c-97ed-0be3754373a8" class="md-nav__link">
-        GraphQL
+        GraphQL Software
       </a>
     </li>
   
@@ -41948,6 +41948,21 @@
   
   
     <li class="md-nav__item">
+      <a href="../5a11269f-4323-4052-b079-c996cbde21f1" class="md-nav__link">
+        Mindfulness Prompts and Exercises
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../8b302a13-5350-41fc-b0c0-dc5bcb320adb" class="md-nav__link">
         Heuristics
       </a>
@@ -42047,15 +42062,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tmux-plugin-manager" class="md-nav__link">
-    Tmux Plugin Manager
+  <a href="#best-tmux-config" class="md-nav__link">
+    Best Tmux Config
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#best-tmux-config" class="md-nav__link">
-    Best Tmux Config
+  <a href="#tmux-plugin-manager" class="md-nav__link">
+    Tmux Plugin Manager
   </a>
   
 </li>
@@ -42093,15 +42108,29 @@
 
 <h2 id="tmux-video-tutorial">Tmux Video Tutorial</h2>
 <p><a href="https://www.youtube.com/watch?v=DzNmUNvnB04">Tmux has forever changed the way I write code. - YouTube</a></p>
-<h2 id="tmux-plugin-manager">Tmux Plugin Manager</h2>
-<p><a href="https://github.com/tmux-plugins/tpm">tmux-plugins/tpm: Tmux Plugin Manager</a></p>
 <h2 id="best-tmux-config">Best Tmux Config</h2>
 <p><a href="https://github.com/dreamsofcode-io/tmux/blob/main/tmux.conf">tmux/tmux.conf at main · dreamsofcode-io/tmux</a></p>
+<pre><code class="language-bash">git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+curl -o ~/.tmux.conf https://raw.githubusercontent.com/dreamsofcode-io/tmux/main/tmux.conf
+
+</code></pre>
+<p><strong>Also Add</strong></p>
+<pre><code class="language-bash">vim ~/.tmux.conf
+
+set-option -g mouse on
+set-option -s set-clipboard off
+bind-key -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel &quot;xclip -selection clipboard -i&quot;
+</code></pre>
+<h2 id="tmux-plugin-manager">Tmux Plugin Manager</h2>
+<p><a href="https://github.com/tmux-plugins/tpm">tmux-plugins/tpm: Tmux Plugin Manager</a></p>
 <h2 id="other-tmux-configs">Other tmux configs</h2>
 <p><a href="https://github.com/sagebind/tmux-zen">sagebind/tmux-zen: Achieve true terminal zen with tmux and Oh My Fish.</a> </p>
 <h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://tmuxcheatsheet.com/">Tmux Cheat Sheet &amp; Quick Reference</a></li>
+<li><a href="https://unix.stackexchange.com/questions/348913/copy-selection-to-a-clipboard-in-tmux">Copy selection to a clipboard in tmux - Unix &amp; Linux Stack Exchange</a></li>
+<li><a href="https://www.rockyourcode.com/copy-and-paste-in-tmux/">Copy and Paste in Tmux | rockyourcode</a></li>
 </ul>
 
 
