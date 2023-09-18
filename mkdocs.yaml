@@ -1222,6 +1222,7 @@ nav:
     - DentropyCloud - dc: 53b4819a-70af-4a7d-be7f-c79d3b1fa40a
     - DIY Keylogger: 03ce87b5-898b-4e7a-9c47-6694c8d652fe
     - DAO Auditing via Discord: 1c376bfd-75ef-4c0d-9e23-3680653de55f
+    - DAO Auditing via Discord - Queries: d5e65c1e-f806-49b1-87dd-bd9c24220f03
     - Blockchain Royalties: 04ffe6b4-1ff0-41b0-82f3-6c0d1a742268
     - ActivityPub Utils: d41891f6-34ec-48e2-bed3-4e1bb4edd4a8
     - 3D Printing: facd4e1d-89a3-4120-a8c1-72e0e953142f
@@ -2214,6 +2215,7 @@ nav:
         - What is the Mimetic File System?: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
         - What is cognitive computing?: e0fcec25-9225-4926-bfc3-8318ec40a638
         - How to conduct user research through surveys?: 8845c35b-1532-4efc-af8f-6ec7c97d91bc
+        - How do I do Hello World in Ansible?: 9d016f63-fdb1-400a-aa19-c84cbdc5cd94
         - How do I become who I am?: c62c2add-e005-4a80-b6f9-370612abc42d
     - Questions for Question Engine: a739aa8a-2a04-4f01-bd2e-0434d47d96bd
 - QuestionEngine:

@@ -1420,6 +1420,7 @@
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "c62c2add-e005-4a80-b6f9-370612abc42d",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -1541,6 +1542,7 @@
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -3472,6 +3474,7 @@
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "Questions/list/What is the Mimetic File System?.md",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "Questions/list/What is cognitive computing?.md",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "Questions/list/How to conduct user research through surveys?.md",
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "Questions/list/How do I do Hello World in Ansible?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema 0.0.x - QE.md",
@@ -3593,6 +3596,7 @@
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "MyProjects/DentropyCloud - dc.md",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "MyProjects/DIY Keylogger.md",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/DAO Auditing via Discord.md",
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03": "MyProjects/DAO Auditing via Discord - Queries.md",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "MyProjects/Blockchain Royalties.md",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "MyProjects/ActivityPub Utils.md",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": "MyProjects/3D Printing.md",
@@ -5524,6 +5528,7 @@
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "What is the Mimetic File System?",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "What is cognitive computing?",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "How to conduct user research through surveys?",
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "How do I do Hello World in Ansible?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema 0",
@@ -5645,6 +5650,7 @@
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "DentropyCloud - dc",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "DIY Keylogger",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": "DAO Auditing via Discord",
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03": "DAO Auditing via Discord - Queries",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "Blockchain Royalties",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "ActivityPub Utils",
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": "3D Printing",
@@ -7576,6 +7582,7 @@
     "Questions/list/What is the Mimetic File System?.md": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "Questions/list/What is cognitive computing?.md": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "Questions/list/How to conduct user research through surveys?.md": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "Questions/list/How do I do Hello World in Ansible?.md": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "QuestionEngine/Schema 0.0.x - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -7697,6 +7704,7 @@
     "MyProjects/DentropyCloud - dc.md": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "MyProjects/DIY Keylogger.md": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "MyProjects/DAO Auditing via Discord.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "MyProjects/DAO Auditing via Discord - Queries.md": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "MyProjects/Blockchain Royalties.md": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "MyProjects/ActivityPub Utils.md": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "MyProjects/3D Printing.md": "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -9592,6 +9600,7 @@
     "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "Schema 0": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -9711,6 +9720,7 @@
     "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "DAO Auditing via Discord": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "DAO Auditing via Discord - Queries": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "Blockchain Royalties": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "ActivityPub Utils": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
     "3D Printing": "facd4e1d-89a3-4120-a8c1-72e0e953142f",
@@ -17284,6 +17294,11 @@
       "share": true,
       "title": "How to conduct user research through surveys?"
     },
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": {
+      "uuid": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
+      "share": true,
+      "title": "How do I do Hello World in Ansible?"
+    },
     "c62c2add-e005-4a80-b6f9-370612abc42d": {
       "uuid": "c62c2add-e005-4a80-b6f9-370612abc42d",
       "share": true,
@@ -17888,6 +17903,11 @@
       "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
       "share": true,
       "title": "DAO Auditing via Discord"
+    },
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03": {
+      "uuid": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
+      "share": true,
+      "title": "DAO Auditing via Discord - Queries"
     },
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": {
       "share": true,
@@ -25016,6 +25036,9 @@
         "How to conduct user research through surveys?.md": {
           "uuid": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
         },
+        "How do I do Hello World in Ansible?.md": {
+          "uuid": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94"
+        },
         "How do I become who I am?.md": {
           "uuid": "c62c2add-e005-4a80-b6f9-370612abc42d"
         }
@@ -25425,6 +25448,9 @@
       },
       "DAO Auditing via Discord.md": {
         "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+      },
+      "DAO Auditing via Discord - Queries.md": {
+        "uuid": "d5e65c1e-f806-49b1-87dd-bd9c24220f03"
       },
       "Blockchain Royalties.md": {
         "uuid": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268"
@@ -28665,6 +28691,7 @@
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [],
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": [
@@ -28985,6 +29012,7 @@
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [],
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03": [],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [],
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": [],
     "facd4e1d-89a3-4120-a8c1-72e0e953142f": [],
@@ -32116,7 +32144,26 @@
         "text": "JuiceFS"
       }
     ],
-    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [],
+    "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [
+      {
+        "text": "What are the basics of Hoon?"
+      },
+      {
+        "text": "How do I launch a fake planet for development?"
+      },
+      {
+        "text": "How to ping other Ubit ships to see if they are on network, or fake network?"
+      },
+      {
+        "text": "How to write Hello World in Hoon and Urbit?"
+      },
+      {
+        "text": "How to store data in complex data structures, like a list of messages rather than a single value"
+      },
+      {
+        "text": "How to do ship to ship communication with Urbit and Hoon"
+      }
+    ],
     "959c1ce5-8183-40dc-ba26-613095263557": [],
     "40be8974-36f7-4552-90f8-9cb003920e4a": [],
     "b6cf6d9d-1433-4cb2-ac5f-15bbb0527751": [],
@@ -33318,10 +33365,14 @@
     "7b92b178-e328-4b7d-949e-71a6b170030e": [],
     "80428ac9-197a-4c70-9230-119cf9079782": [
       {
-        "text": "dentropydaemon-wiki/Software/List/python/Python Virtual Environments"
+        "text": "Telling Shannon s brother about Linkin Park at a cottage"
       },
       {
-        "text": "dentropydaemon-wiki/Software/Catagories/Language/Language - Programming"
+        "link": "304bae5f-df49-479f-bd2b-04331b9843aa",
+        "text": "Language - Programming"
+      },
+      {
+        "text": "Installing Pip"
       },
       {
         "link": "e4d41502-ba24-43a6-a303-c00ab94f9d2e",
@@ -33350,7 +33401,7 @@
     "89447fca-0c32-4106-a532-44eff3b59472": [],
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe": [
       {
-        "text": "wiki.software.list.docker.docker-compose.templates"
+        "text": "docker-compose templates"
       },
       {
         "text": "wiki.software.List.psql"
@@ -34248,7 +34299,23 @@
     ],
     "bf96dcc5-d9c6-4879-8bfb-2da296b02d5c": [
       {
-        "text": "https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#prerequisites-installing-pip"
+        "text": "Who uses this technology?"
+      },
+      {
+        "text": "What kind of jobs is this technology relevant too?"
+      },
+      {
+        "text": "What are examples of stuff I can use this technology for?"
+      },
+      {
+        "text": "What can I personally build with this technology?"
+      },
+      {
+        "link": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
+        "text": "How do I do Hello World in Ansible?"
+      },
+      {
+        "text": "How do you use ansible to fetch a config on a server so you can read it locally?"
       }
     ],
     "e0ce1cf1-0801-4b28-8999-942f547a4713": [],
@@ -35689,6 +35756,9 @@
     ],
     "17962dab-f88d-4746-b8d7-74dcb179d791": [
       {
+        "text": "GraphQL Questions"
+      },
+      {
         "link": "7684dcff-3e0d-4820-a880-6e17859f67f5",
         "text": "directus"
       },
@@ -36274,6 +36344,14 @@
     ],
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
+    "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [
+      {
+        "text": "Installing Pip"
+      },
+      {
+        "text": "ssh-copy-id"
+      }
+    ],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [
       {
@@ -37836,13 +37914,41 @@
         "text": "Catechism - Discord Auditing, DAO Use case"
       },
       {
+        "link": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
         "text": "DAO Auditing via Discord - Queries"
       },
       {
-        "text": "DAO Auditing via Discord Logs"
+        "text": "DAO Auditing via Discord Logs - Private"
       },
       {
-        "text": "DAO Auditing via Discord - Brainstorming"
+        "text": "DAO Auditing via Discord - Brainstorming + Private Notes"
+      },
+      {
+        "text": "How to setup a custom GraphQL Backend?"
+      },
+      {
+        "text": "Discord Scraping"
+      },
+      {
+        "text": "Discord Scraping Data Migration, Proper SQL Tables not just JSON"
+      },
+      {
+        "text": "How to copy specific tables from sqlite to postgres?"
+      },
+      {
+        "text": "How to dump from SQLite to Postgres?"
+      },
+      {
+        "text": "How to dump from Postgre to SQLite?"
+      },
+      {
+        "text": "How to dump Postgres to CSV?"
+      },
+      {
+        "text": "How to dump SQLite to CSV?"
+      },
+      {
+        "text": "GemFinders"
       },
       {
         "text": "Who am I looking for?"
@@ -37864,6 +37970,9 @@
       },
       {
         "text": "What kind of relationships do I want to have?"
+      },
+      {
+        "text": "How can I use embedding with all this Discord data?"
       },
       {
         "text": "What is this discord data even for?"
@@ -37929,6 +38038,7 @@
         "text": "Develop a procedure to investigate and label individuals on Discord"
       }
     ],
+    "d5e65c1e-f806-49b1-87dd-bd9c24220f03": [],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [
       {
         "text": "How do I charge people for my memes?"
