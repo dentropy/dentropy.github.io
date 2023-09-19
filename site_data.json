@@ -1419,7 +1419,13 @@
     "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "e0fcec25-9225-4926-bfc3-8318ec40a638",
+    "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "98338dc9-0611-4650-85af-75b2b67f3207",
+    "2d2582c6-bbde-4575-988a-6d236c580dbd",
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "c62c2add-e005-4a80-b6f9-370612abc42d",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -1494,9 +1500,9 @@
     "c4747e80-98b8-4dca-93d9-14d4e6425e70",
     "47dc80ee-3fb0-459e-b638-8d33fbf4fd52",
     "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7",
+    "9185d692-f387-421a-b48f-ea0b61ca2152",
     "a080fea8-e8a2-4de2-97db-413d2993276b",
     "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4",
-    "9185d692-f387-421a-b48f-ea0b61ca2152",
     "79b96e31-19be-481e-bdcc-82152f6c86ac",
     "ed774bf3-5d59-416d-b916-75ff37858ef4",
     "e314f8a1-30e3-4aaf-8749-71965b5caa66",
@@ -3402,7 +3408,7 @@
     "918112fc-07c2-4d90-9460-3c247c57ce9b": "Software/Catagories/Server/Storage.md",
     "9a2c9a60-cc0c-4c1b-957d-5a9b213e24a8": "Software/Catagories/Server/Routing.md",
     "2d793036-ab19-42e3-ad02-0229b4d20f7c": "Software/Catagories/Server/Remote Development.md",
-    "2c9f7ecb-2eff-454f-b452-f99c16c99243": "Software/Catagories/Server/DNS.md",
+    "2c9f7ecb-2eff-454f-b452-f99c16c99243": "Software/Catagories/Server/DNS Software.md",
     "537860bb-47de-464a-9efb-8198bcc2dbaa": "Software/Catagories/Server/Backups.md",
     "21e73835-a891-49f6-b1ba-096370dbc51b": "Software/Catagories/Server/Authentication.md",
     "cd32c1fc-602f-47d9-9866-c3320d7e5e07": "Software/Catagories/Self Hosted/ShowsAndMovies.md",
@@ -3473,7 +3479,13 @@
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Questions/list/Why am I building Question Engine?.md",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "Questions/list/What is the Mimetic File System?.md",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "Questions/list/What is cognitive computing?.md",
+    "d501e972-f005-4aba-a7bf-3404b735c27a": "Questions/list/What are the basics of Hoon?.md",
+    "780af269-c8c8-45df-8358-c9b2140c92cf": "Questions/list/How to write Hello World in Hoon and Urbit?.md",
+    "98338dc9-0611-4650-85af-75b2b67f3207": "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md",
+    "2d2582c6-bbde-4575-988a-6d236c580dbd": "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md",
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce": "Questions/list/How to do ship to ship communication with Urbit and Hoon.md",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "Questions/list/How to conduct user research through surveys?.md",
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f": "Questions/list/How do I launch a fake planet for development?.md",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "Questions/list/How do I do Hello World in Ansible?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
@@ -3548,9 +3560,9 @@
     "c4747e80-98b8-4dca-93d9-14d4e6425e70": "Posts/Inital Writings.md",
     "47dc80ee-3fb0-459e-b638-8d33fbf4fd52": "Posts/Videos and Their Scripts/pre dentLog.md",
     "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7": "Posts/Videos and Their Scripts/dentLog.md",
+    "9185d692-f387-421a-b48f-ea0b61ca2152": "Posts/Videos and Their Scripts/pre dentLog/dentropydaemon001.md",
     "a080fea8-e8a2-4de2-97db-413d2993276b": "Posts/Videos and Their Scripts/pre dentLog/003.md",
     "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4": "Posts/Videos and Their Scripts/pre dentLog/002.md",
-    "9185d692-f387-421a-b48f-ea0b61ca2152": "Posts/Videos and Their Scripts/pre dentLog/001.md",
     "79b96e31-19be-481e-bdcc-82152f6c86ac": "Posts/Videos and Their Scripts/pre dentLog/000.md",
     "ed774bf3-5d59-416d-b916-75ff37858ef4": "Posts/Videos and Their Scripts/dentLog/published.md",
     "e314f8a1-30e3-4aaf-8749-71965b5caa66": "Posts/Videos and Their Scripts/dentLog/published/dentLog 013 Reducto Gamification.md",
@@ -5456,7 +5468,7 @@
     "918112fc-07c2-4d90-9460-3c247c57ce9b": "Storage",
     "9a2c9a60-cc0c-4c1b-957d-5a9b213e24a8": "Routing",
     "2d793036-ab19-42e3-ad02-0229b4d20f7c": "Remote Development",
-    "2c9f7ecb-2eff-454f-b452-f99c16c99243": "DNS",
+    "2c9f7ecb-2eff-454f-b452-f99c16c99243": "DNS Software",
     "537860bb-47de-464a-9efb-8198bcc2dbaa": "Backups",
     "21e73835-a891-49f6-b1ba-096370dbc51b": "Authentication",
     "cd32c1fc-602f-47d9-9866-c3320d7e5e07": "ShowsAndMovies",
@@ -5527,7 +5539,13 @@
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Why am I building Question Engine?",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "What is the Mimetic File System?",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "What is cognitive computing?",
+    "d501e972-f005-4aba-a7bf-3404b735c27a": "What are the basics of Hoon?",
+    "780af269-c8c8-45df-8358-c9b2140c92cf": "How to write Hello World in Hoon and Urbit?",
+    "98338dc9-0611-4650-85af-75b2b67f3207": "How to store data in complex data structures, like a list of messages rather than a single value",
+    "2d2582c6-bbde-4575-988a-6d236c580dbd": "How to ping other Ubit ships to see if they are on network, or fake network?",
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce": "How to do ship to ship communication with Urbit and Hoon",
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": "How to conduct user research through surveys?",
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f": "How do I launch a fake planet for development?",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "How do I do Hello World in Ansible?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
@@ -5602,9 +5620,9 @@
     "c4747e80-98b8-4dca-93d9-14d4e6425e70": "Inital Writings",
     "47dc80ee-3fb0-459e-b638-8d33fbf4fd52": "pre dentLog",
     "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7": "dentLog",
+    "9185d692-f387-421a-b48f-ea0b61ca2152": "dentropydaemon001",
     "a080fea8-e8a2-4de2-97db-413d2993276b": "003",
     "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4": "002",
-    "9185d692-f387-421a-b48f-ea0b61ca2152": "001",
     "79b96e31-19be-481e-bdcc-82152f6c86ac": "000",
     "ed774bf3-5d59-416d-b916-75ff37858ef4": "published",
     "e314f8a1-30e3-4aaf-8749-71965b5caa66": "dentLog 013 Reducto Gamification",
@@ -7510,7 +7528,7 @@
     "Software/Catagories/Server/Storage.md": "918112fc-07c2-4d90-9460-3c247c57ce9b",
     "Software/Catagories/Server/Routing.md": "9a2c9a60-cc0c-4c1b-957d-5a9b213e24a8",
     "Software/Catagories/Server/Remote Development.md": "2d793036-ab19-42e3-ad02-0229b4d20f7c",
-    "Software/Catagories/Server/DNS.md": "2c9f7ecb-2eff-454f-b452-f99c16c99243",
+    "Software/Catagories/Server/DNS Software.md": "2c9f7ecb-2eff-454f-b452-f99c16c99243",
     "Software/Catagories/Server/Backups.md": "537860bb-47de-464a-9efb-8198bcc2dbaa",
     "Software/Catagories/Server/Authentication.md": "21e73835-a891-49f6-b1ba-096370dbc51b",
     "Software/Catagories/Self Hosted/ShowsAndMovies.md": "cd32c1fc-602f-47d9-9866-c3320d7e5e07",
@@ -7581,7 +7599,13 @@
     "Questions/list/Why am I building Question Engine?.md": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "Questions/list/What is the Mimetic File System?.md": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "Questions/list/What is cognitive computing?.md": "e0fcec25-9225-4926-bfc3-8318ec40a638",
+    "Questions/list/What are the basics of Hoon?.md": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "Questions/list/How to write Hello World in Hoon and Urbit?.md": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md": "98338dc9-0611-4650-85af-75b2b67f3207",
+    "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md": "2d2582c6-bbde-4575-988a-6d236c580dbd",
+    "Questions/list/How to do ship to ship communication with Urbit and Hoon.md": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "Questions/list/How to conduct user research through surveys?.md": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "Questions/list/How do I launch a fake planet for development?.md": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "Questions/list/How do I do Hello World in Ansible?.md": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -7656,9 +7680,9 @@
     "Posts/Inital Writings.md": "c4747e80-98b8-4dca-93d9-14d4e6425e70",
     "Posts/Videos and Their Scripts/pre dentLog.md": "47dc80ee-3fb0-459e-b638-8d33fbf4fd52",
     "Posts/Videos and Their Scripts/dentLog.md": "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7",
+    "Posts/Videos and Their Scripts/pre dentLog/dentropydaemon001.md": "9185d692-f387-421a-b48f-ea0b61ca2152",
     "Posts/Videos and Their Scripts/pre dentLog/003.md": "a080fea8-e8a2-4de2-97db-413d2993276b",
     "Posts/Videos and Their Scripts/pre dentLog/002.md": "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4",
-    "Posts/Videos and Their Scripts/pre dentLog/001.md": "9185d692-f387-421a-b48f-ea0b61ca2152",
     "Posts/Videos and Their Scripts/pre dentLog/000.md": "79b96e31-19be-481e-bdcc-82152f6c86ac",
     "Posts/Videos and Their Scripts/dentLog/published.md": "ed774bf3-5d59-416d-b916-75ff37858ef4",
     "Posts/Videos and Their Scripts/dentLog/published/dentLog 013 Reducto Gamification.md": "e314f8a1-30e3-4aaf-8749-71965b5caa66",
@@ -8606,7 +8630,7 @@
     "Data Priest": "c3d797fd-63a9-4c16-9426-eb10892b698a",
     "Data Modeling": "76fba20d-2522-4bdc-aa43-5a842eda25f1",
     "Data Engineering": "fac22898-27d1-4f21-89f2-ce30f410a2e8",
-    "DNS": "2c9f7ecb-2eff-454f-b452-f99c16c99243",
+    "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
     "DIY Annotation Tooling": "6cd3ff9d-b7f2-4292-a631-c07b7a9f5920",
     "DID": "4bc51a58-a746-42df-ab29-b8deb14682ae",
     "DBT - Dialectical Behavior Therapy": "2d965a3f-bd71-4aaa-9bb9-2425c0410aa8",
@@ -9534,6 +9558,7 @@
     "Storage": "7714fdb9-f89e-4e30-bd72-a40d9593356d",
     "Routing": "9a2c9a60-cc0c-4c1b-957d-5a9b213e24a8",
     "Remote Development": "2d793036-ab19-42e3-ad02-0229b4d20f7c",
+    "DNS Software": "2c9f7ecb-2eff-454f-b452-f99c16c99243",
     "Backups": "537860bb-47de-464a-9efb-8198bcc2dbaa",
     "Authentication": "21e73835-a891-49f6-b1ba-096370dbc51b",
     "ShowsAndMovies": "cd32c1fc-602f-47d9-9866-c3320d7e5e07",
@@ -9599,7 +9624,13 @@
     "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532",
     "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638",
+    "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207",
+    "How to ping other Ubit ships to see if they are on network, or fake network?": "2d2582c6-bbde-4575-988a-6d236c580dbd",
+    "How to do ship to ship communication with Urbit and Hoon": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
+    "How do I launch a fake planet for development?": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -9674,7 +9705,7 @@
     "Inital Writings": "c4747e80-98b8-4dca-93d9-14d4e6425e70",
     "pre dentLog": "47dc80ee-3fb0-459e-b638-8d33fbf4fd52",
     "dentLog": "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7",
-    "001": "9185d692-f387-421a-b48f-ea0b61ca2152",
+    "dentropydaemon001": "9185d692-f387-421a-b48f-ea0b61ca2152",
     "000": "79b96e31-19be-481e-bdcc-82152f6c86ac",
     "published": "ed774bf3-5d59-416d-b916-75ff37858ef4",
     "dentLog 013 Reducto Gamification": "e314f8a1-30e3-4aaf-8749-71965b5caa66",
@@ -16937,7 +16968,7 @@
     "2c9f7ecb-2eff-454f-b452-f99c16c99243": {
       "share": true,
       "uuid": "2c9f7ecb-2eff-454f-b452-f99c16c99243",
-      "title": "DNS"
+      "title": "DNS Software"
     },
     "537860bb-47de-464a-9efb-8198bcc2dbaa": {
       "share": true,
@@ -17289,10 +17320,40 @@
       "share": true,
       "title": "What is cognitive computing?"
     },
+    "d501e972-f005-4aba-a7bf-3404b735c27a": {
+      "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a",
+      "share": true,
+      "title": "What are the basics of Hoon?"
+    },
+    "780af269-c8c8-45df-8358-c9b2140c92cf": {
+      "uuid": "780af269-c8c8-45df-8358-c9b2140c92cf",
+      "share": true,
+      "title": "How to write Hello World in Hoon and Urbit?"
+    },
+    "98338dc9-0611-4650-85af-75b2b67f3207": {
+      "uuid": "98338dc9-0611-4650-85af-75b2b67f3207",
+      "share": true,
+      "title": "How to store data in complex data structures, like a list of messages rather than a single value"
+    },
+    "2d2582c6-bbde-4575-988a-6d236c580dbd": {
+      "uuid": "2d2582c6-bbde-4575-988a-6d236c580dbd",
+      "share": true,
+      "title": "How to ping other Ubit ships to see if they are on network, or fake network?"
+    },
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce": {
+      "uuid": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
+      "share": true,
+      "title": "How to do ship to ship communication with Urbit and Hoon"
+    },
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": {
       "uuid": "8845c35b-1532-4efc-af8f-6ec7c97d91bc",
       "share": true,
       "title": "How to conduct user research through surveys?"
+    },
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f": {
+      "uuid": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
+      "share": true,
+      "title": "How do I launch a fake planet for development?"
     },
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": {
       "uuid": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
@@ -17664,6 +17725,11 @@
       "uuid": "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7",
       "title": "dentLog"
     },
+    "9185d692-f387-421a-b48f-ea0b61ca2152": {
+      "share": true,
+      "uuid": "9185d692-f387-421a-b48f-ea0b61ca2152",
+      "title": "dentropydaemon001"
+    },
     "a080fea8-e8a2-4de2-97db-413d2993276b": {
       "share": true,
       "uuid": "a080fea8-e8a2-4de2-97db-413d2993276b",
@@ -17673,11 +17739,6 @@
       "share": true,
       "uuid": "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4",
       "title": "002"
-    },
-    "9185d692-f387-421a-b48f-ea0b61ca2152": {
-      "share": true,
-      "uuid": "9185d692-f387-421a-b48f-ea0b61ca2152",
-      "title": "001"
     },
     "79b96e31-19be-481e-bdcc-82152f6c86ac": {
       "share": true,
@@ -24763,7 +24824,7 @@
           "Remote Development.md": {
             "uuid": "2d793036-ab19-42e3-ad02-0229b4d20f7c"
           },
-          "DNS.md": {
+          "DNS Software.md": {
             "uuid": "2c9f7ecb-2eff-454f-b452-f99c16c99243"
           },
           "Backups.md": {
@@ -25033,8 +25094,26 @@
         "What is cognitive computing?.md": {
           "uuid": "e0fcec25-9225-4926-bfc3-8318ec40a638"
         },
+        "What are the basics of Hoon?.md": {
+          "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a"
+        },
+        "How to write Hello World in Hoon and Urbit?.md": {
+          "uuid": "780af269-c8c8-45df-8358-c9b2140c92cf"
+        },
+        "How to store data in complex data structures, like a list of messages rather than a single value.md": {
+          "uuid": "98338dc9-0611-4650-85af-75b2b67f3207"
+        },
+        "How to ping other Ubit ships to see if they are on network, or fake network?.md": {
+          "uuid": "2d2582c6-bbde-4575-988a-6d236c580dbd"
+        },
+        "How to do ship to ship communication with Urbit and Hoon.md": {
+          "uuid": "05aea709-7be3-46ff-9b15-6cbaba9240ce"
+        },
         "How to conduct user research through surveys?.md": {
           "uuid": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
+        },
+        "How do I launch a fake planet for development?.md": {
+          "uuid": "f4c5f595-1a48-4515-9e70-412e94a3ae4f"
         },
         "How do I do Hello World in Ansible?.md": {
           "uuid": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94"
@@ -25289,14 +25368,14 @@
           "uuid": "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7"
         },
         "pre dentLog": {
+          "dentropydaemon001.md": {
+            "uuid": "9185d692-f387-421a-b48f-ea0b61ca2152"
+          },
           "003.md": {
             "uuid": "a080fea8-e8a2-4de2-97db-413d2993276b"
           },
           "002.md": {
             "uuid": "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4"
-          },
-          "001.md": {
-            "uuid": "9185d692-f387-421a-b48f-ea0b61ca2152"
           },
           "000.md": {
             "uuid": "79b96e31-19be-481e-bdcc-82152f6c86ac"
@@ -28690,7 +28769,13 @@
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [],
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
+    "d501e972-f005-4aba-a7bf-3404b735c27a": [],
+    "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "98338dc9-0611-4650-85af-75b2b67f3207": [],
+    "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f": [],
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
@@ -28934,9 +29019,9 @@
     "c4747e80-98b8-4dca-93d9-14d4e6425e70": [],
     "47dc80ee-3fb0-459e-b638-8d33fbf4fd52": [],
     "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7": [],
+    "9185d692-f387-421a-b48f-ea0b61ca2152": [],
     "a080fea8-e8a2-4de2-97db-413d2993276b": [],
     "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4": [],
-    "9185d692-f387-421a-b48f-ea0b61ca2152": [],
     "79b96e31-19be-481e-bdcc-82152f6c86ac": [],
     "ed774bf3-5d59-416d-b916-75ff37858ef4": [],
     "e314f8a1-30e3-4aaf-8749-71965b5caa66": [
@@ -30758,7 +30843,11 @@
     "4e962984-9d46-443d-85c8-0646f7d74dc8": [],
     "2d51ba0a-5a58-4f62-817f-378d1bfb934b": [],
     "8dcaafc1-8ecb-4618-85b8-6f12b5d4a75d": [],
-    "83ccc60d-dba8-45f6-9cc2-549d462d4a56": [],
+    "83ccc60d-dba8-45f6-9cc2-549d462d4a56": [
+      {
+        "text": "Carl Jung"
+      }
+    ],
     "a149485b-e789-4289-8610-8e381519107d": [],
     "520389b2-39a2-4555-9515-c8e1f6e0b68b": [
       {
@@ -32146,21 +32235,27 @@
     ],
     "ac3f27d3-cec7-4fb7-b0cf-e29269210256": [
       {
+        "link": "d501e972-f005-4aba-a7bf-3404b735c27a",
         "text": "What are the basics of Hoon?"
       },
       {
+        "link": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
         "text": "How do I launch a fake planet for development?"
       },
       {
+        "link": "2d2582c6-bbde-4575-988a-6d236c580dbd",
         "text": "How to ping other Ubit ships to see if they are on network, or fake network?"
       },
       {
-        "text": "How to write Hello World in Hoon and Urbit?"
-      },
-      {
+        "link": "98338dc9-0611-4650-85af-75b2b67f3207",
         "text": "How to store data in complex data structures, like a list of messages rather than a single value"
       },
       {
+        "link": "780af269-c8c8-45df-8358-c9b2140c92cf",
+        "text": "How to write Hello World in Hoon and Urbit?"
+      },
+      {
+        "link": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
         "text": "How to do ship to ship communication with Urbit and Hoon"
       }
     ],
@@ -33844,7 +33939,18 @@
       }
     ],
     "dd417f12-48a5-466c-989d-bcb0bd8aa136": [],
-    "0ab0ec48-c7b6-49ef-bfb4-a2cb93e39e92": [],
+    "0ab0ec48-c7b6-49ef-bfb4-a2cb93e39e92": [
+      {
+        "link": "ac3f27d3-cec7-4fb7-b0cf-e29269210256",
+        "text": "Questions to Learn Hoon"
+      },
+      {
+        "text": "Hoon Game Engine"
+      },
+      {
+        "text": "Logs - Learn Hoon"
+      }
+    ],
     "7030a1db-963e-40b7-9211-860515d825ae": [],
     "bd03fef4-c71f-447d-b734-5449d006957b": [
       {
@@ -34315,6 +34421,27 @@
         "text": "How do I do Hello World in Ansible?"
       },
       {
+        "text": "How to add ssh public key to root user without logging in as root?"
+      },
+      {
+        "text": "How to make a user count as root?"
+      },
+      {
+        "text": "How to run sudo without password?"
+      },
+      {
+        "text": "How to specify a sudo password with ansible?"
+      },
+      {
+        "text": "How to write and run a ansible playbook?"
+      },
+      {
+        "text": "How to become root inside ansible playbook?"
+      },
+      {
+        "text": "How to use plugins with ansible, docker?"
+      },
+      {
         "text": "How do you use ansible to fetch a config on a server so you can read it locally?"
       }
     ],
@@ -34388,10 +34515,8 @@
     ],
     "f56d0381-aed6-47cf-937f-07cc97dc51ad": [
       {
-        "text": "wiki.software.List.pyenv"
-      },
-      {
-        "text": "wiki.software.List.pyenv"
+        "link": "687bbe1e-57b1-4cc6-a44e-e4f470319f11",
+        "text": "pyenv"
       }
     ],
     "8d6ea4f2-79c7-47fa-8eac-93698953ee94": [],
@@ -36343,7 +36468,17 @@
       }
     ],
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
+    "d501e972-f005-4aba-a7bf-3404b735c27a": [
+      {
+        "text": "How do Variables work in Hoon?"
+      }
+    ],
+    "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "98338dc9-0611-4650-85af-75b2b67f3207": [],
+    "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
+    "05aea709-7be3-46ff-9b15-6cbaba9240ce": [],
     "8845c35b-1532-4efc-af8f-6ec7c97d91bc": [],
+    "f4c5f595-1a48-4515-9e70-412e94a3ae4f": [],
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [
       {
         "text": "Installing Pip"
@@ -37130,6 +37265,7 @@
     ],
     "47dc80ee-3fb0-459e-b638-8d33fbf4fd52": [],
     "fc5bf8ed-3aae-4ffc-96d7-bf0241753bf7": [],
+    "9185d692-f387-421a-b48f-ea0b61ca2152": [],
     "a080fea8-e8a2-4de2-97db-413d2993276b": [
       {
         "text": "Script"
@@ -37138,11 +37274,6 @@
     "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4": [
       {
         "text": "Script"
-      }
-    ],
-    "9185d692-f387-421a-b48f-ea0b61ca2152": [
-      {
-        "text": "dentropydaemon001"
       }
     ],
     "79b96e31-19be-481e-bdcc-82152f6c86ac": [],

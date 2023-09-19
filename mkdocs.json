@@ -2449,7 +2449,7 @@
                 "Remote Development": "2d793036-ab19-42e3-ad02-0229b4d20f7c"
               },
               {
-                "DNS": "2c9f7ecb-2eff-454f-b452-f99c16c99243"
+                "DNS Software": "2c9f7ecb-2eff-454f-b452-f99c16c99243"
               },
               {
                 "Backups": "537860bb-47de-464a-9efb-8198bcc2dbaa"
@@ -6337,13 +6337,13 @@
           {
             "pre dentLog": [
               {
+                "dentropydaemon001": "9185d692-f387-421a-b48f-ea0b61ca2152"
+              },
+              {
                 "003": "a080fea8-e8a2-4de2-97db-413d2993276b"
               },
               {
                 "002": "a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4"
-              },
-              {
-                "001": "9185d692-f387-421a-b48f-ea0b61ca2152"
               },
               {
                 "000": "79b96e31-19be-481e-bdcc-82152f6c86ac"
@@ -6791,7 +6791,25 @@
             "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638"
           },
           {
+            "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a"
+          },
+          {
+            "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf"
+          },
+          {
+            "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207"
+          },
+          {
+            "How to ping other Ubit ships to see if they are on network, or fake network?": "2d2582c6-bbde-4575-988a-6d236c580dbd"
+          },
+          {
+            "How to do ship to ship communication with Urbit and Hoon": "05aea709-7be3-46ff-9b15-6cbaba9240ce"
+          },
+          {
             "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
+          },
+          {
+            "How do I launch a fake planet for development?": "f4c5f595-1a48-4515-9e70-412e94a3ae4f"
           },
           {
             "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94"
