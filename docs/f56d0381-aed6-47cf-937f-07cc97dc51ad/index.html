@@ -59,7 +59,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#setting-up-a-python-workspace-virtualenv-virtual-environment" class="md-skip">
+        <a href="#generate-requirementstxt-from-virtual-environment" class="md-skip">
           Skip to content
         </a>
       
@@ -14614,7 +14614,7 @@
   
     <li class="md-nav__item">
       <a href="../2c9f7ecb-2eff-454f-b452-f99c16c99243" class="md-nav__link">
-        DNS
+        DNS Software
       </a>
     </li>
   
@@ -37320,6 +37320,20 @@
   
   
     <li class="md-nav__item">
+      <a href="../9185d692-f387-421a-b48f-ea0b61ca2152" class="md-nav__link">
+        dentropydaemon001
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../a080fea8-e8a2-4de2-97db-413d2993276b" class="md-nav__link">
         003
       </a>
@@ -37336,20 +37350,6 @@
     <li class="md-nav__item">
       <a href="../a9394e6a-74f7-4bdd-8b7f-6487b5ae77c4" class="md-nav__link">
         002
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../9185d692-f387-421a-b48f-ea0b61ca2152" class="md-nav__link">
-        001
       </a>
     </li>
   
@@ -40040,6 +40040,18 @@
         
           
         
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
       
         <label class="md-nav__link" for="__nav_11_1" id="__nav_11_1_label" tabindex="0">
@@ -40102,8 +40114,92 @@
   
   
     <li class="md-nav__item">
+      <a href="../d501e972-f005-4aba-a7bf-3404b735c27a" class="md-nav__link">
+        What are the basics of Hoon?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../780af269-c8c8-45df-8358-c9b2140c92cf" class="md-nav__link">
+        How to write Hello World in Hoon and Urbit?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../98338dc9-0611-4650-85af-75b2b67f3207" class="md-nav__link">
+        How to store data in complex data structures, like a list of messages rather than a single value
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2d2582c6-bbde-4575-988a-6d236c580dbd" class="md-nav__link">
+        How to ping other Ubit ships to see if they are on network, or fake network?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05aea709-7be3-46ff-9b15-6cbaba9240ce" class="md-nav__link">
+        How to do ship to ship communication with Urbit and Hoon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../8845c35b-1532-4efc-af8f-6ec7c97d91bc" class="md-nav__link">
         How to conduct user research through surveys?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../f4c5f595-1a48-4515-9e70-412e94a3ae4f" class="md-nav__link">
+        How do I launch a fake planet for development?
       </a>
     </li>
   
@@ -42087,22 +42183,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#setting-up-a-python-workspace-virtualenv-virtual-environment" class="md-nav__link">
-    Setting up a Python workspace virtualenv virtual environment
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#python-virtual-environment-setup" class="md-nav__link">
-    Python Virtual Environment Setup
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#generate-requirementstxt-from-virtual-environment" class="md-nav__link">
     Generate requirements.txt from virtual environment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sources" class="md-nav__link">
+    Sources
   </a>
   
 </li>
@@ -42124,7 +42213,6 @@
 
   <h1>Python Virtual Environments</h1>
 
-<p><a href="https://stackoverflow.com/questions/29938554/how-to-create-a-requirements-txt">python - How to create a requirements.txt? - Stack Overflow</a></p>
 <pre><code class="language-bash">pip install virtualenv
 mkdir python-virtual-environments &amp;&amp; cd python-virtual-environments
 
@@ -42133,35 +42221,21 @@ python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 </code></pre>
-<p><a href="https://stackoverflow.com/questions/29938554/how-to-create-a-requirements-txt">python - How to create a requirements.txt? - Stack Overflow</a></p>
-<p><a href="https://python-guide-kr.readthedocs.io/ko/latest/dev/virtualenvs.html">Virtual Environments — The Hitchhiker's Guide to Python</a></p>
-<h2 id="setting-up-a-python-workspace-virtualenv-virtual-environment">Setting up a Python workspace virtualenv virtual environment</h2>
-<ul>
-<li><a href="https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14">The definitive guide to setup my Python workspace | by Henrique Bastos | Medium</a></li>
-<li><a href="/undefined">wiki.software.List.pyenv</a></li>
-</ul>
-<h2 id="python-virtual-environment-setup">Python Virtual Environment Setup</h2>
-<p><a href="https://realpython.com/python-virtual-environments-a-primer/">Python Virtual Environments: A Primer -- Real Python</a></p>
-<p><strong>Install pyenv</strong></p>
-<p><a href="/undefined">wiki.software.List.pyenv</a></p>
-<p><strong>Install virtualenv via pip</strong></p>
-<pre><code class="language-bash"># Install virtualenv
-sudo pip install virtualenv
-
-# Create virtual environment
-python3 -m venv env
-
-# Activate virtual environment
-source ./env/bin/activate
-</code></pre>
-<ul>
-<li><a href="https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv">https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv</a></li>
-<li><a href="https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv">Use different Python version with virtualenv - Stack Overflow</a></li>
-</ul>
 <h2 id="generate-requirementstxt-from-virtual-environment">Generate requirements.txt from virtual environment</h2>
 <pre><code class="language-bash">pip3 freeze &gt; requirements.txt
 </code></pre>
-<p><a href="https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt">python - Automatically create requirements.txt - Stack Overflow</a></p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://stackoverflow.com/questions/29938554/how-to-create-a-requirements-txt">python - How to create a requirements.txt? - Stack Overflow</a></li>
+<li><a href="https://stackoverflow.com/questions/29938554/how-to-create-a-requirements-txt">python - How to create a requirements.txt? - Stack Overflow</a></li>
+<li><a href="https://python-guide-kr.readthedocs.io/ko/latest/dev/virtualenvs.html">Virtual Environments — The Hitchhiker's Guide to Python</a></li>
+<li><a href="https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt">python - Automatically create requirements.txt - Stack Overflow</a></li>
+<li><a href="https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14">The definitive guide to setup my Python workspace | by Henrique Bastos | Medium</a></li>
+<li><a href="/687bbe1e-57b1-4cc6-a44e-e4f470319f11">pyenv</a></li>
+<li><a href="https://realpython.com/python-virtual-environments-a-primer/">Python Virtual Environments: A Primer -- Real Python</a></li>
+<li><a href="https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv">https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv</a></li>
+<li><a href="https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv">Use different Python version with virtualenv - Stack Overflow</a></li>
+</ul>
 
 
 
