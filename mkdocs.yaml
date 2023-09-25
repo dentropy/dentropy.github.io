@@ -148,6 +148,7 @@ nav:
             - npm:
                 - sequelize: f5a3d87b-d303-49be-842e-ac5dd9c4b320
                 - react-data-grid: d7872a52-59f9-4bf0-a8f9-b0eeb537595c
+                - nodejs glob: 3af71fee-8ad7-40ae-8efd-8d18dcda1ac4
                 - json2csv: b25b94cd-c49d-4ec2-b1a7-9414df74b7f2
                 - gridjs: c2f64855-093d-42a5-8125-857de7178a22
                 - express: 7f295d10-1239-4cf4-a03b-ef5d52c46e3f
@@ -212,6 +213,7 @@ nav:
             - examples Simplist Example: f2173374-5af8-44aa-9c70-f6529cddf9d8
             - Cypher Queries: 59430e1c-f2a6-4e81-aafd-9b5777c4408c
             - CSVs: f98ce084-328d-4bf4-b3a4-9ba93c92454c
+            - Basic Cypher Queries: 458b1549-c829-487a-ac99-433f356b1c65
         - cardano:
             - cardano-node:
                 - cardnao-cli commands: 1164490b-6e0e-469c-97dc-38f6c8dabf0a
@@ -247,7 +249,7 @@ nav:
             - Libraries: 4be0542a-7de7-4d2e-b107-2db37c288030
             - Learn React In 30 Minutes: eabb1604-4cf5-4882-939f-adc9381edef0
         - vscode:
-            - VSCode Extensions: 59a298a0-ccc3-4027-8d22-1df8c7b58b43
+            - Favourite VSCode Extensions: 59a298a0-ccc3-4027-8d22-1df8c7b58b43
         - ssh:
             - copy key to server: a99e5b44-35e3-4795-9924-3ca077caae23
         - python:
@@ -259,9 +261,12 @@ nav:
             - learning: bf06f138-bfe7-4124-8576-5931021f57ec
             - iPyWidgets: db5bdd8b-94ac-461c-9b29-ad906aab0551
             - dict: d7948c4d-633e-4472-b2f2-91e31a3576eb
+            - Why you should learn Python: 74ed05f7-5fb9-4faa-b6b9-fd8dfe24907e
+            - Recommended Python Tutorials: 50fb7356-1b5d-4c8a-81c9-a0adcd9c5b2d
             - Python requests package: c538ab15-be66-4a39-b17c-dc719e11de3d
             - Python Virtual Environments: f56d0381-aed6-47cf-937f-07cc97dc51ad
             - Python Json: 8d6ea4f2-79c7-47fa-8eac-93698953ee94
+            - Online Python Interpreters: fd372b7b-3dd1-4760-b25c-87c84dd91c5a
             - Files in Python3: 3fbfa6fc-dc2b-45e5-b505-dfeb12302e9e
             - Chaos: 68f42c1f-0268-44ab-aab5-d8238998672b
         - pyspark:
@@ -280,6 +285,9 @@ nav:
             - fetch: 65cee937-2587-4e62-bb0c-f4a7d09cec9b
             - date: 228a8343-1532-465b-9eba-55e6086d50d3
             - async: 9720ceb5-3833-4a93-866f-b5c2c88333be
+            - Why you should learn JavaScript: 55c52cc9-ff22-4a73-afbc-4a2b953537a7
+            - Recommended JavaScript Tutorials: e333e392-4ae0-4419-b401-6d09929f38f9
+            - Online JavaScript Editor: 6d792e32-10bb-46f5-b214-fe7dedacfbb4
             - Javascript Sleep: e9c39bed-d92a-4c4d-9f95-cbf958a64a05
             - Hex Strings: fb5a4ff5-572e-4082-9151-158b4cc8cf42
         - helm:
@@ -304,7 +312,11 @@ nav:
         - Traefik:
             - keycoak integration: cc9eb5af-7d8f-49cb-9a07-3dcf780a0119
         - SQL:
+            - Why you should learn SQL: d0531e52-f4bb-4dd1-ac6f-6d188a4d3be6
             - SQL Tutorial: 461522d5-6637-4b9a-8234-d350950a478e
+            - Recommended SQL Tutorials: 812dc6f0-a6db-4fd6-9bd2-707d8a0483f5
+            - Online SQL Consoles: 72122562-a2c3-4a1f-913b-ce02ab0c276b
+            - Ideas for SQL Projects: bc09af66-30fa-481e-ba9b-b5cb7ac469d8
         - Opensearch:
             - generate password: ac2caafb-5fa6-490a-8d6e-7cbc8c308332
         - Nextcloud:
@@ -321,7 +333,7 @@ nav:
             - Get Transaction Hash in Advance: 18ce7f15-7119-454a-b3a9-730d1f05a4ba
             - File Size: dfeff487-cf6a-406c-9d56-a5551eafcfe1
             - Events: 4979bf50-9ebc-415f-9eb4-97e412e90eca
-            - Ethereum Graphql: b118a32d-3108-4900-8672-bf0e6a0bca68
+            - Ethereum Graphql: 524b464f-ccc4-4594-91c7-dc54c21d1074
             - Ethereum GraphQL: 524b464f-ccc4-4594-91c7-dc54c21d1074
             - Detect Contract Creation: 8400958a-1727-434c-8b23-4d8268dd85d5
             - Dapps and Libraries: 6f000966-6aee-4152-9b50-6ddb6781b057
@@ -344,6 +356,8 @@ nav:
         - yay: 827e0f6c-eaa7-4f4a-a768-b25a29ea186c
         - yacht: b5608c53-23ce-4b6e-b2b8-b765bef39638
         - x11: d72a08f8-38dc-4011-b810-2ca72035f6fb
+        - wireguard-install: bc4bbb08-8c2b-4ebb-a944-166b5de254d5
+        - winscp: 9a642ea8-1f65-4628-82f9-90ff87830083
         - wine: 3afd4228-f3f2-4b9c-8904-b389d0b39e1f
         - wikijs: c7f4916b-aecb-4d00-a8e3-bb4908e1158d
         - wget: c5006247-3747-4a31-be2f-a5f3b70fcc9a
@@ -362,6 +376,7 @@ nav:
         - twitter: 335d3083-0670-4fc8-aa73-62e970123289
         - twitter-scraper: eba2dd18-4cda-4260-bdde-c4b14038af1c
         - tuberslab: bd8d1129-7e80-404a-9b86-bc3eb9f360f3
+        - tts - pip: b712482b-898c-4bc4-9d2b-f6922bf298d4
         - transnote: 0e0e0780-5a9e-49c4-aeab-46e309c60bb4
         - trakt: c24aaed7-8904-49a7-9a1e-9b2892bf1fa7
         - tmux: 42f56aae-f26e-471e-838e-ecf432750f08
@@ -369,8 +384,10 @@ nav:
         - tar: d2272d3a-0619-4303-b230-f8c6ae73d436
         - stat: 99289459-4274-48b5-83f0-35bdf0f707f6
         - star: dfe11c13-be4f-47f4-a59f-86243888dd29
+        - sshuttle: 1875407f-4688-4c67-abc6-0fe751e9f34c
         - sshfs: acf83ac3-5b3b-4711-94a6-90249425fdf4
         - ssh: 29c9fa6f-bbe2-4995-b167-a0448a22343f
+        - ssh-copy-id: caa847b1-c096-4fa0-9df4-0a5fd9839e34
         - sqlite: 1a1ccc57-1ba3-4ba7-8db9-9eb945b88d85
         - sqlite-utils: 87eb5224-bd36-45e2-b0e2-cd6adf7eb6d3
         - split: 1747d30f-1723-477b-991e-38d60d70f9cb
@@ -383,10 +400,12 @@ nav:
         - rufus: a86dec9a-ce13-4a79-80da-5afbac80599d
         - rsync: 83b61328-cd0a-426a-bded-e3897e67204b
         - ripgrep: ebb1ef96-28c0-4d20-a381-1e904cdcfb0e
+        - riak S3: e1704fde-24f8-45f6-8c4c-0ba02143cc69
         - regex: e75996a6-c8d2-4eaf-b565-ea10b36f8303
         - reddit: c7b0b5e1-52e9-45e9-b17f-8377b7883aa5
         - reclipped: 3b4a812a-525c-46a2-b776-a5ca4286fe35
         - reclipped 1: 372c0911-6e5f-44a0-ac5a-94ab40708641
+        - react-force-graph: abb23e97-d984-42ec-bf1e-2e4f6b0adbfb
         - radicale: 695583e2-40cf-45f7-8200-4fd77ce3e03c
         - qbittorrent: cde71128-c7c2-453b-8221-2ebc02a2f38e
         - pywebcopy: 63d04b10-f4ad-4735-92c4-c18f93475977
@@ -395,6 +414,7 @@ nav:
         - psql: 4409a1a7-de50-4bbb-8a7c-73c57dc3439a
         - protege: 4ac49f4e-a0d5-49da-b619-acc5e1f101ed
         - promnesia: 7b6514de-e3fc-44ce-ae1f-b579a31e13d8
+        - postgraphile: 314a79d7-8c7a-4b68-9f5d-eb161de21e8a
         - pngcrush: 7682ea4e-d2d9-4e14-a8e1-6917c8aeed56
         - pk-mount: c8d03772-e061-441c-a963-081500806129
         - pipenv: e4d41502-ba24-43a6-a303-c00ab94f9d2e
@@ -403,12 +423,16 @@ nav:
         - pigallary2: dc309c6e-dbd5-4a7a-9272-5dc1cb377320
         - photoview: 84ceb26a-13ee-438e-80ad-3dd9d4aabfbd
         - pgp: 5df9b58c-313a-42ac-a127-c48bcb1d8bcb
+        - pgloader: 3e68e86b-999f-48fa-9ae8-116b40062c78
         - paperless-ngx: 19725a3e-8636-4c91-99c5-4dbb01c9ccaf
         - pandas: 7326b865-6598-4839-bafa-4af8174b0b27
         - org-mode: c62c8cf0-9f46-48fd-a24e-e6af99f5417d
+        - openobserve: afd34891-bd19-484b-a122-57b34254f6e6
+        - oh-my-zsh: 716d960f-d5e1-4d9a-94c4-55c08a32bb1a
         - nvm: d631fbd2-3680-49fb-8bf0-b009d6c43210
         - npm: 03a841ee-4ce7-4d6f-ae64-9cfa7776f92b
         - nodejs: 94377dc4-14fb-44cd-9892-4cf3cff78726
+        - nodejs better-sqlite3: 0d770ab2-d1eb-43bd-8de8-4213fd6971c1
         - nmap: bcdbfa9f-79b2-485f-97e3-db7d30970a3d
         - nginx: 2c37e79d-9050-4762-8cc6-42f9060bd348
         - nginx-proxy-manager: 5c347a60-b0fd-4797-993a-c0a6f0943dc9
@@ -425,9 +449,12 @@ nav:
         - memex.garden: c6cc57b2-ed86-4f69-b656-c534988f6673
         - mega-cmd: 6824a4cc-8501-42a2-8450-ef0d88d36f6b
         - mediagoblin: d0573927-80c5-4128-bd20-5b13c7948572
+        - matrix-js-sdk: 8fe46462-967e-4ff8-be8f-9330f49bd389
         - matrix-docker-ansible-deploy: 91a662b1-7fbf-41bc-a413-8a2866d6ba41
         - matomo: 9883dd6f-4a3a-44d9-a264-a3da1db7b5ef
+        - maltego: 49524b32-08ef-4310-99b7-adc141abf8f4
         - mailcow: f5de70b3-32fa-4d30-9454-e356cceaa52b
+        - m4b-tool: 74a6363f-f10a-414e-a1d7-c4539ec4b5d2
         - m2j: e03181d1-9425-4466-838b-b5ee9e50b3c2
         - m0wer tiddly wiki: 77303e4d-07b3-4611-9900-4a91a7036371
         - ls: 49e56a94-0408-45fa-88b8-a010266954f7
@@ -443,6 +470,7 @@ nav:
         - krew: ffcbdcbb-ebb7-4c15-a4d6-56ef2d09d326
         - koding: 51647975-7adb-43b2-950c-267b8787fb03
         - kodi: 24bcaa6b-d8b2-44d2-9fe1-b4416a2f6f21
+        - kialo: 8460cddd-ef1a-42df-a4c9-2060d30963da
         - keycloak: 147f06cb-f6ca-4346-9099-cd804486147d
         - k3s: 8d351969-d4a8-4c55-a718-2bc39b34076b
         - justclip: dcf6b4e7-1a71-4303-8414-430300187eb1
@@ -450,6 +478,7 @@ nav:
         - json: 9614ef64-f63e-4552-8559-a9b1d2c3a65b
         - jq: 6919cd5a-1a38-47e7-be2e-a3db232144dc
         - jpegoptim: ccb2e810-649a-41ea-9a3c-a8b89b151b6e
+        - irchiver: 4bf832ee-c913-41d1-86c5-cf82550d16e4
         - iptables: d96e4299-927f-4fd5-ac86-07473ad7b8ad
         - infranodus: e8ca78e3-422e-4f21-9607-88c20a61048e
         - imagemagick: 08210701-e8de-412b-b288-6088322d5713
@@ -466,8 +495,11 @@ nav:
         - goauthentik: d104a659-7720-4cd7-a633-c375b65fe416
         - gns3: 7584833a-97ba-403e-b2d7-25629321aeb6
         - gitlab: 234c3b3e-f65f-4514-847b-a5c1e4f85dff
+        - github pages: 3aaca4d4-de77-4fe5-be80-b04ee76c23b9
         - gitea: 5128289e-f3fa-409a-88df-6e40863e8bcb
+        - git-remote-gcrypt: 7f22c466-275b-4dcd-a65c-47c6602335fe
         - git-crypt: a479e882-a101-4508-8646-26bd11b4b9fe
+        - git-annex: 6f62ccd0-67ac-4a0f-8994-2073ebc1f292
         - geth: 4c767165-57d2-4a9d-ae15-4341b97dff09
         - ganache: 368743f1-3b5d-44a5-a79a-85c857d24a65
         - fuse: 78650c6f-ee5c-41fc-ab23-bb6fdce6d61e
@@ -485,49 +517,59 @@ nav:
         - espial: ea411ad3-3dc5-43d1-898e-175ae4fe3288
         - epal: 08b83aac-cc39-4fcb-b9f8-1f18893aa46c
         - emacs: b0fb9f37-3550-4f39-8432-b12746a7c5a9
+        - dweb-mirror: 147ad9fd-a1d8-4f96-8336-6bbd8e40d0d5
         - du: 9b4037a4-8a2f-4d7c-8fd1-f378d109fff0
         - dokieli: 38d9dd8f-1ee5-4635-b710-2ed8de34978d
         - docker: 34b0e40c-39ea-4159-bd21-81e5bc68500a
         - directus: 7684dcff-3e0d-4820-a880-6e17859f67f5
         - dework.xyz: bddd218a-12d7-49ab-864a-d88643117a7a
+        - dentropys-obsidian-publisher troubleshooting: 61b7d446-78c6-4344-9141-8686a35c851a
         - dendron: 99dfbc86-bdad-4cae-8b6a-031cd240f016
+        - ddclient: ef2ee0c3-ed2e-4065-ac16-666f22d9f32a
         - datadog: a95add63-c9f2-49d7-bd54-e498015d072a
         - cypher: 6cae1c13-b46d-40a2-9f7d-91bfef18bdff
-        - cyph: 9857ee14-2749-4be4-9e08-2d07555889d1
+        - cyph: 3286d183-7abd-4768-a96b-008ccb955ac7
         - curlftpfs: 2d217762-f550-41ab-aee4-5f67c19ef71d
         - curl: 912eb5e4-af7d-43c5-aa96-3c5254e63fe6
         - cube js dashboard: 33b20e38-1e7e-4945-816e-58e9c7d58f5b
         - csv: 97d87a5f-1ad1-4188-9d11-b0051acf8a88
         - cron: 114a8409-b525-455e-8428-6bdfb14b6f55
+        - crawlee: 72ea42f1-4bf5-4db9-a278-79260c06dd0f
         - cp: 7ae281a4-1bd6-49d5-8ecc-dd4234be7f65
         - conda anaconda: 0a0d238f-87b1-403d-893c-22c804c8f5f6
         - codium: edb5213d-c56f-451e-812f-fed0c9f4376b
+        - ceph: a85c2a12-44ee-4015-b459-28e56b3e5c45
         - bounty0x: 57e7e70b-b0ab-4d35-8b5c-83eee60f7ec6
+        - beets-audible: 533a2f18-a660-4f10-912a-543a7c36bd05
         - bash: 1906d8cc-9479-4e96-995e-0b852f31ee83
         - balenaEtcher: 48e8b11e-fa4e-4129-9f5a-2a274469725d
         - axios: 7066b6a7-0bcd-4314-b5bd-54abb42d61ed
-        - aws: 80fcb148-56a8-4e90-8282-d4982512fc3e
+        - aws: d21e6cea-b431-4e16-a547-021fc24f2352
         - awk: 73406c16-a549-43f8-8be8-28acafa8d685
         - audioserve: 1b9a4b05-92a5-43fe-becf-bcf830cfba95
-        - archivy: 7142ba2a-4f26-4c59-81a1-605220363317
+        - archivy: 43eb9af8-f292-48c5-9489-078adc3bc9f1
         - apt: 46bf620d-4d5f-45ba-b5b4-c3142845fb68
         - Zotero: 226c25ff-7753-4e2b-a5db-09b732f0bd50
         - Yacy: 9d1ac409-eef4-4b7d-b04d-8929a382e2a7
         - YAML: 5480b258-6a4c-4d56-b0b5-fe28823d74ac
         - Write Freely: 52cc940b-cfb1-4ee8-8707-61ab6d304ce8
+        - Wolfram Langauge: 0af8ff40-468e-442a-89cd-f6c8845f3b22
         - Wireguard: b04649d5-c9c1-4d05-bf04-15db21b3d393
         - Windows: eed08874-c882-4c0a-bca7-fc8339338b79
         - Windows 10: 4645362f-8f5b-4b47-b1bc-caa97ad4e3bc
+        - WinDirStat: f56d9b82-f0b2-471c-ad70-4bbf5889dd2a
         - Wikiwand: b830a5f1-b10d-4728-941b-b3adfef36ff2
         - Wikipedia: 44c636c0-d4d5-4f88-8aec-2de807639ff7
         - Whonix: fcf3f87e-12e1-4ad0-b5fb-cac738b8756c
         - Whatsapp: b6867df2-e91e-48e0-883b-e573003e18eb
+        - What do you do with a backdoor to the NSA?: 6a30c01e-4939-4b86-af79-555d26eb67bc
         - Web Highlights: 1cc8d41c-4f37-4054-8176-8d4440ee643e
         - Wayland: 44f3c8f7-ce5d-4a19-a5a0-b6343c6ef137
         - Wallabag: a77a4e60-ee82-4f5d-933d-fa2819d2dc2f
         - WSL: 24fd9891-cd8f-4b5e-bb95-90c199502d4f
         - Void Linux: 420ebd9c-ab12-4b13-b591-9f5f9d5c4727
         - Voice Audiobook Player: 5ed29d59-0b6a-4662-8bd0-7c76617e01bd
+        - Vite: 263e1cf3-f0ee-4e9d-867e-1f9de045bd24
         - Vimeo: 3f36b8cc-5f5a-4cb0-a586-b7d86702292c
         - VideoAnt: 670263f7-f539-444c-9e62-f37c243e9ee8
         - Ventoy: d227457f-a973-4c91-846e-54a39bc6be87
@@ -541,8 +583,10 @@ nav:
         - True Charts: 951bac20-04ca-4d27-85e2-b59e15722a81
         - Trilium Notes: ac895e08-776c-4f91-86a6-5108e7634d3d
         - Traefik: 3ef4b413-5629-48d7-802c-fb13ee5f5b24
+        - Trackt.tv: c68b3429-9e36-4ec7-9381-1b94b880c1a9
         - Tor: c7838894-8f9f-4bd1-9b5f-d2916bbbcc92
         - Tiddly Wiki: 2195a706-03d5-4d97-af0f-f9d7f220f30a
+        - Tiddly Roam: 487a1c1f-45a0-4fc1-8655-8569d05ec4a7
         - TheGraph: 8d77e5a9-dcd8-4812-80b7-798826dcf337
         - The Story Graph: 72a6abf7-ec72-41c7-969e-d1ba58496e03
         - Tettra: 32e74e32-b207-44e5-adc2-3d8e1a6c4de1
@@ -553,6 +597,8 @@ nav:
         - Teraform IAC: 68d92d81-2334-4fe2-b80a-9bc1e0c48762
         - Telegram: 0f693b68-2bb2-4679-8665-e25024c47a34
         - Taskade: 485fd5da-b7c4-4521-a1e9-3b46e4e6b8fa
+        - Tailscale: e5313453-5758-4531-85f4-6f8d2aa3dd13
+        - Szyszka: 5a82c311-3cf0-425c-8122-1b2c53ab155f
         - System D: 2bf93e44-adcb-4d5a-9d85-4d82015e6983
         - Syncthing: 0c7e22a8-554b-4c34-8f0f-7f9b6e5b832f
         - Synapse for Matrix Protocol: 54fe7bec-84b3-482e-ba8f-24c47286934e
@@ -561,12 +607,13 @@ nav:
         - Supernotes: c7ac95ac-1752-4754-bca8-258981a4233f
         - SuperMemo: f28c3141-0d1a-44cc-ad84-c25ad300bc9a
         - Strava: d54a8965-ec39-4df1-b43c-8ad4d1deda4b
+        - Storj: e544dd7d-86c3-4206-b53d-6426885e4fdb
         - Statbot: 6f5fb10c-f69a-4ea4-a111-f99666f9d958
         - Sqlite in nodejs: 8de02b07-3f06-42dd-ab2b-216d03487a06
         - Spark: def10d9d-3306-4324-835a-1870f4d7aa4d
         - Spark 1: c151db06-defd-4c97-85c1-1103a37ba29b
         - Solidity: 4b2540c5-d8c0-4ede-9a01-4f3208a9d61b
-        - Solid: f04c21f5-fcca-4a30-9cf4-5686a95bb0c4
+        - Solid Protocol: f04c21f5-fcca-4a30-9cf4-5686a95bb0c4
         - Snippit Highlighter: 1276387d-bbbe-4a5c-aeb7-113504fdeff5
         - Skilltreeplatofrm: b61bc26e-70e3-456a-ab0a-8b99cff6eacd
         - Signal: e7a856fa-454b-42be-9509-110980d279fc
@@ -581,6 +628,7 @@ nav:
         - Saddle: 8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d
         - SQLAlchemy: 3d3db79a-ae22-4620-8516-5cec289c31c3
         - SQL: 9bf437f1-b997-4df7-9cb5-d1dcb65fb892
+        - Rust Keylogger: 6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d
         - Rocket Note: 222e4d30-8747-4ed5-b00b-95a376eaef28
         - Roam Research: 6c6425a5-d844-46fd-ba26-8d0fa23ce07a
         - Rettiwt-API: 8d315560-b3cb-453a-b8a6-cd0480651340
@@ -599,9 +647,12 @@ nav:
         - Python: 80428ac9-197a-4c70-9230-119cf9079782
         - Puppeteer: 123312b8-2afa-4828-aacc-50ba34f2f86e
         - Pulse Audio: 4e9ae59c-5e23-4d11-987d-d9985adf7a90
+        - Proxmox: 64163d08-ada6-4848-aef1-2a8c134c562b
         - Protonmail: 1ae2e82b-99ee-4d38-bf71-ddb5801e6ec8
         - Proton Mail: 680a8972-e5c6-445a-b930-a8c980125140
+        - Prometheus Software: 0dfb04db-f642-4f88-b93a-b855d479deb7
         - Project Xanadu: 89447fca-0c32-4106-a532-44eff3b59472
+        - Prisma: 8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e
         - Postgres: 5d70cd64-3134-4b62-8879-12f1f8bb4afe
         - Portainer: 83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb
         - PopOS: 47e387e8-df22-4c35-b257-716073c8d190
@@ -616,6 +667,7 @@ nav:
         - Pixlefed: afd20046-7575-4ef8-a2cf-7a468b2301d4
         - Piwigo: 5d58a0e6-375d-4717-a3f6-a0ac7daf4e15
         - Pinboard: b83d7b7a-e9ad-4a5e-b9f8-63884a119e6b
+        - Pi Hole: 9f0919a6-ad63-47d3-a602-e039fc36bf3c
         - Photoprism: dc1d6445-8b30-42be-bdaa-d385496cc882
         - Photonix: dd8a5902-29e6-43aa-9bb2-3632e166265f
         - Perl: fa23d4c3-1e11-4990-ad73-23a44a3442cc
@@ -634,16 +686,22 @@ nav:
         - OpenVPN: b73a5e7e-9373-472b-993f-72c992f84327
         - OpenTasks: 036e6eda-b0f2-4145-adbc-0a5d47971028
         - OpenLDAP: c86697b4-258d-4e5c-8076-bd1d94e8fc54
+        - OpenIO: 880ea735-9151-4847-b4c7-1d9b047fa853
+        - OpenAPI: cd588826-d68a-41f7-b6f0-d4be31deadb9
         - One Note: 77feab76-6907-4250-9ff8-aa34549fbaaf
         - Okular PDF: 78d09f5d-ae01-4c06-9b35-e7db91c2abf7
         - Odysee: 85398c36-8236-46c3-b394-645d98486142
+        - OctoDNS: aedb8edb-99d7-4d70-b72e-52097c741fd1
         - Octant: 2fb72ee8-23de-4037-8134-a4c4980ede51
         - Obsidian: f76a085e-f2c8-43bd-a852-47760f01e401
         - Obsidian Templater: da066ac4-8253-4b30-9836-107e3500aa9d
         - Obsidian Quartz: 9b6bc4c9-4b11-46b9-a142-e6b4d84b8e92
         - Obsidian Publish: 7e20362a-e34a-4158-9e39-9a902a082ccf
+        - Obsidian Plugin find-unlinked-files: 08d43d49-d4d3-45d8-aabf-9b035e4720a3
+        - Obsidian Plugin find-orphaned-files: dfc4cb28-e276-454b-8395-f61ab83f5a80
         - Obsidian Plugin aw-watcher-obsidian: ed5a16ab-a774-4aa4-a8b9-599e49123019
         - Obsidian Plugin Dataview: 15656536-0c67-42f0-898b-263e3287568d
+        - Obsidian Plugin - obsidian-timestamper: 5e6d6346-927b-4e06-bb74-a90b0bff4d9d
         - OK Cupid: 85eda353-9816-4f81-8959-65382bf93698
         - OBS: a0a9bb26-180a-4800-84fd-bd72fe04f7f6
         - O365: b45f3ebd-b805-4483-b29b-e4d882888116
@@ -652,8 +710,10 @@ nav:
         - NotesAlong: 16317e4b-3bc6-41f5-8a07-46f96f24501c
         - Nostr: 78abfe73-37cb-4f3b-9e08-faad85669fb7
         - Nextcloud: 734650a9-17b5-48ce-9062-9201594ec7d2
+        - Netmaker: f3ba6bff-ad26-4243-9950-9249d9426446
         - Netflix: 6ffa34d2-e228-4d24-8f0e-a6540eb37abf
         - Nebula: c289ac73-367b-44ca-9327-3178fd5fede5
+        - NIX OS: 827f3235-a73a-426e-941e-59f25625f426
         - NATS: 6ecbaee4-8c95-44e7-a242-9a084d89074e
         - MyHBarWallet: bc3117bc-4c76-4417-ae57-5fac03d9a604
         - Monica CRM: b0fcf97c-1900-4a2f-9eb1-bae8ab6a2446
@@ -667,6 +727,8 @@ nav:
         - Mediawiki: dbc5424b-471d-4841-8bcd-136c70ad9ff2
         - Matterbridge: 1a1a3029-430e-40dc-bfb3-bae8e825cd9c
         - Matrix: 2ee75330-e978-4eec-ae45-7df5576815e6
+        - Material for MkDocs: 93ed80aa-f057-4121-aa8d-881c968419ec
+        - Material UI: feec4c88-d33d-4610-a7c0-0f8c14c21aba
         - Mastodon: fe6202ed-b5d6-4652-9e0f-637fd725327f
         - Massive wiki: 61e6a1e4-50bc-437b-96f2-8840086f1bdc
         - MarkDownload: 72098655-00b0-4a3a-98c5-b48a9e757575
@@ -674,11 +736,16 @@ nav:
         - Manjaro: 60a614f7-3813-4ad8-bc23-1980c1d850bd
         - MacOS: 12fa0fb4-9d90-4403-9778-533a5a3d7e91
         - MKDocs: 2023c4df-936d-4d08-98ac-f97c4b63c632
+        - Logstash: ff8b4dc5-dad3-41f5-b9f3-6f1c71ecc33c
         - LogKeys: 721f3ea0-b91d-4e87-b6c8-3f07f048e996
+        - LocalStack: 8262417f-8636-4cfe-a754-b636b0586b7f
         - Lisp: 35ba03ec-2762-4d0d-b397-948ae32d6ede
         - LinuxFest Northwest 2018 Perkeep: a20b5a3e-f5ed-4f10-8b70-c96b9f052020
         - Linkedin: e256abb9-76ce-4856-9697-97ecd9993170
+        - Let's Encrypto Go: c553dfd1-eaa1-43bf-bd7a-06c63510e347
+        - LeoFS: 01a797c7-0ef6-4b3c-8d6f-60e7ac35ee69
         - Ledger Live: a68e7ddb-710a-42fb-901d-eeeac286b2d8
+        - Lang Chain: f2746cd8-46b4-4d36-a3d7-cfe8937bbe96
         - LDAP: 91dcc396-4854-454a-af93-12b19f08b4de
         - Korganizer: d0b74367-c336-469d-8272-6776fc7c1c7b
         - Klaytn: 26045e67-4efe-4dfd-83c7-a76139c0cb12
@@ -693,16 +760,21 @@ nav:
         - JDK: 23146ebd-212c-4add-8191-d09db7298182
         - Invoice Ninja: d5fca6b8-c3bf-41f0-b7d3-d29143b11c56
         - Immich: 20305bf4-fd35-473e-9ff7-f4aed64c3ca5
+        - ISPConfig: 128c535e-d706-4f68-8073-d37470695425
         - IDx: 13547fe6-d956-4006-9fec-2100980a0eb9
         - Hypothes.is: dedecb5f-c142-402e-84d4-126b3e6cda9f
         - Hume: 1bf9acd0-5f73-4152-b608-977dd1964892
         - Hugo: dd417f12-48a5-466c-989d-bcb0bd8aa136
+        - How to copy ISO directly to ProxMox?: 7033d068-ada3-4fa2-9514-8f2be4ad6faa
+        - How should I tag discord data?: 97db473e-47e8-43ac-a7f0-ae7e0e28e9f5
         - Hoon: 0ab0ec48-c7b6-49ef-bfb4-a2cb93e39e92
         - HomelabOS: 7030a1db-963e-40b7-9211-860515d825ae
         - Holochain: bd03fef4-c71f-447d-b734-5449d006957b
+        - History Sync: 7d4772ad-911a-486c-a712-683f0d98f21a
         - Hishtory: 531fb9de-0cc7-4453-8ba7-ae1cbf6dc214
         - Heptabase: 9bbe63ce-8f8f-44e4-8bb5-72cc1be20fc3
         - Headway App: 6754ae67-90e5-4b27-b259-4424383d9dd5
+        - Hasura: 2d4e9540-43e3-4891-be02-a8596ee7d727
         - Hasur: 527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a
         - Haskell: 4961c81a-7d2d-4143-af57-2fa45afc69c7
         - Hardhat: b2f5f020-78fc-4abf-9154-ddaf31d89822
@@ -712,6 +784,7 @@ nav:
         - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
         - Google Play: 87b29a54-0bb9-4c65-92b2-9a82e960228c
         - Google Docs: 27b9ed36-0be3-452d-a583-2c850f101989
+        - Google Desktop: 99c498a0-c6e4-40b7-9abf-1a9eac8db6fa
         - Google Cloud: 92f09cbf-8e87-4840-9a1f-2b743a4e718b
         - Goodreads: 24837821-abf9-4a79-8e11-f39d399b4a59
         - Go: 7900e06b-6a66-4a30-bdf7-7661c020e516
@@ -720,18 +793,24 @@ nav:
         - Gnome: eb67c211-8651-42cc-b512-1ff655f7a537
         - Git: ad3c3638-1998-4fb9-b74d-7fc234c25cc1
         - Git Research: 10bfb6e2-0087-495e-a93e-60861dd6de76
+        - Garage S3: 2d104915-33d6-44cb-8256-0bcba1347d58
         - GSuite: 05f94916-93b2-480c-b6b3-59e2d36ff5c2
         - FreeIPA: bd65f254-cdb5-41f3-b2ed-1fb67e71b728
         - Flatpak: 1e76e3be-1cb0-4b8c-a1a6-3b44e8b990d4
         - Fission: bd7264a3-aa2e-4830-8d11-630518e7527d
         - Firebase: 00fcdda9-df5b-4ed2-a0a6-e3483912745e
+        - Filecoin: 9249d3c4-3d1c-4621-95a5-4d5c3e8cf8b5
         - Fedora: cddf176b-95cf-45ab-9000-55a3c9e27b38
+        - Feast Software: 41f616fc-ac5b-47fc-830b-cb96e201a5a5
+        - Favourite Obsidian Plugins: 275484f1-3b27-4128-93bb-a12846eb3a02
+        - Farcaster: 37fc6869-e5ef-4549-9b15-9dbea06658bd
         - FairyNote: e6d40805-4078-4db3-96c5-d51ca55ea8ac
         - Fail2Ban: 22faf5e0-cb53-4912-a3e8-a3563b759e48
         - Facebook: ffaff3fb-3237-40f8-abba-0b87ed05c16b
         - Evernote: 913c6f6a-3f34-4a69-a56a-ada8d63d11e5
         - Ethereum: 76ac962e-ea08-4b00-95e7-aa798b16a502
         - Ethereum Classic: acea1c18-e502-4a7c-bee7-76fac0c03bd0
+        - Ethereum Attestation Service - EAS: 559df622-4354-497d-a7ff-feb811eb87d4
         - EteSync: e10bdd5e-16bb-4c28-9839-f83ffe7f5b02
         - Element For Matrix Protocol: 9158b8fa-8cd1-4fe7-af66-8f4cccde3c79
         - Elasticsearch: c7a66d7a-c239-405f-bbe6-1f210e0b3f3b
@@ -742,6 +821,10 @@ nav:
         - ERC721: 36572430-69db-43ab-ab20-7228c84920df
         - ENS  Ethereum Name Service: c434e5c1-840e-4850-9efc-eb079902c9f4
         - Dolphin: 327ccd65-31f3-4d85-ba21-2ff42b69207d
+        - Django: 03e5fa8e-39f5-481b-a040-178350596d13
+        - Django Database Backup: 688bca77-2d1a-4d84-bcfe-fe51fd2f04bc
+        - Distrobox: 180910b7-a777-42fb-9851-0151c82bd3f1
+        - DiskerNet: 94394a3f-55e8-4953-8fd1-4288597cbbf3
         - DiscordChatExporter: e93136a9-a919-4884-83bd-c3bbaeab4953
         - Discord: 434d4a81-f2cc-4a50-b75c-0c66af4c15b2
         - Debian: e5892695-48a8-4b08-b405-d70790407a4a
@@ -753,15 +836,21 @@ nav:
         - DGraph: 980869eb-e907-4e49-888b-0b7d839b7505
         - DAOmehaus: 6086aa85-9683-4fb9-a5da-f9d23b3182ea
         - D3js: 2889bf83-2aa6-4168-babc-d2b74fe96026
+        - Czkawka: 080fac3a-0f70-4f57-bce6-129eb4d0efba
+        - Cyph: 3286d183-7abd-4768-a96b-008ccb955ac7
+        - Curve Token: 64c85909-908c-4da4-a5f2-839aae5e93ff
         - Cozy: 06239505-9e3a-42ac-84c5-c48fdbdca391
         - Cosmos: 5eb716bc-57bd-461d-86eb-faf04f3fa7ec
+        - Coqui TTS: dac58659-e71f-4eea-b6d2-465508a922ee
         - Confluence: 847a8136-5459-4b12-a382-1422423eecae
         - CodexOS: c1e5d216-a0fa-4d76-b0c6-03e637098787
         - Code Server: 80990cc1-fafc-4b8f-afe2-a3ae6b185f2f
         - Coda: 4f22ca01-d0fc-433e-8a90-5e2bb814cb8d
         - Cloudflare: 0795ae4a-3e15-47e2-bc40-8ac275081ca6
         - Clickup: 1d875b76-a61f-4115-81ad-73504f013271
+        - Cirus: 397cb131-650c-4f9a-9f25-ba928253e0ce
         - Chromium Based Browser: 162dc2db-b794-4e56-b32c-82f6b327a5f0
+        - ChatGPT: 05e1e78b-2103-4abe-bf33-bc8d7eb3582c
         - CeramicDOTNetwork: f17aad08-7db3-4f8c-a089-50de55a4085e
         - Ceramic: 6446a3ef-ead6-4fd2-b9b6-69a294ce8b04
         - Cargo: ddbe90a6-2250-4c5f-884b-5643ce3a5c57
@@ -775,21 +864,33 @@ nav:
         - Brainer: b67cda50-0e05-4084-a134-9db5a5278480
         - BookStack: 3067e6fb-ba0f-4123-8878-82e0fb0451e4
         - Blockscout: cefe77de-ab0b-47e6-9629-86fae2ff36f0
+        - Bitfinity: 96ff4833-d4ee-40c1-be26-7b0a6daafe36
         - BitChute: 5a46b966-f4d4-45b6-9df4-32c4af4c9ca4
         - BioSeek Reader: 92833f93-7006-46c4-aabc-9eda9657095d
+        - Bind9: ae8f6e7d-2e46-4308-b162-70c5e49bae9f
         - Beautiful Soup: cc51fb6e-b726-4147-ad17-f3f59cc6b384
         - Bear Writer: b45a58f8-79a0-4258-9df7-9def4f7051d0
+        - BadaBoomBooks: 46f5b998-54e3-40a0-a8b9-7dbe0e5781af
+        - BSD: 75aba95f-ee60-4081-91ec-f61758a36b5b
+        - BERT: 6d64407b-22ff-4b5a-a930-1d5c20edeeec
         - Authelia: 351b5ef8-761e-4e55-b00f-053170071ab7
         - Audiobookshelf: 5c08983b-5976-421a-876a-f95474deb1d0
         - Atlassian Suite: eb3bdddd-55be-4954-91d6-67a26c70a8c5
         - Athens: 60158e53-96cc-40fb-bf8a-b2d1199a947b
         - Asana: 0d22f0dc-ec05-464d-957c-1734f0608a32
+        - Arweave: e4e8d9c8-f039-4c21-bf25-35d36feb3f7b
+        - Archivy: 43eb9af8-f292-48c5-9489-078adc3bc9f1
+        - Archiveweb.page: 3d0e13b7-f764-4b8d-8be0-10e79054d2bf
+        - ArchiveBox: 405b67dc-be60-4211-ad64-9d65188fbef8
+        - ArchiveBox Exporter: 644999db-33db-4ea6-bc59-9c3c32cdf633
         - Arch Linux: 3562b69e-e1de-43cd-9d89-b5f3ed5ba452
         - Arbitrum: 3041cad7-e038-4d5c-b8a8-6ff548c32c86
-        - Arangodb: e0dae376-668d-41ff-b3a4-bcbb1bd2e2ae
+        - Arangodb: f3cf81cf-395b-4ce7-938c-5a519cab3ffe
         - ArangoDB: f3cf81cf-395b-4ce7-938c-5a519cab3ffe
         - Apollo: 7e3d7419-0003-4e63-88aa-f6e5d72f1460
         - Apex Charts: 8ab2163c-5cae-4138-8018-91fe07590280
+        - Apache Zeppelin: eb6b4250-a475-4256-a6ec-b607c582c9da
+        - Apache Kafka: c032359e-1f56-44dc-87f9-7bfabac04e17
         - Apache Guacamole: 430f7cf6-1c14-45ab-8836-efa51d65a303
         - Apache Cassandra: 4b930efc-f6f6-4397-baca-4280c473976a
         - Anytype.io: 48981b6b-ce70-4cdf-9982-fbbc3432f2b9
@@ -798,16 +899,21 @@ nav:
         - Anki: 6967b2a3-0b44-4e85-8d58-ccc2965b85df
         - Anki Quick Adder: e2a1e8d1-92e6-48ed-b079-c91889cf67d0
         - Anilist: 7287d1df-b0a9-4f4f-b64e-eff8a33c722e
+        - Anchorage: cb0de4b0-8b2d-41c5-a676-d58258324bda
         - Algorand: 41ceec84-6c55-40a4-a454-920c38027c7c
         - Airtable: b41b6d77-6dc8-4050-9986-e046eb8d4cfa
         - Airflow: 496477c7-b5a5-4498-bc02-9e9ca5f473d1
         - Additor: 41a08157-3b15-4c2a-8836-35b97fa97131
+        - AdGuard: 9b38e17e-4959-4c24-829a-8880e9c77017
         - ActivityWatch: c01a2d70-0b4b-4ba3-9149-928494bb231b
+        - Active Directory: 7635da98-e692-4241-8464-0d50152edb2c
         - AWS: d21e6cea-b431-4e16-a547-021fc24f2352
+        - AWS Mechanical Turk: 14d2098b-4b91-4f75-930d-5f38e09a83ae
     - Catagories:
         - Database:
             - SQL:
                 - SQL Examples: f49f41a1-c8d1-496b-999a-4e2f9268c6db
+            - Vector Database Software: c0925b56-bd76-43a5-ae0e-861293576524
             - SQL Database: ba705a2b-cd36-41c4-afaa-4668998f17e5
             - Proprietary: 89107292-cf67-4245-9fca-20b31d4c70f4
             - GraphQL: 17962dab-f88d-4746-b8d7-74dcb179d791
@@ -836,6 +942,10 @@ nav:
             - Language - Markup: 1881c3bf-5c49-4d28-9d7b-ba80fea5094b
         - Keylogger:
             - research: 110c0e33-2ef8-470a-b094-c707827f7720
+        - HTML:
+            - Why you should learn HTML: 7e8c26c2-22d4-4d7c-9bdf-5f38b7815f85
+            - Recommended HTML Tutorials: 8b4e3a9a-b83c-49c9-96f6-c39682365471
+            - Online HTML Editors: 1b1b313e-4530-432c-9aff-bbfce704e774
         - Frontend:
             - Messaging: 2d85b02f-6d12-43a7-88f3-133aac4a3968
         - Decentralized:
@@ -844,7 +954,7 @@ nav:
             - Labeled Pie Chart: 156d17b0-753a-490e-a636-69ac9ea67262
         - Browser:
             - History: 17d8e5e2-161a-4e0f-bbde-65ca01c49713
-            - Browser Extensions: 810020e2-c875-440a-b0c3-2a48333da314
+            - Favorite Browser Extensions: 810020e2-c875-440a-b0c3-2a48333da314
         - Annotation:
             - Web Annotation: 1a1a3f1f-f090-48a2-ae68-04dcda0dbed6
             - Video Annotation: 2a6be8b6-0fcf-450e-86fc-429c5ea0b1b5
@@ -857,6 +967,7 @@ nav:
         - Website Analytics: 972caf8a-58c6-43b7-9652-9c6962628d48
         - Web Scraping: a4d5154b-6474-4bb6-8a82-ed04bfc722ab
         - Web Scraping Browser Extensions: 0140c7c3-1132-4be7-b39b-c64380c08ce1
+        - Web Crawler Software: 9509fb8a-1fd3-4f8a-8f2f-5a8e455e5753
         - Wallets: b7cdbb95-2f92-4f9b-a962-05319b6fb6ac
         - Video Hosting: 6120f326-2493-4e10-b75f-4e2725cb0257
         - Untitled: 543a07b7-f371-4dff-8d43-e2882017cdbb
@@ -864,19 +975,26 @@ nav:
         - Tier List: a48f8577-e599-48d4-ad63-b0ac4980ff7d
         - Sysadmin: 17052d9a-3a4d-4f2d-a415-14d066897c8e
         - Server: 80fa71e0-3b40-44b6-b41f-541cf61e6aff
+        - Semantic Search Database: 38befdac-96e0-4660-9208-77024427d49c
         - Scraping: 57bca37b-c176-4cc1-8891-6fb9e16b22fc
+        - S3 Server Software: a5775d07-c101-43c4-a9f3-53263119419e
         - Research: c938becf-734b-4f55-b075-28fa6a24bea5
         - RDBMS: 8b22cfac-7970-468a-844f-1c46594f8d9a
         - Quantified Self: dd916ff5-8973-4605-8d6f-280ff684a8de
         - Platforms: 5e30f762-9b65-479a-9d72-e84a5d9e12da
         - Package Manager: 81c6634d-6bf2-4433-86ff-ad44fa019153
         - Operating Systems I care about: 0cfccaf0-dc64-4d53-9c8c-d7004b2d5814
+        - Obsidian Publishing Tools: f341ea4e-2ba4-4b46-9eb4-9efc19794e84
+        - Notable AI Tools: 1f16e3ec-47c6-4f57-97a6-4ab3bbec3237
         - NoSQL: f35ea2c0-a28d-430c-9893-6f5120f1ee89
         - Networking: e9e0b998-ae2d-4500-bace-1ef9df4c65f8
         - Mind Map: 3e4abceb-b485-4ded-851e-c095080043a3
+        - Message Queue Software: a84d2b4e-e13d-4e38-a6aa-2444441023d0
+        - Logging Software: 5290adb2-42d8-4884-9094-e99d4ad46e77
         - Knowledge Management System: b09af5f6-0f41-432f-a5eb-1eb909da4ade
         - Keylogger Binding: 23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c
         - KMS - Knowledge Management Systems: 6aef6fe9-4c4e-4f3a-850c-e163e2303f81
+        - Investigation Tools: 0f9ca6fa-c204-4b8e-9bed-78b7627c9d89
         - Identity: c2e91197-a7cb-4521-aa52-e7410b02e030
         - Frontend: ae60275d-2624-4a0e-93ab-aa65a8cda795
         - Flash Cards: 18083986-8b3b-4b23-b179-f605fc1e46df
@@ -896,10 +1014,12 @@ nav:
         - Code Editor: 3b8fd8ec-b48d-4bd7-9a5d-7d20198f699d
         - Calendar: 6e70b530-f84f-435d-a647-fe85065ba418
         - CLI: 9b23ae27-ea5d-4cce-a7f5-f16a47705fdd
+        - Browsing History: 373a492f-0c09-41e4-a7d2-34179a3b704c
         - Browser: 7ec4889f-f645-48c5-a564-08e34f613fdd
         - Bookmarks: 40dba8ff-6a4d-4f04-9ef0-003e8ac9695f
         - Blockchain Software: 8cc90d55-bb57-42e7-bac1-232b84d9779d
         - Audiobooks: cf293569-0322-486e-9649-6e1b4b4ce9fa
+        - Archive Software: b8a4c886-7f76-4224-8f96-3aed92189082
         - Annotation: 02313f15-9c64-4b12-9c56-383ff9adcdf3
         - Annotation Software: e05c991c-dfcc-463c-a05c-15867785d629
     - Software Catagories:
@@ -922,6 +1042,7 @@ nav:
         - RBAC - Rule Base Access Control: 899c9af5-6115-49ab-ab30-a7e4bddec2ff
         - Publishing: 8ffb70c7-2315-4f73-9867-6885d064457e
         - Open Source: 95e200b6-08d4-49a1-acf3-6fdf72fcc7f6
+        - JSON Support: 2c6932b0-bd4d-48b2-93a6-ef27c7889968
         - Has Pub Sub: fd78af0b-ac2e-4ed8-b4f8-e6b9f5d275eb
         - Has API: 1059b83a-2c44-492f-a5b2-e716eb7b7ea8
         - File Formats Supported: b5b62336-cd54-408d-990e-a7de11b4d27c
@@ -938,12 +1059,15 @@ nav:
     - Comparison:
         - dendron vs trilium vs org-mode: ffb7613f-99ed-4084-898c-4005d93b1260
         - Docker vs Kubernetes: 747875fe-6b16-4189-aece-e425cd1b64fb
+    - Azimuth:
+        - Testing Azimuth: 837d9b85-e7e7-4d07-8b3a-319c2f377973
+        - Let's get Azimuth on TheGraph: c40207ff-472d-4665-9915-6df2afd392de
     - faceswap: bb368f34-e6c4-497e-9b2d-35e712b7cbe7
     - Untitled: d286d408-14ea-44f3-8216-61f36fead14d
     - TODO: feed7620-f082-43ed-b082-45d440b737b7
     - Software Languages: 09d86337-622e-4709-9f61-c6d5587704f6
+    - Favourite Apps: 444ff7c7-77b4-483c-b801-3955d2daeb0a
     - Dentropy's Ideal DevSecOps Stack: 406a13ea-5f64-440a-b454-6b43afe9e0d5
-    - Dentropy's Favourite Apps: 444ff7c7-77b4-483c-b801-3955d2daeb0a
     - Catagories: cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5
     - Awesome: 595558e9-ad0f-420a-bf21-8d87a41c68ba
 - MyProjects:
@@ -1574,6 +1698,7 @@ nav:
             - Elite overproduction: 80d8b309-f444-49be-9d83-cdf0776eeec7
             - EVM: 034ecb2f-4d2b-448a-aa58-04082769c63b
             - EVM Compatible: 837f477d-cb08-4ab1-8dd5-c9785dd3f40a
+            - ENS: 354e7428-f69e-42c5-97dd-92bf18521112
             - Dualisim: b9f3d0a1-4752-432b-a8e2-d44084fa6487
             - Double Spend Problem: 5359177b-3774-4312-b8c3-3d2e99876d09
             - Dopamine Pumps: f79eb288-40e6-4afa-a414-cc78007f47a2
@@ -2003,7 +2128,7 @@ nav:
         - OSINT Handbook: 23c1443f-cccc-4393-9ed5-69bc41b93c90
         - Crypto Theses for 2022: 0a1a1f81-db7f-425c-bd2e-9f3c3e79454a
     - Recommended Media: a0e8088e-cf07-4717-abef-eacfdeb268b8
-    - Media Dentropy's Currently Consuming: 78aa36ca-c4c6-40ed-873c-24099d5c2481
+    - Media I am currently consuming: 78aa36ca-c4c6-40ed-873c-24099d5c2481
     - Media Consumption Backlog: 3d6300be-801b-4df3-93ad-ac452f22831d
 - Skills:
     - Learning Pathways:
@@ -2208,6 +2333,7 @@ nav:
 - Quests:
     - List:
         - If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?: 17db1c37-5a7e-4f24-98d5-5ef5276553bb
+        - How do I audit all the archives of data I have?: c1b2973d-c991-446f-b1d1-d71ff62503b2
         - Encrypted Git Backup: 80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03
 - Questions:
     - list:
@@ -2314,8 +2440,14 @@ nav:
 - Catechisms:
     - List of Catechisms: cbe6af2b-2be1-40d5-95f9-08caa4869913
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
+- What are some bulk file renaming tools?: e9a110df-b751-4795-84d6-2ce0893d3fe7
 - Mindfulness Prompts and Exercises: 5a11269f-4323-4052-b079-c996cbde21f1
+- How to visualise represent storage on a computer drive?: f4753c78-856b-4dcb-813e-4be6a80db023
+- How to order folders by most files in each folder?: dcf1ad67-afbc-4444-b037-a6d3c4938135
+- How to list total number of files in directory recursively?: 8c3d5832-d1d2-4564-95b4-ead1e83d5f8e
+- How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
+- Favourite Homelab Software: 21b9d9f0-fde9-4189-83b6-72102becce04
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Dentropy's Blog Posts and Videos: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33

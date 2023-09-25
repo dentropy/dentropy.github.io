@@ -46,7 +46,7 @@ title: cypher
 
 ## Cypher Examples
 
-* [wiki.software.programming language.cypher.Basic Queries](/undefined)
+* [wiki.software.programming language.cypher.Basic Queries](/458b1549-c829-487a-ac99-433f356b1c65)
 * [wiki.software.programming language.cypher.examples Simplist Example](/undefined)
 * [wiki.software.programming language.cypher.examples.Movie Graph Example](/undefined)
 
