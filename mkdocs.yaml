@@ -307,6 +307,7 @@ nav:
             - generate password: ada3bd04-0022-4654-aa27-b4e7050a1089
         - aws:
             - s3: cc64a399-1cbe-44ee-ab4a-f36343a593ff
+            - S3: cc64a399-1cbe-44ee-ab4a-f36343a593ff
         - TrueNAS:
             - errors: eed4dc67-5076-4c0a-b5a3-7464d61176c1
         - Traefik:
@@ -628,7 +629,6 @@ nav:
         - Saddle: 8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d
         - SQLAlchemy: 3d3db79a-ae22-4620-8516-5cec289c31c3
         - SQL: 9bf437f1-b997-4df7-9cb5-d1dcb65fb892
-        - Rust Keylogger: 6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d
         - Rocket Note: 222e4d30-8747-4ed5-b00b-95a376eaef28
         - Roam Research: 6c6425a5-d844-46fd-ba26-8d0fa23ce07a
         - Rettiwt-API: 8d315560-b3cb-453a-b8a6-cd0480651340
@@ -778,7 +778,7 @@ nav:
         - Hasur: 527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a
         - Haskell: 4961c81a-7d2d-4143-af57-2fa45afc69c7
         - Hardhat: b2f5f020-78fc-4abf-9154-ddaf31d89822
-        - Hamilton: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
+        - Hamilton - Software: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
         - GunDB: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
         - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
@@ -825,7 +825,6 @@ nav:
         - Django Database Backup: 688bca77-2d1a-4d84-bcfe-fe51fd2f04bc
         - Distrobox: 180910b7-a777-42fb-9851-0151c82bd3f1
         - DiskerNet: 94394a3f-55e8-4953-8fd1-4288597cbbf3
-        - DiscordChatExporter: e93136a9-a919-4884-83bd-c3bbaeab4953
         - Discord: 434d4a81-f2cc-4a50-b75c-0c66af4c15b2
         - Debian: e5892695-48a8-4b08-b405-d70790407a4a
         - DeDRM: 15ca4cd3-c871-4cdf-9a09-0332f1d9d22b
@@ -1096,7 +1095,6 @@ nav:
                     - V1:
                         - Discord Binding V1: ce890113-147e-4515-8d16-b9e0abf81cd2
                         - Discord Binding V1 Schema: 36bce7d0-c306-4903-873f-73fb60199312
-                    - Get Discord User Token: ac73189f-5952-456e-aadc-ef446f938071
                     - Discord Elasticsearch Queries: 755e7c50-f7f1-42d9-a6ac-d147103acd05
                     - Discord Binding: 16cc922f-56ea-422e-95be-72f5f55e4111
                 - Whatsapp:
@@ -1318,6 +1316,9 @@ nav:
         - Letters to the Community:
             - Humman Accelerator - Trying to Define A Problem: 5b7b6673-14a6-4823-a5c8-44439156f2ad
         - Logs - KMS Analysis: b9ca9c26-5838-498b-9081-2ca3a77ce22f
+    - Holium:
+        - Holium White Paper:
+            - Redefining Human Instrumentality White Paper v0.0.2: 9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f
     - TODO:
         - Umbrel Clearweb Proxy: dd514eed-43e6-42fb-b722-b33e27c1f7e1
     - Robotics:
@@ -1334,6 +1335,8 @@ nav:
         - Research - Blockchain Royalties: 0ee9b116-204d-4f4e-a7c7-cd2dca56c95f
         - Questions - Blockchain Royalties: 10c2c0f1-0577-42e5-9660-a2bec73747e9
         - Logs - Blockchain Royalties: 2e191352-0a11-410d-b4a5-50574257b3d6
+    - Blockchain Research:
+        - Gauging Blockchain Understanding: 0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd
     - tags: 891fd1bf-0ed5-4e95-a892-28ba606e91de
     - dentropys-obsidian-publisher: f43d858e-c32e-4d15-bfc4-456bb7f56ceb
     - Web Scraping Orchestration: dd43be98-5e8e-45b2-b279-6cfb7474bba9
@@ -2057,7 +2060,7 @@ nav:
         - Godel Escher Bach: e4cb69d9-1875-4773-b779-01beb1961861
         - God Emperor of Dune: 931c7ed5-c535-4802-b3f5-4b9fb50d8505
         - Germs Guns and Steal: 029be31b-1a9b-44da-9980-c89657255812
-        - Friends: 13283f56-b2e9-4347-a99b-8f4dd0e8ca10
+        - Friends - Show: 13283f56-b2e9-4347-a99b-8f4dd0e8ca10
         - Freedom from The Known: 1ed209ba-3e14-4850-9ca0-4dea6b4001f8
         - "Finite and Infinite Games: A Vision of Life as Play and Possibility": c8f15232-dddf-4356-98a1-3d4c3ee0f651
         - "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking": 5eabb4fb-9967-41e2-af19-cb812e1d9453
@@ -2347,15 +2350,22 @@ nav:
         - What are the zero to hero urbit app examples with source code?: 4212d688-8696-4f32-8813-7edab4080e1c
         - What are the most popular parts of the Hoon standard library?: d228c0d3-4420-42e8-9932-0aab68e08350
         - What are the basics of Hoon?: d501e972-f005-4aba-a7bf-3404b735c27a
+        - What are some bulk file renaming tools?: e9a110df-b751-4795-84d6-2ce0893d3fe7
+        - Questions for Discord Data?: 46abc67b-bbe7-4800-82f5-f08d4c457ef0
+        - Learn to Code Questions: 86917ba0-a64e-464a-bdb7-2e2fddd36ea4
         - Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?: 637962de-f181-43cc-97a3-682b1ce4f2b3
         - How to write Hello World in Hoon and Urbit?: 780af269-c8c8-45df-8358-c9b2140c92cf
+        - How to visualize represent storage on a computer drive?: f4753c78-856b-4dcb-813e-4be6a80db023
         - "How to store data in complex data structures, like a list of messages rather than a single value": 98338dc9-0611-4650-85af-75b2b67f3207
         - How to send data from ship to ship in Urbit using using Hoon?: 334719ff-63c4-46eb-958d-8aa0ffd12841
         - How to send a file form one ship to another on Urbit using Hoon?: ce92dacd-4f85-4e1b-9d7e-a3546d31f319
         - "How to ping other Ubit ships to see if they are on network, or fake network?": 2d2582c6-bbde-4575-988a-6d236c580dbd
         - How to parse a JSON string on Hoon: a09c8653-0735-4e4a-8554-fdc2339c35f0
         - How to parse a CSV into Urbit using Hoon?: 74c8c93f-a638-4e20-aa4d-4fe5ba437fd9
+        - How to order folders by most files in each folder?: dcf1ad67-afbc-4444-b037-a6d3c4938135
         - How to make a REST API in hoon so I can use curl on my urbit ship?: 77034042-9d84-4a9b-b6b0-ab93bbde1d4b
+        - How to list total number of files in directory recursively?: 8c3d5832-d1d2-4564-95b4-ead1e83d5f8e
+        - How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
         - How to edit a file inside a Desk from inside Dojo?: ed0f66f5-3cfd-459f-bded-decfb2cb02ef
         - How to do ship to ship communication with Urbit and Hoon: 05aea709-7be3-46ff-9b15-6cbaba9240ce
         - How to do loops in Hoon?: f6a58666-a1da-4e1e-a32f-47bbcbfa823c
@@ -2457,21 +2467,21 @@ nav:
     - White Paper and Project Outlines: 3ebc2356-8b1a-42a2-8136-9e693039c00f
 - Ideas:
     - Functional Programming applied to memes: 1bcf09cd-6a42-4d1f-8bb7-09ac5262396a
+- Dents:
+    - Edgy Blockchain Problems: 209d819c-37d7-499a-83de-845fd67f0345
 - Community:
     - Blockchain Communities: ebbd0aff-9a73-4922-bc91-a7d5ada3d602
 - Catechisms:
     - List of Catechisms: cbe6af2b-2be1-40d5-95f9-08caa4869913
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
-- What are some bulk file renaming tools?: e9a110df-b751-4795-84d6-2ce0893d3fe7
+- The 4 Step plan for Question Engine: 9dfba51c-8092-411d-859b-9acf356ec385
+- Questions to Answer in General Report to Compare Discord Guilds: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
+- Project Update Posts: 4c45797f-8d43-4277-a5c1-de8df9aa7876
 - Mindfulness Prompts and Exercises: 5a11269f-4323-4052-b079-c996cbde21f1
-- Learn to Code Questions: 86917ba0-a64e-464a-bdb7-2e2fddd36ea4
-- How to visualize represent storage on a computer drive?: f4753c78-856b-4dcb-813e-4be6a80db023
-- How to order folders by most files in each folder?: dcf1ad67-afbc-4444-b037-a6d3c4938135
-- How to list total number of files in directory recursively?: 8c3d5832-d1d2-4564-95b4-ead1e83d5f8e
-- How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Favourite Homelab Software: 21b9d9f0-fde9-4189-83b6-72102becce04
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
-- Dentropy's Blog Posts and Videos: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
-- "Catechism - Discord Auditing, DAO Use case": ed188fb4-fc23-4352-90f9-34b6fe1718e3
+- Dentropy's Blog Posts: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
+- "Catechism - Discord Auditing, DAO use Case V0.0.1": a5fc0cc8-0abb-4192-8675-b98e8ee9fad4
+- "Catechism - Discord Auditing, DAO Use case V0.0.2": ed188fb4-fc23-4352-90f9-34b6fe1718e3

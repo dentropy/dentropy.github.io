@@ -1,18 +1,16 @@
 {
   "uuid_list": [
     "146656b4-573a-4e42-8f00-239ab29eac3b",
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "9dfba51c-8092-411d-859b-9acf356ec385",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "5a11269f-4323-4052-b079-c996cbde21f1",
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
-    "f4753c78-856b-4dcb-813e-4be6a80db023",
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135",
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "21b9d9f0-fde9-4189-83b6-72102becce04",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "e76c8ac9-69f3-477f-8015-556e83738432",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "974f7445-a807-4edc-bf61-4155c155ffe5",
@@ -871,7 +869,6 @@
     "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d",
     "3d3db79a-ae22-4620-8516-5cec289c31c3",
     "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d",
     "222e4d30-8747-4ed5-b00b-95a376eaef28",
     "6c6425a5-d844-46fd-ba26-8d0fa23ce07a",
     "8d315560-b3cb-453a-b8a6-cd0480651340",
@@ -1068,7 +1065,6 @@
     "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc",
     "180910b7-a777-42fb-9851-0151c82bd3f1",
     "94394a3f-55e8-4953-8fd1-4288597cbbf3",
-    "e93136a9-a919-4884-83bd-c3bbaeab4953",
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2",
     "e5892695-48a8-4b08-b405-d70790407a4a",
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
@@ -1319,6 +1315,7 @@
     "51b24c5c-afc0-4196-ad38-02c3679710b4",
     "ada3bd04-0022-4654-aa27-b4e7050a1089",
     "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+    "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
     "eed4dc67-5076-4c0a-b5a3-7464d61176c1",
     "cc9eb5af-7d8f-49cb-9a07-3dcf780a0119",
     "72d0699a-a3ea-47f4-bc14-805b39bea7ba",
@@ -1557,15 +1554,22 @@
     "4212d688-8696-4f32-8813-7edab4080e1c",
     "d228c0d3-4420-42e8-9932-0aab68e08350",
     "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "637962de-f181-43cc-97a3-682b1ce4f2b3",
     "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "f4753c78-856b-4dcb-813e-4be6a80db023",
     "98338dc9-0611-4650-85af-75b2b67f3207",
     "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
     "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
     "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "f6a58666-a1da-4e1e-a32f-47bbcbfa823c",
@@ -1725,6 +1729,7 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "3dc8dff3-226e-4315-a126-df63912c5265",
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -1765,7 +1770,6 @@
     "04934aa0-9a0c-40d2-a207-4b8ddc6128c7",
     "3f2b1b8f-6760-42c4-b752-b80f5ae60057",
     "52116bc3-599b-4dd4-961d-21cd3426280d",
-    "ac73189f-5952-456e-aadc-ef446f938071",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "16cc922f-56ea-422e-95be-72f5f55e4111",
     "ce890113-147e-4515-8d16-b9e0abf81cd2",
@@ -1919,6 +1923,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
@@ -2209,24 +2214,23 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "2781f257-2980-4661-bc02-635e6cc59112",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "209d819c-37d7-499a-83de-845fd67f0345",
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7": "What are some bulk file renaming tools?.md",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine.md",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds.md",
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876": "Project Update Posts.md",
     "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises.md",
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Learn to Code Questions.md",
-    "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?.md",
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135": "How to order folders by most files in each folder?.md",
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "How to list total number of files in directory recursively?.md",
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?.md",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics.md",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects.md",
-    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts and Videos.md",
-    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case.md",
+    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts.md",
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0.0.1.md",
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0.0.2.md",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki/Wiki Backlog.md",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "Wiki/HU - Hustler's University.md",
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff": "Wiki/Research/reddit export.md",
@@ -3084,7 +3088,6 @@
     "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d": "Software/List/Saddle.md",
     "3d3db79a-ae22-4620-8516-5cec289c31c3": "Software/List/SQLAlchemy.md",
     "9bf437f1-b997-4df7-9cb5-d1dcb65fb892": "Software/List/SQL.md",
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d": "Software/List/Rust Keylogger.md",
     "222e4d30-8747-4ed5-b00b-95a376eaef28": "Software/List/Rocket Note.md",
     "6c6425a5-d844-46fd-ba26-8d0fa23ce07a": "Software/List/Roam Research.md",
     "8d315560-b3cb-453a-b8a6-cd0480651340": "Software/List/Rettiwt-API.md",
@@ -3234,7 +3237,7 @@
     "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a": "Software/List/Hasur.md",
     "4961c81a-7d2d-4143-af57-2fa45afc69c7": "Software/List/Haskell.md",
     "b2f5f020-78fc-4abf-9154-ddaf31d89822": "Software/List/Hardhat.md",
-    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Software/List/Hamilton.md",
+    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Software/List/Hamilton - Software.md",
     "272babbb-b019-4290-941a-01ae25d07fe1": "Software/List/HTML.md",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "Software/List/GunDB.md",
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "Software/List/GraphQL Software.md",
@@ -3281,7 +3284,6 @@
     "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc": "Software/List/Django Database Backup.md",
     "180910b7-a777-42fb-9851-0151c82bd3f1": "Software/List/Distrobox.md",
     "94394a3f-55e8-4953-8fd1-4288597cbbf3": "Software/List/DiskerNet.md",
-    "e93136a9-a919-4884-83bd-c3bbaeab4953": "Software/List/DiscordChatExporter.md",
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": "Software/List/Discord.md",
     "e5892695-48a8-4b08-b405-d70790407a4a": "Software/List/Debian.md",
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": "Software/List/DeDRM.md",
@@ -3527,7 +3529,7 @@
     "b3752e1d-7236-46af-8b87-4dd5d2b42e4a": "Software/List/bash/rename.md",
     "51b24c5c-afc0-4196-ad38-02c3679710b4": "Software/List/bash/reminders.md",
     "ada3bd04-0022-4654-aa27-b4e7050a1089": "Software/List/bash/generate password.md",
-    "cc64a399-1cbe-44ee-ab4a-f36343a593ff": "Software/List/aws/s3.md",
+    "cc64a399-1cbe-44ee-ab4a-f36343a593ff": "Software/List/aws/S3.md",
     "eed4dc67-5076-4c0a-b5a3-7464d61176c1": "Software/List/TrueNAS/errors.md",
     "cc9eb5af-7d8f-49cb-9a07-3dcf780a0119": "Software/List/Traefik/keycoak integration.md",
     "72d0699a-a3ea-47f4-bc14-805b39bea7ba": "Software/List/Solidity/tests.md",
@@ -3765,15 +3767,22 @@
     "4212d688-8696-4f32-8813-7edab4080e1c": "Questions/list/What are the zero to hero urbit app examples with source code?.md",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "Questions/list/What are the most popular parts of the Hoon standard library?.md",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "Questions/list/What are the basics of Hoon?.md",
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7": "Questions/list/What are some bulk file renaming tools?.md",
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0": "Questions/list/Questions for Discord Data?.md",
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Questions/list/Learn to Code Questions.md",
     "637962de-f181-43cc-97a3-682b1ce4f2b3": "Questions/list/Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "Questions/list/How to write Hello World in Hoon and Urbit?.md",
+    "f4753c78-856b-4dcb-813e-4be6a80db023": "Questions/list/How to visualize represent storage on a computer drive?.md",
     "98338dc9-0611-4650-85af-75b2b67f3207": "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": "Questions/list/How to send a file form one ship to another on Urbit using Hoon?.md",
     "2d2582c6-bbde-4575-988a-6d236c580dbd": "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": "Questions/list/How to parse a JSON string on Hoon.md",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": "Questions/list/How to parse a CSV into Urbit using Hoon?.md",
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135": "Questions/list/How to order folders by most files in each folder?.md",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md",
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "Questions/list/How to list total number of files in directory recursively?.md",
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "Questions/list/How to find copies of the same file and images within a directory?.md",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": "Questions/list/How to edit a file inside a Desk from inside Dojo?.md",
     "05aea709-7be3-46ff-9b15-6cbaba9240ce": "Questions/list/How to do ship to ship communication with Urbit and Hoon.md",
     "f6a58666-a1da-4e1e-a32f-47bbcbfa823c": "Questions/list/How to do loops in Hoon?.md",
@@ -3933,6 +3942,7 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": "MyProjects/KMS Analysis/Letters to the Community/Humman Accelerator - Trying to Define A Problem.md",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "MyProjects/Junk Projects/obsidian-publish + hugo.md",
     "3dc8dff3-226e-4315-a126-df63912c5265": "MyProjects/Junk Projects/Let's Learn Web Scraping.md",
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "MyProjects/ENS Indexing/Logs - ENS Indexing.md",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "MyProjects/ENS Indexing/ENS Indexing.md",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md",
@@ -3973,7 +3983,6 @@
     "04934aa0-9a0c-40d2-a207-4b8ddc6128c7": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Git/Git Binding.md",
     "3f2b1b8f-6760-42c4-b752-b80f5ae60057": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Facebook/Facebook Binding.md",
     "52116bc3-599b-4dd4-961d-21cd3426280d": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md",
-    "ac73189f-5952-456e-aadc-ef446f938071": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Get Discord User Token.md",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md",
     "16cc922f-56ea-422e-95be-72f5f55e4111": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md",
@@ -4127,6 +4136,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media I am currently consuming.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
@@ -4269,7 +4279,7 @@
     "e4cb69d9-1875-4773-b779-01beb1961861": "Media/List/Godel Escher Bach.md",
     "931c7ed5-c535-4802-b3f5-4b9fb50d8505": "Media/List/God Emperor of Dune.md",
     "029be31b-1a9b-44da-9980-c89657255812": "Media/List/Germs Guns and Steal.md",
-    "13283f56-b2e9-4347-a99b-8f4dd0e8ca10": "Media/List/Friends.md",
+    "13283f56-b2e9-4347-a99b-8f4dd0e8ca10": "Media/List/Friends - Show.md",
     "1ed209ba-3e14-4850-9ca0-4dea6b4001f8": "Media/List/Freedom from The Known.md",
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": "Media/List/Finite and Infinite Games: A Vision of Life as Play and Possibility.md",
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": "Media/List/Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking.md",
@@ -4417,24 +4427,23 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "Heuristics/Conversation/36 Questions To Fall In Love.md",
     "2781f257-2980-4661-bc02-635e6cc59112": "Heuristics/Axioms/Cosmic Sociology.md",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "Heuristics/Axioms/20 Axioms of Sociology.md",
+    "209d819c-37d7-499a-83de-845fd67f0345": "Dents/Edgy Blockchain Problems.md",
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Community/Blockchain Communities.md",
     "cbe6af2b-2be1-40d5-95f9-08caa4869913": "Catechisms/List of Catechisms.md"
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7": "What are some bulk file renaming tools?",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds",
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876": "Project Update Posts",
     "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises",
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Learn to Code Questions",
-    "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?",
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135": "How to order folders by most files in each folder?",
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "How to list total number of files in directory recursively?",
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects",
-    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts and Videos",
-    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case",
+    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts",
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0",
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki Backlog",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "HU - Hustler's University",
     "2ddae3c6-92e8-454e-8eee-5ebb62930fff": "reddit export",
@@ -5292,7 +5301,6 @@
     "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d": "Saddle",
     "3d3db79a-ae22-4620-8516-5cec289c31c3": "SQLAlchemy",
     "9bf437f1-b997-4df7-9cb5-d1dcb65fb892": "SQL",
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d": "Rust Keylogger",
     "222e4d30-8747-4ed5-b00b-95a376eaef28": "Rocket Note",
     "6c6425a5-d844-46fd-ba26-8d0fa23ce07a": "Roam Research",
     "8d315560-b3cb-453a-b8a6-cd0480651340": "Rettiwt-API",
@@ -5442,7 +5450,7 @@
     "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a": "Hasur",
     "4961c81a-7d2d-4143-af57-2fa45afc69c7": "Haskell",
     "b2f5f020-78fc-4abf-9154-ddaf31d89822": "Hardhat",
-    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Hamilton",
+    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Hamilton - Software",
     "272babbb-b019-4290-941a-01ae25d07fe1": "HTML",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "GunDB",
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "GraphQL Software",
@@ -5489,7 +5497,6 @@
     "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc": "Django Database Backup",
     "180910b7-a777-42fb-9851-0151c82bd3f1": "Distrobox",
     "94394a3f-55e8-4953-8fd1-4288597cbbf3": "DiskerNet",
-    "e93136a9-a919-4884-83bd-c3bbaeab4953": "DiscordChatExporter",
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": "Discord",
     "e5892695-48a8-4b08-b405-d70790407a4a": "Debian",
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": "DeDRM",
@@ -5735,7 +5742,7 @@
     "b3752e1d-7236-46af-8b87-4dd5d2b42e4a": "rename",
     "51b24c5c-afc0-4196-ad38-02c3679710b4": "reminders",
     "ada3bd04-0022-4654-aa27-b4e7050a1089": "generate password",
-    "cc64a399-1cbe-44ee-ab4a-f36343a593ff": "s3",
+    "cc64a399-1cbe-44ee-ab4a-f36343a593ff": "S3",
     "eed4dc67-5076-4c0a-b5a3-7464d61176c1": "errors",
     "cc9eb5af-7d8f-49cb-9a07-3dcf780a0119": "keycoak integration",
     "72d0699a-a3ea-47f4-bc14-805b39bea7ba": "tests",
@@ -5973,15 +5980,22 @@
     "4212d688-8696-4f32-8813-7edab4080e1c": "What are the zero to hero urbit app examples with source code?",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "What are the most popular parts of the Hoon standard library?",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "What are the basics of Hoon?",
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7": "What are some bulk file renaming tools?",
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0": "Questions for Discord Data?",
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Learn to Code Questions",
     "637962de-f181-43cc-97a3-682b1ce4f2b3": "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "How to write Hello World in Hoon and Urbit?",
+    "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?",
     "98338dc9-0611-4650-85af-75b2b67f3207": "How to store data in complex data structures, like a list of messages rather than a single value",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "How to send data from ship to ship in Urbit using using Hoon?",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": "How to send a file form one ship to another on Urbit using Hoon?",
     "2d2582c6-bbde-4575-988a-6d236c580dbd": "How to ping other Ubit ships to see if they are on network, or fake network?",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": "How to parse a JSON string on Hoon",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": "How to parse a CSV into Urbit using Hoon?",
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135": "How to order folders by most files in each folder?",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "How to make a REST API in hoon so I can use curl on my urbit ship?",
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "How to list total number of files in directory recursively?",
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": "How to edit a file inside a Desk from inside Dojo?",
     "05aea709-7be3-46ff-9b15-6cbaba9240ce": "How to do ship to ship communication with Urbit and Hoon",
     "f6a58666-a1da-4e1e-a32f-47bbcbfa823c": "How to do loops in Hoon?",
@@ -6141,6 +6155,7 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": "Humman Accelerator - Trying to Define A Problem",
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "obsidian-publish + hugo",
     "3dc8dff3-226e-4315-a126-df63912c5265": "Let's Learn Web Scraping",
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "Redefining Human Instrumentality White Paper v0",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "Logs - ENS Indexing",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "ENS Indexing",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "dentropycloud",
@@ -6181,7 +6196,6 @@
     "04934aa0-9a0c-40d2-a207-4b8ddc6128c7": "Git Binding",
     "3f2b1b8f-6760-42c4-b752-b80f5ae60057": "Facebook Binding",
     "52116bc3-599b-4dd4-961d-21cd3426280d": "Email Binding",
-    "ac73189f-5952-456e-aadc-ef446f938071": "Get Discord User Token",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "Discord Elasticsearch Queries",
     "16cc922f-56ea-422e-95be-72f5f55e4111": "Discord Binding",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "Discord Binding V1",
@@ -6335,6 +6349,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": "Research - Blockchain Royalties",
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": "Questions - Blockchain Royalties",
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "Gauging Blockchain Understanding",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media I am currently consuming",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
@@ -6477,7 +6492,7 @@
     "e4cb69d9-1875-4773-b779-01beb1961861": "Godel Escher Bach",
     "931c7ed5-c535-4802-b3f5-4b9fb50d8505": "God Emperor of Dune",
     "029be31b-1a9b-44da-9980-c89657255812": "Germs Guns and Steal",
-    "13283f56-b2e9-4347-a99b-8f4dd0e8ca10": "Friends",
+    "13283f56-b2e9-4347-a99b-8f4dd0e8ca10": "Friends - Show",
     "1ed209ba-3e14-4850-9ca0-4dea6b4001f8": "Freedom from The Known",
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": "Finite and Infinite Games: A Vision of Life as Play and Possibility",
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking",
@@ -6625,24 +6640,23 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "36 Questions To Fall In Love",
     "2781f257-2980-4661-bc02-635e6cc59112": "Cosmic Sociology",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "20 Axioms of Sociology",
+    "209d819c-37d7-499a-83de-845fd67f0345": "Edgy Blockchain Problems",
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": "Blockchain Communities",
     "cbe6af2b-2be1-40d5-95f9-08caa4869913": "List of Catechisms"
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
-    "What are some bulk file renaming tools?.md": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "The 4 Step plan for Question Engine.md": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "Questions to Answer in General Report to Compare Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "Project Update Posts.md": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "Mindfulness Prompts and Exercises.md": "5a11269f-4323-4052-b079-c996cbde21f1",
-    "Learn to Code Questions.md": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
-    "How to visualize represent storage on a computer drive?.md": "f4753c78-856b-4dcb-813e-4be6a80db023",
-    "How to order folders by most files in each folder?.md": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
-    "How to list total number of files in directory recursively?.md": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
-    "How to find copies of the same file and images within a directory?.md": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "Heuristics.md": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software.md": "21b9d9f0-fde9-4189-83b6-72102becce04",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
-    "Dentropy's Blog Posts and Videos.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-    "Catechism - Discord Auditing, DAO Use case.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+    "Dentropy's Blog Posts.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Catechism - Discord Auditing, DAO use Case V0.0.1.md": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
+    "Catechism - Discord Auditing, DAO Use case V0.0.2.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki/Wiki Backlog.md": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "Wiki/HU - Hustler's University.md": "974f7445-a807-4edc-bf61-4155c155ffe5",
     "Wiki/Research/reddit export.md": "2ddae3c6-92e8-454e-8eee-5ebb62930fff",
@@ -7500,7 +7514,6 @@
     "Software/List/Saddle.md": "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d",
     "Software/List/SQLAlchemy.md": "3d3db79a-ae22-4620-8516-5cec289c31c3",
     "Software/List/SQL.md": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
-    "Software/List/Rust Keylogger.md": "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d",
     "Software/List/Rocket Note.md": "222e4d30-8747-4ed5-b00b-95a376eaef28",
     "Software/List/Roam Research.md": "6c6425a5-d844-46fd-ba26-8d0fa23ce07a",
     "Software/List/Rettiwt-API.md": "8d315560-b3cb-453a-b8a6-cd0480651340",
@@ -7650,7 +7663,7 @@
     "Software/List/Hasur.md": "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a",
     "Software/List/Haskell.md": "4961c81a-7d2d-4143-af57-2fa45afc69c7",
     "Software/List/Hardhat.md": "b2f5f020-78fc-4abf-9154-ddaf31d89822",
-    "Software/List/Hamilton.md": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
+    "Software/List/Hamilton - Software.md": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "Software/List/HTML.md": "272babbb-b019-4290-941a-01ae25d07fe1",
     "Software/List/GunDB.md": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
     "Software/List/GraphQL Software.md": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
@@ -7697,7 +7710,6 @@
     "Software/List/Django Database Backup.md": "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc",
     "Software/List/Distrobox.md": "180910b7-a777-42fb-9851-0151c82bd3f1",
     "Software/List/DiskerNet.md": "94394a3f-55e8-4953-8fd1-4288597cbbf3",
-    "Software/List/DiscordChatExporter.md": "e93136a9-a919-4884-83bd-c3bbaeab4953",
     "Software/List/Discord.md": "434d4a81-f2cc-4a50-b75c-0c66af4c15b2",
     "Software/List/Debian.md": "e5892695-48a8-4b08-b405-d70790407a4a",
     "Software/List/DeDRM.md": "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
@@ -7948,6 +7960,7 @@
     "Software/List/bash/reminders.md": "51b24c5c-afc0-4196-ad38-02c3679710b4",
     "Software/List/bash/generate password.md": "ada3bd04-0022-4654-aa27-b4e7050a1089",
     "Software/List/aws/s3.md": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+    "Software/List/aws/S3.md": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
     "Software/List/TrueNAS/errors.md": "eed4dc67-5076-4c0a-b5a3-7464d61176c1",
     "Software/List/Traefik/keycoak integration.md": "cc9eb5af-7d8f-49cb-9a07-3dcf780a0119",
     "Software/List/Solidity/tests.md": "72d0699a-a3ea-47f4-bc14-805b39bea7ba",
@@ -8186,15 +8199,22 @@
     "Questions/list/What are the zero to hero urbit app examples with source code?.md": "4212d688-8696-4f32-8813-7edab4080e1c",
     "Questions/list/What are the most popular parts of the Hoon standard library?.md": "d228c0d3-4420-42e8-9932-0aab68e08350",
     "Questions/list/What are the basics of Hoon?.md": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "Questions/list/What are some bulk file renaming tools?.md": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "Questions/list/Questions for Discord Data?.md": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+    "Questions/list/Learn to Code Questions.md": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "Questions/list/Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md": "637962de-f181-43cc-97a3-682b1ce4f2b3",
     "Questions/list/How to write Hello World in Hoon and Urbit?.md": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "Questions/list/How to visualize represent storage on a computer drive?.md": "f4753c78-856b-4dcb-813e-4be6a80db023",
     "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md": "98338dc9-0611-4650-85af-75b2b67f3207",
     "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md": "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "Questions/list/How to send a file form one ship to another on Urbit using Hoon?.md": "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
     "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md": "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "Questions/list/How to parse a JSON string on Hoon.md": "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "Questions/list/How to parse a CSV into Urbit using Hoon?.md": "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
+    "Questions/list/How to order folders by most files in each folder?.md": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
+    "Questions/list/How to list total number of files in directory recursively?.md": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "Questions/list/How to find copies of the same file and images within a directory?.md": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "Questions/list/How to edit a file inside a Desk from inside Dojo?.md": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
     "Questions/list/How to do ship to ship communication with Urbit and Hoon.md": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "Questions/list/How to do loops in Hoon?.md": "f6a58666-a1da-4e1e-a32f-47bbcbfa823c",
@@ -8354,6 +8374,7 @@
     "MyProjects/KMS Analysis/Letters to the Community/Humman Accelerator - Trying to Define A Problem.md": "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "MyProjects/Junk Projects/obsidian-publish + hugo.md": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "MyProjects/Junk Projects/Let's Learn Web Scraping.md": "3dc8dff3-226e-4315-a126-df63912c5265",
+    "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
     "MyProjects/ENS Indexing/Logs - ENS Indexing.md": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "MyProjects/ENS Indexing/ENS Indexing.md": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -8394,7 +8415,6 @@
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Git/Git Binding.md": "04934aa0-9a0c-40d2-a207-4b8ddc6128c7",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Facebook/Facebook Binding.md": "3f2b1b8f-6760-42c4-b752-b80f5ae60057",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md": "52116bc3-599b-4dd4-961d-21cd3426280d",
-    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Get Discord User Token.md": "ac73189f-5952-456e-aadc-ef446f938071",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md": "16cc922f-56ea-422e-95be-72f5f55e4111",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md": "ce890113-147e-4515-8d16-b9e0abf81cd2",
@@ -8548,6 +8568,7 @@
     "MyProjects/Blockchain Royalties/Research - Blockchain Royalties.md": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "MyProjects/Blockchain Royalties/Questions - Blockchain Royalties.md": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media I am currently consuming.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
@@ -8690,7 +8711,7 @@
     "Media/List/Godel Escher Bach.md": "e4cb69d9-1875-4773-b779-01beb1961861",
     "Media/List/God Emperor of Dune.md": "931c7ed5-c535-4802-b3f5-4b9fb50d8505",
     "Media/List/Germs Guns and Steal.md": "029be31b-1a9b-44da-9980-c89657255812",
-    "Media/List/Friends.md": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10",
+    "Media/List/Friends - Show.md": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10",
     "Media/List/Freedom from The Known.md": "1ed209ba-3e14-4850-9ca0-4dea6b4001f8",
     "Media/List/Finite and Infinite Games: A Vision of Life as Play and Possibility.md": "c8f15232-dddf-4356-98a1-3d4c3ee0f651",
     "Media/List/Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking.md": "5eabb4fb-9967-41e2-af19-cb812e1d9453",
@@ -8838,6 +8859,7 @@
     "Heuristics/Conversation/36 Questions To Fall In Love.md": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Heuristics/Axioms/Cosmic Sociology.md": "2781f257-2980-4661-bc02-635e6cc59112",
     "Heuristics/Axioms/20 Axioms of Sociology.md": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "Dents/Edgy Blockchain Problems.md": "209d819c-37d7-499a-83de-845fd67f0345",
     "Community/Blockchain Communities.md": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "Catechisms/List of Catechisms.md": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   },
@@ -8847,19 +8869,17 @@
     "1155": "d2b98fd3-621a-44f7-bc53-9108b5822cc6",
     "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
-    "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "The 4 Step plan for Question Engine": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "Project Update Posts": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1",
-    "Learn to Code Questions": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
-    "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023",
-    "How to order folders by most files in each folder?": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
-    "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
-    "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
-    "Dentropy's Blog Posts and Videos": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-    "Catechism - Discord Auditing, DAO Use case": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+    "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Catechism - Discord Auditing, DAO use Case V0": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
+    "Catechism - Discord Auditing, DAO Use case V0": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki Backlog": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "HU - Hustler's University": "974f7445-a807-4edc-bf61-4155c155ffe5",
     "reddit export": "2ddae3c6-92e8-454e-8eee-5ebb62930fff",
@@ -9710,7 +9730,6 @@
     "Saddle": "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d",
     "SQLAlchemy": "3d3db79a-ae22-4620-8516-5cec289c31c3",
     "SQL": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
-    "Rust Keylogger": "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d",
     "Rocket Note": "222e4d30-8747-4ed5-b00b-95a376eaef28",
     "Roam Research": "6c6425a5-d844-46fd-ba26-8d0fa23ce07a",
     "Rettiwt-API": "8d315560-b3cb-453a-b8a6-cd0480651340",
@@ -9860,7 +9879,7 @@
     "Hasur": "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a",
     "Haskell": "4961c81a-7d2d-4143-af57-2fa45afc69c7",
     "Hardhat": "b2f5f020-78fc-4abf-9154-ddaf31d89822",
-    "Hamilton": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
+    "Hamilton - Software": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "HTML": "272babbb-b019-4290-941a-01ae25d07fe1",
     "GunDB": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
     "GraphQL Software": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
@@ -9906,7 +9925,6 @@
     "Django Database Backup": "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc",
     "Distrobox": "180910b7-a777-42fb-9851-0151c82bd3f1",
     "DiskerNet": "94394a3f-55e8-4953-8fd1-4288597cbbf3",
-    "DiscordChatExporter": "e93136a9-a919-4884-83bd-c3bbaeab4953",
     "Discord": "434d4a81-f2cc-4a50-b75c-0c66af4c15b2",
     "Debian": "e5892695-48a8-4b08-b405-d70790407a4a",
     "DeDRM": "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
@@ -10147,6 +10165,7 @@
     "reminders": "c694e2b4-07dc-46ab-9cc0-e918eb21246e",
     "generate password": "ac2caafb-5fa6-490a-8d6e-7cbc8c308332",
     "s3": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+    "S3": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
     "keycoak integration": "cc9eb5af-7d8f-49cb-9a07-3dcf780a0119",
     "tests": "72d0699a-a3ea-47f4-bc14-805b39bea7ba",
     "offline transactions": "aa06083b-8eac-4b32-8904-a2092a3f2087",
@@ -10364,15 +10383,22 @@
     "What are the zero to hero urbit app examples with source code?": "4212d688-8696-4f32-8813-7edab4080e1c",
     "What are the most popular parts of the Hoon standard library?": "d228c0d3-4420-42e8-9932-0aab68e08350",
     "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "Questions for Discord Data?": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+    "Learn to Code Questions": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum": "637962de-f181-43cc-97a3-682b1ce4f2b3",
     "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023",
     "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207",
     "How to send data from ship to ship in Urbit using using Hoon?": "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "How to send a file form one ship to another on Urbit using Hoon?": "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
     "How to ping other Ubit ships to see if they are on network, or fake network?": "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "How to parse a JSON string on Hoon": "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "How to parse a CSV into Urbit using Hoon?": "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
+    "How to order folders by most files in each folder?": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "How to make a REST API in hoon so I can use curl on my urbit ship?": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
+    "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "How to edit a file inside a Desk from inside Dojo?": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
     "How to do ship to ship communication with Urbit and Hoon": "05aea709-7be3-46ff-9b15-6cbaba9240ce",
     "How to do loops in Hoon?": "f6a58666-a1da-4e1e-a32f-47bbcbfa823c",
@@ -10529,6 +10555,7 @@
     "Humman Accelerator - Trying to Define A Problem": "5b7b6673-14a6-4823-a5c8-44439156f2ad",
     "obsidian-publish + hugo": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "Let's Learn Web Scraping": "3dc8dff3-226e-4315-a126-df63912c5265",
+    "Redefining Human Instrumentality White Paper v0": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
     "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "ENS Indexing": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "dentropycloud": "e98a394d-7608-4f7b-916e-d4863e6aa62a",
@@ -10563,7 +10590,6 @@
     "Git Binding": "04934aa0-9a0c-40d2-a207-4b8ddc6128c7",
     "Facebook Binding": "3f2b1b8f-6760-42c4-b752-b80f5ae60057",
     "Email Binding": "52116bc3-599b-4dd4-961d-21cd3426280d",
-    "Get Discord User Token": "ac73189f-5952-456e-aadc-ef446f938071",
     "Discord Elasticsearch Queries": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "Discord Binding": "16cc922f-56ea-422e-95be-72f5f55e4111",
     "Discord Binding V1": "ce890113-147e-4515-8d16-b9e0abf81cd2",
@@ -10688,6 +10714,7 @@
     "Research - Blockchain Royalties": "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f",
     "Questions - Blockchain Royalties": "10c2c0f1-0577-42e5-9660-a2bec73747e9",
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
+    "Gauging Blockchain Understanding": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media I am currently consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
@@ -10829,7 +10856,7 @@
     "Godel Escher Bach": "e4cb69d9-1875-4773-b779-01beb1961861",
     "God Emperor of Dune": "931c7ed5-c535-4802-b3f5-4b9fb50d8505",
     "Germs Guns and Steal": "029be31b-1a9b-44da-9980-c89657255812",
-    "Friends": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10",
+    "Friends - Show": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10",
     "Freedom from The Known": "1ed209ba-3e14-4850-9ca0-4dea6b4001f8",
     "Finite and Infinite Games: A Vision of Life as Play and Possibility": "c8f15232-dddf-4356-98a1-3d4c3ee0f651",
     "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking": "5eabb4fb-9967-41e2-af19-cb812e1d9453",
@@ -10976,6 +11003,7 @@
     "36 Questions To Fall In Love": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Cosmic Sociology": "2781f257-2980-4661-bc02-635e6cc59112",
     "20 Axioms of Sociology": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "Edgy Blockchain Problems": "209d819c-37d7-499a-83de-845fd67f0345",
     "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
     "List of Catechisms": "cbe6af2b-2be1-40d5-95f9-08caa4869913"
   },
@@ -10985,40 +11013,25 @@
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b",
       "title": "index"
     },
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7": {
-      "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+    "9dfba51c-8092-411d-859b-9acf356ec385": {
+      "uuid": "9dfba51c-8092-411d-859b-9acf356ec385",
       "share": true,
-      "title": "What are some bulk file renaming tools?"
+      "title": "The 4 Step plan for Question Engine"
+    },
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": {
+      "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+      "share": true,
+      "title": "Questions to Answer in General Report to Compare Discord Guilds"
+    },
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876": {
+      "uuid": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
+      "share": true,
+      "title": "Project Update Posts"
     },
     "5a11269f-4323-4052-b079-c996cbde21f1": {
       "uuid": "5a11269f-4323-4052-b079-c996cbde21f1",
       "share": true,
       "title": "Mindfulness Prompts and Exercises"
-    },
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": {
-      "uuid": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
-      "share": true,
-      "title": "Learn to Code Questions"
-    },
-    "f4753c78-856b-4dcb-813e-4be6a80db023": {
-      "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023",
-      "share": true,
-      "title": "How to visualize represent storage on a computer drive?"
-    },
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135": {
-      "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
-      "share": true,
-      "title": "How to order folders by most files in each folder?"
-    },
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": {
-      "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
-      "share": true,
-      "title": "How to list total number of files in directory recursively?"
-    },
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": {
-      "uuid": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
-      "share": true,
-      "title": "How to find copies of the same file and images within a directory?"
     },
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": {
       "share": true,
@@ -11043,12 +11056,17 @@
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": {
       "share": true,
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-      "title": "Dentropy's Blog Posts and Videos"
+      "title": "Dentropy's Blog Posts"
+    },
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": {
+      "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
+      "share": true,
+      "title": "Catechism - Discord Auditing, DAO use Case V0"
     },
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": {
       "uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
       "share": true,
-      "title": "Catechism - Discord Auditing, DAO Use case"
+      "title": "Catechism - Discord Auditing, DAO Use case V0"
     },
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": {
       "share": true,
@@ -15335,11 +15353,6 @@
       "uuid": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
       "title": "SQL"
     },
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d": {
-      "uuid": "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d",
-      "share": true,
-      "title": "Rust Keylogger"
-    },
     "222e4d30-8747-4ed5-b00b-95a376eaef28": {
       "share": true,
       "uuid": "222e4d30-8747-4ed5-b00b-95a376eaef28",
@@ -16088,7 +16101,7 @@
     "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": {
       "share": true,
       "uuid": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
-      "title": "Hamilton"
+      "title": "Hamilton - Software"
     },
     "272babbb-b019-4290-941a-01ae25d07fe1": {
       "share": true,
@@ -16319,11 +16332,6 @@
       "uuid": "94394a3f-55e8-4953-8fd1-4288597cbbf3",
       "share": true,
       "title": "DiskerNet"
-    },
-    "e93136a9-a919-4884-83bd-c3bbaeab4953": {
-      "share": true,
-      "uuid": "e93136a9-a919-4884-83bd-c3bbaeab4953",
-      "title": "DiscordChatExporter"
     },
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": {
       "share": true,
@@ -17553,7 +17561,7 @@
     "cc64a399-1cbe-44ee-ab4a-f36343a593ff": {
       "share": true,
       "uuid": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
-      "title": "s3"
+      "title": "S3"
     },
     "eed4dc67-5076-4c0a-b5a3-7464d61176c1": {
       "share": true,
@@ -18740,6 +18748,21 @@
       "share": true,
       "title": "What are the basics of Hoon?"
     },
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7": {
+      "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
+      "share": true,
+      "title": "What are some bulk file renaming tools?"
+    },
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0": {
+      "uuid": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+      "share": true,
+      "title": "Questions for Discord Data?"
+    },
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": {
+      "uuid": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
+      "share": true,
+      "title": "Learn to Code Questions"
+    },
     "637962de-f181-43cc-97a3-682b1ce4f2b3": {
       "uuid": "637962de-f181-43cc-97a3-682b1ce4f2b3",
       "share": true,
@@ -18749,6 +18772,11 @@
       "uuid": "780af269-c8c8-45df-8358-c9b2140c92cf",
       "share": true,
       "title": "How to write Hello World in Hoon and Urbit?"
+    },
+    "f4753c78-856b-4dcb-813e-4be6a80db023": {
+      "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023",
+      "share": true,
+      "title": "How to visualize represent storage on a computer drive?"
     },
     "98338dc9-0611-4650-85af-75b2b67f3207": {
       "uuid": "98338dc9-0611-4650-85af-75b2b67f3207",
@@ -18780,10 +18808,25 @@
       "share": true,
       "title": "How to parse a CSV into Urbit using Hoon?"
     },
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135": {
+      "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
+      "share": true,
+      "title": "How to order folders by most files in each folder?"
+    },
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": {
       "uuid": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
       "share": true,
       "title": "How to make a REST API in hoon so I can use curl on my urbit ship?"
+    },
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": {
+      "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+      "share": true,
+      "title": "How to list total number of files in directory recursively?"
+    },
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": {
+      "uuid": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
+      "share": true,
+      "title": "How to find copies of the same file and images within a directory?"
     },
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": {
       "uuid": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
@@ -19580,6 +19623,14 @@
       "uuid": "3dc8dff3-226e-4315-a126-df63912c5265",
       "title": "Let's Learn Web Scraping"
     },
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": {
+      "uuid": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
+      "share": true,
+      "groups": [
+        "holium"
+      ],
+      "title": "Redefining Human Instrumentality White Paper v0"
+    },
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": {
       "share": true,
       "uuid": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
@@ -19779,11 +19830,6 @@
       "share": true,
       "uuid": "52116bc3-599b-4dd4-961d-21cd3426280d",
       "title": "Email Binding"
-    },
-    "ac73189f-5952-456e-aadc-ef446f938071": {
-      "share": true,
-      "uuid": "ac73189f-5952-456e-aadc-ef446f938071",
-      "title": "Get Discord User Token"
     },
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": {
       "share": true,
@@ -20550,6 +20596,11 @@
       "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6",
       "title": "Logs - Blockchain Royalties"
     },
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": {
+      "uuid": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
+      "share": true,
+      "title": "Gauging Blockchain Understanding"
+    },
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": {
       "share": true,
       "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
@@ -21263,7 +21314,7 @@
     "13283f56-b2e9-4347-a99b-8f4dd0e8ca10": {
       "share": true,
       "uuid": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10",
-      "title": "Friends"
+      "title": "Friends - Show"
     },
     "1ed209ba-3e14-4850-9ca0-4dea6b4001f8": {
       "share": true,
@@ -22000,6 +22051,11 @@
       "uuid": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
       "title": "20 Axioms of Sociology"
     },
+    "209d819c-37d7-499a-83de-845fd67f0345": {
+      "uuid": "209d819c-37d7-499a-83de-845fd67f0345",
+      "share": true,
+      "title": "Edgy Blockchain Problems"
+    },
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": {
       "share": true,
       "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602",
@@ -22013,7 +22069,7 @@
   },
   "images": [
     {
-      "note_uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
+      "note_uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
       "image_links": [
         "AnalysisQueries.svg"
       ]
@@ -22073,26 +22129,17 @@
     "index.md": {
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b"
     },
-    "What are some bulk file renaming tools?.md": {
-      "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7"
+    "The 4 Step plan for Question Engine.md": {
+      "uuid": "9dfba51c-8092-411d-859b-9acf356ec385"
+    },
+    "Questions to Answer in General Report to Compare Discord Guilds.md": {
+      "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
+    },
+    "Project Update Posts.md": {
+      "uuid": "4c45797f-8d43-4277-a5c1-de8df9aa7876"
     },
     "Mindfulness Prompts and Exercises.md": {
       "uuid": "5a11269f-4323-4052-b079-c996cbde21f1"
-    },
-    "Learn to Code Questions.md": {
-      "uuid": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4"
-    },
-    "How to visualize represent storage on a computer drive?.md": {
-      "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023"
-    },
-    "How to order folders by most files in each folder?.md": {
-      "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135"
-    },
-    "How to list total number of files in directory recursively?.md": {
-      "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e"
-    },
-    "How to find copies of the same file and images within a directory?.md": {
-      "uuid": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6"
     },
     "Heuristics.md": {
       "uuid": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"
@@ -22106,10 +22153,13 @@
     "Dentropy's Projects.md": {
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432"
     },
-    "Dentropy's Blog Posts and Videos.md": {
+    "Dentropy's Blog Posts.md": {
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
     },
-    "Catechism - Discord Auditing, DAO Use case.md": {
+    "Catechism - Discord Auditing, DAO use Case V0.0.1.md": {
+      "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
+    },
+    "Catechism - Discord Auditing, DAO Use case V0.0.2.md": {
       "uuid": "ed188fb4-fc23-4352-90f9-34b6fe1718e3"
     },
     "Wiki": {
@@ -24749,9 +24799,6 @@
         "SQL.md": {
           "uuid": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892"
         },
-        "Rust Keylogger.md": {
-          "uuid": "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d"
-        },
         "Rocket Note.md": {
           "uuid": "222e4d30-8747-4ed5-b00b-95a376eaef28"
         },
@@ -25199,7 +25246,7 @@
         "Hardhat.md": {
           "uuid": "b2f5f020-78fc-4abf-9154-ddaf31d89822"
         },
-        "Hamilton.md": {
+        "Hamilton - Software.md": {
           "uuid": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
         },
         "HTML.md": {
@@ -25339,9 +25386,6 @@
         },
         "DiskerNet.md": {
           "uuid": "94394a3f-55e8-4953-8fd1-4288597cbbf3"
-        },
-        "DiscordChatExporter.md": {
-          "uuid": "e93136a9-a919-4884-83bd-c3bbaeab4953"
         },
         "Discord.md": {
           "uuid": "434d4a81-f2cc-4a50-b75c-0c66af4c15b2"
@@ -26181,6 +26225,9 @@
         "aws": {
           "s3.md": {
             "uuid": "cc64a399-1cbe-44ee-ab4a-f36343a593ff"
+          },
+          "S3.md": {
+            "uuid": "cc64a399-1cbe-44ee-ab4a-f36343a593ff"
           }
         },
         "TrueNAS": {
@@ -27007,11 +27054,23 @@
         "What are the basics of Hoon?.md": {
           "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a"
         },
+        "What are some bulk file renaming tools?.md": {
+          "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7"
+        },
+        "Questions for Discord Data?.md": {
+          "uuid": "46abc67b-bbe7-4800-82f5-f08d4c457ef0"
+        },
+        "Learn to Code Questions.md": {
+          "uuid": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4"
+        },
         "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md": {
           "uuid": "637962de-f181-43cc-97a3-682b1ce4f2b3"
         },
         "How to write Hello World in Hoon and Urbit?.md": {
           "uuid": "780af269-c8c8-45df-8358-c9b2140c92cf"
+        },
+        "How to visualize represent storage on a computer drive?.md": {
+          "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023"
         },
         "How to store data in complex data structures, like a list of messages rather than a single value.md": {
           "uuid": "98338dc9-0611-4650-85af-75b2b67f3207"
@@ -27031,8 +27090,17 @@
         "How to parse a CSV into Urbit using Hoon?.md": {
           "uuid": "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9"
         },
+        "How to order folders by most files in each folder?.md": {
+          "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135"
+        },
         "How to make a REST API in hoon so I can use curl on my urbit ship?.md": {
           "uuid": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b"
+        },
+        "How to list total number of files in directory recursively?.md": {
+          "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e"
+        },
+        "How to find copies of the same file and images within a directory?.md": {
+          "uuid": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6"
         },
         "How to edit a file inside a Desk from inside Dojo?.md": {
           "uuid": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef"
@@ -27574,6 +27642,13 @@
           "uuid": "3dc8dff3-226e-4315-a126-df63912c5265"
         }
       },
+      "Holium": {
+        "Holium White Paper": {
+          "Redefining Human Instrumentality White Paper v0.0.2.md": {
+            "uuid": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f"
+          }
+        }
+      },
       "ENS Indexing": {
         "Logs - ENS Indexing.md": {
           "uuid": "3bbb81b1-154a-494f-acdf-781ad8ff35cf"
@@ -27722,9 +27797,6 @@
               }
             },
             "Discord": {
-              "Get Discord User Token.md": {
-                "uuid": "ac73189f-5952-456e-aadc-ef446f938071"
-              },
               "Discord Elasticsearch Queries.md": {
                 "uuid": "755e7c50-f7f1-42d9-a6ac-d147103acd05"
               },
@@ -28237,6 +28309,11 @@
         "Logs - Blockchain Royalties.md": {
           "uuid": "2e191352-0a11-410d-b4a5-50574257b3d6"
         }
+      },
+      "Blockchain Research": {
+        "Gauging Blockchain Understanding.md": {
+          "uuid": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd"
+        }
       }
     },
     "Media": {
@@ -28673,7 +28750,7 @@
         "Germs Guns and Steal.md": {
           "uuid": "029be31b-1a9b-44da-9980-c89657255812"
         },
-        "Friends.md": {
+        "Friends - Show.md": {
           "uuid": "13283f56-b2e9-4347-a99b-8f4dd0e8ca10"
         },
         "Freedom from The Known.md": {
@@ -29175,6 +29252,11 @@
         }
       }
     },
+    "Dents": {
+      "Edgy Blockchain Problems.md": {
+        "uuid": "209d819c-37d7-499a-83de-845fd67f0345"
+      }
+    },
     "Community": {
       "Blockchain Communities.md": {
         "uuid": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
@@ -29187,25 +29269,22 @@
     }
   },
   "embedded_note_links": {
-    "146656b4-573a-4e42-8f00-239ab29eac3b": [],
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7": [],
+    "146656b4-573a-4e42-8f00-239ab29eac3b": [
+      {
+        "text": "Software - Favourite, organized by platform",
+        "heading": ""
+      }
+    ],
+    "9dfba51c-8092-411d-859b-9acf356ec385": [],
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876": [],
     "5a11269f-4323-4052-b079-c996cbde21f1": [],
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [],
-    "f4753c78-856b-4dcb-813e-4be6a80db023": [],
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135": [],
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [],
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "21b9d9f0-fde9-4189-83b6-72102becce04": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
-    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [
-      {
-        "link": "b6611f4f-b019-4676-902e-8ea82840d740",
-        "text": "Videos and Their Scripts",
-        "heading": ""
-      }
-    ],
+    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [],
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [],
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
     "974f7445-a807-4edc-bf61-4155c155ffe5": [],
@@ -30164,7 +30243,6 @@
     "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d": [],
     "3d3db79a-ae22-4620-8516-5cec289c31c3": [],
     "9bf437f1-b997-4df7-9cb5-d1dcb65fb892": [],
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d": [],
     "222e4d30-8747-4ed5-b00b-95a376eaef28": [],
     "6c6425a5-d844-46fd-ba26-8d0fa23ce07a": [],
     "8d315560-b3cb-453a-b8a6-cd0480651340": [],
@@ -30361,7 +30439,6 @@
     "688bca77-2d1a-4d84-bcfe-fe51fd2f04bc": [],
     "180910b7-a777-42fb-9851-0151c82bd3f1": [],
     "94394a3f-55e8-4953-8fd1-4288597cbbf3": [],
-    "e93136a9-a919-4884-83bd-c3bbaeab4953": [],
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": [],
     "e5892695-48a8-4b08-b405-d70790407a4a": [],
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": [],
@@ -30865,15 +30942,32 @@
     "4212d688-8696-4f32-8813-7edab4080e1c": [],
     "d228c0d3-4420-42e8-9932-0aab68e08350": [],
     "d501e972-f005-4aba-a7bf-3404b735c27a": [],
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7": [],
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0": [
+      {
+        "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+        "text": "Questions to Answer in General Report to Compare Discord Guilds",
+        "heading": ""
+      },
+      {
+        "text": "100 Dimensions to Judge Messages",
+        "heading": ""
+      }
+    ],
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [],
     "637962de-f181-43cc-97a3-682b1ce4f2b3": [],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "f4753c78-856b-4dcb-813e-4be6a80db023": [],
     "98338dc9-0611-4650-85af-75b2b67f3207": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": [],
     "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": [],
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": [],
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135": [],
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": [],
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [],
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [],
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": [],
     "05aea709-7be3-46ff-9b15-6cbaba9240ce": [],
     "f6a58666-a1da-4e1e-a32f-47bbcbfa823c": [],
@@ -31207,7 +31301,12 @@
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [],
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [],
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
+      {
+        "text": "Discord ETL.svg",
+        "heading": ""
+      }
+    ],
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": [],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [],
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": [],
@@ -31241,6 +31340,7 @@
     "5b7b6673-14a6-4823-a5c8-44439156f2ad": [],
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": [],
     "3dc8dff3-226e-4315-a126-df63912c5265": [],
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": [],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [],
     "28740a43-67c5-4930-8b5c-41c06e659c6a": [],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
@@ -31281,7 +31381,6 @@
     "04934aa0-9a0c-40d2-a207-4b8ddc6128c7": [],
     "3f2b1b8f-6760-42c4-b752-b80f5ae60057": [],
     "52116bc3-599b-4dd4-961d-21cd3426280d": [],
-    "ac73189f-5952-456e-aadc-ef446f938071": [],
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": [],
     "16cc922f-56ea-422e-95be-72f5f55e4111": [],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [],
@@ -31445,6 +31544,7 @@
     "0ee9b116-204d-4f4e-a7c7-cd2dca56c95f": [],
     "10c2c0f1-0577-42e5-9660-a2bec73747e9": [],
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
@@ -31744,6 +31844,7 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": [],
     "2781f257-2980-4661-bc02-635e6cc59112": [],
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": [],
+    "209d819c-37d7-499a-83de-845fd67f0345": [],
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
     "cbe6af2b-2be1-40d5-95f9-08caa4869913": []
   },
@@ -31751,11 +31852,15 @@
     "146656b4-573a-4e42-8f00-239ab29eac3b": [
       {
         "link": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-        "text": "Dentropy's Blog Posts and Videos"
+        "text": "Dentropy's Blog Posts"
       },
       {
-        "link": "10708552-def9-4391-9126-8a4f53cb5e00",
-        "text": "Learning Pathways"
+        "link": "b6611f4f-b019-4676-902e-8ea82840d740",
+        "text": "Videos and Their Scripts"
+      },
+      {
+        "link": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
+        "text": "Project Update Posts"
       },
       {
         "link": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -31766,20 +31871,23 @@
         "text": "dentropys-obsidian-publisher"
       },
       {
+        "link": "28740a43-67c5-4930-8b5c-41c06e659c6a",
+        "text": "ENS Indexing"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "DAO Auditing via Discord"
+      },
+      {
         "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
         "text": "Keybase Binding"
       },
       {
-        "link": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
-        "text": "Dentropy Daemon - Home"
+        "link": "10708552-def9-4391-9126-8a4f53cb5e00",
+        "text": "Learning Pathways"
       },
       {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
-      },
-      {
-        "link": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
-        "text": "DentropyCloud - dc"
+        "text": "Question Engine on DDaemon"
       },
       {
         "text": "Answered Questions"
@@ -31791,150 +31899,75 @@
       {
         "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
         "text": "Media I am currently consuming"
-      },
-      {
-        "link": "810020e2-c875-440a-b0c3-2a48333da314",
-        "text": "Favorite Browser Extensions"
-      },
-      {
-        "link": "59a298a0-ccc3-4027-8d22-1df8c7b58b43",
-        "text": "Favourite VSCode Extensions"
-      },
-      {
-        "link": "275484f1-3b27-4128-93bb-a12846eb3a02",
-        "text": "Favourite Obsidian Plugins"
-      },
-      {
-        "link": "21b9d9f0-fde9-4189-83b6-72102becce04",
-        "text": "Favourite Homelab Software"
-      },
-      {
-        "link": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
-        "text": "Favourite Apps"
-      },
-      {
-        "link": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
-        "text": "Dentropy's Ideal DevSecOps Stack"
       }
     ],
-    "e9a110df-b751-4795-84d6-2ce0893d3fe7": [
+    "9dfba51c-8092-411d-859b-9acf356ec385": [
       {
-        "link": "5a82c311-3cf0-425c-8122-1b2c53ab155f",
-        "text": "Szyszka"
+        "text": "cohesive concept of being an illusion."
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "DAO Auditing via Discord"
+      },
+      {
+        "link": "053d3ec8-825f-40bd-b187-926273159b09",
+        "text": "Raindropio"
+      },
+      {
+        "text": "The 4 Step plan for Question Engine - Brainstorming"
+      }
+    ],
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [
+      {
+        "text": "Order discord Guild's by the oldest message?"
+      },
+      {
+        "text": "What discord guilds have the most messages?"
+      },
+      {
+        "text": "What discord guild's have the most Users?"
+      },
+      {
+        "text": "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?"
+      },
+      {
+        "text": "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?"
+      },
+      {
+        "text": "What is the most, and second most, active month for each Discord Guild?"
+      },
+      {
+        "text": "What is the activity of each month for each guild normalised on a single graph?"
+      },
+      {
+        "text": "What is the name of the most active channel in each discord guild?"
+      },
+      {
+        "text": "What is the most active channel in a discord guild?"
+      },
+      {
+        "text": "When was the most active month for the most active channel in each discord guild?"
+      },
+      {
+        "text": "On average how many message in Discord Guild per Day, Month, Year for top 12 Months?"
+      },
+      {
+        "text": "What is the average half life of top 10% active users?"
+      }
+    ],
+    "4c45797f-8d43-4277-a5c1-de8df9aa7876": [
+      {
+        "link": "9dfba51c-8092-411d-859b-9acf356ec385",
+        "text": "The 4 Step plan for Question Engine"
+      },
+      {
+        "text": "ETL to Question Engine, Day 1"
+      },
+      {
+        "text": "Best documents that Articulate how I think?"
       }
     ],
     "5a11269f-4323-4052-b079-c996cbde21f1": [],
-    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [
-      {
-        "text": "Why do you want to learn to code?"
-      },
-      {
-        "text": "What are your favorite pieces of software?"
-      },
-      {
-        "text": "How many programming languages can you name?"
-      },
-      {
-        "text": "What are each of those programming languages used for?"
-      },
-      {
-        "text": "What are android apps written in?"
-      },
-      {
-        "text": "What are iPhone apps written in?"
-      },
-      {
-        "text": "What programming languages are your favorite applications written in?"
-      },
-      {
-        "text": "Why do different programming languages exist?"
-      },
-      {
-        "text": "What is Unix?"
-      },
-      {
-        "text": "What is Linux?"
-      },
-      {
-        "text": "Why is Unix important?"
-      },
-      {
-        "text": "What programming language is Unix and Linux written in?"
-      },
-      {
-        "text": "What are the different categories of software?"
-      },
-      {
-        "text": "What are the pros and cons of each programming language you know about?"
-      },
-      {
-        "text": "Can you name me a legendary programer from history?"
-      },
-      {
-        "text": "What programming language did this legendary programer write in?"
-      },
-      {
-        "text": "What kind of software do you want to write?"
-      },
-      {
-        "text": "What is the difference between a Markup Language and a Programming Language?"
-      },
-      {
-        "text": "What is a REPL?"
-      },
-      {
-        "text": "What is the difference between a compiled and interpreted language?"
-      },
-      {
-        "text": "Why is using the terminal important?"
-      },
-      {
-        "text": "Can you name 5 terminal commands off the top of your head?"
-      },
-      {
-        "text": "What is Functional Programming?"
-      },
-      {
-        "text": "Can you name programming languages are mostly or completely functional?"
-      },
-      {
-        "text": "What is Object Oriented programming?"
-      },
-      {
-        "text": "Can you name programming languages are object oriented?"
-      },
-      {
-        "link": "130694a5-2d87-49f7-bb8b-123bf5c320a4",
-        "text": "Learn to Code"
-      }
-    ],
-    "f4753c78-856b-4dcb-813e-4be6a80db023": [
-      {
-        "link": "f56d9b82-f0b2-471c-ad70-4bbf5889dd2a",
-        "text": "WinDirStat"
-      },
-      {
-        "text": "Disk Usage Analyzer"
-      }
-    ],
-    "dcf1ad67-afbc-4444-b037-a6d3c4938135": [
-      {
-        "link": "1906d8cc-9479-4e96-995e-0b852f31ee83",
-        "text": "bash"
-      }
-    ],
-    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [
-      {
-        "link": "1906d8cc-9479-4e96-995e-0b852f31ee83",
-        "text": "bash"
-      }
-    ],
-    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [
-      {
-        "link": "080fac3a-0f70-4f57-bce6-129eb4d0efba",
-        "text": "Czkawka"
-      }
-    ],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "21b9d9f0-fde9-4189-83b6-72102becce04": [
       {
@@ -32088,6 +32121,9 @@
     ],
     "e76c8ac9-69f3-477f-8015-556e83738432": [
       {
+        "text": "Dentropy's Projects Blog"
+      },
+      {
         "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
         "text": "Question Engine - QE"
       },
@@ -32223,76 +32259,9 @@
       },
       {
         "text": "Privacy Should You Care?"
-      },
-      {
-        "link": "73a2d93a-f914-4a88-8214-cef0bc3cac1f",
-        "text": "dentLog 001"
-      },
-      {
-        "link": "45313467-a885-44f2-b949-93151a303e79",
-        "text": "dentLog 002 The Mind Body Problem"
-      },
-      {
-        "link": "9942049a-ce85-4b5d-b34f-ead6968a85b4",
-        "text": "dentLog 003 Mapmakers"
-      },
-      {
-        "link": "1350fbf6-f856-44af-b666-d6aeea5a76a6",
-        "text": "dentLog 004 Personas"
-      },
-      {
-        "link": "2ea40a20-2019-47c0-93e6-0a81f90db28a",
-        "text": "dentLog 005 Routers, Agency, and Performing Human"
-      },
-      {
-        "link": "b6791906-cb7c-4d41-83a0-0871922a755d",
-        "text": "dentLog 006 What makes us Human"
-      },
-      {
-        "link": "18f2905d-b67e-40ce-885a-9e52699274c4",
-        "text": "dentLog 007 Setting into the Territory"
-      },
-      {
-        "link": "f1eb3c79-bba7-4ed4-8278-e59a1456ccc1",
-        "text": "dentLog 008 The Act of Reflection"
-      },
-      {
-        "link": "e9b02796-1d2b-472f-a193-8d601efa8dd0",
-        "text": "dentLog 009 Waking Up From Denial"
-      },
-      {
-        "link": "951d0492-fa42-4e22-bc85-e5c992bd086b",
-        "text": "dentLog 010 Provokation verses Truth"
-      },
-      {
-        "link": "13c2bcdf-fa05-487a-9cf5-9712869a2f72",
-        "text": "dentLog 011 Reality The Role Playing Game"
-      },
-      {
-        "link": "6e316011-2b72-4723-8841-9a29d8f20ca0",
-        "text": "dentLog 012 Thinking Out Loud"
-      },
-      {
-        "link": "9b36ec68-7ab1-4427-acd3-e327fcf4e438",
-        "text": "dentLog 013 Engineering a Persona"
-      },
-      {
-        "text": "dentLog 014 Vicariously Reflecting Under Pressure"
-      },
-      {
-        "text": "dentLog 015 Applying the Golden Rule"
-      },
-      {
-        "text": "dentLog 016 Frustration with my own existential crisis"
-      },
-      {
-        "text": "dentLog 017 Sapience and Religion"
-      },
-      {
-        "text": "dentLog 018 Religions enforce Action"
       }
     ],
-    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [
+    "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [
       {
         "text": "What interactions am I personally looking for on Discord"
       },
@@ -32311,6 +32280,15 @@
       {
         "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
         "text": "Analysis Queries"
+      }
+    ],
+    "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data?"
+      },
+      {
+        "text": "100 Dimensions to Judge Messages"
       }
     ],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
@@ -34418,6 +34396,24 @@
     ],
     "31f7e81a-967e-41f4-872e-91d1571df726": [
       {
+        "link": "253c9f0b-fdaf-41e4-ae0b-584e2bc15cee",
+        "text": "RClone"
+      },
+      {
+        "link": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+        "text": "S3"
+      },
+      {
+        "text": "S3 Backup of Discord Data"
+      },
+      {
+        "link": "92aa8e61-712a-414d-95c1-7b9ff98c2f98",
+        "text": "Umbrel - Backup and Restore"
+      },
+      {
+        "text": "How to setup a custom GraphQL Backend?"
+      },
+      {
         "link": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
         "text": "Encrypted Git Backup"
       },
@@ -34960,10 +34956,6 @@
         "text": "sshuttle"
       },
       {
-        "link": "c289ac73-367b-44ca-9327-3178fd5fede5",
-        "text": "Nebula"
-      },
-      {
         "link": "f3ba6bff-ad26-4243-9950-9249d9426446",
         "text": "Netmaker"
       },
@@ -35264,6 +35256,10 @@
     ],
     "caa847b1-c096-4fa0-9df4-0a5fd9839e34": [],
     "1a1ccc57-1ba3-4ba7-8db9-9eb945b88d85": [
+      {
+        "link": "80428ac9-197a-4c70-9230-119cf9079782",
+        "text": "Python"
+      },
       {
         "text": "dentropydaemon-wiki/Software/Programming Language/python"
       },
@@ -35954,15 +35950,6 @@
     "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d": [],
     "3d3db79a-ae22-4620-8516-5cec289c31c3": [],
     "9bf437f1-b997-4df7-9cb5-d1dcb65fb892": [],
-    "6910b8b3-85dc-4c4f-bd8f-59cb3cc6d92d": [
-      {
-        "link": "23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c",
-        "text": "Keylogger Binding"
-      },
-      {
-        "text": "keylogger research"
-      }
-    ],
     "222e4d30-8747-4ed5-b00b-95a376eaef28": [],
     "6c6425a5-d844-46fd-ba26-8d0fa23ce07a": [
       {
@@ -36831,7 +36818,6 @@
       }
     ],
     "94394a3f-55e8-4953-8fd1-4288597cbbf3": [],
-    "e93136a9-a919-4884-83bd-c3bbaeab4953": [],
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": [
       {
         "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
@@ -38676,7 +38662,11 @@
     "1b1b313e-4530-432c-9aff-bbfce704e774": [],
     "2d85b02f-6d12-43a7-88f3-133aac4a3968": [],
     "7714fdb9-f89e-4e30-bd72-a40d9593356d": [],
-    "c0925b56-bd76-43a5-ae0e-861293576524": [],
+    "c0925b56-bd76-43a5-ae0e-861293576524": [
+      {
+        "text": "What Vector Database software do I want to try out?"
+      }
+    ],
     "ba705a2b-cd36-41c4-afaa-4668998f17e5": [
       {
         "text": "dentropydaemon-wiki/Software/Catagories/Database/SQL/SQL Examples"
@@ -38934,6 +38924,9 @@
       },
       {
         "text": "Backend Skills"
+      },
+      {
+        "text": "Blockchain Skills"
       },
       {
         "link": "29d7fc31-bf16-4efb-90b2-58dae5c546e3",
@@ -39204,12 +39197,18 @@
         "text": "How to recursively list files in directory and output to file?"
       },
       {
+        "text": "How to get size of each folder in current directory?"
+      },
+      {
         "link": "f4753c78-856b-4dcb-813e-4be6a80db023",
         "text": "How to visualize represent storage on a computer drive?"
       },
       {
         "link": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
         "text": "How to find copies of the same file and images within a directory?"
+      },
+      {
+        "text": "How to move or copy all specific file types from one folder, recursively, and copy somewhere else?"
       },
       {
         "link": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
@@ -39248,6 +39247,9 @@
       },
       {
         "text": "How to CD into first file from LS command?"
+      },
+      {
+        "text": "Spacedrive"
       }
     ],
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": [
@@ -39432,15 +39434,216 @@
         "text": "How do Variables work in Hoon?"
       }
     ],
+    "e9a110df-b751-4795-84d6-2ce0893d3fe7": [
+      {
+        "link": "5a82c311-3cf0-425c-8122-1b2c53ab155f",
+        "text": "Szyszka"
+      }
+    ],
+    "46abc67b-bbe7-4800-82f5-f08d4c457ef0": [
+      {
+        "text": "Testing Discord Data - Private"
+      },
+      {
+        "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+        "text": "Questions to Answer in General Report to Compare Discord Guilds"
+      },
+      {
+        "text": "Discord Guild Specific Report"
+      },
+      {
+        "text": "Who are the most active Users within a Discord Guild?"
+      },
+      {
+        "text": "What is the heatmap of the most active months github activity style?"
+      },
+      {
+        "text": "How many Scraped Discord Guild?"
+      },
+      {
+        "text": "How many Scraped Discord Channels?"
+      },
+      {
+        "text": "How many Scraped Authors from Discord?"
+      },
+      {
+        "text": "How many total messages Scraped from Discord?"
+      },
+      {
+        "text": "How many channels in each discord guild?"
+      },
+      {
+        "text": "How much activity on Discord Guild per day?"
+      },
+      {
+        "text": "How many messages per day are in the database from Discord?"
+      },
+      {
+        "text": "What discord channels have the most messages?"
+      },
+      {
+        "text": "What are the sum of messages in each discord guild?"
+      },
+      {
+        "text": "How many messages per channel in a particular discord guild?"
+      },
+      {
+        "text": "How many authors posted in each particular channel of a particular discord guild?"
+      },
+      {
+        "text": "How many times did a particular author post a particular discord guild?"
+      },
+      {
+        "text": "How many messages per channel in Discord Guild?"
+      },
+      {
+        "text": "Order discord Guild's by the oldest message?"
+      },
+      {
+        "text": "What are the discord guilds I have listed?"
+      },
+      {
+        "text": "What are the channels of a particular discord server?"
+      },
+      {
+        "text": "What channels belong to a Discord Guild?"
+      },
+      {
+        "text": "What discord guilds have the earliest messages?"
+      },
+      {
+        "text": "What month was X discord guild the most active?"
+      },
+      {
+        "text": "Which discord channel was most active for a specific week?"
+      },
+      {
+        "text": "Do we need to link discord GuildID to discord MessageID directly?"
+      },
+      {
+        "text": "Should we load the sqlite database in memory then dump to disk when initally indexing the Discord data?"
+      }
+    ],
+    "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [
+      {
+        "text": "Why do you want to learn to code?"
+      },
+      {
+        "text": "What are your favorite pieces of software?"
+      },
+      {
+        "text": "How many programming languages can you name?"
+      },
+      {
+        "text": "What are each of those programming languages used for?"
+      },
+      {
+        "text": "What are android apps written in?"
+      },
+      {
+        "text": "What are iPhone apps written in?"
+      },
+      {
+        "text": "What programming languages are your favorite applications written in?"
+      },
+      {
+        "text": "Why do different programming languages exist?"
+      },
+      {
+        "text": "What is Unix?"
+      },
+      {
+        "text": "What is Linux?"
+      },
+      {
+        "text": "Why is Unix important?"
+      },
+      {
+        "text": "What programming language is Unix and Linux written in?"
+      },
+      {
+        "text": "What are the different categories of software?"
+      },
+      {
+        "text": "What are the pros and cons of each programming language you know about?"
+      },
+      {
+        "text": "Can you name me a legendary programer from history?"
+      },
+      {
+        "text": "What programming language did this legendary programer write in?"
+      },
+      {
+        "text": "What kind of software do you want to write?"
+      },
+      {
+        "text": "What is the difference between a Markup Language and a Programming Language?"
+      },
+      {
+        "text": "What is a REPL?"
+      },
+      {
+        "text": "What is the difference between a compiled and interpreted language?"
+      },
+      {
+        "text": "Why is using the terminal important?"
+      },
+      {
+        "text": "Can you name 5 terminal commands off the top of your head?"
+      },
+      {
+        "text": "What is Functional Programming?"
+      },
+      {
+        "text": "Can you name programming languages are mostly or completely functional?"
+      },
+      {
+        "text": "What is Object Oriented programming?"
+      },
+      {
+        "text": "Can you name programming languages are object oriented?"
+      },
+      {
+        "link": "130694a5-2d87-49f7-bb8b-123bf5c320a4",
+        "text": "Learn to Code"
+      }
+    ],
     "637962de-f181-43cc-97a3-682b1ce4f2b3": [],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "f4753c78-856b-4dcb-813e-4be6a80db023": [
+      {
+        "link": "f56d9b82-f0b2-471c-ad70-4bbf5889dd2a",
+        "text": "WinDirStat"
+      },
+      {
+        "text": "Disk Usage Analyzer"
+      }
+    ],
     "98338dc9-0611-4650-85af-75b2b67f3207": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": [],
     "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": [],
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": [],
+    "dcf1ad67-afbc-4444-b037-a6d3c4938135": [
+      {
+        "link": "1906d8cc-9479-4e96-995e-0b852f31ee83",
+        "text": "bash"
+      }
+    ],
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": [],
+    "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [
+      {
+        "link": "1906d8cc-9479-4e96-995e-0b852f31ee83",
+        "text": "bash"
+      }
+    ],
+    "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [
+      {
+        "link": "080fac3a-0f70-4f57-bce6-129eb4d0efba",
+        "text": "Czkawka"
+      }
+    ],
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": [],
     "05aea709-7be3-46ff-9b15-6cbaba9240ce": [],
     "f6a58666-a1da-4e1e-a32f-47bbcbfa823c": [],
@@ -40022,13 +40225,8 @@
         "text": "DrunkPlato"
       },
       {
-        "text": "The Memological Net - A proposal on the flow of resources through the meme market (Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics|[Details in comments - X-Post from r/MemeMechanics) : MemeEconomy"
-      },
-      {
-        "text": "Invite-Only Apps (Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies|[Clubhouse, Dispo, and Their Strategies) — Reese Hopper"
-      },
-      {
-        "text": "dentropydaemon-wiki/Media/List/The Creature from Jekyll Island A Second Look at the Federal Reserve"
+        "link": "73aa11ae-47f8-49ce-af02-bd0e601d145a",
+        "text": "The Creature from Jekyll Island A Second Look at the Federal Reserve"
       },
       {
         "text": "dentropydaemon-wiki/Wiki/Research/DAOs/List of DAOs/Proof of Humanity"
@@ -41018,30 +41216,81 @@
     ],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
-        "link": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
-        "text": "Catechism - Discord Auditing, DAO Use case"
+        "text": "Catechism - Discord Auditing, DAO Use case V0.0.2"
+      },
+      {
+        "text": "Catechism - Discord Auditing, DAO use Case V0.0.1"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data?"
       },
       {
         "link": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
         "text": "DAO Auditing via Discord - Queries"
       },
       {
+        "text": "DAO Auditing via Discord - Raw Queries"
+      },
+      {
         "text": "DAO Auditing via Discord Logs - Private"
       },
       {
-        "text": "DAO Auditing via Discord - Brainstorming + Private Notes"
+        "text": "DAO Auditing via Discord - Brainstorming - Private"
       },
       {
-        "text": "Load SQLite databases into Postgres"
+        "text": "Discord Scraping Logs - Private"
       },
       {
-        "text": "What conversations do I want to have?"
+        "link": "7e381790-c582-4f58-9350-ef2e51efa9cf",
+        "text": "ETL"
       },
       {
-        "text": "What interactions am I personally looking for on Discord"
+        "text": "DiscordChatExporter"
       },
       {
-        "text": "How to setup a custom GraphQL Backend?"
+        "text": "Where to find Discord Guilds to Join?"
+      },
+      {
+        "text": "How to get Discord User Token?"
+      },
+      {
+        "text": "How to scrape a Single Discord Guild?"
+      },
+      {
+        "text": "How to scrape a data from a Single Discord Account using DiscordChatExporter?"
+      },
+      {
+        "text": "What do I do about those RClone Errors from copying Discord Data to S3?"
+      },
+      {
+        "text": "Where is all my Discord Data?"
+      },
+      {
+        "text": "S3 Backup of Discord Data"
+      },
+      {
+        "text": "How does the discord data need to be transformed?"
+      },
+      {
+        "text": "What is the Heilmeir Catechism for your DAO?"
+      },
+      {
+        "text": "Discord Binding Fix Roles Bug"
+      },
+      {
+        "text": "Document Discord Scraping Procedure for DAO Auditing via Discord"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data?"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data?"
+      },
+      {
+        "text": "qstudio"
       },
       {
         "text": "Discord Scraping"
@@ -41050,13 +41299,19 @@
         "text": "Discord Scraping Data Migration, Proper SQL Tables not just JSON"
       },
       {
+        "text": "Add Constraints for  Authors_t Attachments_t and Roles_t for DAO Auditing via Discord project"
+      },
+      {
+        "text": "How do we query the roles from the raw metadata JSON inside the discord guild SQLIte database?"
+      },
+      {
         "text": "How to copy specific tables from sqlite to postgres?"
       },
       {
         "text": "How to dump from SQLite to Postgres?"
       },
       {
-        "text": "How to dump from Postgre to SQLite?"
+        "text": "How to dump from Postgres to SQLite?"
       },
       {
         "text": "How to dump Postgres to CSV?"
@@ -41065,7 +41320,16 @@
         "text": "How to dump SQLite to CSV?"
       },
       {
-        "text": "GemFinders"
+        "text": "Business Intelligence Dashboard Tools"
+      },
+      {
+        "text": "How do these DAO tokens flow around?"
+      },
+      {
+        "text": "What conversations do I want to have?"
+      },
+      {
+        "text": "What interactions am I personally looking for on Discord?"
       },
       {
         "text": "Who am I looking for?"
@@ -41548,6 +41812,25 @@
       },
       {
         "text": "dentropydaemon-wiki/Media/List/Fandom.com"
+      }
+    ],
+    "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": [
+      {
+        "text": "What are we to do with our lives?"
+      },
+      {
+        "link": "a532d417-d6c1-4af0-a2cf-3b33ee4f9a67",
+        "text": "\"The Open Conspiracy: Blue Prints for a World Revolution\""
+      },
+      {
+        "link": "d1b154d8-010c-4266-b18f-064092dc272b",
+        "text": "Fake Internet Theory"
+      },
+      {
+        "text": "Sword Art Online"
+      },
+      {
+        "text": "Appcoins"
       }
     ],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [
@@ -42108,7 +42391,6 @@
     ],
     "3f2b1b8f-6760-42c4-b752-b80f5ae60057": [],
     "52116bc3-599b-4dd4-961d-21cd3426280d": [],
-    "ac73189f-5952-456e-aadc-ef446f938071": [],
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": [
       {
         "text": "Discord Schema"
@@ -42122,44 +42404,28 @@
     ],
     "16cc922f-56ea-422e-95be-72f5f55e4111": [
       {
-        "text": "Discord Binding Logs"
+        "text": "Discord Binding Logs - private"
       },
       {
-        "text": "Discord Binding Logs"
+        "text": "Discord Software"
       },
       {
-        "text": "Discord Binding Research"
+        "text": "Discord Binding Archive"
       },
       {
-        "link": "ac73189f-5952-456e-aadc-ef446f938071",
-        "text": "Get Discord User Token"
-      },
-      {
-        "link": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
-        "text": "Discord Elasticsearch Queries"
+        "text": "How to get Discord User Token?"
       },
       {
         "text": "Discord Datapipeline"
-      },
-      {
-        "link": "ce890113-147e-4515-8d16-b9e0abf81cd2",
-        "text": "Discord Binding V1"
-      },
-      {
-        "link": "36bce7d0-c306-4903-873f-73fb60199312",
-        "text": "Discord Binding V1 Schema"
       },
       {
         "text": "Discord Bot"
       },
       {
-        "text": "Discord Bots"
+        "text": "Discord Schema"
       },
       {
         "text": "Discord Datapipeline"
-      },
-      {
-        "text": "Discord Schema"
       }
     ],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [
@@ -43913,6 +44179,11 @@
         "text": "2022-11-29"
       }
     ],
+    "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": [
+      {
+        "text": "swarmio.Swarmio Research.Technical Blockchain Research.Possible Scaling Solutions"
+      }
+    ],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [
       {
         "text": "[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)"
@@ -45404,6 +45675,7 @@
         "text": "wiki.concepts.list.humor"
       }
     ],
+    "209d819c-37d7-499a-83de-845fd67f0345": [],
     "ebbd0aff-9a73-4922-bc91-a7d5ada3d602": [],
     "cbe6af2b-2be1-40d5-95f9-08caa4869913": [
       {
@@ -45413,8 +45685,7 @@
         "text": "Catechism - Personal Data Archive"
       },
       {
-        "link": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
-        "text": "Catechism - Discord Auditing, DAO Use case"
+        "text": "Catechism - Discord Auditing, DAO Use case V0.0.2"
       },
       {
         "text": "Catechism - Discord Auditing Backend"
@@ -45469,6 +45740,10 @@
       },
       {
         "text": "Passport Signature Chain Heilmeier Catechism"
+      },
+      {
+        "link": "edc84150-2be7-4533-8a4b-768eeff624af",
+        "text": "Heilmeier Catechism"
       }
     ]
   }

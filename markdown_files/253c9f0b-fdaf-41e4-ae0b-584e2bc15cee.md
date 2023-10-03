@@ -3,7 +3,7 @@ share: true
 uuid: 253c9f0b-fdaf-41e4-ae0b-584e2bc15cee
 title: RClone
 ---
-## Install RCLONE
+## Install RClone
 ``` bash
 
 sudo -v ; curl https://rclone.org/install.sh | sudo bash
@@ -15,6 +15,14 @@ sudo -v ; curl https://rclone.org/install.sh | sudo bash
 ``` bash
 
 rclone config
+
+```
+
+## Where RClone Config Files
+
+``` bash
+
+rclone config file
 
 ```
 
