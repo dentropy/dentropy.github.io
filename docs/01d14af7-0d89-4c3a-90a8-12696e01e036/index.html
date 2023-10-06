@@ -58,6 +58,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#failure-to-use-rclone-with-vultrs3" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -8927,20 +8932,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../314a79d7-8c7a-4b68-9f5d-eb161de21e8a" class="md-nav__link">
-        postgraphile
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../7682ea4e-d2d9-4e14-a8e1-6917c8aeed56" class="md-nav__link">
         pngcrush
       </a>
@@ -12273,6 +12264,20 @@
   
   
     <li class="md-nav__item">
+      <a href="../314a79d7-8c7a-4b68-9f5d-eb161de21e8a" class="md-nav__link">
+        PostGraphile
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb" class="md-nav__link">
         Portainer
       </a>
@@ -14010,7 +14015,7 @@
   
     <li class="md-nav__item">
       <a href="../a83ae1cd-71ba-4fe6-846f-2c169a802b9a" class="md-nav__link">
-        Hamilton - Software
+        Hamilton DAG
       </a>
     </li>
   
@@ -42380,7 +42385,7 @@
   
     <li class="md-nav__item">
       <a href="../3fb84a3c-742b-423a-a881-d5b46fd82a28" class="md-nav__link">
-        What percentage of days actually have messages since earlier message in a discord guild?
+        What percentage of days actually have messages?
       </a>
     </li>
   
@@ -42409,20 +42414,6 @@
     <li class="md-nav__item">
       <a href="../27802970-c6dc-462e-8210-216bb1eb6a36" class="md-nav__link">
         What is the name of the most active channel in each discord guild?
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../edb39918-b02f-4ee7-b2b2-d902c8370412" class="md-nav__link">
-        What is the most, and second most, active month for each Discord Guild?
       </a>
     </li>
   
@@ -42464,7 +42455,21 @@
   
     <li class="md-nav__item">
       <a href="../4f6a01a0-6799-43a6-b36a-38edd59d36fc" class="md-nav__link">
-        What is the average half life of top 10% active users?
+        What is the average half life of top 30% active users?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edb39918-b02f-4ee7-b2b2-d902c8370412" class="md-nav__link">
+        What is the activity per month of each discord guild measured in messages per month?
       </a>
     </li>
   
@@ -45075,6 +45080,36 @@
   
   
     <li class="md-nav__item">
+      <a href="../d59dbed7-08bd-462e-8f87-24a80c791f46" class="md-nav__link">
+        ETL to Question Engine, Day 4
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a4afe3e7-e3ae-44ae-a1dc-e22754900e37" class="md-nav__link">
+        ETL to Question Engine, Day 3
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
       <a href="." class="md-nav__link">
         ETL to Question Engine, Day 2
       </a>
@@ -45190,6 +45225,49 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#failure-to-use-rclone-with-vultrs3" class="md-nav__link">
+    Failure to use RClone with VultrS3
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#postgraphile-is-not-my-friend" class="md-nav__link">
+    PostGraphile is not my friend
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#get-all-raw-data-in-one-location-etltoqe" class="md-nav__link">
+    Get all raw data in one location - ETLtoQE
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#decide-on-etl-procedure-and-document-it-etltoqe" class="md-nav__link">
+    Decide on ETL procedure and document it - ETLtoQE
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#publish-the-first-generalised-report-using-a-jupyter-notebook-etltoqe" class="md-nav__link">
+    Publish the first generalised report using a Jupyter notebook - ETLtoQE
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -45206,11 +45284,9 @@
   <h1>ETL to Question Engine, Day 2</h1>
 
 <p>Date: <a href="/undefined">2023-10-03</a></p>
+<h2 id="failure-to-use-rclone-with-vultrs3">Failure to use RClone with VultrS3</h2>
+<p>I scraped more than just Discord Guild messages, I was also able to use <a href="/undefined">DiscordChatExporter</a> to export all the media in each guild. I currently have this data in 3 locations and want to put it in a single one.</p>
 <ul>
-<li>I have realized that GraphQL is not really going to solve my problems <a href="/314a79d7-8c7a-4b68-9f5d-eb161de21e8a">postgraphile</a> just has a cute interface for generating queries, sadly <a href="/17962dab-f88d-4746-b8d7-74dcb179d791">GraphQL</a> can not do all my Queries.<ul>
-<li><a href="/undefined">Should I use GraphQL?</a></li>
-</ul>
-</li>
 <li><a href="/undefined">How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?</a></li>
 <li>I need to setup dedicated infrastructure for this problem<ul>
 <li>I can use my Archive Server running TrueNAS Scale to backup all the raw scraped data and mount the data itself as a network mount, skip use of S3 for now<ul>
@@ -45226,6 +45302,35 @@
 </ul>
 </li>
 <li>I need a TrueNAS Scale Cheatsheet and or Tutorial of my own</li>
+</ul>
+<h2 id="postgraphile-is-not-my-friend"><a href="/314a79d7-8c7a-4b68-9f5d-eb161de21e8a">PostGraphile</a> is not my friend</h2>
+<h2 id="get-all-raw-data-in-one-location-etltoqe"><a href="/undefined">Get all raw data in one location - ETLtoQE</a></h2>
+<ul>
+<li><a href="/undefined">How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?</a></li>
+<li>I need to setup dedicated infrastructure for this problem<ul>
+<li>I can use my Archive Server running TrueNAS Scale to backup all the raw scraped data and mount the data itself as a network mount, skip use of S3 for now<ul>
+<li>Turns out <a href="/1fc6c96f-fcb0-40d9-9b57-0645b09dbc92">TrueNAS Scale</a> has a native <a href="/cc64a399-1cbe-44ee-ab4a-f36343a593ff">S3</a> service</li>
+</ul>
+</li>
+<li>Scraping should write directly to network mount on TrueNAS Scale Server<ul>
+<li><a href="/undefined">Zimaboard</a></li>
+<li><a href="/undefined">Dell Optiplex Micro</a></li>
+</ul>
+</li>
+<li>500Gb SSD for Postgres on <a href="/undefined">Dell Optiplex Micro</a></li>
+</ul>
+</li>
+<li>I need a TrueNAS Scale Cheatsheet and or Tutorial of my own</li>
+</ul>
+<h2 id="decide-on-etl-procedure-and-document-it-etltoqe"><a href="/undefined">Decide on ETL procedure and document it - ETLtoQE</a></h2>
+<ul>
+<li>I have realized that GraphQL is not really going to solve my problems <a href="/314a79d7-8c7a-4b68-9f5d-eb161de21e8a">PostGraphile</a> just has a cute interface for generating queries, sadly <a href="/17962dab-f88d-4746-b8d7-74dcb179d791">GraphQL</a> can not do all my Queries.<ul>
+<li><a href="/undefined">Should I use GraphQL?</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="publish-the-first-generalised-report-using-a-jupyter-notebook-etltoqe"><a href="/undefined">Publish the first generalised report using a Jupyter notebook - ETLtoQE</a></h2>
+<ul>
 <li>Heat maps using calmap</li>
 </ul>
 
