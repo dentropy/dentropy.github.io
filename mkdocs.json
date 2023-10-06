@@ -1235,9 +1235,6 @@
             "promnesia": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8"
           },
           {
-            "postgraphile": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a"
-          },
-          {
             "pngcrush": "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56"
           },
           {
@@ -1952,6 +1949,9 @@
             "Postgres": "5d70cd64-3134-4b62-8879-12f1f8bb4afe"
           },
           {
+            "PostGraphile": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a"
+          },
+          {
             "Portainer": "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb"
           },
           {
@@ -2324,7 +2324,7 @@
             "Hardhat": "b2f5f020-78fc-4abf-9154-ddaf31d89822"
           },
           {
-            "Hamilton - Software": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
+            "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
           },
           {
             "HTML": "272babbb-b019-4290-941a-01ae25d07fe1"
@@ -7186,7 +7186,7 @@
             "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": "fb38895a-faca-42e7-8e40-416fe115a9ee"
           },
           {
-            "What percentage of days actually have messages since earlier message in a discord guild?": "3fb84a3c-742b-423a-a881-d5b46fd82a28"
+            "What percentage of days actually have messages?": "3fb84a3c-742b-423a-a881-d5b46fd82a28"
           },
           {
             "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": "ae8cb99d-65d5-404f-9d83-4572cca17719"
@@ -7195,16 +7195,16 @@
             "What is the name of the most active channel in each discord guild?": "27802970-c6dc-462e-8210-216bb1eb6a36"
           },
           {
-            "What is the most, and second most, active month for each Discord Guild?": "edb39918-b02f-4ee7-b2b2-d902c8370412"
-          },
-          {
             "What is the most active channel in a discord guild?": "45f50e6a-fb81-4f7c-87b6-70785da72633"
           },
           {
             "What is the average message count for most active X days of a Discord Guild?": "9a9414ed-c3bd-433e-bb5b-4732aff405a0"
           },
           {
-            "What is the average half life of top 10% active users?": "4f6a01a0-6799-43a6-b36a-38edd59d36fc"
+            "What is the average half life of top 30% active users?": "4f6a01a0-6799-43a6-b36a-38edd59d36fc"
+          },
+          {
+            "What is the activity per month of each discord guild measured in messages per month?": "edb39918-b02f-4ee7-b2b2-d902c8370412"
           },
           {
             "What is the activity of each month for each guild normalised on a single graph?": "8b9a34f5-a141-47be-ab51-091a0e05339b"
@@ -7656,6 +7656,12 @@
   },
   {
     "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
+  },
+  {
+    "ETL to Question Engine, Day 4": "d59dbed7-08bd-462e-8f87-24a80c791f46"
+  },
+  {
+    "ETL to Question Engine, Day 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
   },
   {
     "ETL to Question Engine, Day 2": "01d14af7-0d89-4c3a-90a8-12696e01e036"

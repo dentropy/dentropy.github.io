@@ -413,7 +413,6 @@ nav:
         - psql: 4409a1a7-de50-4bbb-8a7c-73c57dc3439a
         - protege: 4ac49f4e-a0d5-49da-b619-acc5e1f101ed
         - promnesia: 7b6514de-e3fc-44ce-ae1f-b579a31e13d8
-        - postgraphile: 314a79d7-8c7a-4b68-9f5d-eb161de21e8a
         - pngcrush: 7682ea4e-d2d9-4e14-a8e1-6917c8aeed56
         - pk-mount: c8d03772-e061-441c-a963-081500806129
         - pipenv: e4d41502-ba24-43a6-a303-c00ab94f9d2e
@@ -652,6 +651,7 @@ nav:
         - Project Xanadu: 89447fca-0c32-4106-a532-44eff3b59472
         - Prisma: 8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e
         - Postgres: 5d70cd64-3134-4b62-8879-12f1f8bb4afe
+        - PostGraphile: 314a79d7-8c7a-4b68-9f5d-eb161de21e8a
         - Portainer: 83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb
         - PopOS: 47e387e8-df22-4c35-b257-716073c8d190
         - Polygon: 758764cf-e79b-4365-af51-1ea077bc5cb8
@@ -776,7 +776,7 @@ nav:
         - Hasur: 527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a
         - Haskell: 4961c81a-7d2d-4143-af57-2fa45afc69c7
         - Hardhat: b2f5f020-78fc-4abf-9154-ddaf31d89822
-        - Hamilton - Software: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
+        - Hamilton DAG: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
         - GunDB: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
         - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
@@ -2344,13 +2344,13 @@ nav:
         - "Where is a list of the most popular Urbit apps, also including their source code?": b633ea18-544c-4f74-ae9d-3395c9a78192
         - When was the most active month for the most active channel in each discord guild?: 30d09691-d6bc-462d-b9ae-8534e88e4cf1
         - "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": fb38895a-faca-42e7-8e40-416fe115a9ee
-        - What percentage of days actually have messages since earlier message in a discord guild?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
+        - What percentage of days actually have messages?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
         - "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": ae8cb99d-65d5-404f-9d83-4572cca17719
         - What is the name of the most active channel in each discord guild?: 27802970-c6dc-462e-8210-216bb1eb6a36
-        - "What is the most, and second most, active month for each Discord Guild?": edb39918-b02f-4ee7-b2b2-d902c8370412
         - What is the most active channel in a discord guild?: 45f50e6a-fb81-4f7c-87b6-70785da72633
         - What is the average message count for most active X days of a Discord Guild?: 9a9414ed-c3bd-433e-bb5b-4732aff405a0
-        - What is the average half life of top 10% active users?: 4f6a01a0-6799-43a6-b36a-38edd59d36fc
+        - What is the average half life of top 30% active users?: 4f6a01a0-6799-43a6-b36a-38edd59d36fc
+        - What is the activity per month of each discord guild measured in messages per month?: edb39918-b02f-4ee7-b2b2-d902c8370412
         - What is the activity of each month for each guild normalised on a single graph?: 8b9a34f5-a141-47be-ab51-091a0e05339b
         - What is the Mimetic File System?: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
         - What is cognitive computing?: e0fcec25-9225-4926-bfc3-8318ec40a638
@@ -2494,6 +2494,8 @@ nav:
 - How to get message count by day for a single discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Favourite Homelab Software: 21b9d9f0-fde9-4189-83b6-72102becce04
+- "ETL to Question Engine, Day 4": d59dbed7-08bd-462e-8f87-24a80c791f46
+- "ETL to Question Engine, Day 3": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
 - "ETL to Question Engine, Day 2": 01d14af7-0d89-4c3a-90a8-12696e01e036
 - "ETL to Question Engine, Day 1": adf51542-a86b-437b-8542-9ef82c41d7a2
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69

@@ -8,6 +8,8 @@
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "21b9d9f0-fde9-4189-83b6-72102becce04",
+    "d59dbed7-08bd-462e-8f87-24a80c791f46",
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "01d14af7-0d89-4c3a-90a8-12696e01e036",
     "adf51542-a86b-437b-8542-9ef82c41d7a2",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
@@ -658,7 +660,6 @@
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56",
     "c8d03772-e061-441c-a963-081500806129",
     "e4d41502-ba24-43a6-a303-c00ab94f9d2e",
@@ -897,6 +898,7 @@
     "89447fca-0c32-4106-a532-44eff3b59472",
     "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e",
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb",
     "47e387e8-df22-4c35-b257-716073c8d190",
     "758764cf-e79b-4365-af51-1ea077bc5cb8",
@@ -1554,10 +1556,10 @@
     "3fb84a3c-742b-423a-a881-d5b46fd82a28",
     "ae8cb99d-65d5-404f-9d83-4572cca17719",
     "27802970-c6dc-462e-8210-216bb1eb6a36",
-    "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
     "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
+    "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "8b9a34f5-a141-47be-ab51-091a0e05339b",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "e0fcec25-9225-4926-bfc3-8318ec40a638",
@@ -2243,6 +2245,8 @@
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a single discord guild?.md",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics.md",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software.md",
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Day 4.md",
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Day 3.md",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Day 2.md",
     "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Day 1.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
@@ -2893,7 +2897,6 @@
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": "Software/List/psql.md",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": "Software/List/protege.md",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": "Software/List/promnesia.md",
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": "Software/List/postgraphile.md",
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56": "Software/List/pngcrush.md",
     "c8d03772-e061-441c-a963-081500806129": "Software/List/pk-mount.md",
     "e4d41502-ba24-43a6-a303-c00ab94f9d2e": "Software/List/pipenv.md",
@@ -3132,6 +3135,7 @@
     "89447fca-0c32-4106-a532-44eff3b59472": "Software/List/Project Xanadu.md",
     "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e": "Software/List/Prisma.md",
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe": "Software/List/Postgres.md",
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": "Software/List/PostGraphile.md",
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb": "Software/List/Portainer.md",
     "47e387e8-df22-4c35-b257-716073c8d190": "Software/List/PopOS.md",
     "758764cf-e79b-4365-af51-1ea077bc5cb8": "Software/List/Polygon.md",
@@ -3256,7 +3260,7 @@
     "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a": "Software/List/Hasur.md",
     "4961c81a-7d2d-4143-af57-2fa45afc69c7": "Software/List/Haskell.md",
     "b2f5f020-78fc-4abf-9154-ddaf31d89822": "Software/List/Hardhat.md",
-    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Software/List/Hamilton - Software.md",
+    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Software/List/Hamilton DAG.md",
     "272babbb-b019-4290-941a-01ae25d07fe1": "Software/List/HTML.md",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "Software/List/GunDB.md",
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "Software/List/GraphQL Software.md",
@@ -3781,13 +3785,13 @@
     "b633ea18-544c-4f74-ae9d-3395c9a78192": "Questions/list/Where is a list of the most popular Urbit apps, also including their source code?.md",
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": "Questions/list/When was the most active month for the most active channel in each discord guild?.md",
     "fb38895a-faca-42e7-8e40-416fe115a9ee": "Questions/list/What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?.md",
-    "3fb84a3c-742b-423a-a881-d5b46fd82a28": "Questions/list/What percentage of days actually have messages since earlier message in a discord guild?.md",
+    "3fb84a3c-742b-423a-a881-d5b46fd82a28": "Questions/list/What percentage of days actually have messages?.md",
     "ae8cb99d-65d5-404f-9d83-4572cca17719": "Questions/list/What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?.md",
     "27802970-c6dc-462e-8210-216bb1eb6a36": "Questions/list/What is the name of the most active channel in each discord guild?.md",
-    "edb39918-b02f-4ee7-b2b2-d902c8370412": "Questions/list/What is the most, and second most, active month for each Discord Guild?.md",
     "45f50e6a-fb81-4f7c-87b6-70785da72633": "Questions/list/What is the most active channel in a discord guild?.md",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": "Questions/list/What is the average message count for most active X days of a Discord Guild?.md",
-    "4f6a01a0-6799-43a6-b36a-38edd59d36fc": "Questions/list/What is the average half life of top 10% active users?.md",
+    "4f6a01a0-6799-43a6-b36a-38edd59d36fc": "Questions/list/What is the average half life of top 30% active users?.md",
+    "edb39918-b02f-4ee7-b2b2-d902c8370412": "Questions/list/What is the activity per month of each discord guild measured in messages per month?.md",
     "8b9a34f5-a141-47be-ab51-091a0e05339b": "Questions/list/What is the activity of each month for each guild normalised on a single graph?.md",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "Questions/list/What is the Mimetic File System?.md",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "Questions/list/What is cognitive computing?.md",
@@ -4473,6 +4477,8 @@
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a single discord guild?",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software",
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Day 4",
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Day 3",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Day 2",
     "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Day 1",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
@@ -5123,7 +5129,6 @@
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": "psql",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": "protege",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": "promnesia",
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": "postgraphile",
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56": "pngcrush",
     "c8d03772-e061-441c-a963-081500806129": "pk-mount",
     "e4d41502-ba24-43a6-a303-c00ab94f9d2e": "pipenv",
@@ -5362,6 +5367,7 @@
     "89447fca-0c32-4106-a532-44eff3b59472": "Project Xanadu",
     "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e": "Prisma",
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe": "Postgres",
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": "PostGraphile",
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb": "Portainer",
     "47e387e8-df22-4c35-b257-716073c8d190": "PopOS",
     "758764cf-e79b-4365-af51-1ea077bc5cb8": "Polygon",
@@ -5486,7 +5492,7 @@
     "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a": "Hasur",
     "4961c81a-7d2d-4143-af57-2fa45afc69c7": "Haskell",
     "b2f5f020-78fc-4abf-9154-ddaf31d89822": "Hardhat",
-    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Hamilton - Software",
+    "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": "Hamilton DAG",
     "272babbb-b019-4290-941a-01ae25d07fe1": "HTML",
     "8f3e0515-4b00-4f3e-b694-8ea82fa38baf": "GunDB",
     "4ad9fcf5-6717-4e6c-97ed-0be3754373a8": "GraphQL Software",
@@ -6011,13 +6017,13 @@
     "b633ea18-544c-4f74-ae9d-3395c9a78192": "Where is a list of the most popular Urbit apps, also including their source code?",
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": "When was the most active month for the most active channel in each discord guild?",
     "fb38895a-faca-42e7-8e40-416fe115a9ee": "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?",
-    "3fb84a3c-742b-423a-a881-d5b46fd82a28": "What percentage of days actually have messages since earlier message in a discord guild?",
+    "3fb84a3c-742b-423a-a881-d5b46fd82a28": "What percentage of days actually have messages?",
     "ae8cb99d-65d5-404f-9d83-4572cca17719": "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?",
     "27802970-c6dc-462e-8210-216bb1eb6a36": "What is the name of the most active channel in each discord guild?",
-    "edb39918-b02f-4ee7-b2b2-d902c8370412": "What is the most, and second most, active month for each Discord Guild?",
     "45f50e6a-fb81-4f7c-87b6-70785da72633": "What is the most active channel in a discord guild?",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": "What is the average message count for most active X days of a Discord Guild?",
-    "4f6a01a0-6799-43a6-b36a-38edd59d36fc": "What is the average half life of top 10% active users?",
+    "4f6a01a0-6799-43a6-b36a-38edd59d36fc": "What is the average half life of top 30% active users?",
+    "edb39918-b02f-4ee7-b2b2-d902c8370412": "What is the activity per month of each discord guild measured in messages per month?",
     "8b9a34f5-a141-47be-ab51-091a0e05339b": "What is the activity of each month for each guild normalised on a single graph?",
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": "What is the Mimetic File System?",
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "What is cognitive computing?",
@@ -6703,6 +6709,8 @@
     "How to get message count by day for a single discord guild?.md": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Heuristics.md": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software.md": "21b9d9f0-fde9-4189-83b6-72102becce04",
+    "ETL to Question Engine, Day 4.md": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+    "ETL to Question Engine, Day 3.md": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "ETL to Question Engine, Day 2.md": "01d14af7-0d89-4c3a-90a8-12696e01e036",
     "ETL to Question Engine, Day 1.md": "adf51542-a86b-437b-8542-9ef82c41d7a2",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
@@ -7353,7 +7361,6 @@
     "Software/List/psql.md": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "Software/List/protege.md": "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "Software/List/promnesia.md": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
-    "Software/List/postgraphile.md": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "Software/List/pngcrush.md": "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56",
     "Software/List/pk-mount.md": "c8d03772-e061-441c-a963-081500806129",
     "Software/List/pipenv.md": "e4d41502-ba24-43a6-a303-c00ab94f9d2e",
@@ -7592,6 +7599,7 @@
     "Software/List/Project Xanadu.md": "89447fca-0c32-4106-a532-44eff3b59472",
     "Software/List/Prisma.md": "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e",
     "Software/List/Postgres.md": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+    "Software/List/PostGraphile.md": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "Software/List/Portainer.md": "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb",
     "Software/List/PopOS.md": "47e387e8-df22-4c35-b257-716073c8d190",
     "Software/List/Polygon.md": "758764cf-e79b-4365-af51-1ea077bc5cb8",
@@ -7716,7 +7724,7 @@
     "Software/List/Hasur.md": "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a",
     "Software/List/Haskell.md": "4961c81a-7d2d-4143-af57-2fa45afc69c7",
     "Software/List/Hardhat.md": "b2f5f020-78fc-4abf-9154-ddaf31d89822",
-    "Software/List/Hamilton - Software.md": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
+    "Software/List/Hamilton DAG.md": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "Software/List/HTML.md": "272babbb-b019-4290-941a-01ae25d07fe1",
     "Software/List/GunDB.md": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
     "Software/List/GraphQL Software.md": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
@@ -8246,13 +8254,13 @@
     "Questions/list/Where is a list of the most popular Urbit apps, also including their source code?.md": "b633ea18-544c-4f74-ae9d-3395c9a78192",
     "Questions/list/When was the most active month for the most active channel in each discord guild?.md": "30d09691-d6bc-462d-b9ae-8534e88e4cf1",
     "Questions/list/What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?.md": "fb38895a-faca-42e7-8e40-416fe115a9ee",
-    "Questions/list/What percentage of days actually have messages since earlier message in a discord guild?.md": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
+    "Questions/list/What percentage of days actually have messages?.md": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
     "Questions/list/What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?.md": "ae8cb99d-65d5-404f-9d83-4572cca17719",
     "Questions/list/What is the name of the most active channel in each discord guild?.md": "27802970-c6dc-462e-8210-216bb1eb6a36",
-    "Questions/list/What is the most, and second most, active month for each Discord Guild?.md": "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "Questions/list/What is the most active channel in a discord guild?.md": "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "Questions/list/What is the average message count for most active X days of a Discord Guild?.md": "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
-    "Questions/list/What is the average half life of top 10% active users?.md": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
+    "Questions/list/What is the average half life of top 30% active users?.md": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
+    "Questions/list/What is the activity per month of each discord guild measured in messages per month?.md": "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "Questions/list/What is the activity of each month for each guild normalised on a single graph?.md": "8b9a34f5-a141-47be-ab51-091a0e05339b",
     "Questions/list/What is the Mimetic File System?.md": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "Questions/list/What is cognitive computing?.md": "e0fcec25-9225-4926-bfc3-8318ec40a638",
@@ -8942,6 +8950,8 @@
     "How to get message count by day for a single discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04",
+    "ETL to Question Engine, Day 4": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+    "ETL to Question Engine, Day 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "ETL to Question Engine, Day 2": "01d14af7-0d89-4c3a-90a8-12696e01e036",
     "ETL to Question Engine, Day 1": "adf51542-a86b-437b-8542-9ef82c41d7a2",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
@@ -9585,7 +9595,6 @@
     "psql": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "protege": "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "promnesia": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
-    "postgraphile": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "pngcrush": "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56",
     "pk-mount": "c8d03772-e061-441c-a963-081500806129",
     "pipenv": "e4d41502-ba24-43a6-a303-c00ab94f9d2e",
@@ -9824,6 +9833,7 @@
     "Project Xanadu": "89447fca-0c32-4106-a532-44eff3b59472",
     "Prisma": "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e",
     "Postgres": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+    "PostGraphile": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
     "Portainer": "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb",
     "PopOS": "47e387e8-df22-4c35-b257-716073c8d190",
     "Polygon": "758764cf-e79b-4365-af51-1ea077bc5cb8",
@@ -9948,7 +9958,7 @@
     "Hasur": "527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a",
     "Haskell": "4961c81a-7d2d-4143-af57-2fa45afc69c7",
     "Hardhat": "b2f5f020-78fc-4abf-9154-ddaf31d89822",
-    "Hamilton - Software": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
+    "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
     "HTML": "272babbb-b019-4290-941a-01ae25d07fe1",
     "GunDB": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf",
     "GraphQL Software": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8",
@@ -10447,13 +10457,13 @@
     "Where is a list of the most popular Urbit apps, also including their source code?": "b633ea18-544c-4f74-ae9d-3395c9a78192",
     "When was the most active month for the most active channel in each discord guild?": "30d09691-d6bc-462d-b9ae-8534e88e4cf1",
     "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": "fb38895a-faca-42e7-8e40-416fe115a9ee",
-    "What percentage of days actually have messages since earlier message in a discord guild?": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
+    "What percentage of days actually have messages?": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
     "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": "ae8cb99d-65d5-404f-9d83-4572cca17719",
     "What is the name of the most active channel in each discord guild?": "27802970-c6dc-462e-8210-216bb1eb6a36",
-    "What is the most, and second most, active month for each Discord Guild?": "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "What is the most active channel in a discord guild?": "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "What is the average message count for most active X days of a Discord Guild?": "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
-    "What is the average half life of top 10% active users?": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
+    "What is the average half life of top 30% active users?": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
+    "What is the activity per month of each discord guild measured in messages per month?": "edb39918-b02f-4ee7-b2b2-d902c8370412",
     "What is the activity of each month for each guild normalised on a single graph?": "8b9a34f5-a141-47be-ab51-091a0e05339b",
     "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61",
     "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638",
@@ -11130,6 +11140,16 @@
       "uuid": "21b9d9f0-fde9-4189-83b6-72102becce04",
       "share": true,
       "title": "Favourite Homelab Software"
+    },
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": {
+      "uuid": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+      "share": true,
+      "title": "ETL to Question Engine, Day 4"
+    },
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": {
+      "uuid": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
+      "share": true,
+      "title": "ETL to Question Engine, Day 3"
     },
     "01d14af7-0d89-4c3a-90a8-12696e01e036": {
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036",
@@ -14381,11 +14401,6 @@
       "uuid": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
       "title": "promnesia"
     },
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": {
-      "uuid": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
-      "share": true,
-      "title": "postgraphile"
-    },
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56": {
       "share": true,
       "uuid": "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56",
@@ -15576,6 +15591,11 @@
       "uuid": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
       "title": "Postgres"
     },
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": {
+      "uuid": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
+      "share": true,
+      "title": "PostGraphile"
+    },
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb": {
       "share": true,
       "uuid": "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb",
@@ -16199,7 +16219,7 @@
     "a83ae1cd-71ba-4fe6-846f-2c169a802b9a": {
       "share": true,
       "uuid": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
-      "title": "Hamilton - Software"
+      "title": "Hamilton DAG"
     },
     "272babbb-b019-4290-941a-01ae25d07fe1": {
       "share": true,
@@ -18824,7 +18844,7 @@
     "3fb84a3c-742b-423a-a881-d5b46fd82a28": {
       "uuid": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
       "share": true,
-      "title": "What percentage of days actually have messages since earlier message in a discord guild?"
+      "title": "What percentage of days actually have messages?"
     },
     "ae8cb99d-65d5-404f-9d83-4572cca17719": {
       "uuid": "ae8cb99d-65d5-404f-9d83-4572cca17719",
@@ -18835,11 +18855,6 @@
       "uuid": "27802970-c6dc-462e-8210-216bb1eb6a36",
       "share": true,
       "title": "What is the name of the most active channel in each discord guild?"
-    },
-    "edb39918-b02f-4ee7-b2b2-d902c8370412": {
-      "uuid": "edb39918-b02f-4ee7-b2b2-d902c8370412",
-      "share": true,
-      "title": "What is the most, and second most, active month for each Discord Guild?"
     },
     "45f50e6a-fb81-4f7c-87b6-70785da72633": {
       "uuid": "45f50e6a-fb81-4f7c-87b6-70785da72633",
@@ -18854,7 +18869,12 @@
     "4f6a01a0-6799-43a6-b36a-38edd59d36fc": {
       "uuid": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
       "share": true,
-      "title": "What is the average half life of top 10% active users?"
+      "title": "What is the average half life of top 30% active users?"
+    },
+    "edb39918-b02f-4ee7-b2b2-d902c8370412": {
+      "uuid": "edb39918-b02f-4ee7-b2b2-d902c8370412",
+      "share": true,
+      "title": "What is the activity per month of each discord guild measured in messages per month?"
     },
     "8b9a34f5-a141-47be-ab51-091a0e05339b": {
       "uuid": "8b9a34f5-a141-47be-ab51-091a0e05339b",
@@ -22318,6 +22338,12 @@
     "Favourite Homelab Software.md": {
       "uuid": "21b9d9f0-fde9-4189-83b6-72102becce04"
     },
+    "ETL to Question Engine, Day 4.md": {
+      "uuid": "d59dbed7-08bd-462e-8f87-24a80c791f46"
+    },
+    "ETL to Question Engine, Day 3.md": {
+      "uuid": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
+    },
     "ETL to Question Engine, Day 2.md": {
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036"
     },
@@ -24334,9 +24360,6 @@
         "promnesia.md": {
           "uuid": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8"
         },
-        "postgraphile.md": {
-          "uuid": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a"
-        },
         "pngcrush.md": {
           "uuid": "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56"
         },
@@ -25051,6 +25074,9 @@
         "Postgres.md": {
           "uuid": "5d70cd64-3134-4b62-8879-12f1f8bb4afe"
         },
+        "PostGraphile.md": {
+          "uuid": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a"
+        },
         "Portainer.md": {
           "uuid": "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb"
         },
@@ -25423,7 +25449,7 @@
         "Hardhat.md": {
           "uuid": "b2f5f020-78fc-4abf-9154-ddaf31d89822"
         },
-        "Hamilton - Software.md": {
+        "Hamilton DAG.md": {
           "uuid": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
         },
         "HTML.md": {
@@ -27213,7 +27239,7 @@
         "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?.md": {
           "uuid": "fb38895a-faca-42e7-8e40-416fe115a9ee"
         },
-        "What percentage of days actually have messages since earlier message in a discord guild?.md": {
+        "What percentage of days actually have messages?.md": {
           "uuid": "3fb84a3c-742b-423a-a881-d5b46fd82a28"
         },
         "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?.md": {
@@ -27222,17 +27248,17 @@
         "What is the name of the most active channel in each discord guild?.md": {
           "uuid": "27802970-c6dc-462e-8210-216bb1eb6a36"
         },
-        "What is the most, and second most, active month for each Discord Guild?.md": {
-          "uuid": "edb39918-b02f-4ee7-b2b2-d902c8370412"
-        },
         "What is the most active channel in a discord guild?.md": {
           "uuid": "45f50e6a-fb81-4f7c-87b6-70785da72633"
         },
         "What is the average message count for most active X days of a Discord Guild?.md": {
           "uuid": "9a9414ed-c3bd-433e-bb5b-4732aff405a0"
         },
-        "What is the average half life of top 10% active users?.md": {
+        "What is the average half life of top 30% active users?.md": {
           "uuid": "4f6a01a0-6799-43a6-b36a-38edd59d36fc"
+        },
+        "What is the activity per month of each discord guild measured in messages per month?.md": {
+          "uuid": "edb39918-b02f-4ee7-b2b2-d902c8370412"
         },
         "What is the activity of each month for each guild normalised on a single graph?.md": {
           "uuid": "8b9a34f5-a141-47be-ab51-091a0e05339b"
@@ -29498,6 +29524,8 @@
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "21b9d9f0-fde9-4189-83b6-72102becce04": [],
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": [],
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": [],
     "01d14af7-0d89-4c3a-90a8-12696e01e036": [],
     "adf51542-a86b-437b-8542-9ef82c41d7a2": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
@@ -30243,7 +30271,6 @@
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": [],
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": [],
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": [],
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": [],
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56": [],
     "c8d03772-e061-441c-a963-081500806129": [],
     "e4d41502-ba24-43a6-a303-c00ab94f9d2e": [],
@@ -30487,6 +30514,7 @@
     "89447fca-0c32-4106-a532-44eff3b59472": [],
     "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e": [],
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe": [],
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": [],
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb": [],
     "47e387e8-df22-4c35-b257-716073c8d190": [],
     "758764cf-e79b-4365-af51-1ea077bc5cb8": [],
@@ -31159,10 +31187,10 @@
     "3fb84a3c-742b-423a-a881-d5b46fd82a28": [],
     "ae8cb99d-65d5-404f-9d83-4572cca17719": [],
     "27802970-c6dc-462e-8210-216bb1eb6a36": [],
-    "edb39918-b02f-4ee7-b2b2-d902c8370412": [],
     "45f50e6a-fb81-4f7c-87b6-70785da72633": [],
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": [],
     "4f6a01a0-6799-43a6-b36a-38edd59d36fc": [],
+    "edb39918-b02f-4ee7-b2b2-d902c8370412": [],
     "8b9a34f5-a141-47be-ab51-091a0e05339b": [],
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [],
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
@@ -32164,6 +32192,9 @@
         "text": "What discord guild's have the most Users?"
       },
       {
+        "text": "What discord guild's have the most channels?"
+      },
+      {
         "link": "fb38895a-faca-42e7-8e40-416fe115a9ee",
         "text": "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?"
       },
@@ -32177,7 +32208,7 @@
       },
       {
         "link": "edb39918-b02f-4ee7-b2b2-d902c8370412",
-        "text": "What is the most, and second most, active month for each Discord Guild?"
+        "text": "What is the activity per month of each discord guild measured in messages per month?"
       },
       {
         "link": "8b9a34f5-a141-47be-ab51-091a0e05339b",
@@ -32205,17 +32236,20 @@
       },
       {
         "link": "3fb84a3c-742b-423a-a881-d5b46fd82a28",
-        "text": "What percentage of days actually have messages since earlier message in a discord guild?"
+        "text": "What percentage of days actually have messages?"
       },
       {
         "link": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
-        "text": "What is the average half life of top 10% active users?"
+        "text": "What is the average half life of top 30% active users?"
       }
     ],
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": [
       {
         "link": "9dfba51c-8092-411d-859b-9acf356ec385",
         "text": "The 4 Step plan for Question Engine"
+      },
+      {
+        "text": "Tasks for ETL to Question Engine"
       },
       {
         "link": "adf51542-a86b-437b-8542-9ef82c41d7a2",
@@ -32226,7 +32260,15 @@
         "text": "ETL to Question Engine, Day 2"
       },
       {
+        "link": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
         "text": "ETL to Question Engine, Day 3"
+      },
+      {
+        "link": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+        "text": "ETL to Question Engine, Day 4"
+      },
+      {
+        "text": "ETL to Question Engine, Day 5"
       },
       {
         "text": "Best documents that Articulate how I think?"
@@ -32236,7 +32278,7 @@
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [
       {
         "link": "edb39918-b02f-4ee7-b2b2-d902c8370412",
-        "text": "What is the most, and second most, active month for each Discord Guild?"
+        "text": "What is the activity per month of each discord guild measured in messages per month?"
       }
     ],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
@@ -32262,20 +32304,119 @@
         "text": "mediagoblin"
       }
     ],
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": [
+      {
+        "text": "2023-10-05"
+      },
+      {
+        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "text": "Discord Binding"
+      },
+      {
+        "text": "Rclone"
+      },
+      {
+        "link": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+        "text": "Day 2"
+      },
+      {
+        "link": "83b61328-cd0a-426a-bded-e3897e67204b",
+        "text": "rsync"
+      },
+      {
+        "link": "1fc6c96f-fcb0-40d9-9b57-0645b09dbc92",
+        "text": "TrueNAS Scale"
+      },
+      {
+        "link": "67d75bf6-213c-4956-a3fe-0a110c13f132",
+        "text": "NFS"
+      },
+      {
+        "text": "Samba"
+      },
+      {
+        "text": "iSCSI"
+      },
+      {
+        "text": "WebDav"
+      },
+      {
+        "text": "FTP"
+      },
+      {
+        "link": "acf83ac3-5b3b-4711-94a6-90249425fdf4",
+        "text": "sshfs"
+      },
+      {
+        "link": "83b61328-cd0a-426a-bded-e3897e67204b",
+        "text": "rsync"
+      },
+      {
+        "link": "95055af0-ca99-48e4-9c4d-b87107a0d55f",
+        "text": "scp"
+      },
+      {
+        "link": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+        "text": "S3"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      },
+      {
+        "link": "e5892695-48a8-4b08-b405-d70790407a4a",
+        "text": "Debian"
+      },
+      {
+        "link": "46bf620d-4d5f-45ba-b5b4-c3142845fb68",
+        "text": "apt"
+      },
+      {
+        "text": "systemctl"
+      },
+      {
+        "text": "How to allow remote IP address to connect to Postgres server?"
+      },
+      {
+        "link": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
+        "text": "Hamilton DAG"
+      },
+      {
+        "text": "Get Discord Binding working with Hamilton DAG"
+      },
+      {
+        "text": "Discord Data Logs 2023-10-05"
+      }
+    ],
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": [
+      {
+        "text": "2023-10-04"
+      },
+      {
+        "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+        "text": "Questions to Answer in General Report to Compare Discord Guilds"
+      },
+      {
+        "text": "Plotly"
+      },
+      {
+        "link": "ef29cab3-4aef-413f-b603-29cfeedd290d",
+        "text": "Data Visualization"
+      },
+      {
+        "link": "14b19809-58b0-44c8-a719-c50badebb08c",
+        "text": "jupyter"
+      },
+      {
+        "text": "Plotly"
+      }
+    ],
     "01d14af7-0d89-4c3a-90a8-12696e01e036": [
       {
         "text": "2023-10-03"
       },
       {
-        "link": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
-        "text": "postgraphile"
-      },
-      {
-        "link": "17962dab-f88d-4746-b8d7-74dcb179d791",
-        "text": "GraphQL"
-      },
-      {
-        "text": "Should I use GraphQL?"
+        "text": "DiscordChatExporter"
       },
       {
         "text": "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?"
@@ -32296,6 +32437,50 @@
       },
       {
         "text": "Dell Optiplex Micro"
+      },
+      {
+        "link": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
+        "text": "PostGraphile"
+      },
+      {
+        "text": "Get all raw data in one location - ETLtoQE"
+      },
+      {
+        "text": "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?"
+      },
+      {
+        "link": "1fc6c96f-fcb0-40d9-9b57-0645b09dbc92",
+        "text": "TrueNAS Scale"
+      },
+      {
+        "link": "cc64a399-1cbe-44ee-ab4a-f36343a593ff",
+        "text": "S3"
+      },
+      {
+        "text": "Zimaboard"
+      },
+      {
+        "text": "Dell Optiplex Micro"
+      },
+      {
+        "text": "Dell Optiplex Micro"
+      },
+      {
+        "text": "Decide on ETL procedure and document it - ETLtoQE"
+      },
+      {
+        "link": "314a79d7-8c7a-4b68-9f5d-eb161de21e8a",
+        "text": "PostGraphile"
+      },
+      {
+        "link": "17962dab-f88d-4746-b8d7-74dcb179d791",
+        "text": "GraphQL"
+      },
+      {
+        "text": "Should I use GraphQL?"
+      },
+      {
+        "text": "Publish the first generalised report using a Jupyter notebook - ETLtoQE"
       }
     ],
     "adf51542-a86b-437b-8542-9ef82c41d7a2": [
@@ -32303,12 +32488,23 @@
         "text": "2023-10-02"
       },
       {
-        "link": "496477c7-b5a5-4498-bc02-9e9ca5f473d1",
-        "text": "Airflow"
+        "link": "1a1ccc57-1ba3-4ba7-8db9-9eb945b88d85",
+        "text": "sqlite"
       },
       {
-        "link": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a",
-        "text": "Hamilton - Software"
+        "link": "14b19809-58b0-44c8-a719-c50badebb08c",
+        "text": "jupyter"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      },
+      {
+        "text": "Data Engineering Tools"
+      },
+      {
+        "link": "1a1ccc57-1ba3-4ba7-8db9-9eb945b88d85",
+        "text": "sqlite"
       },
       {
         "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
@@ -32323,13 +32519,16 @@
         "text": "Postgres"
       },
       {
-        "text": "M1 Macbook Air"
+        "text": "DuckDB"
       }
     ],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [
       {
         "link": "10708552-def9-4391-9126-8a4f53cb5e00",
         "text": "Learning Pathways"
+      },
+      {
+        "text": "S3 Tutorial"
       },
       {
         "link": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
@@ -35454,7 +35653,11 @@
     "1059b83a-2c44-492f-a5b2-e716eb7b7ea8": [],
     "b5b62336-cd54-408d-990e-a7de11b4d27c": [],
     "8e5d1866-cd6a-495d-bd0c-3bf8b4c6c420": [],
-    "ef29cab3-4aef-413f-b603-29cfeedd290d": [],
+    "ef29cab3-4aef-413f-b603-29cfeedd290d": [
+      {
+        "text": "Plotly"
+      }
+    ],
     "488b9eda-db35-4ecb-bf55-c6f851af116b": [],
     "33ed3a6c-3b95-4d21-9cf4-e3b46f9af974": [],
     "366b50ae-0699-4dc3-a005-16b96d53ef35": [],
@@ -35672,16 +35875,6 @@
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": [],
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": [],
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": [],
-    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": [
-      {
-        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
-        "text": "Postgres"
-      },
-      {
-        "link": "17962dab-f88d-4746-b8d7-74dcb179d791",
-        "text": "GraphQL"
-      }
-    ],
     "7682ea4e-d2d9-4e14-a8e1-6917c8aeed56": [],
     "c8d03772-e061-441c-a963-081500806129": [
       {
@@ -36353,10 +36546,26 @@
     "8538f5cb-5d7c-44ff-9e1e-b4b512ba4f5e": [],
     "5d70cd64-3134-4b62-8879-12f1f8bb4afe": [
       {
+        "text": "How to use psql on Raw Postgres Install?"
+      },
+      {
+        "text": "How to get Postgres Version?"
+      },
+      {
         "text": "docker-compose templates"
       },
       {
         "text": "wiki.software.List.psql"
+      }
+    ],
+    "314a79d7-8c7a-4b68-9f5d-eb161de21e8a": [
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      },
+      {
+        "link": "17962dab-f88d-4746-b8d7-74dcb179d791",
+        "text": "GraphQL"
       }
     ],
     "83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb": [
@@ -39545,6 +39754,12 @@
         "text": "How to move or copy all specific file types from one folder, recursively, and copy somewhere else?"
       },
       {
+        "text": "How to list all files recursively for specific file type?"
+      },
+      {
+        "text": "How to get total size of specific file type in folder recursively?"
+      },
+      {
         "link": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
         "text": "How to order folders by most files in each folder?"
       },
@@ -39736,6 +39951,10 @@
       {
         "link": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
         "text": "How to get message count by day for a single discord guild?"
+      },
+      {
+        "link": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
+        "text": "SQL"
       }
     ],
     "ae8cb99d-65d5-404f-9d83-4572cca17719": [
@@ -39745,16 +39964,19 @@
       },
       {
         "link": "4f6a01a0-6799-43a6-b36a-38edd59d36fc",
-        "text": "What is the average half life of top 10% active users?"
+        "text": "What is the average half life of top 30% active users?"
       }
     ],
     "27802970-c6dc-462e-8210-216bb1eb6a36": [],
-    "edb39918-b02f-4ee7-b2b2-d902c8370412": [],
     "45f50e6a-fb81-4f7c-87b6-70785da72633": [],
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": [
       {
         "link": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
         "text": "How to get message count by day for a single discord guild?"
+      },
+      {
+        "link": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
+        "text": "SQL"
       }
     ],
     "4f6a01a0-6799-43a6-b36a-38edd59d36fc": [
@@ -39762,10 +39984,11 @@
         "text": "What is the average half life of a user in a discord guild?"
       }
     ],
+    "edb39918-b02f-4ee7-b2b2-d902c8370412": [],
     "8b9a34f5-a141-47be-ab51-091a0e05339b": [
       {
         "link": "edb39918-b02f-4ee7-b2b2-d902c8370412",
-        "text": "What is the most, and second most, active month for each Discord Guild?"
+        "text": "What is the activity per month of each discord guild measured in messages per month?"
       }
     ],
     "d6bc0e0e-54f2-4389-a143-3bb60f8daa61": [
