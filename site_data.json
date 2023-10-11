@@ -1,6 +1,7 @@
 {
   "uuid_list": [
     "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df",
     "9dfba51c-8092-411d-859b-9acf356ec385",
     "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
@@ -2246,6 +2247,7 @@
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df": "The 4 Step plan for Question Engine v0.0.2.md",
     "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine v0.0.1.md",
     "a6649a28-5862-4820-8797-1cfaf2ba1713": "Tasks for ETL to Question Engine.md",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds.md",
@@ -4484,6 +4486,7 @@
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df": "The 4 Step plan for Question Engine v0",
     "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine v0",
     "a6649a28-5862-4820-8797-1cfaf2ba1713": "Tasks for ETL to Question Engine",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds",
@@ -6722,6 +6725,7 @@
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "The 4 Step plan for Question Engine v0.0.2.md": "8d4d461f-49f7-4dbd-829f-807d0bb602df",
     "The 4 Step plan for Question Engine v0.0.1.md": "9dfba51c-8092-411d-859b-9acf356ec385",
     "Tasks for ETL to Question Engine.md": "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "Questions to Answer in General Report to Compare Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
@@ -11141,6 +11145,11 @@
       "share": true,
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b",
       "title": "index"
+    },
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df": {
+      "uuid": "8d4d461f-49f7-4dbd-829f-807d0bb602df",
+      "share": true,
+      "title": "The 4 Step plan for Question Engine v0"
     },
     "9dfba51c-8092-411d-859b-9acf356ec385": {
       "uuid": "9dfba51c-8092-411d-859b-9acf356ec385",
@@ -22383,6 +22392,9 @@
     "index.md": {
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b"
     },
+    "The 4 Step plan for Question Engine v0.0.2.md": {
+      "uuid": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
+    },
     "The 4 Step plan for Question Engine v0.0.1.md": {
       "uuid": "9dfba51c-8092-411d-859b-9acf356ec385"
     },
@@ -29610,6 +29622,7 @@
         "heading": ""
       }
     ],
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df": [],
     "9dfba51c-8092-411d-859b-9acf356ec385": [],
     "a6649a28-5862-4820-8797-1cfaf2ba1713": [],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
@@ -32283,6 +32296,54 @@
       {
         "link": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
         "text": "Dentropy's Ideal DevSecOps Stack"
+      }
+    ],
+    "8d4d461f-49f7-4dbd-829f-807d0bb602df": [
+      {
+        "text": "Udacity Data Engineering Capstone Project"
+      },
+      {
+        "text": "SMART"
+      },
+      {
+        "text": "How do you identify the prime movers within internet communities?"
+      },
+      {
+        "text": "How do you identify the prime movers within internet communities?"
+      },
+      {
+        "text": "What online communities do I care about?"
+      },
+      {
+        "text": "Where can I get the data for online communities I care about?"
+      },
+      {
+        "text": "What online communities do I care about?"
+      },
+      {
+        "link": "26725b10-b472-41ee-ba3b-4e9bc851f174",
+        "text": "DAO"
+      },
+      {
+        "text": "Where can I get the data for online communities I care about?"
+      },
+      {
+        "link": "434d4a81-f2cc-4a50-b75c-0c66af4c15b2",
+        "text": "Discord"
+      },
+      {
+        "text": "DiscordChatExporter"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "DAO Auditing via Discord"
+      },
+      {
+        "link": "053d3ec8-825f-40bd-b187-926273159b09",
+        "text": "Raindropio"
+      },
+      {
+        "text": "The 4 Step plan for Question Engine - VERSIONS"
       }
     ],
     "9dfba51c-8092-411d-859b-9acf356ec385": [
