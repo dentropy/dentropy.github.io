@@ -175,7 +175,7 @@ nav:
             - terms: 8f4bc1b0-12f3-4956-bf1b-a167c1d91656
             - research: aedf2ab7-cdca-471a-805f-387263af6292
             - plugins: 6be81669-0880-4861-87c9-1175a86813b7
-            - json: 8d66bcf6-8ed6-4fa0-9813-09776926bec4
+            - json - NEO4J: 8d66bcf6-8ed6-4fa0-9813-09776926bec4
             - errors: b6602961-93f1-49c7-a46f-236aab469ff2
             - apoc: bf6b7000-6d3a-444e-8fe3-d9f1ba437eb7
             - Neo4J Concepts: 2b356d6d-34f1-475f-af26-080fcfb0935e
@@ -473,7 +473,7 @@ nav:
         - k3s: 8d351969-d4a8-4c55-a718-2bc39b34076b
         - justclip: dcf6b4e7-1a71-4303-8414-430300187eb1
         - jupyter: 14b19809-58b0-44c8-a719-c50badebb08c
-        - json: 9614ef64-f63e-4552-8559-a9b1d2c3a65b
+        - json2csv: 9614ef64-f63e-4552-8559-a9b1d2c3a65b
         - jq: 6919cd5a-1a38-47e7-be2e-a3db232144dc
         - jpegoptim: ccb2e810-649a-41ea-9a3c-a8b89b151b6e
         - irchiver: 4bf832ee-c913-41d1-86c5-cf82550d16e4
@@ -1063,6 +1063,7 @@ nav:
     - Untitled: d286d408-14ea-44f3-8216-61f36fead14d
     - TODO: feed7620-f082-43ed-b082-45d440b737b7
     - Software Languages: 09d86337-622e-4709-9f61-c6d5587704f6
+    - "Software - Favourite, organized by platform": 6a24cf3e-5693-4b99-b620-c3766a02a6c9
     - Favourite Apps: 444ff7c7-77b4-483c-b801-3955d2daeb0a
     - Dentropy's Ideal DevSecOps Stack: 406a13ea-5f64-440a-b454-6b43afe9e0d5
     - Catagories: cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5
@@ -1326,6 +1327,8 @@ nav:
     - Junk Projects:
         - obsidian-publish + hugo: 55f88f15-e0a1-48eb-a9b4-3bf370ede0f1
         - Let's Learn Web Scraping: 3dc8dff3-226e-4315-a126-df63912c5265
+    - ETL to QE:
+        - "ETL to Question Engine, Update 6": 9dc97a82-96a0-495b-a8e2-a5c4d5c60abe
     - ENS Indexing:
         - Logs - ENS Indexing: 3bbb81b1-154a-494f-acdf-781ad8ff35cf
         - ENS Indexing: 28740a43-67c5-4930-8b5c-41c06e659c6a
@@ -1565,7 +1568,7 @@ nav:
             - Power Law: 2f932b60-8d67-4d38-9445-c76eed264556
             - Polycentricity: 48155d84-e748-43d3-97bf-5704d31a6514
             - Political Science: 00f61098-d176-4725-9f93-1f6c18c33f36
-            - Plato s forms: 30ad88dd-75b7-40e0-922e-48ef923ae691
+            - Plato's forms: 30ad88dd-75b7-40e0-922e-48ef923ae691
             - Placeness: 7a2ded97-be68-4fd6-aab2-2e82fcd6b541
             - Personality Types: f4069273-338a-417a-8a31-4dfaf46eeea0
             - Personal Legend: c40839b6-4800-4114-82c2-616f63dad575
@@ -1602,6 +1605,7 @@ nav:
             - Morphic Resonance: 1ea4d752-e783-45f8-a355-98b52d0ca391
             - Moral Algebra: dbf784bd-14d9-4f2a-84c4-9f34e448dbe9
             - Monorepos: 75c3d76c-7cca-4ce2-becd-6e87855b0f2d
+            - Money: 5abf56a4-c2be-4aa9-8438-c3f785539ca1
             - Mission vs Vision Statements: 7c585bdb-a859-45c2-809f-8b19eb719521
             - Mission Statement: e99c7bdd-3987-441e-a043-bcc81d6d2b29
             - Mind: 0495f426-37dc-44c5-92fe-a494b814ecf9
@@ -1974,6 +1978,7 @@ nav:
         - The Subtle Art of Not Giving a F*ck: 76dc52eb-cd8e-423e-b9c3-979fcfc55384
         - The Singularity Is Near: 051e7911-5b2a-43e8-89be-899447d13e80
         - The Sims: 54df0011-226d-4cc6-b778-196e55d806eb
+        - The Selfish Gene: 7209bc84-901d-4ab0-a15f-d74edcf7dc21
         - The Secret Teachings of All Ages: e0848d37-a95f-432f-ac21-2af2de7db879
         - The Rediscovery of Man: a1e22b45-2551-43af-aa2d-5f4dc4c788c8
         - The Pretender: 43969bae-648b-428c-9a76-c122025b03bd
@@ -2487,19 +2492,23 @@ nav:
 - Catechisms:
     - List of Catechisms: cbe6af2b-2be1-40d5-95f9-08caa4869913
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
-- The 4 Step plan for Question Engine: 9dfba51c-8092-411d-859b-9acf356ec385
+- The 4 Step plan for Question Engine v0.0.1: 9dfba51c-8092-411d-859b-9acf356ec385
+- Tasks for ETL to Question Engine: a6649a28-5862-4820-8797-1cfaf2ba1713
 - Questions to Answer in General Report to Compare Discord Guilds: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
+- Questions for DAO Platforms: 81513d3d-8329-4638-b04e-e6cb2002e439
 - Project Update Posts: 4c45797f-8d43-4277-a5c1-de8df9aa7876
 - Mindfulness Prompts and Exercises: 5a11269f-4323-4052-b079-c996cbde21f1
 - How to get message count by day for a single discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
 - Heuristics: 8b302a13-5350-41fc-b0c0-dc5bcb320adb
 - Favourite Homelab Software: 21b9d9f0-fde9-4189-83b6-72102becce04
-- "ETL to Question Engine, Day 4": d59dbed7-08bd-462e-8f87-24a80c791f46
-- "ETL to Question Engine, Day 3": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
-- "ETL to Question Engine, Day 2": 01d14af7-0d89-4c3a-90a8-12696e01e036
-- "ETL to Question Engine, Day 1": adf51542-a86b-437b-8542-9ef82c41d7a2
+- "ETL to Question Engine, Update 5": 88cd3a9e-9156-4482-aaa5-2bb8eeebca0d
+- "ETL to Question Engine, Update 4": d59dbed7-08bd-462e-8f87-24a80c791f46
+- "ETL to Question Engine, Update 3": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
+- "ETL to Question Engine, Update 2": 01d14af7-0d89-4c3a-90a8-12696e01e036
+- "ETL to Question Engine, Update 1": adf51542-a86b-437b-8542-9ef82c41d7a2
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Dentropy's Blog Posts: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
+- DAO Frameworks: d5820bd1-d82d-4dbb-962d-976998e9c8e0
 - "Catechism - Discord Auditing, DAO use Case V0.0.1": a5fc0cc8-0abb-4192-8675-b98e8ee9fad4
 - "Catechism - Discord Auditing, DAO Use case V0.0.2": ed188fb4-fc23-4352-90f9-34b6fe1718e3

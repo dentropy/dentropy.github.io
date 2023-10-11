@@ -478,7 +478,7 @@
                 "plugins": "6be81669-0880-4861-87c9-1175a86813b7"
               },
               {
-                "json": "8d66bcf6-8ed6-4fa0-9813-09776926bec4"
+                "json - NEO4J": "8d66bcf6-8ed6-4fa0-9813-09776926bec4"
               },
               {
                 "errors": "b6602961-93f1-49c7-a46f-236aab469ff2"
@@ -1415,7 +1415,7 @@
             "jupyter": "14b19809-58b0-44c8-a719-c50badebb08c"
           },
           {
-            "json": "9614ef64-f63e-4552-8559-a9b1d2c3a65b"
+            "json2csv": "9614ef64-f63e-4552-8559-a9b1d2c3a65b"
           },
           {
             "jq": "6919cd5a-1a38-47e7-be2e-a3db232144dc"
@@ -3207,6 +3207,9 @@
         "Software Languages": "09d86337-622e-4709-9f61-c6d5587704f6"
       },
       {
+        "Software - Favourite, organized by platform": "6a24cf3e-5693-4b99-b620-c3766a02a6c9"
+      },
+      {
         "Favourite Apps": "444ff7c7-77b4-483c-b801-3955d2daeb0a"
       },
       {
@@ -4046,6 +4049,13 @@
         ]
       },
       {
+        "ETL to QE": [
+          {
+            "ETL to Question Engine, Update 6": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe"
+          }
+        ]
+      },
+      {
         "ENS Indexing": [
           {
             "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf"
@@ -4776,7 +4786,7 @@
                 "Political Science": "00f61098-d176-4725-9f93-1f6c18c33f36"
               },
               {
-                "Plato s forms": "30ad88dd-75b7-40e0-922e-48ef923ae691"
+                "Plato's forms": "30ad88dd-75b7-40e0-922e-48ef923ae691"
               },
               {
                 "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541"
@@ -4885,6 +4895,9 @@
               },
               {
                 "Monorepos": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d"
+              },
+              {
+                "Money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
               },
               {
                 "Mission vs Vision Statements": "7c585bdb-a859-45c2-809f-8b19eb719521"
@@ -6032,6 +6045,9 @@
           },
           {
             "The Sims": "54df0011-226d-4cc6-b778-196e55d806eb"
+          },
+          {
+            "The Selfish Gene": "7209bc84-901d-4ab0-a15f-d74edcf7dc21"
           },
           {
             "The Secret Teachings of All Ages": "e0848d37-a95f-432f-ac21-2af2de7db879"
@@ -7637,10 +7653,16 @@
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
   },
   {
-    "The 4 Step plan for Question Engine": "9dfba51c-8092-411d-859b-9acf356ec385"
+    "The 4 Step plan for Question Engine v0.0.1": "9dfba51c-8092-411d-859b-9acf356ec385"
+  },
+  {
+    "Tasks for ETL to Question Engine": "a6649a28-5862-4820-8797-1cfaf2ba1713"
   },
   {
     "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
+  },
+  {
+    "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439"
   },
   {
     "Project Update Posts": "4c45797f-8d43-4277-a5c1-de8df9aa7876"
@@ -7658,16 +7680,19 @@
     "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
   },
   {
-    "ETL to Question Engine, Day 4": "d59dbed7-08bd-462e-8f87-24a80c791f46"
+    "ETL to Question Engine, Update 5": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d"
   },
   {
-    "ETL to Question Engine, Day 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
+    "ETL to Question Engine, Update 4": "d59dbed7-08bd-462e-8f87-24a80c791f46"
   },
   {
-    "ETL to Question Engine, Day 2": "01d14af7-0d89-4c3a-90a8-12696e01e036"
+    "ETL to Question Engine, Update 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
   },
   {
-    "ETL to Question Engine, Day 1": "adf51542-a86b-437b-8542-9ef82c41d7a2"
+    "ETL to Question Engine, Update 2": "01d14af7-0d89-4c3a-90a8-12696e01e036"
+  },
+  {
+    "ETL to Question Engine, Update 1": "adf51542-a86b-437b-8542-9ef82c41d7a2"
   },
   {
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
@@ -7677,6 +7702,9 @@
   },
   {
     "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
+  },
+  {
+    "DAO Frameworks": "d5820bd1-d82d-4dbb-962d-976998e9c8e0"
   },
   {
     "Catechism - Discord Auditing, DAO use Case V0.0.1": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"

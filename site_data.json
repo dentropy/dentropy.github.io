@@ -2,12 +2,15 @@
   "uuid_list": [
     "146656b4-573a-4e42-8f00-239ab29eac3b",
     "9dfba51c-8092-411d-859b-9acf356ec385",
+    "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "81513d3d-8329-4638-b04e-e6cb2002e439",
     "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "5a11269f-4323-4052-b079-c996cbde21f1",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "21b9d9f0-fde9-4189-83b6-72102becce04",
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
     "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "01d14af7-0d89-4c3a-90a8-12696e01e036",
@@ -15,6 +18,7 @@
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "e76c8ac9-69f3-477f-8015-556e83738432",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
@@ -276,6 +280,7 @@
     "1ea4d752-e783-45f8-a355-98b52d0ca391",
     "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9",
     "75c3d76c-7cca-4ce2-becd-6e87855b0f2d",
+    "5abf56a4-c2be-4aa9-8438-c3f785539ca1",
     "7c585bdb-a859-45c2-809f-8b19eb719521",
     "e99c7bdd-3987-441e-a043-bcc81d6d2b29",
     "0495f426-37dc-44c5-92fe-a494b814ecf9",
@@ -557,6 +562,7 @@
     "d286d408-14ea-44f3-8216-61f36fead14d",
     "feed7620-f082-43ed-b082-45d440b737b7",
     "09d86337-622e-4709-9f61-c6d5587704f6",
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9",
     "444ff7c7-77b4-483c-b801-3955d2daeb0a",
     "406a13ea-5f64-440a-b454-6b43afe9e0d5",
     "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5",
@@ -1747,6 +1753,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "3dc8dff3-226e-4315-a126-df63912c5265",
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -1999,6 +2006,7 @@
     "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "051e7911-5b2a-43e8-89be-899447d13e80",
     "54df0011-226d-4cc6-b778-196e55d806eb",
+    "7209bc84-901d-4ab0-a15f-d74edcf7dc21",
     "e0848d37-a95f-432f-ac21-2af2de7db879",
     "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "43969bae-648b-428c-9a76-c122025b03bd",
@@ -2238,20 +2246,24 @@
   ],
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
-    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine.md",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine v0.0.1.md",
+    "a6649a28-5862-4820-8797-1cfaf2ba1713": "Tasks for ETL to Question Engine.md",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds.md",
+    "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions for DAO Platforms.md",
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": "Project Update Posts.md",
     "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises.md",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a single discord guild?.md",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics.md",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software.md",
-    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Day 4.md",
-    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Day 3.md",
-    "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Day 2.md",
-    "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Day 1.md",
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d": "ETL to Question Engine, Update 5.md",
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Update 4.md",
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Update 3.md",
+    "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Update 2.md",
+    "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Update 1.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects.md",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts.md",
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0": "DAO Frameworks.md",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0.0.1.md",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0.0.2.md",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki/Wiki Backlog.md",
@@ -2336,7 +2348,7 @@
     "ae883edf-bdf2-495d-a827-858ffc721c0e": "Wiki/Concepts/List/network.md",
     "9b557b41-62c1-4aff-a998-bcd31891860a": "Wiki/Concepts/List/narcissism.md",
     "d5d02b16-ef02-4300-86ab-e5928f51af3c": "Wiki/Concepts/List/mutex.md",
-    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": "Wiki/Concepts/List/money.md",
+    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": "Wiki/Concepts/List/Money.md",
     "12d95a7f-52e7-4d21-8284-85a8049b9398": "Wiki/Concepts/List/mnemonic.md",
     "06d2c85c-c8fd-4248-b7fe-19ba825c7b47": "Wiki/Concepts/List/mirror for princes.md",
     "4ba6fb77-1bf7-4636-8319-216b896daeb3": "Wiki/Concepts/List/maslow s hierarchy of needs.md",
@@ -2476,7 +2488,7 @@
     "2f932b60-8d67-4d38-9445-c76eed264556": "Wiki/Concepts/List/Power Law.md",
     "48155d84-e748-43d3-97bf-5704d31a6514": "Wiki/Concepts/List/Polycentricity.md",
     "00f61098-d176-4725-9f93-1f6c18c33f36": "Wiki/Concepts/List/Political Science.md",
-    "30ad88dd-75b7-40e0-922e-48ef923ae691": "Wiki/Concepts/List/Plato s forms.md",
+    "30ad88dd-75b7-40e0-922e-48ef923ae691": "Wiki/Concepts/List/Plato's forms.md",
     "7a2ded97-be68-4fd6-aab2-2e82fcd6b541": "Wiki/Concepts/List/Placeness.md",
     "f4069273-338a-417a-8a31-4dfaf46eeea0": "Wiki/Concepts/List/Personality Types.md",
     "c40839b6-4800-4114-82c2-616f63dad575": "Wiki/Concepts/List/Personal Legend.md",
@@ -2794,6 +2806,7 @@
     "d286d408-14ea-44f3-8216-61f36fead14d": "Software/Untitled.md",
     "feed7620-f082-43ed-b082-45d440b737b7": "Software/TODO.md",
     "09d86337-622e-4709-9f61-c6d5587704f6": "Software/Software Languages.md",
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9": "Software/Software - Favourite, organized by platform.md",
     "444ff7c7-77b4-483c-b801-3955d2daeb0a": "Software/Favourite Apps.md",
     "406a13ea-5f64-440a-b454-6b43afe9e0d5": "Software/Dentropy's Ideal DevSecOps Stack.md",
     "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5": "Software/Catagories.md",
@@ -2957,7 +2970,7 @@
     "8d351969-d4a8-4c55-a718-2bc39b34076b": "Software/List/k3s.md",
     "dcf6b4e7-1a71-4303-8414-430300187eb1": "Software/List/justclip.md",
     "14b19809-58b0-44c8-a719-c50badebb08c": "Software/List/jupyter.md",
-    "9614ef64-f63e-4552-8559-a9b1d2c3a65b": "Software/List/json.md",
+    "9614ef64-f63e-4552-8559-a9b1d2c3a65b": "Software/List/json2csv.md",
     "6919cd5a-1a38-47e7-be2e-a3db232144dc": "Software/List/jq.md",
     "ccb2e810-649a-41ea-9a3c-a8b89b151b6e": "Software/List/jpegoptim.md",
     "4bf832ee-c913-41d1-86c5-cf82550d16e4": "Software/List/irchiver.md",
@@ -3430,7 +3443,7 @@
     "8f4bc1b0-12f3-4956-bf1b-a167c1d91656": "Software/List/neo4j/terms.md",
     "aedf2ab7-cdca-471a-805f-387263af6292": "Software/List/neo4j/research.md",
     "6be81669-0880-4861-87c9-1175a86813b7": "Software/List/neo4j/plugins.md",
-    "8d66bcf6-8ed6-4fa0-9813-09776926bec4": "Software/List/neo4j/json.md",
+    "8d66bcf6-8ed6-4fa0-9813-09776926bec4": "Software/List/neo4j/json - NEO4J.md",
     "b6602961-93f1-49c7-a46f-236aab469ff2": "Software/List/neo4j/errors.md",
     "bf6b7000-6d3a-444e-8fe3-d9f1ba437eb7": "Software/List/neo4j/apoc.md",
     "2b356d6d-34f1-475f-af26-080fcfb0935e": "Software/List/neo4j/Neo4J Concepts.md",
@@ -3979,6 +3992,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "MyProjects/Junk Projects/obsidian-publish + hugo.md",
     "3dc8dff3-226e-4315-a126-df63912c5265": "MyProjects/Junk Projects/Let's Learn Web Scraping.md",
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md",
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe": "MyProjects/ETL to QE/ETL to Question Engine, Update 6.md",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "MyProjects/ENS Indexing/Logs - ENS Indexing.md",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "MyProjects/ENS Indexing/ENS Indexing.md",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md",
@@ -4195,7 +4209,7 @@
     "412c8358-5be5-4606-8c4c-3e3f3ead45a3": "Media/Papers/Show Me Everything You Know About Birds.md",
     "23c1443f-cccc-4393-9ed5-69bc41b93c90": "Media/Papers/OSINT Handbook.md",
     "0a1a1f81-db7f-425c-bd2e-9f3c3e79454a": "Media/Papers/Crypto Theses for 2022.md",
-    "7209bc84-901d-4ab0-a15f-d74edcf7dc21": "Media/List/the selfish gene.md",
+    "7209bc84-901d-4ab0-a15f-d74edcf7dc21": "Media/List/The Selfish Gene.md",
     "53f0db9f-79ac-4afb-b488-b389ee93812e": "Media/List/sphygm.us.md",
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b": "Media/List/sourcetarget.email.md",
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0": "Media/List/simonwillison.net.md",
@@ -4470,20 +4484,24 @@
   },
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
-    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine v0",
+    "a6649a28-5862-4820-8797-1cfaf2ba1713": "Tasks for ETL to Question Engine",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds",
+    "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions for DAO Platforms",
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": "Project Update Posts",
     "5a11269f-4323-4052-b079-c996cbde21f1": "Mindfulness Prompts and Exercises",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a single discord guild?",
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": "Heuristics",
     "21b9d9f0-fde9-4189-83b6-72102becce04": "Favourite Homelab Software",
-    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Day 4",
-    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Day 3",
-    "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Day 2",
-    "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Day 1",
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d": "ETL to Question Engine, Update 5",
+    "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to Question Engine, Update 4",
+    "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to Question Engine, Update 3",
+    "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to Question Engine, Update 2",
+    "adf51542-a86b-437b-8542-9ef82c41d7a2": "ETL to Question Engine, Update 1",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
     "e76c8ac9-69f3-477f-8015-556e83738432": "Dentropy's Projects",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts",
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0": "DAO Frameworks",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Wiki Backlog",
@@ -4568,7 +4586,7 @@
     "ae883edf-bdf2-495d-a827-858ffc721c0e": "network",
     "9b557b41-62c1-4aff-a998-bcd31891860a": "narcissism",
     "d5d02b16-ef02-4300-86ab-e5928f51af3c": "mutex",
-    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": "money",
+    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": "Money",
     "12d95a7f-52e7-4d21-8284-85a8049b9398": "mnemonic",
     "06d2c85c-c8fd-4248-b7fe-19ba825c7b47": "mirror for princes",
     "4ba6fb77-1bf7-4636-8319-216b896daeb3": "maslow s hierarchy of needs",
@@ -4708,7 +4726,7 @@
     "2f932b60-8d67-4d38-9445-c76eed264556": "Power Law",
     "48155d84-e748-43d3-97bf-5704d31a6514": "Polycentricity",
     "00f61098-d176-4725-9f93-1f6c18c33f36": "Political Science",
-    "30ad88dd-75b7-40e0-922e-48ef923ae691": "Plato s forms",
+    "30ad88dd-75b7-40e0-922e-48ef923ae691": "Plato's forms",
     "7a2ded97-be68-4fd6-aab2-2e82fcd6b541": "Placeness",
     "f4069273-338a-417a-8a31-4dfaf46eeea0": "Personality Types",
     "c40839b6-4800-4114-82c2-616f63dad575": "Personal Legend",
@@ -5026,6 +5044,7 @@
     "d286d408-14ea-44f3-8216-61f36fead14d": "Untitled",
     "feed7620-f082-43ed-b082-45d440b737b7": "TODO",
     "09d86337-622e-4709-9f61-c6d5587704f6": "Software Languages",
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9": "Software - Favourite, organized by platform",
     "444ff7c7-77b4-483c-b801-3955d2daeb0a": "Favourite Apps",
     "406a13ea-5f64-440a-b454-6b43afe9e0d5": "Dentropy's Ideal DevSecOps Stack",
     "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5": "Catagories",
@@ -5189,7 +5208,7 @@
     "8d351969-d4a8-4c55-a718-2bc39b34076b": "k3s",
     "dcf6b4e7-1a71-4303-8414-430300187eb1": "justclip",
     "14b19809-58b0-44c8-a719-c50badebb08c": "jupyter",
-    "9614ef64-f63e-4552-8559-a9b1d2c3a65b": "json",
+    "9614ef64-f63e-4552-8559-a9b1d2c3a65b": "json2csv",
     "6919cd5a-1a38-47e7-be2e-a3db232144dc": "jq",
     "ccb2e810-649a-41ea-9a3c-a8b89b151b6e": "jpegoptim",
     "4bf832ee-c913-41d1-86c5-cf82550d16e4": "irchiver",
@@ -5662,7 +5681,7 @@
     "8f4bc1b0-12f3-4956-bf1b-a167c1d91656": "terms",
     "aedf2ab7-cdca-471a-805f-387263af6292": "research",
     "6be81669-0880-4861-87c9-1175a86813b7": "plugins",
-    "8d66bcf6-8ed6-4fa0-9813-09776926bec4": "json",
+    "8d66bcf6-8ed6-4fa0-9813-09776926bec4": "json - NEO4J",
     "b6602961-93f1-49c7-a46f-236aab469ff2": "errors",
     "bf6b7000-6d3a-444e-8fe3-d9f1ba437eb7": "apoc",
     "2b356d6d-34f1-475f-af26-080fcfb0935e": "Neo4J Concepts",
@@ -6211,6 +6230,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "obsidian-publish + hugo",
     "3dc8dff3-226e-4315-a126-df63912c5265": "Let's Learn Web Scraping",
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "Redefining Human Instrumentality White Paper v0",
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe": "ETL to Question Engine, Update 6",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "Logs - ENS Indexing",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "ENS Indexing",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "dentropycloud",
@@ -6427,7 +6447,7 @@
     "412c8358-5be5-4606-8c4c-3e3f3ead45a3": "Show Me Everything You Know About Birds",
     "23c1443f-cccc-4393-9ed5-69bc41b93c90": "OSINT Handbook",
     "0a1a1f81-db7f-425c-bd2e-9f3c3e79454a": "Crypto Theses for 2022",
-    "7209bc84-901d-4ab0-a15f-d74edcf7dc21": "the selfish gene",
+    "7209bc84-901d-4ab0-a15f-d74edcf7dc21": "The Selfish Gene",
     "53f0db9f-79ac-4afb-b488-b389ee93812e": "sphygm",
     "6c535cb3-a28d-4629-81b4-596b0a71ed1b": "sourcetarget",
     "84eb6ae3-694c-4739-a0d9-563a1367e5d0": "simonwillison",
@@ -6702,20 +6722,24 @@
   },
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
-    "The 4 Step plan for Question Engine.md": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "The 4 Step plan for Question Engine v0.0.1.md": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "Tasks for ETL to Question Engine.md": "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "Questions to Answer in General Report to Compare Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "Questions for DAO Platforms.md": "81513d3d-8329-4638-b04e-e6cb2002e439",
     "Project Update Posts.md": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "Mindfulness Prompts and Exercises.md": "5a11269f-4323-4052-b079-c996cbde21f1",
     "How to get message count by day for a single discord guild?.md": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Heuristics.md": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software.md": "21b9d9f0-fde9-4189-83b6-72102becce04",
-    "ETL to Question Engine, Day 4.md": "d59dbed7-08bd-462e-8f87-24a80c791f46",
-    "ETL to Question Engine, Day 3.md": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
-    "ETL to Question Engine, Day 2.md": "01d14af7-0d89-4c3a-90a8-12696e01e036",
-    "ETL to Question Engine, Day 1.md": "adf51542-a86b-437b-8542-9ef82c41d7a2",
+    "ETL to Question Engine, Update 5.md": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
+    "ETL to Question Engine, Update 4.md": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+    "ETL to Question Engine, Update 3.md": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
+    "ETL to Question Engine, Update 2.md": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "ETL to Question Engine, Update 1.md": "adf51542-a86b-437b-8542-9ef82c41d7a2",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Dentropy's Blog Posts.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "DAO Frameworks.md": "d5820bd1-d82d-4dbb-962d-976998e9c8e0",
     "Catechism - Discord Auditing, DAO use Case V0.0.1.md": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "Catechism - Discord Auditing, DAO Use case V0.0.2.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki/Wiki Backlog.md": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
@@ -6940,7 +6964,7 @@
     "Wiki/Concepts/List/Power Law.md": "2f932b60-8d67-4d38-9445-c76eed264556",
     "Wiki/Concepts/List/Polycentricity.md": "48155d84-e748-43d3-97bf-5704d31a6514",
     "Wiki/Concepts/List/Political Science.md": "00f61098-d176-4725-9f93-1f6c18c33f36",
-    "Wiki/Concepts/List/Plato s forms.md": "30ad88dd-75b7-40e0-922e-48ef923ae691",
+    "Wiki/Concepts/List/Plato's forms.md": "30ad88dd-75b7-40e0-922e-48ef923ae691",
     "Wiki/Concepts/List/Placeness.md": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541",
     "Wiki/Concepts/List/Personality Types.md": "f4069273-338a-417a-8a31-4dfaf46eeea0",
     "Wiki/Concepts/List/Personal Legend.md": "c40839b6-4800-4114-82c2-616f63dad575",
@@ -6977,6 +7001,7 @@
     "Wiki/Concepts/List/Morphic Resonance.md": "1ea4d752-e783-45f8-a355-98b52d0ca391",
     "Wiki/Concepts/List/Moral Algebra.md": "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9",
     "Wiki/Concepts/List/Monorepos.md": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d",
+    "Wiki/Concepts/List/Money.md": "5abf56a4-c2be-4aa9-8438-c3f785539ca1",
     "Wiki/Concepts/List/Mission vs Vision Statements.md": "7c585bdb-a859-45c2-809f-8b19eb719521",
     "Wiki/Concepts/List/Mission Statement.md": "e99c7bdd-3987-441e-a043-bcc81d6d2b29",
     "Wiki/Concepts/List/Mind.md": "0495f426-37dc-44c5-92fe-a494b814ecf9",
@@ -7258,6 +7283,7 @@
     "Software/Untitled.md": "d286d408-14ea-44f3-8216-61f36fead14d",
     "Software/TODO.md": "feed7620-f082-43ed-b082-45d440b737b7",
     "Software/Software Languages.md": "09d86337-622e-4709-9f61-c6d5587704f6",
+    "Software/Software - Favourite, organized by platform.md": "6a24cf3e-5693-4b99-b620-c3766a02a6c9",
     "Software/Favourite Apps.md": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
     "Software/Dentropy's Ideal DevSecOps Stack.md": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
     "Software/Catagories.md": "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5",
@@ -7421,7 +7447,7 @@
     "Software/List/k3s.md": "8d351969-d4a8-4c55-a718-2bc39b34076b",
     "Software/List/justclip.md": "dcf6b4e7-1a71-4303-8414-430300187eb1",
     "Software/List/jupyter.md": "14b19809-58b0-44c8-a719-c50badebb08c",
-    "Software/List/json.md": "9614ef64-f63e-4552-8559-a9b1d2c3a65b",
+    "Software/List/json2csv.md": "9614ef64-f63e-4552-8559-a9b1d2c3a65b",
     "Software/List/jq.md": "6919cd5a-1a38-47e7-be2e-a3db232144dc",
     "Software/List/jpegoptim.md": "ccb2e810-649a-41ea-9a3c-a8b89b151b6e",
     "Software/List/irchiver.md": "4bf832ee-c913-41d1-86c5-cf82550d16e4",
@@ -7898,7 +7924,7 @@
     "Software/List/neo4j/terms.md": "8f4bc1b0-12f3-4956-bf1b-a167c1d91656",
     "Software/List/neo4j/research.md": "aedf2ab7-cdca-471a-805f-387263af6292",
     "Software/List/neo4j/plugins.md": "6be81669-0880-4861-87c9-1175a86813b7",
-    "Software/List/neo4j/json.md": "8d66bcf6-8ed6-4fa0-9813-09776926bec4",
+    "Software/List/neo4j/json - NEO4J.md": "8d66bcf6-8ed6-4fa0-9813-09776926bec4",
     "Software/List/neo4j/errors.md": "b6602961-93f1-49c7-a46f-236aab469ff2",
     "Software/List/neo4j/apoc.md": "bf6b7000-6d3a-444e-8fe3-d9f1ba437eb7",
     "Software/List/neo4j/Neo4J Concepts.md": "2b356d6d-34f1-475f-af26-080fcfb0935e",
@@ -8448,6 +8474,7 @@
     "MyProjects/Junk Projects/obsidian-publish + hugo.md": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "MyProjects/Junk Projects/Let's Learn Web Scraping.md": "3dc8dff3-226e-4315-a126-df63912c5265",
     "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
+    "MyProjects/ETL to QE/ETL to Question Engine, Update 6.md": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe",
     "MyProjects/ENS Indexing/Logs - ENS Indexing.md": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "MyProjects/ENS Indexing/ENS Indexing.md": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -8700,6 +8727,7 @@
     "Media/List/The Subtle Art of Not Giving a F*ck.md": "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "Media/List/The Singularity Is Near.md": "051e7911-5b2a-43e8-89be-899447d13e80",
     "Media/List/The Sims.md": "54df0011-226d-4cc6-b778-196e55d806eb",
+    "Media/List/The Selfish Gene.md": "7209bc84-901d-4ab0-a15f-d74edcf7dc21",
     "Media/List/The Secret Teachings of All Ages.md": "e0848d37-a95f-432f-ac21-2af2de7db879",
     "Media/List/The Rediscovery of Man.md": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "Media/List/The Pretender.md": "43969bae-648b-428c-9a76-c122025b03bd",
@@ -8943,20 +8971,24 @@
     "1155": "d2b98fd3-621a-44f7-bc53-9108b5822cc6",
     "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
-    "The 4 Step plan for Question Engine": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "The 4 Step plan for Question Engine v0": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "Tasks for ETL to Question Engine": "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+    "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439",
     "Project Update Posts": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
     "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1",
     "How to get message count by day for a single discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb",
     "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04",
-    "ETL to Question Engine, Day 4": "d59dbed7-08bd-462e-8f87-24a80c791f46",
-    "ETL to Question Engine, Day 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
-    "ETL to Question Engine, Day 2": "01d14af7-0d89-4c3a-90a8-12696e01e036",
-    "ETL to Question Engine, Day 1": "adf51542-a86b-437b-8542-9ef82c41d7a2",
+    "ETL to Question Engine, Update 5": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
+    "ETL to Question Engine, Update 4": "d59dbed7-08bd-462e-8f87-24a80c791f46",
+    "ETL to Question Engine, Update 3": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
+    "ETL to Question Engine, Update 2": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "ETL to Question Engine, Update 1": "adf51542-a86b-437b-8542-9ef82c41d7a2",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "Dentropy's Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "DAO Frameworks": "d5820bd1-d82d-4dbb-962d-976998e9c8e0",
     "Catechism - Discord Auditing, DAO use Case V0": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "Catechism - Discord Auditing, DAO Use case V0": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "Wiki Backlog": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
@@ -9180,7 +9212,7 @@
     "Power Law": "2f932b60-8d67-4d38-9445-c76eed264556",
     "Polycentricity": "48155d84-e748-43d3-97bf-5704d31a6514",
     "Political Science": "00f61098-d176-4725-9f93-1f6c18c33f36",
-    "Plato s forms": "30ad88dd-75b7-40e0-922e-48ef923ae691",
+    "Plato's forms": "30ad88dd-75b7-40e0-922e-48ef923ae691",
     "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541",
     "Personality Types": "f4069273-338a-417a-8a31-4dfaf46eeea0",
     "Personal Legend": "c40839b6-4800-4114-82c2-616f63dad575",
@@ -9217,6 +9249,7 @@
     "Morphic Resonance": "1ea4d752-e783-45f8-a355-98b52d0ca391",
     "Moral Algebra": "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9",
     "Monorepos": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d",
+    "Money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1",
     "Mission vs Vision Statements": "7c585bdb-a859-45c2-809f-8b19eb719521",
     "Mission Statement": "e99c7bdd-3987-441e-a043-bcc81d6d2b29",
     "Mind": "0495f426-37dc-44c5-92fe-a494b814ecf9",
@@ -9493,6 +9526,7 @@
     "faceswap": "bb368f34-e6c4-497e-9b2d-35e712b7cbe7",
     "Untitled": "543a07b7-f371-4dff-8d43-e2882017cdbb",
     "Software Languages": "09d86337-622e-4709-9f61-c6d5587704f6",
+    "Software - Favourite, organized by platform": "6a24cf3e-5693-4b99-b620-c3766a02a6c9",
     "Favourite Apps": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
     "Dentropy's Ideal DevSecOps Stack": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
     "Catagories": "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5",
@@ -9655,7 +9689,7 @@
     "k3s": "8d351969-d4a8-4c55-a718-2bc39b34076b",
     "justclip": "dcf6b4e7-1a71-4303-8414-430300187eb1",
     "jupyter": "14b19809-58b0-44c8-a719-c50badebb08c",
-    "json": "8d66bcf6-8ed6-4fa0-9813-09776926bec4",
+    "json2csv": "b25b94cd-c49d-4ec2-b1a7-9414df74b7f2",
     "jq": "6919cd5a-1a38-47e7-be2e-a3db232144dc",
     "jpegoptim": "ccb2e810-649a-41ea-9a3c-a8b89b151b6e",
     "irchiver": "4bf832ee-c913-41d1-86c5-cf82550d16e4",
@@ -10120,12 +10154,12 @@
     "sequelize": "f5a3d87b-d303-49be-842e-ac5dd9c4b320",
     "react-data-grid": "d7872a52-59f9-4bf0-a8f9-b0eeb537595c",
     "nodejs glob": "3af71fee-8ad7-40ae-8efd-8d18dcda1ac4",
-    "json2csv": "b25b94cd-c49d-4ec2-b1a7-9414df74b7f2",
     "express": "7f295d10-1239-4cf4-a03b-ef5d52c46e3f",
     "elasticdump": "e0e8f50c-50a2-4e43-9a82-d872ca07fa32",
     "dotenv": "a1d90091-118b-44c7-880e-04ebcf30c270",
     "terms": "8f4bc1b0-12f3-4956-bf1b-a167c1d91656",
     "plugins": "f432834b-73c9-4f2a-9e25-ec9111741911",
+    "json - NEO4J": "8d66bcf6-8ed6-4fa0-9813-09776926bec4",
     "errors": "eed4dc67-5076-4c0a-b5a3-7464d61176c1",
     "apoc": "bf6b7000-6d3a-444e-8fe3-d9f1ba437eb7",
     "Neo4J Concepts": "2b356d6d-34f1-475f-af26-080fcfb0935e",
@@ -10648,6 +10682,7 @@
     "obsidian-publish + hugo": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "Let's Learn Web Scraping": "3dc8dff3-226e-4315-a126-df63912c5265",
     "Redefining Human Instrumentality White Paper v0": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
+    "ETL to Question Engine, Update 6": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe",
     "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "ENS Indexing": "28740a43-67c5-4930-8b5c-41c06e659c6a",
     "dentropycloud": "e98a394d-7608-4f7b-916e-d4863e6aa62a",
@@ -10864,6 +10899,7 @@
     "The Subtle Art of Not Giving a F*ck": "76dc52eb-cd8e-423e-b9c3-979fcfc55384",
     "The Singularity Is Near": "051e7911-5b2a-43e8-89be-899447d13e80",
     "The Sims": "54df0011-226d-4cc6-b778-196e55d806eb",
+    "The Selfish Gene": "7209bc84-901d-4ab0-a15f-d74edcf7dc21",
     "The Secret Teachings of All Ages": "e0848d37-a95f-432f-ac21-2af2de7db879",
     "The Rediscovery of Man": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
     "The Pretender": "43969bae-648b-428c-9a76-c122025b03bd",
@@ -11109,12 +11145,22 @@
     "9dfba51c-8092-411d-859b-9acf356ec385": {
       "uuid": "9dfba51c-8092-411d-859b-9acf356ec385",
       "share": true,
-      "title": "The 4 Step plan for Question Engine"
+      "title": "The 4 Step plan for Question Engine v0"
+    },
+    "a6649a28-5862-4820-8797-1cfaf2ba1713": {
+      "uuid": "a6649a28-5862-4820-8797-1cfaf2ba1713",
+      "share": true,
+      "title": "Tasks for ETL to Question Engine"
     },
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": {
       "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
       "share": true,
       "title": "Questions to Answer in General Report to Compare Discord Guilds"
+    },
+    "81513d3d-8329-4638-b04e-e6cb2002e439": {
+      "uuid": "81513d3d-8329-4638-b04e-e6cb2002e439",
+      "share": true,
+      "title": "Questions for DAO Platforms"
     },
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": {
       "uuid": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
@@ -11141,25 +11187,30 @@
       "share": true,
       "title": "Favourite Homelab Software"
     },
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d": {
+      "uuid": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
+      "share": true,
+      "title": "ETL to Question Engine, Update 5"
+    },
     "d59dbed7-08bd-462e-8f87-24a80c791f46": {
       "uuid": "d59dbed7-08bd-462e-8f87-24a80c791f46",
       "share": true,
-      "title": "ETL to Question Engine, Day 4"
+      "title": "ETL to Question Engine, Update 4"
     },
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": {
       "uuid": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
       "share": true,
-      "title": "ETL to Question Engine, Day 3"
+      "title": "ETL to Question Engine, Update 3"
     },
     "01d14af7-0d89-4c3a-90a8-12696e01e036": {
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036",
       "share": true,
-      "title": "ETL to Question Engine, Day 2"
+      "title": "ETL to Question Engine, Update 2"
     },
     "adf51542-a86b-437b-8542-9ef82c41d7a2": {
       "uuid": "adf51542-a86b-437b-8542-9ef82c41d7a2",
       "share": true,
-      "title": "ETL to Question Engine, Day 1"
+      "title": "ETL to Question Engine, Update 1"
     },
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": {
       "share": true,
@@ -11175,6 +11226,11 @@
       "share": true,
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
       "title": "Dentropy's Blog Posts"
+    },
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0": {
+      "uuid": "d5820bd1-d82d-4dbb-962d-976998e9c8e0",
+      "share": true,
+      "title": "DAO Frameworks"
     },
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": {
       "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
@@ -11599,7 +11655,7 @@
     "5abf56a4-c2be-4aa9-8438-c3f785539ca1": {
       "share": true,
       "uuid": "5abf56a4-c2be-4aa9-8438-c3f785539ca1",
-      "title": "money"
+      "title": "Money"
     },
     "12d95a7f-52e7-4d21-8284-85a8049b9398": {
       "share": true,
@@ -12299,7 +12355,7 @@
     "30ad88dd-75b7-40e0-922e-48ef923ae691": {
       "share": true,
       "uuid": "30ad88dd-75b7-40e0-922e-48ef923ae691",
-      "title": "Plato s forms"
+      "title": "Plato's forms"
     },
     "7a2ded97-be68-4fd6-aab2-2e82fcd6b541": {
       "share": true,
@@ -13886,6 +13942,11 @@
       "uuid": "09d86337-622e-4709-9f61-c6d5587704f6",
       "title": "Software Languages"
     },
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9": {
+      "uuid": "6a24cf3e-5693-4b99-b620-c3766a02a6c9",
+      "share": true,
+      "title": "Software - Favourite, organized by platform"
+    },
     "444ff7c7-77b4-483c-b801-3955d2daeb0a": {
       "share": true,
       "uuid": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
@@ -14704,7 +14765,7 @@
     "9614ef64-f63e-4552-8559-a9b1d2c3a65b": {
       "share": true,
       "uuid": "9614ef64-f63e-4552-8559-a9b1d2c3a65b",
-      "title": "json"
+      "title": "json2csv"
     },
     "6919cd5a-1a38-47e7-be2e-a3db232144dc": {
       "share": true,
@@ -17069,7 +17130,7 @@
     "8d66bcf6-8ed6-4fa0-9813-09776926bec4": {
       "share": true,
       "uuid": "8d66bcf6-8ed6-4fa0-9813-09776926bec4",
-      "title": "json"
+      "title": "json - NEO4J"
     },
     "b6602961-93f1-49c7-a46f-236aab469ff2": {
       "share": true,
@@ -19814,6 +19875,11 @@
       ],
       "title": "Redefining Human Instrumentality White Paper v0"
     },
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe": {
+      "uuid": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe",
+      "share": true,
+      "title": "ETL to Question Engine, Update 6"
+    },
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": {
       "share": true,
       "uuid": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
@@ -20897,7 +20963,7 @@
     "7209bc84-901d-4ab0-a15f-d74edcf7dc21": {
       "share": true,
       "uuid": "7209bc84-901d-4ab0-a15f-d74edcf7dc21",
-      "title": "the selfish gene"
+      "title": "The Selfish Gene"
     },
     "53f0db9f-79ac-4afb-b488-b389ee93812e": {
       "share": true,
@@ -22317,11 +22383,17 @@
     "index.md": {
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b"
     },
-    "The 4 Step plan for Question Engine.md": {
+    "The 4 Step plan for Question Engine v0.0.1.md": {
       "uuid": "9dfba51c-8092-411d-859b-9acf356ec385"
+    },
+    "Tasks for ETL to Question Engine.md": {
+      "uuid": "a6649a28-5862-4820-8797-1cfaf2ba1713"
     },
     "Questions to Answer in General Report to Compare Discord Guilds.md": {
       "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
+    },
+    "Questions for DAO Platforms.md": {
+      "uuid": "81513d3d-8329-4638-b04e-e6cb2002e439"
     },
     "Project Update Posts.md": {
       "uuid": "4c45797f-8d43-4277-a5c1-de8df9aa7876"
@@ -22338,16 +22410,19 @@
     "Favourite Homelab Software.md": {
       "uuid": "21b9d9f0-fde9-4189-83b6-72102becce04"
     },
-    "ETL to Question Engine, Day 4.md": {
+    "ETL to Question Engine, Update 5.md": {
+      "uuid": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d"
+    },
+    "ETL to Question Engine, Update 4.md": {
       "uuid": "d59dbed7-08bd-462e-8f87-24a80c791f46"
     },
-    "ETL to Question Engine, Day 3.md": {
+    "ETL to Question Engine, Update 3.md": {
       "uuid": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
     },
-    "ETL to Question Engine, Day 2.md": {
+    "ETL to Question Engine, Update 2.md": {
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036"
     },
-    "ETL to Question Engine, Day 1.md": {
+    "ETL to Question Engine, Update 1.md": {
       "uuid": "adf51542-a86b-437b-8542-9ef82c41d7a2"
     },
     "Dentropy's Tutorials.md": {
@@ -22358,6 +22433,9 @@
     },
     "Dentropy's Blog Posts.md": {
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
+    },
+    "DAO Frameworks.md": {
+      "uuid": "d5820bd1-d82d-4dbb-962d-976998e9c8e0"
     },
     "Catechism - Discord Auditing, DAO use Case V0.0.1.md": {
       "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
@@ -23054,7 +23132,7 @@
           "Political Science.md": {
             "uuid": "00f61098-d176-4725-9f93-1f6c18c33f36"
           },
-          "Plato s forms.md": {
+          "Plato's forms.md": {
             "uuid": "30ad88dd-75b7-40e0-922e-48ef923ae691"
           },
           "Placeness.md": {
@@ -23164,6 +23242,9 @@
           },
           "Monorepos.md": {
             "uuid": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d"
+          },
+          "Money.md": {
+            "uuid": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
           },
           "Mission vs Vision Statements.md": {
             "uuid": "7c585bdb-a859-45c2-809f-8b19eb719521"
@@ -24044,6 +24125,9 @@
       "Software Languages.md": {
         "uuid": "09d86337-622e-4709-9f61-c6d5587704f6"
       },
+      "Software - Favourite, organized by platform.md": {
+        "uuid": "6a24cf3e-5693-4b99-b620-c3766a02a6c9"
+      },
       "Favourite Apps.md": {
         "uuid": "444ff7c7-77b4-483c-b801-3955d2daeb0a"
       },
@@ -24540,7 +24624,7 @@
         "jupyter.md": {
           "uuid": "14b19809-58b0-44c8-a719-c50badebb08c"
         },
-        "json.md": {
+        "json2csv.md": {
           "uuid": "9614ef64-f63e-4552-8559-a9b1d2c3a65b"
         },
         "jq.md": {
@@ -25988,7 +26072,7 @@
           "plugins.md": {
             "uuid": "6be81669-0880-4861-87c9-1175a86813b7"
           },
-          "json.md": {
+          "json - NEO4J.md": {
             "uuid": "8d66bcf6-8ed6-4fa0-9813-09776926bec4"
           },
           "errors.md": {
@@ -27888,6 +27972,11 @@
           }
         }
       },
+      "ETL to QE": {
+        "ETL to Question Engine, Update 6.md": {
+          "uuid": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe"
+        }
+      },
       "ENS Indexing": {
         "Logs - ENS Indexing.md": {
           "uuid": "3bbb81b1-154a-494f-acdf-781ad8ff35cf"
@@ -28737,6 +28826,9 @@
         "The Sims.md": {
           "uuid": "54df0011-226d-4cc6-b778-196e55d806eb"
         },
+        "The Selfish Gene.md": {
+          "uuid": "7209bc84-901d-4ab0-a15f-d74edcf7dc21"
+        },
         "The Secret Teachings of All Ages.md": {
           "uuid": "e0848d37-a95f-432f-ac21-2af2de7db879"
         },
@@ -29513,17 +29605,21 @@
   "embedded_note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [
       {
+        "link": "6a24cf3e-5693-4b99-b620-c3766a02a6c9",
         "text": "Software - Favourite, organized by platform",
         "heading": ""
       }
     ],
     "9dfba51c-8092-411d-859b-9acf356ec385": [],
+    "a6649a28-5862-4820-8797-1cfaf2ba1713": [],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
+    "81513d3d-8329-4638-b04e-e6cb2002e439": [],
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": [],
     "5a11269f-4323-4052-b079-c996cbde21f1": [],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [],
     "8b302a13-5350-41fc-b0c0-dc5bcb320adb": [],
     "21b9d9f0-fde9-4189-83b6-72102becce04": [],
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d": [],
     "d59dbed7-08bd-462e-8f87-24a80c791f46": [],
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": [],
     "01d14af7-0d89-4c3a-90a8-12696e01e036": [],
@@ -29531,6 +29627,7 @@
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [],
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0": [],
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [],
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
@@ -30168,6 +30265,7 @@
     "d286d408-14ea-44f3-8216-61f36fead14d": [],
     "feed7620-f082-43ed-b082-45d440b737b7": [],
     "09d86337-622e-4709-9f61-c6d5587704f6": [],
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9": [],
     "444ff7c7-77b4-483c-b801-3955d2daeb0a": [],
     "406a13ea-5f64-440a-b454-6b43afe9e0d5": [],
     "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5": [],
@@ -31601,6 +31699,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": [],
     "3dc8dff3-226e-4315-a126-df63912c5265": [],
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": [],
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe": [],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [],
     "28740a43-67c5-4930-8b5c-41c06e659c6a": [],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
@@ -32160,6 +32259,30 @@
       {
         "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
         "text": "Media I am currently consuming"
+      },
+      {
+        "link": "810020e2-c875-440a-b0c3-2a48333da314",
+        "text": "Favorite Browser Extensions"
+      },
+      {
+        "link": "59a298a0-ccc3-4027-8d22-1df8c7b58b43",
+        "text": "Favourite VSCode Extensions"
+      },
+      {
+        "link": "275484f1-3b27-4128-93bb-a12846eb3a02",
+        "text": "Favourite Obsidian Plugins"
+      },
+      {
+        "link": "21b9d9f0-fde9-4189-83b6-72102becce04",
+        "text": "Favourite Homelab Software"
+      },
+      {
+        "link": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
+        "text": "Favourite Apps"
+      },
+      {
+        "link": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
+        "text": "Dentropy's Ideal DevSecOps Stack"
       }
     ],
     "9dfba51c-8092-411d-859b-9acf356ec385": [
@@ -32175,7 +32298,36 @@
         "text": "Raindropio"
       },
       {
-        "text": "The 4 Step plan for Question Engine - Brainstorming"
+        "text": "The 4 Step plan for Question Engine - VERSIONS"
+      }
+    ],
+    "a6649a28-5862-4820-8797-1cfaf2ba1713": [
+      {
+        "text": "Get all raw data in one location - ETLtoQE"
+      },
+      {
+        "text": "Get a dedicated Postgres server - ETLtoQE"
+      },
+      {
+        "text": "Decide on ETL procedure and document it - ETLtoQE"
+      },
+      {
+        "text": "Create a single script for managing all ETL steps - ETLtoQE"
+      },
+      {
+        "text": "Publish the first generalised report using a Jupyter notebook - ETLtoQE"
+      },
+      {
+        "text": "Generate Guild Specific Reports - ETLtoQE"
+      },
+      {
+        "text": "Get the Dashboard up and running with Basic Auth - ETLtoQE"
+      },
+      {
+        "text": "Add JSON Web Token Authentication to Dashboard App - ETLtoQE"
+      },
+      {
+        "text": "Decide on a Graph Database and write a Blog Post about it - ETLtoQE"
       }
     ],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [
@@ -32243,32 +32395,43 @@
         "text": "What is the average half life of top 30% active users?"
       }
     ],
+    "81513d3d-8329-4638-b04e-e6cb2002e439": [
+      {
+        "link": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696",
+        "text": "List of DAO Platforms"
+      }
+    ],
     "4c45797f-8d43-4277-a5c1-de8df9aa7876": [
       {
-        "link": "9dfba51c-8092-411d-859b-9acf356ec385",
-        "text": "The 4 Step plan for Question Engine"
+        "text": "The 4 Step plan for Question Engine v0.0.2"
       },
       {
+        "link": "a6649a28-5862-4820-8797-1cfaf2ba1713",
         "text": "Tasks for ETL to Question Engine"
       },
       {
         "link": "adf51542-a86b-437b-8542-9ef82c41d7a2",
-        "text": "ETL to Question Engine, Day 1"
+        "text": "ETL to Question Engine, Update 1"
       },
       {
         "link": "01d14af7-0d89-4c3a-90a8-12696e01e036",
-        "text": "ETL to Question Engine, Day 2"
+        "text": "ETL to Question Engine, Update 2"
       },
       {
         "link": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
-        "text": "ETL to Question Engine, Day 3"
+        "text": "ETL to Question Engine, Update 3"
       },
       {
         "link": "d59dbed7-08bd-462e-8f87-24a80c791f46",
-        "text": "ETL to Question Engine, Day 4"
+        "text": "ETL to Question Engine, Update 4"
       },
       {
-        "text": "ETL to Question Engine, Day 5"
+        "link": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
+        "text": "ETL to Question Engine, Update 5"
+      },
+      {
+        "link": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe",
+        "text": "ETL to Question Engine, Update 6"
       },
       {
         "text": "Best documents that Articulate how I think?"
@@ -32302,6 +32465,21 @@
       {
         "link": "d0573927-80c5-4128-bd20-5b13c7948572",
         "text": "mediagoblin"
+      }
+    ],
+    "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d": [
+      {
+        "text": "2023-10-07"
+      },
+      {
+        "link": "80428ac9-197a-4c70-9230-119cf9079782",
+        "text": "Python"
+      },
+      {
+        "text": "psycopg2"
+      },
+      {
+        "text": "psycopg2"
       }
     ],
     "d59dbed7-08bd-462e-8f87-24a80c791f46": [
@@ -32728,24 +32906,8 @@
     ],
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [
       {
-        "link": "c4747e80-98b8-4dca-93d9-14d4e6425e70",
-        "text": "Inital Writings"
-      },
-      {
-        "link": "6d0bbf21-e1ea-4a09-9597-ec479b998235",
-        "text": "Mapping out Self Actualization"
-      },
-      {
-        "link": "b6611f4f-b019-4676-902e-8ea82840d740",
-        "text": "Videos and Their Scripts"
-      },
-      {
         "link": "3fdd115e-53ba-40fe-af63-e5e19b97f763",
         "text": "Virtualizing The Self"
-      },
-      {
-        "link": "f91229f0-4d0f-46d1-b754-4f775e256bab",
-        "text": "What Humans Value"
       },
       {
         "link": "e3ed979d-7207-4dfa-806c-03aab973a4c9",
@@ -32764,10 +32926,6 @@
         "text": "Consciousness and Parasites"
       },
       {
-        "link": "e31b6996-be14-48bd-a5fa-ab084285ad6e",
-        "text": "What is My Vision"
-      },
-      {
         "link": "952abb04-36df-4913-ace1-651763fa1c88",
         "text": "The Daemon is Real, Now What?"
       },
@@ -32776,23 +32934,22 @@
         "text": "How Does One Go About Wielding Their Own Plot Armor?"
       },
       {
-        "link": "09275ad7-56d9-47e1-b3ea-0e8ded3dce90",
-        "text": "Blockchain as the Operating System for the Technological Singularity"
+        "link": "c4747e80-98b8-4dca-93d9-14d4e6425e70",
+        "text": "Inital Writings"
       },
       {
-        "link": "0d7e33d9-001b-427f-a7c1-ad2c1a872b2c",
-        "text": "The Human Social Interface"
+        "link": "6d0bbf21-e1ea-4a09-9597-ec479b998235",
+        "text": "Mapping out Self Actualization"
       },
       {
-        "link": "2cee33f1-a73c-4c9c-b2e1-598fd2aa755b",
-        "text": "Mapping The Human Heart"
-      },
+        "link": "b6611f4f-b019-4676-902e-8ea82840d740",
+        "text": "Videos and Their Scripts"
+      }
+    ],
+    "d5820bd1-d82d-4dbb-962d-976998e9c8e0": [
       {
-        "link": "417617a8-a7b5-429c-8f5e-0e56ffe6ef21",
-        "text": "Becoming A Dataist In Training"
-      },
-      {
-        "text": "Privacy Should You Care?"
+        "link": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696",
+        "text": "List of DAO Platforms"
       }
     ],
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [
@@ -32958,13 +33115,12 @@
     "a823faee-57dd-4429-9a1b-3b8309fc3990": [],
     "b24ee33c-b3bb-400e-ac10-fe833a536955": [
       {
-        "text": "dentropydaemon-wiki/Software/List/Solidity"
+        "link": "86cef5db-02ab-4632-ad1d-6141a185f418",
+        "text": "Gnosis Safe"
       },
       {
-        "text": "dentropydaemon-wiki/Software/List/Gnosis Safe 1"
-      },
-      {
-        "text": "https://snapshot.org/#/"
+        "link": "4b2540c5-d8c0-4ede-9a01-4f3208a9d61b",
+        "text": "Solidity"
       }
     ],
     "2e4b8504-85db-4ad1-bbfa-4cfb1216bdfe": [],
@@ -33324,14 +33480,7 @@
     "ae883edf-bdf2-495d-a827-858ffc721c0e": [],
     "9b557b41-62c1-4aff-a998-bcd31891860a": [],
     "d5d02b16-ef02-4300-86ab-e5928f51af3c": [],
-    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": [
-      {
-        "text": "Concepts.list.token"
-      },
-      {
-        "text": "Concepts.list.token"
-      }
-    ],
+    "5abf56a4-c2be-4aa9-8438-c3f785539ca1": [],
     "12d95a7f-52e7-4d21-8284-85a8049b9398": [],
     "06d2c85c-c8fd-4248-b7fe-19ba825c7b47": [],
     "4ba6fb77-1bf7-4636-8319-216b896daeb3": [],
@@ -33865,11 +34014,7 @@
     "b6786924-6c41-45c0-a50a-7859afe4c30c": [],
     "43e53b22-128d-471b-9fd3-817c561d2785": [],
     "a17f02e2-c772-43b5-bb7d-58076efd6cca": [],
-    "7e98de5e-7826-4d0d-ba60-81ea6bec5355": [
-      {
-        "text": "https://oldmanswar.fandom.com/wiki/Obin#:~:text=The Obin are a hermaphroditic,utterly conquered the enemy species.&text=The Consu uplifted the Obin,intelligence but not individual consciousness."
-      }
-    ],
+    "7e98de5e-7826-4d0d-ba60-81ea6bec5355": [],
     "e5a5a594-f979-4aa3-bbd0-da97ff62c224": [
       {
         "link": "186d92ba-1238-4523-8dfb-6520f90b88cf",
@@ -34012,7 +34157,8 @@
     ],
     "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696": [
       {
-        "text": "dentropydaemon-wiki/Wiki/Research/DAOs/DAO Protocols and Platforms/Snapshot"
+        "link": "b24ee33c-b3bb-400e-ac10-fe833a536955",
+        "text": "Snapshot"
       },
       {
         "text": "Boardroom"
@@ -34021,13 +34167,15 @@
         "text": "Colonyio"
       },
       {
-        "text": "dentropydaemon-wiki/Wiki/Research/DAOs/DAO Protocols and Platforms/daostack"
+        "link": "a823faee-57dd-4429-9a1b-3b8309fc3990",
+        "text": "daostack"
       },
       {
         "text": "Aragon"
       },
       {
-        "text": "dentropydaemon-wiki/Wiki/Research/DAOs/DAO Protocols and Platforms/DAOhaus"
+        "link": "688dae83-c9c3-44d3-b32c-c6248ea0958e",
+        "text": "DAOhaus"
       },
       {
         "text": "metasys"
@@ -34036,7 +34184,20 @@
         "text": "daomaker"
       },
       {
-        "text": "dentropydaemon-wiki/Software/List/dework.xyz"
+        "text": "dework.xyz"
+      },
+      {
+        "text": "SuperDAO"
+      },
+      {
+        "text": "Hats Protocol"
+      },
+      {
+        "link": "4d2a9441-0c44-4723-a392-2c8d2ad6601c",
+        "text": "Sobol"
+      },
+      {
+        "text": "DAO Lens"
       }
     ],
     "a732396b-42e4-469d-9734-cec11a9c5949": [
@@ -35298,6 +35459,32 @@
       },
       {
         "text": "Markup Language"
+      }
+    ],
+    "6a24cf3e-5693-4b99-b620-c3766a02a6c9": [
+      {
+        "link": "810020e2-c875-440a-b0c3-2a48333da314",
+        "text": "Favorite Browser Extensions"
+      },
+      {
+        "link": "59a298a0-ccc3-4027-8d22-1df8c7b58b43",
+        "text": "Favourite VSCode Extensions"
+      },
+      {
+        "link": "275484f1-3b27-4128-93bb-a12846eb3a02",
+        "text": "Favourite Obsidian Plugins"
+      },
+      {
+        "link": "21b9d9f0-fde9-4189-83b6-72102becce04",
+        "text": "Favourite Homelab Software"
+      },
+      {
+        "link": "444ff7c7-77b4-483c-b801-3955d2daeb0a",
+        "text": "Favourite Apps"
+      },
+      {
+        "link": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
+        "text": "Dentropy's Ideal DevSecOps Stack"
       }
     ],
     "444ff7c7-77b4-483c-b801-3955d2daeb0a": [
@@ -37327,19 +37514,52 @@
     "327ccd65-31f3-4d85-ba21-2ff42b69207d": [],
     "03e5fa8e-39f5-481b-a040-178350596d13": [
       {
-        "text": "How do I seed data into django models?"
+        "text": "In Django how do I setup a new project?"
+      },
+      {
+        "text": "In Django how do I reset superuser password?"
+      },
+      {
+        "text": "In Django what is the difference between a application, module and a project?"
+      },
+      {
+        "text": "In Django how do I create a new page?"
+      },
+      {
+        "text": "In Django how to I create a view that just returns a response rather than a HTML template?"
+      },
+      {
+        "text": "In Django how to return JSON rather than HTML page?"
+      },
+      {
+        "text": "In Django how do I require authentication for pages?"
+      },
+      {
+        "text": "In Django how to add a login page?"
+      },
+      {
+        "text": "In Django how to add a logout page?"
+      },
+      {
+        "text": "In Django how do I render a Plotly graph?"
+      },
+      {
+        "text": "In Django what is a model and how do I create one?"
+      },
+      {
+        "text": "In Django how do I seed data into models?"
+      },
+      {
+        "text": "In Django how do I access a model?"
+      },
+      {
+        "text": "In Django how do I create a JSON REST API?"
       },
       {
         "text": "How do I log all users out using django?"
       },
       {
-        "text": "How do I do a JSON REST API with django?"
-      },
-      {
         "text": "How do views work in django?"
-      },
-      {
-        "text": "How do I access the model in django?"
       },
       {
         "text": "How do I backup the database in django"
@@ -37365,10 +37585,10 @@
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": [
       {
         "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
-        "text": "wiki.ddaemon.monorepo.bindings.discord"
+        "text": "Discord Binding"
       },
       {
-        "text": "Dentropy Daemon.DiscordBot"
+        "text": "Discord Bot"
       }
     ],
     "e5892695-48a8-4b08-b405-d70790407a4a": [],
@@ -40074,7 +40294,7 @@
         "text": "How to list the number of Bots on a Discord Guild?"
       },
       {
-        "text": "How many Scraped Discord Guild?"
+        "text": "How many Scraped Discord Guilds?"
       },
       {
         "text": "How many Scraped Discord Channels?"
@@ -41342,7 +41562,7 @@
       },
       {
         "link": "5abf56a4-c2be-4aa9-8438-c3f785539ca1",
-        "text": "money"
+        "text": "Money"
       },
       {
         "link": "86653701-e0a0-4650-a202-4a5cca00b49b",
@@ -41357,33 +41577,34 @@
       },
       {
         "link": "4112ed67-47cb-4c85-a8f5-3530d70fcf01",
-        "text": "wiki.concepts.list.Theory of Mind"
+        "text": "Theory of Mind"
       },
       {
         "link": "816c0ab2-1934-4642-89fd-1bc1edd96961",
-        "text": "wiki.media.list.sapians"
+        "text": "Sapiens"
       },
       {
         "link": "7209bc84-901d-4ab0-a15f-d74edcf7dc21",
-        "text": "wiki.media.list.the selfish gene"
+        "text": "The Selfish Gene"
       },
       {
         "link": "7e98de5e-7826-4d0d-ba60-81ea6bec5355",
-        "text": "wiki.concepts.list.Obin"
+        "text": "Obin"
       },
       {
         "link": "a4b61ba6-0298-4022-a2e2-9901cc8aebe0",
-        "text": "wiki.media.list.Old Man s War"
+        "text": "Old Man s War"
       },
       {
         "link": "6472852f-3e10-4551-941d-95a970870d7c",
-        "text": "wiki.concepts.list.FAANG"
+        "text": "FAANG"
       },
       {
         "link": "0004d9a2-4b2e-4add-87c3-5bacafce1763",
-        "text": "wiki.concepts.list.emotions"
+        "text": "emotions"
       },
       {
+        "link": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
         "text": "wiki.heuristics.Axioms"
       },
       {
@@ -41399,7 +41620,7 @@
       },
       {
         "link": "d3a532e8-2278-4306-a8cf-10102894457a",
-        "text": "wiki.media.list.feeling is the secret"
+        "text": "Feeling is the secret"
       },
       {
         "link": "c40839b6-4800-4114-82c2-616f63dad575",
@@ -41432,12 +41653,15 @@
         "text": "wiki.media.list.feeling is the secret"
       },
       {
+        "text": "Meme Vectors"
+      },
+      {
         "link": "4112ed67-47cb-4c85-a8f5-3530d70fcf01",
-        "text": "wiki.concepts.list.Theory of Mind"
+        "text": "Theory of Mind"
       },
       {
         "link": "30ad88dd-75b7-40e0-922e-48ef923ae691",
-        "text": "wiki.concepts.list.Plato s forms"
+        "text": "Plato's forms"
       },
       {
         "link": "e3ed979d-7207-4dfa-806c-03aab973a4c9",
@@ -41445,7 +41669,7 @@
       },
       {
         "link": "32743aff-2183-417b-931a-d1319267e66b",
-        "text": "wiki.concepts.list.Gamer Girl Manifesto"
+        "text": "Gamer Girl Manifesto"
       },
       {
         "link": "6854e23e-3591-4432-9bcc-c82f2121ebd3",
@@ -41470,7 +41694,15 @@
     ],
     "952abb04-36df-4913-ace1-651763fa1c88": [],
     "7de2eb48-087b-4936-8446-dcc021b74966": [],
-    "b31360a6-ae1d-45d2-95e1-cd884a27971f": [],
+    "b31360a6-ae1d-45d2-95e1-cd884a27971f": [
+      {
+        "link": "b541230e-3354-44a6-ab43-917335802cf5",
+        "text": "Altered Carbon"
+      },
+      {
+        "text": "Ghost in The Shell"
+      }
+    ],
     "09275ad7-56d9-47e1-b3ea-0e8ded3dce90": [],
     "417617a8-a7b5-429c-8f5e-0e56ffe6ef21": [
       {
@@ -41851,6 +42083,9 @@
         "text": "DAO Auditing via Discord - Raw Queries"
       },
       {
+        "text": "DAO Auditing via Discord - Design Decisions"
+      },
+      {
         "text": "DAO Auditing via Discord Logs - Private"
       },
       {
@@ -41897,11 +42132,29 @@
         "text": "Discord Binding Fix Roles Bug"
       },
       {
-        "text": "Document Discord Scraping Procedure for DAO Auditing via Discord"
+        "text": "Discord Binding do not insert into JSON tables in Postgres"
+      },
+      {
+        "text": "Add Constraints for  Authors_t Attachments_t and Roles_t for DAO Auditing via Discord project"
+      },
+      {
+        "text": "How do we query the roles from the raw metadata JSON inside the discord guild SQLIte database?"
+      },
+      {
+        "text": "How to dump from Postgres to SQLite?"
+      },
+      {
+        "text": "How to dump Postgres to CSV?"
+      },
+      {
+        "text": "Business Intelligence Dashboard Tools"
       },
       {
         "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
         "text": "Questions for Discord Data?"
+      },
+      {
+        "text": "Document Discord Scraping Procedure for DAO Auditing via Discord"
       },
       {
         "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
@@ -41911,34 +42164,13 @@
         "text": "qstudio"
       },
       {
+        "text": "Write a Django Tutorial"
+      },
+      {
         "text": "Discord Scraping"
       },
       {
         "text": "Discord Scraping Data Migration, Proper SQL Tables not just JSON"
-      },
-      {
-        "text": "Add Constraints for  Authors_t Attachments_t and Roles_t for DAO Auditing via Discord project"
-      },
-      {
-        "text": "How do we query the roles from the raw metadata JSON inside the discord guild SQLIte database?"
-      },
-      {
-        "text": "How to copy specific tables from sqlite to postgres?"
-      },
-      {
-        "text": "How to dump from SQLite to Postgres?"
-      },
-      {
-        "text": "How to dump from Postgres to SQLite?"
-      },
-      {
-        "text": "How to dump Postgres to CSV?"
-      },
-      {
-        "text": "How to dump SQLite to CSV?"
-      },
-      {
-        "text": "Business Intelligence Dashboard Tools"
       },
       {
         "text": "How do these DAO tokens flow around?"
@@ -42452,6 +42684,25 @@
       },
       {
         "text": "Appcoins"
+      }
+    ],
+    "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe": [
+      {
+        "text": "2023-10-10"
+      },
+      {
+        "text": "psycopg2"
+      },
+      {
+        "link": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d",
+        "text": "ETL to Question Engine, Update 5"
+      },
+      {
+        "text": "DuckDB"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
       }
     ],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [
