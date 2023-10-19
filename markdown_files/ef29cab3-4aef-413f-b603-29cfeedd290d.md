@@ -10,7 +10,7 @@ title: Data Visualization
 * [JSCharting](https://jscharting.com/examples/chart-types/)
   * Licencing issues
   * [jscharting-react](https://github.com/jscharting/jscharting-react)
-* [Plotly](/undefined)
+* [plotly](/undefined)
   * [react-plotly.js](https://plotly.com/javascript/react/)
 * [Chart.js](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)
   * [react-chartjs-2: unofficial](https://github.com/reactchartjs/react-chartjs-2)

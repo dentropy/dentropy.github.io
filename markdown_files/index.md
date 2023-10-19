@@ -28,3 +28,5 @@ Hello, this is Dentropy and this is my personal wiki.
 * [Favourite Homelab Software](/21b9d9f0-fde9-4189-83b6-72102becce04)
 * [Favourite Apps](/444ff7c7-77b4-483c-b801-3955d2daeb0a)
 * [Dentropy's Ideal DevSecOps Stack](/406a13ea-5f64-440a-b454-6b43afe9e0d5)
+* [Best documents that Articulate how I think?](/undefined)
+	* Message me to get access to this document
