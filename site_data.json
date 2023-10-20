@@ -1495,7 +1495,6 @@
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "3d6300be-801b-4df3-93ad-ac452f22831d",
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -1641,13 +1640,13 @@
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651",
     "5eabb4fb-9967-41e2-af19-cb812e1d9453",
     "d3a532e8-2278-4306-a8cf-10102894457a",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3",
     "6ce495cd-8c66-4732-9c9e-7813000405d6",
     "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc",
     "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "053917a5-82f8-436b-bc18-730a4f28e983",
-    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "072dd632-729b-4e18-9a48-5df256881d68",
@@ -3748,7 +3747,6 @@
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media I am currently consuming.md",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2": "Media/Favorite Media.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "Media/Videos/NRx.md",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "Media/Type/podcast.md",
@@ -3893,13 +3891,13 @@
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": "Media/List/Finite and Infinite Games: A Vision of Life as Play and Possibility.md",
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": "Media/List/Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking.md",
     "d3a532e8-2278-4306-a8cf-10102894457a": "Media/List/Feeling is the secret.md",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Media/List/Favourite Media.md",
     "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": "Media/List/Fandom.com.md",
     "6ce495cd-8c66-4732-9c9e-7813000405d6": "Media/List/Everything you need to know about NFTs  DeFi  and Gaming.md",
     "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc": "Media/List/Ethereum Whitepaper.md",
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": "Media/List/ELI5 What exactly is the mind-body problem.md",
     "24229833-9146-4417-9a5a-0c46fa1efb1a": "Media/List/Dune.md",
     "053917a5-82f8-436b-bc18-730a4f28e983": "Media/List/Dune Messiah.md",
-    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Media/List/Dentropy's Favourite Media.md",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": "Media/List/Default Wisdom.md",
     "a0226036-bfd9-45c4-858e-445dabaa9d30": "Media/List/Death s END.md",
     "072dd632-729b-4e18-9a48-5df256881d68": "Media/List/Daniel Dennett: How Does the Brain Store Beliefs?.md",
@@ -5999,7 +5997,6 @@
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media I am currently consuming",
     "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2": "Favorite Media",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "NRx",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "podcast",
@@ -6144,13 +6141,13 @@
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": "Finite and Infinite Games: A Vision of Life as Play and Possibility",
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking",
     "d3a532e8-2278-4306-a8cf-10102894457a": "Feeling is the secret",
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Favourite Media",
     "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": "Fandom",
     "6ce495cd-8c66-4732-9c9e-7813000405d6": "Everything you need to know about NFTs  DeFi  and Gaming",
     "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc": "Ethereum Whitepaper",
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": "ELI5 What exactly is the mind-body problem",
     "24229833-9146-4417-9a5a-0c46fa1efb1a": "Dune",
     "053917a5-82f8-436b-bc18-730a4f28e983": "Dune Messiah",
-    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": "Dentropy's Favourite Media",
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": "Default Wisdom",
     "a0226036-bfd9-45c4-858e-445dabaa9d30": "Death s END",
     "072dd632-729b-4e18-9a48-5df256881d68": "Daniel Dennett: How Does the Brain Store Beliefs?",
@@ -8255,7 +8252,6 @@
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media I am currently consuming.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
-    "Media/Favorite Media.md": "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "Media/Videos/NRx.md": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "Media/Type/podcast.md": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -8401,13 +8397,13 @@
     "Media/List/Finite and Infinite Games: A Vision of Life as Play and Possibility.md": "c8f15232-dddf-4356-98a1-3d4c3ee0f651",
     "Media/List/Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking.md": "5eabb4fb-9967-41e2-af19-cb812e1d9453",
     "Media/List/Feeling is the secret.md": "d3a532e8-2278-4306-a8cf-10102894457a",
+    "Media/List/Favourite Media.md": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Media/List/Fandom.com.md": "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3",
     "Media/List/Everything you need to know about NFTs  DeFi  and Gaming.md": "6ce495cd-8c66-4732-9c9e-7813000405d6",
     "Media/List/Ethereum Whitepaper.md": "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc",
     "Media/List/ELI5 What exactly is the mind-body problem.md": "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "Media/List/Dune.md": "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "Media/List/Dune Messiah.md": "053917a5-82f8-436b-bc18-730a4f28e983",
-    "Media/List/Dentropy's Favourite Media.md": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Media/List/Default Wisdom.md": "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "Media/List/Death s END.md": "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "Media/List/Daniel Dennett: How Does the Brain Store Beliefs?.md": "072dd632-729b-4e18-9a48-5df256881d68",
@@ -10458,7 +10454,6 @@
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media I am currently consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
-    "Favorite Media": "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "NRx": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "podcast": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -10603,13 +10598,13 @@
     "Finite and Infinite Games: A Vision of Life as Play and Possibility": "c8f15232-dddf-4356-98a1-3d4c3ee0f651",
     "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking": "5eabb4fb-9967-41e2-af19-cb812e1d9453",
     "Feeling is the secret": "d3a532e8-2278-4306-a8cf-10102894457a",
+    "Favourite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Fandom": "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3",
     "Everything you need to know about NFTs  DeFi  and Gaming": "6ce495cd-8c66-4732-9c9e-7813000405d6",
     "Ethereum Whitepaper": "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc",
     "ELI5 What exactly is the mind-body problem": "7c7759d0-caa2-4c96-a187-8277dbe56b51",
     "Dune": "24229833-9146-4417-9a5a-0c46fa1efb1a",
     "Dune Messiah": "053917a5-82f8-436b-bc18-730a4f28e983",
-    "Dentropy's Favourite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
     "Default Wisdom": "e3ad5c22-a336-434d-a3b4-61ca249c496f",
     "Death s END": "a0226036-bfd9-45c4-858e-445dabaa9d30",
     "Daniel Dennett: How Does the Brain Store Beliefs?": "072dd632-729b-4e18-9a48-5df256881d68",
@@ -18656,11 +18651,6 @@
       "uuid": "3d6300be-801b-4df3-93ad-ac452f22831d",
       "title": "Media Consumption Backlog"
     },
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2": {
-      "uuid": "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2",
-      "share": true,
-      "title": "Favorite Media"
-    },
     "a75ff251-e084-43b9-afa7-ee9b23e25141": {
       "share": true,
       "uuid": "a75ff251-e084-43b9-afa7-ee9b23e25141",
@@ -19381,6 +19371,11 @@
       "uuid": "d3a532e8-2278-4306-a8cf-10102894457a",
       "title": "Feeling is the secret"
     },
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": {
+      "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
+      "share": true,
+      "title": "Favourite Media"
+    },
     "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": {
       "share": true,
       "uuid": "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3",
@@ -19410,11 +19405,6 @@
       "share": true,
       "uuid": "053917a5-82f8-436b-bc18-730a4f28e983",
       "title": "Dune Messiah"
-    },
-    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": {
-      "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
-      "share": true,
-      "title": "Dentropy's Favourite Media"
     },
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": {
       "share": true,
@@ -27415,9 +27405,6 @@
       "Media Consumption Backlog.md": {
         "uuid": "3d6300be-801b-4df3-93ad-ac452f22831d"
       },
-      "Favorite Media.md": {
-        "uuid": "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2"
-      },
       "Videos": {
         "Why Hegel knew there would be days like these.md": {
           "uuid": "a75ff251-e084-43b9-afa7-ee9b23e25141"
@@ -27860,6 +27847,9 @@
         "Feeling is the secret.md": {
           "uuid": "d3a532e8-2278-4306-a8cf-10102894457a"
         },
+        "Favourite Media.md": {
+          "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
+        },
         "Fandom.com.md": {
           "uuid": "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3"
         },
@@ -27877,9 +27867,6 @@
         },
         "Dune Messiah.md": {
           "uuid": "053917a5-82f8-436b-bc18-730a4f28e983"
-        },
-        "Dentropy's Favourite Media.md": {
-          "uuid": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
         },
         "Default Wisdom.md": {
           "uuid": "e3ad5c22-a336-434d-a3b4-61ca249c496f"
@@ -31577,7 +31564,6 @@
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
     "3d6300be-801b-4df3-93ad-ac452f22831d": [],
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": [],
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": [],
@@ -31731,13 +31717,13 @@
     "c8f15232-dddf-4356-98a1-3d4c3ee0f651": [],
     "5eabb4fb-9967-41e2-af19-cb812e1d9453": [],
     "d3a532e8-2278-4306-a8cf-10102894457a": [],
+    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [],
     "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": [],
     "6ce495cd-8c66-4732-9c9e-7813000405d6": [],
     "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc": [],
     "7c7759d0-caa2-4c96-a187-8277dbe56b51": [],
     "24229833-9146-4417-9a5a-0c46fa1efb1a": [],
     "053917a5-82f8-436b-bc18-730a4f28e983": [],
-    "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [],
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": [],
     "a0226036-bfd9-45c4-858e-445dabaa9d30": [],
     "072dd632-729b-4e18-9a48-5df256881d68": [],
@@ -32445,8 +32431,8 @@
         "text": "Favorite Software"
       },
       {
-        "link": "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2",
-        "text": "Favorite Media"
+        "link": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
+        "text": "Favourite Media"
       }
     ],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [
@@ -43994,6 +43980,9 @@
     ],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [
       {
+        "text": "The Diamond Age"
+      },
+      {
         "link": "24229833-9146-4417-9a5a-0c46fa1efb1a",
         "text": "Dune"
       },
@@ -44004,9 +43993,6 @@
       {
         "link": "cfa80bd3-71c6-4662-b215-bf0340ee2e74",
         "text": "The Light of Other Days"
-      },
-      {
-        "text": "The Deep"
       },
       {
         "text": "Darwin and the Machines"
@@ -44085,16 +44071,6 @@
       {
         "link": "cc5b2121-7847-4656-bf80-30fc4203283b",
         "text": "Travelers"
-      }
-    ],
-    "9a4f3ce0-c110-41fe-a8cd-0ae8a33c70d2": [
-      {
-        "link": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20",
-        "text": "Dentropy's Favourite Media"
-      },
-      {
-        "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-        "text": "Media I am currently consuming"
       }
     ],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [
@@ -44827,40 +44803,11 @@
       }
     ],
     "d3a532e8-2278-4306-a8cf-10102894457a": [],
-    "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": [
-      {
-        "link": "5f36394e-9b44-4bf3-b04a-39aa6c7789aa",
-        "text": "Website"
-      }
-    ],
-    "6ce495cd-8c66-4732-9c9e-7813000405d6": [
-      {
-        "link": "1dc1e76e-7ad5-428c-97bf-8d86ea6808d9",
-        "text": "wiki.concepts.list.NFT"
-      },
-      {
-        "text": "wiki.concepts.list.Defi"
-      },
-      {
-        "text": "Software.Programming Language.Solidity.ERC.721"
-      },
-      {
-        "text": "Software.Programming Language.Solidity.ERC.1155"
-      }
-    ],
-    "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc": [],
-    "7c7759d0-caa2-4c96-a187-8277dbe56b51": [],
-    "24229833-9146-4417-9a5a-0c46fa1efb1a": [],
-    "053917a5-82f8-436b-bc18-730a4f28e983": [
-      {
-        "link": "90d2da70-b13d-49c9-adba-5eedf3ec08f9",
-        "text": "Human Instrumentality"
-      },
-      {
-        "text": "Redefining My Delusion of Self"
-      }
-    ],
     "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [
+      {
+        "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+        "text": "Media I am currently consuming"
+      },
       {
         "link": "2055ffd4-310b-4f0f-b7f8-61d91402650c",
         "text": "Homo Deus"
@@ -44964,6 +44911,39 @@
       },
       {
         "text": "Ergo Proxy"
+      }
+    ],
+    "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3": [
+      {
+        "link": "5f36394e-9b44-4bf3-b04a-39aa6c7789aa",
+        "text": "Website"
+      }
+    ],
+    "6ce495cd-8c66-4732-9c9e-7813000405d6": [
+      {
+        "link": "1dc1e76e-7ad5-428c-97bf-8d86ea6808d9",
+        "text": "wiki.concepts.list.NFT"
+      },
+      {
+        "text": "wiki.concepts.list.Defi"
+      },
+      {
+        "text": "Software.Programming Language.Solidity.ERC.721"
+      },
+      {
+        "text": "Software.Programming Language.Solidity.ERC.1155"
+      }
+    ],
+    "f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc": [],
+    "7c7759d0-caa2-4c96-a187-8277dbe56b51": [],
+    "24229833-9146-4417-9a5a-0c46fa1efb1a": [],
+    "053917a5-82f8-436b-bc18-730a4f28e983": [
+      {
+        "link": "90d2da70-b13d-49c9-adba-5eedf3ec08f9",
+        "text": "Human Instrumentality"
+      },
+      {
+        "text": "Redefining My Delusion of Self"
       }
     ],
     "e3ad5c22-a336-434d-a3b4-61ca249c496f": [],
