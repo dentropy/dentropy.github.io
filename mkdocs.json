@@ -316,9 +316,6 @@
                 "setup": "95e0c650-f005-44b7-8e0f-c062d5805d19"
               },
               {
-                "reminders": "c694e2b4-07dc-46ab-9cc0-e918eb21246e"
-              },
-              {
                 "practice": "628d1aff-0d27-4739-b0bd-0f183d692875"
               },
               {
@@ -885,9 +882,6 @@
             "bash": [
               {
                 "rename": "b3752e1d-7236-46af-8b87-4dd5d2b42e4a"
-              },
-              {
-                "reminders": "51b24c5c-afc0-4196-ad38-02c3679710b4"
               },
               {
                 "generate password": "ada3bd04-0022-4654-aa27-b4e7050a1089"
@@ -1613,7 +1607,7 @@
             "beets-audible": "533a2f18-a660-4f10-912a-543a7c36bd05"
           },
           {
-            "bash": "1906d8cc-9479-4e96-995e-0b852f31ee83"
+            "bash": "51b24c5c-afc0-4196-ad38-02c3679710b4"
           },
           {
             "balenaEtcher": "48e8b11e-fa4e-4129-9f5a-2a274469725d"
@@ -2429,7 +2423,7 @@
             "Element For Matrix Protocol": "9158b8fa-8cd1-4fe7-af66-8f4cccde3c79"
           },
           {
-            "Elasticsearch": "c7a66d7a-c239-405f-bbe6-1f210e0b3f3b"
+            "Elasticsearch": "c694e2b4-07dc-46ab-9cc0-e918eb21246e"
           },
           {
             "EdgeDB": "b358ea0e-fa1f-4584-bea5-36891955fde8"
@@ -3210,6 +3204,9 @@
         "Software - Favourite, organized by platform": "6a24cf3e-5693-4b99-b620-c3766a02a6c9"
       },
       {
+        "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
+      },
+      {
         "Favourite Apps": "444ff7c7-77b4-483c-b801-3955d2daeb0a"
       },
       {
@@ -3217,6 +3214,9 @@
       },
       {
         "Data Engineering Tools": "0c2a3ad1-94c7-432e-9b8f-cd051028fd75"
+      },
+      {
+        "DAO Frameworks": "d5820bd1-d82d-4dbb-962d-976998e9c8e0"
       },
       {
         "Catagories": "cdf9f58f-9d28-4d6e-8668-4a7f6c0b99c5"
@@ -4028,6 +4028,13 @@
         ]
       },
       {
+        "Social Engineering": [
+          {
+            "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1"
+          }
+        ]
+      },
+      {
         "Robotics": [
           {
             "Logs - Robotics": "665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1"
@@ -4054,7 +4061,37 @@
       {
         "ETL to QE": [
           {
+            "The 4 Step plan for Question Engine v0.0.2": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
+          },
+          {
+            "The 4 Step plan for Question Engine v0.0.1": "9dfba51c-8092-411d-859b-9acf356ec385"
+          },
+          {
+            "Tasks for ETL to Question Engine": "a6649a28-5862-4820-8797-1cfaf2ba1713"
+          },
+          {
+            "ETL to Question Engine, Update 9, Wrote an ETL Class": "c307374d-a751-437a-8eb4-ff3dc7808499"
+          },
+          {
+            "ETL to Question Engine, Update 8, Wrote Analytics Class": "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8"
+          },
+          {
+            "ETL to Question Engine, Update 7, Fixing Bugs": "2a8426e6-7f84-42f2-82c3-e74e898e4c81"
+          },
+          {
             "ETL to Question Engine, Update 6, Native SQL Decision": "9dc97a82-96a0-495b-a8e2-a5c4d5c60abe"
+          },
+          {
+            "ETL to Question Engine, Update 5, Optimizations": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d"
+          },
+          {
+            "ETL to Question Engine, Update 4, Code Refactor and TrueNAS S3": "d59dbed7-08bd-462e-8f87-24a80c791f46"
+          },
+          {
+            "ETL to Question Engine, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
+          },
+          {
+            "ETL to Question Engine, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036"
           },
           {
             "ETL to Question Engine, Update 14": "a7099c90-7fb1-4230-9c47-874fd85e8837"
@@ -4070,6 +4107,9 @@
           },
           {
             "ETL to Question Engine, Update 10, Post Results on Discord": "a04a75b2-d970-44fc-8e09-53b3aeca6f2f"
+          },
+          {
+            "ETL to Question Engine, Update 1, SQLite to Postgres": "adf51542-a86b-437b-8542-9ef82c41d7a2"
           }
         ]
       },
@@ -4080,6 +4120,16 @@
           },
           {
             "ENS Indexing": "28740a43-67c5-4930-8b5c-41c06e659c6a"
+          }
+        ]
+      },
+      {
+        "Discord Data Analysis": [
+          {
+            "Catechism - Discord Auditing, DAO use Case V0.0.1": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
+          },
+          {
+            "Catechism - Discord Auditing, DAO Use case V0.0.2": "ed188fb4-fc23-4352-90f9-34b6fe1718e3"
           }
         ]
       },
@@ -4150,1625 +4200,6 @@
       },
       {
         "3D Printing": "facd4e1d-89a3-4120-a8c1-72e0e953142f"
-      }
-    ]
-  },
-  {
-    "Wiki": [
-      {
-        "Concepts": [
-          {
-            "List": [
-              {
-                "schema": [
-                  {
-                    "Snowflake": [
-                      {
-                        "3NF Third Normal Form": "b3267fa8-c110-4d80-a3ed-fdf68e34ff82"
-                      }
-                    ]
-                  },
-                  {
-                    "Star": "e6afe89a-3f66-4e2a-87d0-0c40d5807c13"
-                  },
-                  {
-                    "Snowflake": "7ec75773-8d28-4d8e-ac21-16060734a0c4"
-                  }
-                ]
-              },
-              {
-                "Database": [
-                  {
-                    "Graph": [
-                      {
-                        "Research": "f9030f9f-cf72-4bf3-a683-8b8cdc7ac11e"
-                      },
-                      {
-                        "Intuition": "1c488a38-c15b-43eb-aece-986e8332ca89"
-                      }
-                    ]
-                  },
-                  {
-                    "Relational": "403cb5ab-0ff3-4cd3-82fc-a7f1e934c954"
-                  },
-                  {
-                    "Graph": "35f29bc3-ad1f-4ea8-b6bc-7fbc33413c73"
-                  }
-                ]
-              },
-              {
-                "research": [
-                  {
-                    "product": "f4bee999-b5a6-47d0-a0b3-d87d0ca0e54a"
-                  },
-                  {
-                    "case study": "27ddb602-17ba-427c-9e1f-61f60c96846f"
-                  }
-                ]
-              },
-              {
-                "products": [
-                  {
-                    "life cycle": "6cb3d336-fbd0-4f63-ae57-ac81fa6ed7e0"
-                  },
-                  {
-                    "compare services": "2b4a5c0a-89b3-4efb-ad3a-3fd2a840cb77"
-                  }
-                ]
-              },
-              {
-                "UTxO": [
-                  {
-                    "redeemer": "e57b6933-dc1a-4eaa-a758-cb0ab9f00e39"
-                  },
-                  {
-                    "datum": "83726d0a-1516-4140-a36c-4a3189bbb773"
-                  }
-                ]
-              },
-              {
-                "Gnosticism": [
-                  {
-                    "research": "6f4da628-929b-4e52-9399-e2ef45f8fbd6"
-                  }
-                ]
-              },
-              {
-                "Data Warehouse Archiecture": [
-                  {
-                    "Kimball s Bus": "4af2b623-59ad-4eaf-9e5f-505c3a99bc14"
-                  },
-                  {
-                    "Inmon s Corporate Information Factory": "a05cbbee-a18a-4a8a-9948-ee1fc05ad0d5"
-                  },
-                  {
-                    "Independent Data Marts": "1ceb378a-9918-4df0-940b-c6bc59cd21e9"
-                  },
-                  {
-                    "Hybrid Kimball Busss and Inmon CIF": "bda2e085-93c5-4833-91fa-58caed638ea9"
-                  }
-                ]
-              },
-              {
-                "Crypto Projects": [
-                  {
-                    "Ulti Arena": "8c2b056a-a495-45c1-83bb-366062383924"
-                  },
-                  {
-                    "The Sandbox": "ad2e18d9-85e6-4858-9123-bf1423689355"
-                  },
-                  {
-                    "Ethermon": "74d1302c-cd44-49c9-b0cb-a29806037ae1"
-                  },
-                  {
-                    "Decentraland": "3079829e-6163-4297-9701-ba03086bde7d"
-                  },
-                  {
-                    "Axie Infinity": "9762ae63-30f4-4c26-8a57-b5bd180b15c9"
-                  }
-                ]
-              },
-              {
-                "Big Five Personality Traits": [
-                  {
-                    "neuroticism": "8ba62642-aeac-4887-aad4-ed8c74e9816d"
-                  },
-                  {
-                    "extraversion": "5374772b-3c8a-4d99-9905-808fe542278d"
-                  },
-                  {
-                    "conscientiousness": "32e4b16a-2d8f-46ea-851e-5ec3dd9435bb"
-                  },
-                  {
-                    "agreeableness": "b9e10b34-9161-41f4-b658-3b22b20a2897"
-                  },
-                  {
-                    "Personality Trait Openness": "68a0f5c8-ca7f-45b1-8295-cbedd2f1b737"
-                  }
-                ]
-              },
-              {
-                "zettelkasten": "63312c68-1fef-48d3-b437-7e4858c93d8b"
-              },
-              {
-                "you are your attention": "4704385b-426f-4ed6-9e28-d0d0e6b67c10"
-              },
-              {
-                "whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
-              },
-              {
-                "we-are-already-cyborgs": "823657d2-c064-4a83-934f-d59a9bcd5caa"
-              },
-              {
-                "vps": "be804dcd-1a4e-4a3f-a17e-b56d1fdd40d6"
-              },
-              {
-                "vesting": "07c46a92-c6ab-4e52-807d-25af35e8c95e"
-              },
-              {
-                "valence": "61d052f2-088c-48a2-bb0f-49c24d218dd1"
-              },
-              {
-                "target market": "6d6242ee-9525-46b5-85ec-d8eb6a3a6a42"
-              },
-              {
-                "sexisim": "fb5cfe94-7fbd-4077-a788-99ce3978e330"
-              },
-              {
-                "services": "2535bc0b-46eb-4ae8-b323-5100cc32e6ac"
-              },
-              {
-                "self": "4a314864-0923-4bca-8527-87a3327e4ef9"
-              },
-              {
-                "self awareness": "b40296fc-58e1-4bc2-aab4-b8b0767fa643"
-              },
-              {
-                "second-brain": "3ce09588-25bc-49a2-9d55-0d71210aef2e"
-              },
-              {
-                "schema": "83aca571-097c-4635-9973-e0fea44806d5"
-              },
-              {
-                "research": "bb2cc052-fe4b-4e14-9402-517766d5c379"
-              },
-              {
-                "regime of attention": "c114de69-8e48-4688-8e93-d3c8a50028cf"
-              },
-              {
-                "red pill": "e5eab156-af05-4daf-8f10-bf5bb8ae1393"
-              },
-              {
-                "rape": "995cc032-f951-4c7e-a3ac-c29ece0f9303"
-              },
-              {
-                "psychopathy": "7f19ce59-a75b-4443-a884-82f3e1ee1bf2"
-              },
-              {
-                "protocol": "c3e60c21-f8ad-4054-b4cf-c5e8ece4d978"
-              },
-              {
-                "politics": "30c12975-a812-43c5-b708-92cda7b880d4"
-              },
-              {
-                "political formula": "0338ed57-c8d1-48b4-ac47-d19382d7bcf9"
-              },
-              {
-                "phylogeny": "38dcc960-4830-4305-9568-12e32a8bde51"
-              },
-              {
-                "phrasing": "0fbea940-0d88-4c12-8c49-593238757233"
-              },
-              {
-                "personality": "3dc59546-3de4-484f-9726-9711ec1b3b7f"
-              },
-              {
-                "nootropics": "ea2f2334-e9b2-4fa8-9d60-214ff3da8a51"
-              },
-              {
-                "non existence": "ec46c4f4-521c-4dbc-85a5-55b9cdff9f99"
-              },
-              {
-                "neurological disorders": "7c9e1bba-67b7-4bd8-9f03-d115f10be3df"
-              },
-              {
-                "neurological conditions": "56dfc509-b7c1-4d78-b08e-b2a869b568a9"
-              },
-              {
-                "network": "ae883edf-bdf2-495d-a827-858ffc721c0e"
-              },
-              {
-                "narcissism": "9b557b41-62c1-4aff-a998-bcd31891860a"
-              },
-              {
-                "mutex": "d5d02b16-ef02-4300-86ab-e5928f51af3c"
-              },
-              {
-                "money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
-              },
-              {
-                "mnemonic": "12d95a7f-52e7-4d21-8284-85a8049b9398"
-              },
-              {
-                "mirror for princes": "06d2c85c-c8fd-4248-b7fe-19ba825c7b47"
-              },
-              {
-                "maslow s hierarchy of needs": "4ba6fb77-1bf7-4636-8319-216b896daeb3"
-              },
-              {
-                "market maker": "3fd2ea50-e9bb-4c8c-a6c4-8489cf5cc5db"
-              },
-              {
-                "mania": "5aa092a2-f6c4-4ae7-9005-73a91b384b52"
-              },
-              {
-                "liquidity": "49b5f8b4-83d3-41cb-8d81-632f8d84fc1b"
-              },
-              {
-                "knowledge management": "7decfa6a-d846-4d65-896c-cb2d2c315edc"
-              },
-              {
-                "islander": "84181a87-2901-4dd3-b101-0c7b10e5ee2b"
-              },
-              {
-                "internet": "a2b70820-68e9-4593-940d-28cae928ecb1"
-              },
-              {
-                "incel": "634a87e7-e5bd-44be-bf18-148e712bfbdd"
-              },
-              {
-                "ideology research": "9946c9b6-7667-403f-bf89-b86530543279"
-              },
-              {
-                "ideology interpratation": "c28ee0d5-2c9f-4348-a09a-e2bb8cbf52fa"
-              },
-              {
-                "humor": "4ca766d9-10c8-45c0-bf2c-db54930cb94d"
-              },
-              {
-                "human script": "97ae3fbc-1f95-4ec4-a37f-49fa885fa925"
-              },
-              {
-                "human programable interface": "2828367d-4d62-487d-b582-52732d82b228"
-              },
-              {
-                "human nature": "d275225a-afe1-4d56-bb14-16775ee336a8"
-              },
-              {
-                "hpi": "dfda1180-e79f-4f05-880a-91f26f7c906c"
-              },
-              {
-                "holism": "7325ec18-5c6a-4e43-bb36-437050d54025"
-              },
-              {
-                "harmonic motion": "4fca2964-217c-4477-b868-1c6feb7f2e6d"
-              },
-              {
-                "graphs": "f17f125a-67fe-4243-aab9-a200db034b5d"
-              },
-              {
-                "fractal resonance": "c8724c97-18ca-4be6-ab2b-d737a036fa5e"
-              },
-              {
-                "feminisim": "d397c527-5132-47b7-be3e-1b1803bb9034"
-              },
-              {
-                "fediverse": "1c594442-cdbe-45e3-94ba-904788c28a82"
-              },
-              {
-                "fascination": "f6ab1d54-00d7-4782-83bb-df803f134e92"
-              },
-              {
-                "export your data": "be60b7d9-683e-46e6-a06c-8115d704aaa4"
-              },
-              {
-                "emotions": "0004d9a2-4b2e-4add-87c3-5bacafce1763"
-              },
-              {
-                "ego": "30642aec-f0e6-48db-89b3-171f4edb6936"
-              },
-              {
-                "distributed database": "0b412d35-920f-42fb-bfa2-501ed3224ded"
-              },
-              {
-                "dissociation": "2884e45d-0ba4-48f6-b8e0-1e0e8e7267cc"
-              },
-              {
-                "dentropydaemon - dd": "074834fe-d249-470e-8349-0298a0b0efe7"
-              },
-              {
-                "datum": "10209b0f-e9ea-4108-8c73-1f4fde6716d8"
-              },
-              {
-                "datagram": "3f1a8a37-88db-4a2c-ba6d-629ff07e6b30"
-              },
-              {
-                "daemon": "68931db0-bff0-4263-a326-59a535128eef"
-              },
-              {
-                "currency": "9bbf9f94-ce30-4785-8fe1-2a573ef50e97"
-              },
-              {
-                "cool search queries": "f57b2752-ef16-4d34-b6b4-5450ea644e9a"
-              },
-              {
-                "conceit": "f366ec1a-7141-4d71-af13-fb49a93b63e3"
-              },
-              {
-                "computronium": "5df20957-c30d-4b68-aea7-2fe3630090e8"
-              },
-              {
-                "cognitive security": "e69ff86b-f69b-4765-9760-d72a5815caa9"
-              },
-              {
-                "borg": "519c1b0f-784f-403b-87c0-78dfa50e7c2d"
-              },
-              {
-                "blockchain": "19a688e9-c7c0-4860-9007-4f07778049f9"
-              },
-              {
-                "bitcoin": "661f0e89-294a-4700-b640-2b11b5ed1f19"
-              },
-              {
-                "bandwidth": "dccb8225-96a6-4e35-aa63-3fb663aa3c22"
-              },
-              {
-                "autonomous system": "dd1e7897-bba4-4bd0-8e04-3ce9f9ab61e5"
-              },
-              {
-                "asset": "b701732c-5997-4ab6-90dc-21f3e6f81384"
-              },
-              {
-                "algorithmic-reflection": "591ada32-45ce-4a1c-9376-2c326c66cc25"
-              },
-              {
-                "agency": "a3db424a-2fa6-4c96-abe9-b7f1469bfbfc"
-              },
-              {
-                "addiction": "b284bc3b-cdfc-4f55-a2c3-ad3ef7a11bce"
-              },
-              {
-                "Zombie Argument": "6b8a2641-1ad4-4a7b-a67f-3c2feaf425b7"
-              },
-              {
-                "Zeno's paradoxes": "a0064fb4-5c59-4a60-bd22-3caf820aded6"
-              },
-              {
-                "Ying and Yang": "b18b42e5-14e1-4812-9fed-316ec2309189"
-              },
-              {
-                "Window of Tolerance": "1110db89-aac5-4d7e-9b98-2cf7bd935a09"
-              },
-              {
-                "Will to Power": "2fc34bc0-efad-466c-ab71-e1a69c4b9aa4"
-              },
-              {
-                "Will of Death": "1c741552-bfcd-4170-9dbc-72b53eb593ae"
-              },
-              {
-                "What is the Self?": "b922b3dc-2194-4c7d-bb5a-360c501c57b2"
-              },
-              {
-                "What is it like to be a bat": "85201c82-74ef-4fb7-b505-b01d6bf994f3"
-              },
-              {
-                "What does toil mean": "887b8bc3-3497-48e5-939c-840a40c16fcf"
-              },
-              {
-                "What are we going to do with all these digital humunculuses after the people they are based on are long dead and gone?": "f6583d81-36ec-44a8-ae1f-192e0c97d64b"
-              },
-              {
-                "WTF Happened in 1971": "81258339-d5d0-4621-976f-48bfd0fe2d17"
-              },
-              {
-                "Vitalisim": "ba556fc4-5521-4ac8-95e1-f055e61d90f4"
-              },
-              {
-                "Vision": "a3735b61-cc59-4014-960c-2b29e5f708c5"
-              },
-              {
-                "Virtue": "b5438c4a-fc92-41e0-b2ae-dfb863c07aa1"
-              },
-              {
-                "Version Control": "2bdd0310-d250-44e4-953a-c1f502818838"
-              },
-              {
-                "VTuber": "1b2df9c7-c855-4d46-9d57-b1c0c8c95e26"
-              },
-              {
-                "User Stories": "44c10f20-28ae-489d-bc46-0547c7997242"
-              },
-              {
-                "Uncertainty principle": "db4b5c4f-cdc5-41aa-81ca-e414d025a46d"
-              },
-              {
-                "Unabomber": "68b44843-081c-4fde-9c75-f64cd99228c0"
-              },
-              {
-                "UTxO": "453e41cb-de0e-40a5-85d3-8df0bcf7036f"
-              },
-              {
-                "UPSERT": "e694de9e-8159-4c8c-91cc-b7a5f90b0ef9"
-              },
-              {
-                "Turing test": "6854e23e-3591-4432-9bcc-c82f2121ebd3"
-              },
-              {
-                "Trigger Action Plans": "be457de2-4c92-4aa4-8d86-a1a8e5292d66"
-              },
-              {
-                "Transhumanist Wager": "96b74864-ae25-4506-85fc-07e68424be59"
-              },
-              {
-                "Time Magazine": "7b79ee31-9fb0-4863-a25f-b36ba093bd05"
-              },
-              {
-                "Theory of Mind": "4112ed67-47cb-4c85-a8f5-3530d70fcf01"
-              },
-              {
-                "Theory of Everything": "e2917bd7-f3db-456e-bd8d-23cb0429bdbb"
-              },
-              {
-                "The medium is the message": "112002ce-a9e0-4067-90b5-ababb31c2d55"
-              },
-              {
-                "The Zeitgeist Movement": "4e962984-9d46-443d-85c8-0646f7d74dc8"
-              },
-              {
-                "The Transparent Society": "2d51ba0a-5a58-4f62-817f-378d1bfb934b"
-              },
-              {
-                "The Social Contract": "8dcaafc1-8ecb-4618-85b8-6f12b5d4a75d"
-              },
-              {
-                "The Shadow": "83ccc60d-dba8-45f6-9cc2-549d462d4a56"
-              },
-              {
-                "The Psyche": "a149485b-e789-4289-8610-8e381519107d"
-              },
-              {
-                "The Power Process": "520389b2-39a2-4555-9515-c8e1f6e0b68b"
-              },
-              {
-                "The Portal": "d19c1ed9-6cb6-4a37-b4ae-f25c9fcbf237"
-              },
-              {
-                "The Network State": "27a61c3f-b5d6-4502-859c-19532c34dd44"
-              },
-              {
-                "The Mazeway": "b245c9a5-0449-45cb-b391-30a8c1cffd7e"
-              },
-              {
-                "The Devil": "1d90b262-8145-445f-a666-8e750d7925ff"
-              },
-              {
-                "The Archatype": "7ef4847e-569c-4fe8-a958-a6caa1ce8947"
-              },
-              {
-                "Technology  Purpose of Technology": "a8840f23-6d6c-47b2-ab0f-8b0d09fae889"
-              },
-              {
-                "Technological Singularity": "fa4a378f-e4b7-4d57-982b-b847ba23ecc4"
-              },
-              {
-                "Technelogical Singularity": "5f5afccb-36ed-462e-85ae-2188f580378d"
-              },
-              {
-                "Tabletop Roleplaying Games": "b8ed90ee-7105-421d-a129-d1e2cd74b71b"
-              },
-              {
-                "TTRPG": "cb50fd3f-3585-4d1e-b0a6-9b041406394e"
-              },
-              {
-                "TODO": "e32c804d-06e3-46c6-ad4c-93521018b81c"
-              },
-              {
-                "System Diagram": "349406a8-720c-4504-8eed-1000830e3266"
-              },
-              {
-                "Summary": "56b29914-7463-46c4-8b1f-28caaf6dc220"
-              },
-              {
-                "Sublime Object": "99563fc9-d67c-411e-9908-85afbb58c40f"
-              },
-              {
-                "Stoicisim": "ddc479cf-bb65-4db1-a95e-8fe41c91208d"
-              },
-              {
-                "Stable coins": "a8d6dc1a-5a14-498b-8ba0-f97c6f36ec98"
-              },
-              {
-                "Socratic Dialog": "8461d422-3f37-4db9-b561-aa17b404a4ff"
-              },
-              {
-                "Society": "404f168c-ea95-4039-a285-76bf6ba6cb9f"
-              },
-              {
-                "Social Fractals": "fa7cf452-4de4-459b-b93d-64f451909626"
-              },
-              {
-                "Social Change Agents": "cd32f0e6-d80d-4d4e-9137-268793180b7f"
-              },
-              {
-                "Social Annotation": "644dd14f-7a90-472a-9475-1596ce8cb4de"
-              },
-              {
-                "Smart Contract": "7f9d9842-5d16-4933-b896-e3567d964168"
-              },
-              {
-                "Six degrees of separation": "5241197b-7146-46d5-9084-e10a1f56804f"
-              },
-              {
-                "SegWit": "b49d524c-d04d-48bb-9440-20fc2af95bc0"
-              },
-              {
-                "Second Brain": "34e4e459-5645-4dc4-9bf6-a877efe927c7"
-              },
-              {
-                "Science": "cc6c5e5e-cec2-4fca-9417-735223a0b0bd"
-              },
-              {
-                "Sapiosexual": "4eb3ea02-ed2d-4361-95a8-34f05cc33265"
-              },
-              {
-                "Sage": "91ebbefc-2cdd-4278-8c0f-f1b19f963713"
-              },
-              {
-                "Sacred Geometry": "e071d929-af5c-4659-9837-7fb03734c71d"
-              },
-              {
-                "SAO Game Seed": "f59c2d75-4642-49d2-b90d-fa62b0594a63"
-              },
-              {
-                "Rubber Hand Illusion": "95eaa7b6-77b1-424c-9f30-5824ad1d040e"
-              },
-              {
-                "Roku s Basalask": "c3c24b28-951c-4569-b09e-fe4531853674"
-              },
-              {
-                "Reverse Engineering the Human Soul": "dc1588aa-289a-4bd2-89d1-faf06ba1c28f"
-              },
-              {
-                "Religion": "9df8cab2-648c-4171-abef-b5c875f2183a"
-              },
-              {
-                "Relationships": "dfa112f3-0fc7-4b92-b5dd-91af756b13ed"
-              },
-              {
-                "Relational Database": "f7ad145d-acaf-417c-a73c-34f110e88c1d"
-              },
-              {
-                "Reality": "137d8b09-dc00-4ed9-bb2c-825b5173c62b"
-              },
-              {
-                "README": "d8c7020b-fa33-4a44-b3b2-b9daab505ff6"
-              },
-              {
-                "Quests": "20e73a51-3cf8-492e-ba90-b9ff7d625372"
-              },
-              {
-                "Question": "31ebcbb3-2de1-4e48-bdae-aac01c14add4"
-              },
-              {
-                "Quest": "fbf58632-0593-4291-8dca-a0b2e6841750"
-              },
-              {
-                "Qualia": "3ef6214a-27ae-42f3-8060-1febd27f3fc0"
-              },
-              {
-                "QPS": "e700d36f-a803-44e9-863e-c5cd4f98e877"
-              },
-              {
-                "QED": "d9af5ab3-d19a-4c6b-a7c6-81967a147653"
-              },
-              {
-                "Puppy Dog Training": "e98ebc35-4e0b-4e61-a167-2b5058233ee9"
-              },
-              {
-                "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
-              },
-              {
-                "Prople have ideas and ideas have people": "76261f75-3052-4d74-b15e-2468789911b6"
-              },
-              {
-                "Project Proposal": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb"
-              },
-              {
-                "Project Management": "0e4562be-8998-4d6f-be4a-fa1264495d21"
-              },
-              {
-                "Project Management vs Design Management": "74bf6161-4a39-46fd-aa10-a8625697e665"
-              },
-              {
-                "Privateer": "94e2bf44-c23e-463e-b1a2-b368a14070b8"
-              },
-              {
-                "Private Torrent Trackers": "f13c1b64-dcb4-4e33-9ce5-de4930771974"
-              },
-              {
-                "Prime Mover": "af422175-df10-4821-a39c-829cac5f4af7"
-              },
-              {
-                "Primary Key": "25ae3b43-b50b-41f9-aaf7-a51ce9824b56"
-              },
-              {
-                "Power Law": "2f932b60-8d67-4d38-9445-c76eed264556"
-              },
-              {
-                "Polycentricity": "48155d84-e748-43d3-97bf-5704d31a6514"
-              },
-              {
-                "Political Science": "00f61098-d176-4725-9f93-1f6c18c33f36"
-              },
-              {
-                "Plato's forms": "30ad88dd-75b7-40e0-922e-48ef923ae691"
-              },
-              {
-                "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541"
-              },
-              {
-                "Personality Types": "f4069273-338a-417a-8a31-4dfaf46eeea0"
-              },
-              {
-                "Personal Legend": "c40839b6-4800-4114-82c2-616f63dad575"
-              },
-              {
-                "Personal Dissonance": "b3bae7bb-d53b-40cb-8eeb-a0efc703cb75"
-              },
-              {
-                "Peafowl": "b5376a11-140c-4854-87e9-3bfe1b117512"
-              },
-              {
-                "Peacock feathers": "a2f66e6c-3dac-49f6-a201-14d7d2a519e2"
-              },
-              {
-                "Pareto principle": "1b342931-f077-4345-bee0-5c60b93e9635"
-              },
-              {
-                "Parenting": "fabe88c7-3ee0-41fa-8cc5-4c8877f604bd"
-              },
-              {
-                "Panama Papers": "174b10ea-7d1c-4e33-86fe-dbe1c5762544"
-              },
-              {
-                "P verses NP": "16166cae-c4d6-4263-970c-4bf63b502a13"
-              },
-              {
-                "Overton Window": "7ec7e9c4-f1de-43cd-8ae2-15124c80a787"
-              },
-              {
-                "Optimistic Nihalisim": "0d1b55b3-90c8-4eac-91fd-754187ac3c9c"
-              },
-              {
-                "Ontological Design": "b6786924-6c41-45c0-a50a-7859afe4c30c"
-              },
-              {
-                "Omen": "43e53b22-128d-471b-9fd3-817c561d2785"
-              },
-              {
-                "Odyssey by Lucidity": "a17f02e2-c772-43b5-bb7d-58076efd6cca"
-              },
-              {
-                "Obin": "7e98de5e-7826-4d0d-ba60-81ea6bec5355"
-              },
-              {
-                "OSINT": "e5a5a594-f979-4aa3-bbd0-da97ff62c224"
-              },
-              {
-                "OLAP vs OLTP": "283d27f8-1257-438b-9159-5fc825d17eb1"
-              },
-              {
-                "OLAP Cubes": "084525cd-746c-47d4-90ed-753b814bb476"
-              },
-              {
-                "Nutrition": "9ab71fe7-4896-4647-b240-0561435e5e97"
-              },
-              {
-                "Numbers Everyone Should Know": "20330ab6-8754-4c22-8b97-93b1faf5eae8"
-              },
-              {
-                "Nuclear Family": "0d46900d-afa0-4222-882a-29b2a52d0101"
-              },
-              {
-                "Normalization": "4b5a5481-48b3-4d42-9bf8-39365ae1f4ef"
-              },
-              {
-                "Normal Form": "f38f40e6-27b3-41ba-999e-901eef5c7287"
-              },
-              {
-                "Noosphere": "f137d8eb-8bae-402d-ac87-601b8de88c13"
-              },
-              {
-                "Neon Genesis Evangelion": "a6a1addb-06e1-48c3-a100-2ace7697354e"
-              },
-              {
-                "Neo Reaction": "cadd7dd1-d681-4e4e-8eed-acbabcd80f89"
-              },
-              {
-                "Nature": "d7230e46-4fc7-4b0b-8ef2-3b5e53530870"
-              },
-              {
-                "Narrative Information Management": "c068d2dd-d5b3-4146-b5ea-0738fa9cf1b8"
-              },
-              {
-                "NPC": "6551c5f2-4351-4734-b4c7-6ba56108f775"
-              },
-              {
-                "NLP": "5cd22bfe-14f1-4724-9560-95a24b8cb849"
-              },
-              {
-                "NFT": "1dc1e76e-7ad5-428c-97bf-8d86ea6808d9"
-              },
-              {
-                "Morphogenetic field": "311a2b60-2e25-46ff-8d4f-dbd43551f3b1"
-              },
-              {
-                "Morphic Resonance": "1ea4d752-e783-45f8-a355-98b52d0ca391"
-              },
-              {
-                "Moral Algebra": "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9"
-              },
-              {
-                "Monorepos": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d"
-              },
-              {
-                "Money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
-              },
-              {
-                "Mission vs Vision Statements": "7c585bdb-a859-45c2-809f-8b19eb719521"
-              },
-              {
-                "Mission Statement": "e99c7bdd-3987-441e-a043-bcc81d6d2b29"
-              },
-              {
-                "Mind": "0495f426-37dc-44c5-92fe-a494b814ecf9"
-              },
-              {
-                "Mind Body Problem": "19f71300-59ae-448f-980d-9e5df39bef54"
-              },
-              {
-                "Milgram experiment": "ba807965-9c4d-46a0-a163-c4314f5e9b63"
-              },
-              {
-                "Midwit": "f5b79406-16d4-4779-82d7-0dcac95d5ccb"
-              },
-              {
-                "Microsoft MVP": "6b3bddf5-aeaa-4adf-955d-9826d6b3e062"
-              },
-              {
-                "Metcalfe s law": "7492ad77-0944-40d1-8f8b-d2244061d4d1"
-              },
-              {
-                "Metaverse": "7403b88e-ec0a-4307-a766-d37c364aa2f1"
-              },
-              {
-                "Meisner technique": "37bf3abd-b019-4ee3-aaee-2dbbbca4597b"
-              },
-              {
-                "Medieval Peasants": "359e9740-1586-4216-8dd1-b20d7b9f7d51"
-              },
-              {
-                "Media Consumption": "4cb35318-2318-451d-9103-009343a280ff"
-              },
-              {
-                "Meaning Maxie": "ea2ea1ba-3f17-479f-abd9-ff1dfc40dda3"
-              },
-              {
-                "Materialisim": "d898c0b3-5927-4803-9c2e-cd2dedc364f5"
-              },
-              {
-                "Marriam-Webster": "6b55ab1d-0279-4e65-bfd9-27a1ad9dabfe"
-              },
-              {
-                "Marriage": "0c1651c6-76a4-429d-b54b-1a5dc6459ddc"
-              },
-              {
-                "Markov Blanket": "b4e6ccfc-3b54-4c11-9a79-ed75c1b7f2e3"
-              },
-              {
-                "Markdown Files": "ceb61472-539e-4d96-8db5-9168bf51b6e9"
-              },
-              {
-                "Map vs Territory": "141000ee-8d0a-4937-8960-b6932062c30e"
-              },
-              {
-                "Manufacturing Consent": "1dd268ef-8d4f-4691-ace3-1bddff15590b"
-              },
-              {
-                "Manifesto": "7bfac9b7-8432-4f95-a5c8-cd27784cc208"
-              },
-              {
-                "Machine Learning": "43a0dfe3-6cf4-498b-a29a-60e53078c92d"
-              },
-              {
-                "Machiavellianism": "ab6aa1a2-9b8f-43af-b949-fcddc2096044"
-              },
-              {
-                "MEME Dag": "f6fac773-efe2-4a89-abd0-d65ecc028871"
-              },
-              {
-                "List of DAO Platforms": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696"
-              },
-              {
-                "Lions Tigers and Bears": "a732396b-42e4-469d-9734-cec11a9c5949"
-              },
-              {
-                "Lego Meat Gnosticim": "e5ee7c73-c251-43a5-ad64-63f6c98c857a"
-              },
-              {
-                "Lean Canvas": "0aa6a47f-90da-4483-b7ed-3db45a099686"
-              },
-              {
-                "LCL": "b53946d2-24eb-4282-9b29-4c5ec8f3c3cd"
-              },
-              {
-                "Kybalion": "dd913574-84ca-444a-b78d-f9e09d952677"
-              },
-              {
-                "Kwisatz Haderach": "b20c7712-31fd-40f3-aeca-61214d5e05bc"
-              },
-              {
-                "Knowledge argument": "e2cad632-0c65-44c3-924c-1b2cd870862a"
-              },
-              {
-                "Knowledge Graph": "9a4cdfe2-80b9-4ba8-84db-c7b29e46ff2f"
-              },
-              {
-                "Interference theory": "0679bd5d-395d-43da-9973-60a1c6604234"
-              },
-              {
-                "Infrastructure as Code - IAC": "18a9ad29-6aa9-40a6-be0a-ab3883d5d7df"
-              },
-              {
-                "Influence": "cfac8414-051e-4129-bf62-efdcb6cc6cfb"
-              },
-              {
-                "Index of all the worlds information": "5db3ecd5-3b0b-4381-9cbc-c0c6a21065a2"
-              },
-              {
-                "Incompleteness Theorem": "9cae8201-679e-4cdd-a768-1fd83231afb8"
-              },
-              {
-                "Ideology": "d77c97e5-e532-4912-8a5b-7d52641254c9"
-              },
-              {
-                "Ideological Reflection": "921dde4b-6640-4e98-813e-38b0c413e3da"
-              },
-              {
-                "Identity Protocols": "197d37c9-dd58-4222-8c98-9f63c043a77b"
-              },
-              {
-                "Idea": "fe018add-dd1d-43fe-84f6-8d70d4f666db"
-              },
-              {
-                "Id  Ego  Superego": "f6af78d0-0e0f-42bf-b5d2-5bd38c3f5511"
-              },
-              {
-                "IETF": "1b101444-8158-4bb4-ab65-f63d5bc644b0"
-              },
-              {
-                "IETF Internet Engineering Task Force": "2e051f2c-73d9-40ce-9af5-1b1be5604b78"
-              },
-              {
-                "IDEO": "f2582cde-6f19-43b5-ac74-efb2f0abb6cb"
-              },
-              {
-                "I Am What I Think You Think I Am": "fec3962a-b57c-44c8-a5ac-5d7511b4e5e2"
-              },
-              {
-                "Hypnotic Rhythm": "641f87f8-dca8-4b8c-87a9-715f83a61a2a"
-              },
-              {
-                "Hypervisor": "d8de751b-0b11-4076-b9e5-a020a31038a3"
-              },
-              {
-                "Hyper Reading": "86c3e240-9464-461d-90ee-4f7b209367cd"
-              },
-              {
-                "Human": "f29ded80-861c-4566-b1fd-cc9f867c7b4f"
-              },
-              {
-                "Human Potential Movement": "70cbd85e-4261-4d94-b500-71f4c5c27c22"
-              },
-              {
-                "Human Instrumentality": "90d2da70-b13d-49c9-adba-5eedf3ec08f9"
-              },
-              {
-                "Human Experience": "acdeb331-05b1-4e62-8faa-1a090dc1466d"
-              },
-              {
-                "Human Condition": "f9839ecb-58ec-472f-bebb-b8d8cc0008dd"
-              },
-              {
-                "Homo Sapians": "73b4f635-d2cd-4482-a13f-ec65bb12f255"
-              },
-              {
-                "Homelab": "596226d9-9379-401a-a131-20902c02f99d"
-              },
-              {
-                "Heuristic": "07b215c1-b4fa-4433-9233-470ebfe3539f"
-              },
-              {
-                "Heterophenomenology": "3213d6c4-e618-4a42-847d-060edfcf6959"
-              },
-              {
-                "Hero's Journey": "9d46661c-c6a7-4df3-9945-d17f14a37979"
-              },
-              {
-                "Hegelian dialectic": "a3acbd1e-0cda-4243-902e-7e188b1db442"
-              },
-              {
-                "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37"
-              },
-              {
-                "Government": "3dc06628-1344-4d36-b4b1-1c02c60fb362"
-              },
-              {
-                "Google": "2ee4e1cf-6028-4a69-bfae-e1defce11b7f"
-              },
-              {
-                "God": "41b53b6c-7073-4f0e-9549-575943f0ac66"
-              },
-              {
-                "God Head": "5eedae14-86ed-4eae-b904-380f2d2ab85f"
-              },
-              {
-                "Gnosticism": "a21ebe81-69b3-4567-a804-e4f21f779074"
-              },
-              {
-                "Gnosis": "b5c73059-0bfc-406e-b48d-6cb63279d034"
-              },
-              {
-                "Gell-Mann Amnesia": "9f7b5274-98ef-48af-9f8b-24816ab699f5"
-              },
-              {
-                "Gamer Girl Manifesto": "32743aff-2183-417b-931a-d1319267e66b"
-              },
-              {
-                "Game Theory": "c5ea45c4-9c31-4a58-9f58-45899596e413"
-              },
-              {
-                "Gaia": "acae29ae-731b-4949-b22f-60b9b55171d1"
-              },
-              {
-                "Functional Programming": "2b0bbe87-d9dc-4f14-82bd-a2b428fc5866"
-              },
-              {
-                "Full Stack Developer": "44aa09d5-dcf1-49ce-a2d3-045dc1e82437"
-              },
-              {
-                "Free Energy Principal": "77d20571-affa-4190-9ac9-07c1c45c48b1"
-              },
-              {
-                "Flow State": "65e44fba-1666-4304-9b35-4069d286feea"
-              },
-              {
-                "Flock": "31e92352-a98b-46fe-b6cb-46f1d386c8d1"
-              },
-              {
-                "Fear of God": "c6d670e9-a57c-4a40-bec4-59591b859306"
-              },
-              {
-                "Fascism": "6ae3be0e-34e5-4876-b13a-3ca6038c54a0"
-              },
-              {
-                "Fake Internet Theory": "d1b154d8-010c-4266-b18f-064092dc272b"
-              },
-              {
-                "Fact Tables": "ab1b3bda-a425-49db-80e1-f7cb8f3d6cee"
-              },
-              {
-                "Facilitator's Catechism": "1b5ef60f-d8e9-4598-940f-e1afedd37e7a"
-              },
-              {
-                "FAANG": "6472852f-3e10-4551-941d-95a970870d7c"
-              },
-              {
-                "Extended Mind Thesis": "7d2aa71b-8979-4452-a1b3-bfd02a27848c"
-              },
-              {
-                "Examples of Knowledge Management": "8d91554a-4bd1-4a29-a287-4979fa7d9da4"
-              },
-              {
-                "Eventual Consistency": "57a74be4-4fda-4b0e-8729-587a870bcb07"
-              },
-              {
-                "Eternal September": "616da5df-ef96-427b-80a0-6690355c2116"
-              },
-              {
-                "Entropy": "5495917e-ff4a-4ae7-9152-e7209b18b1c0"
-              },
-              {
-                "Entrepreneurship": "e04f2251-955e-41e3-a7e3-e69981686ecb"
-              },
-              {
-                "Entrepreneur": "3231b076-0d42-4249-8397-298ecab5b0e8"
-              },
-              {
-                "Entity Relationship Diagram": "15870a20-001c-451e-805c-7dbcf089ddbe"
-              },
-              {
-                "Energy": "020e17ac-9314-4170-a5c4-63e133795354"
-              },
-              {
-                "Encyclopedia Britannica": "42a131ef-607d-445e-9649-ce7cedfa85ff"
-              },
-              {
-                "Emoji": "aa7dda9a-4fb3-4f03-8f75-d7dea92ed4bf"
-              },
-              {
-                "Elite": "f4ff28b3-80a2-45fd-99d0-3b35f80efa63"
-              },
-              {
-                "Elite overproduction": "80d8b309-f444-49be-9d83-cdf0776eeec7"
-              },
-              {
-                "EVM": "034ecb2f-4d2b-448a-aa58-04082769c63b"
-              },
-              {
-                "EVM Compatible": "837f477d-cb08-4ab1-8dd5-c9785dd3f40a"
-              },
-              {
-                "ENS": "354e7428-f69e-42c5-97dd-92bf18521112"
-              },
-              {
-                "Dualisim": "b9f3d0a1-4752-432b-a8e2-d44084fa6487"
-              },
-              {
-                "Double Spend Problem": "5359177b-3774-4312-b8c3-3d2e99876d09"
-              },
-              {
-                "Dopamine Pumps": "f79eb288-40e6-4afa-a414-cc78007f47a2"
-              },
-              {
-                "Division of Labour": "805c5a5c-6d6d-45e1-8677-dd920eb61c97"
-              },
-              {
-                "Dimension Tables": "453185ef-6fb9-4d11-bdeb-681ac5c4a259"
-              },
-              {
-                "Digital Immortality": "a47c8a35-8cb1-4e0f-b0dc-a6e02eefe5a7"
-              },
-              {
-                "Dialectical materialism": "d724dbed-aec7-4173-8b11-6c0d77081b82"
-              },
-              {
-                "Desire": "3910c420-0876-4ac9-bf04-44880c8a8210"
-              },
-              {
-                "Design": "87a64729-08ab-4eb9-b3f0-23c9454772b4"
-              },
-              {
-                "Design Roadmap": "71dc6153-9d1b-493d-9c44-e804b26f0c15"
-              },
-              {
-                "Design Management": "882d152e-6978-4b37-97cf-a7dc61c0ff9b"
-              },
-              {
-                "Design Document": "72b49f16-d061-40d5-94c6-390a6c0c02b4"
-              },
-              {
-                "Description": "d5d2e50b-6665-4d7a-8ddb-aac6ed24e293"
-              },
-              {
-                "Dentropy Cloud": "4b98c736-45b5-4151-80b5-7ab0c746f1ea"
-              },
-              {
-                "Denormalization": "030ae2e4-3ea1-4140-b91c-e58ec8caf78d"
-              },
-              {
-                "Demisexual": "36238004-9b3a-47ae-8bc4-6bfb39fca9fa"
-              },
-              {
-                "Define Identity": "01eeae34-73e3-49b2-be72-9f8347abe6d8"
-              },
-              {
-                "Defi": "881994d3-ca60-4008-8cd2-da0b3df33c63"
-              },
-              {
-                "Deep Work": "fcfb7a16-5a8a-41e1-9f11-1bc5d2f5ff00"
-              },
-              {
-                "Dataisim": "97563997-6ace-427e-8132-c68377b9b78a"
-              },
-              {
-                "Database": "a120b519-3cc5-4883-a60b-8d971d7697db"
-              },
-              {
-                "Data Warehouse": "364036ef-b313-432b-a855-83b637de52e7"
-              },
-              {
-                "Data Priest": "c3d797fd-63a9-4c16-9426-eb10892b698a"
-              },
-              {
-                "Data Modeling": "76fba20d-2522-4bdc-aa43-5a842eda25f1"
-              },
-              {
-                "Data Engineering": "fac22898-27d1-4f21-89f2-ce30f410a2e8"
-              },
-              {
-                "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
-              },
-              {
-                "DIY Annotation Tooling": "6cd3ff9d-b7f2-4292-a631-c07b7a9f5920"
-              },
-              {
-                "DID": "4bc51a58-a746-42df-ab29-b8deb14682ae"
-              },
-              {
-                "DBT - Dialectical Behavior Therapy": "2d965a3f-bd71-4aaa-9bb9-2425c0410aa8"
-              },
-              {
-                "DAO": "26725b10-b472-41ee-ba3b-4e9bc851f174"
-              },
-              {
-                "Cypherpunk": "c09df7ee-3de0-4bd2-a51e-b4a2e4919abc"
-              },
-              {
-                "Cybernetic Collective": "dae203b7-8033-412f-a0b0-b4c1c2d45105"
-              },
-              {
-                "Cyber All Project": "5ccbeed6-e76d-4884-99b3-caf1c6ff704e"
-              },
-              {
-                "Cryptography": "391ab4bd-43fd-44fc-9813-82da7807e0df"
-              },
-              {
-                "Crypto": "983045b6-6cab-489c-8344-2f6c2b76f7ff"
-              },
-              {
-                "Crypto fiat currencies": "f7833f8d-1e97-4000-85c9-3ec0c45523f9"
-              },
-              {
-                "Crypto Projects": "409347b3-f25a-4bb9-8ffc-6f49ccf08961"
-              },
-              {
-                "Cringe": "eb9539fa-c2c5-49c5-8b1d-3f91d891b59a"
-              },
-              {
-                "Covid": "3424ca9f-c3a4-448f-96e2-0b290e2c4ac3"
-              },
-              {
-                "Corporations": "86653701-e0a0-4650-a202-4a5cca00b49b"
-              },
-              {
-                "Conway s Law": "0607d553-fe1e-4b0d-9329-ce54d7913e4b"
-              },
-              {
-                "Containerization": "2b328daa-25f6-48a6-846c-bc8be17fb3ee"
-              },
-              {
-                "Complex vs Complicated": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30"
-              },
-              {
-                "Comedy": "062c6b95-d165-4bdd-9a34-1dc958e77307"
-              },
-              {
-                "Combat Soap Opera": "92d8b7e1-86f1-42f3-82be-ec0448e0b56f"
-              },
-              {
-                "Cognitive Dissonance": "8c198cdd-4b8e-4784-ac8e-4c02cf113f49"
-              },
-              {
-                "Cognition": "8c518893-d16a-49aa-b194-482886c52607"
-              },
-              {
-                "Coaching Paradox": "ec50c9b3-a6ce-4bb7-9ce8-cebb65b9cc9e"
-              },
-              {
-                "Clustering Columns": "7909bbc0-7cec-4207-8b0d-f7b0a037f9b0"
-              },
-              {
-                "Cloud Acadamy": "dd855460-3aef-462c-8c44-eb4d42a018e7"
-              },
-              {
-                "Chinese Room": "e1aed0af-98ef-4514-9a7e-8e6eaaac2f1d"
-              },
-              {
-                "Categorical Imperative": "c2aae916-fbe6-4181-a92c-4fba2dfef831"
-              },
-              {
-                "Catechism": "474cf7d6-0c55-489d-90d0-cf4edce33b3a"
-              },
-              {
-                "Carl Jung’s Theory on Introverts  Extraverts  and Ambiverts": "88a81cfb-6168-484e-b414-9f925ad340e8"
-              },
-              {
-                "Carl Jung Shaddow": "34a6f91b-b091-475f-8ca3-e30f13fccb70"
-              },
-              {
-                "Canada's gender identity rights Bill C-16 An Act to amend the Canadian Human Rights Act and the Criminal Code": "5c32d3c4-7b2b-435e-ab08-b33a20561670"
-              },
-              {
-                "CRM - Customer Relationship Management": "8bdaa2dd-6098-4dc2-a049-e286f9968e9a"
-              },
-              {
-                "CBT - Cognitive behavioral therapy": "8a502d04-6d32-4607-8772-6c7a784604be"
-              },
-              {
-                "CBC Casper": "13238467-be41-4d6b-9769-0bb8ca16fdd4"
-              },
-              {
-                "CAP Theorem": "8c01e69a-28b0-48e6-bf73-01666dba3cab"
-              },
-              {
-                "Business Case": "12e0e877-dfcd-4c61-8be7-7b708f95448d"
-              },
-              {
-                "Bridge Networking": "9a8058a0-acab-47e3-9ac7-50e83a9af59b"
-              },
-              {
-                "Brain": "00b2606d-2803-4793-b4ea-df731c340cfa"
-              },
-              {
-                "Brain Trust": "27fe2c09-8df9-4ddf-b4eb-d506e1c13830"
-              },
-              {
-                "Boilerplate": "8bd819a5-f0fe-4cf7-aaef-744574c58d32"
-              },
-              {
-                "Bohemian Grove": "10197499-a27e-4118-be98-3c35882e3b76"
-              },
-              {
-                "Blooms Taxonomy": "906ffbbd-443b-4298-9a3a-de12e6bc19a8"
-              },
-              {
-                "Blockchain Token Bridge": "fa7d08c2-5e1e-49fa-93c2-05449eb4ac4a"
-              },
-              {
-                "Blockchain Naming Services": "6ba83b5b-6a74-4876-aff8-d0981e41a3ba"
-              },
-              {
-                "Birthday": "c919cb31-e11c-4d4c-b4de-512965a60ead"
-              },
-              {
-                "Bird": "14928e6c-b858-4a08-be9a-00e304cd3b6f"
-              },
-              {
-                "Big Five Personality Traits": "98bd1412-f674-4a4b-bb84-5bfc1b26b3c3"
-              },
-              {
-                "BIg Data": "15149aa2-7e2b-40bf-bd84-718487f2bb09"
-              },
-              {
-                "BIP39": "b44fa0e8-d49e-4873-b9d0-52ce862e4ed8"
-              },
-              {
-                "BGP Border Gateway Protocol": "975bfcf5-013b-45ac-bcf2-52ef78528b0e"
-              },
-              {
-                "Awesome": "ba19bb66-a8e9-4287-8eac-f854aacf899c"
-              },
-              {
-                "Average path length": "962b5f3f-1b8f-4314-9dc4-ac71a5a41fcf"
-              },
-              {
-                "Autophenomenology": "3ebbb692-9961-40b2-a99b-256d7ffa1cb6"
-              },
-              {
-                "Autocracy": "90be24f5-9d7f-4f87-acb6-b14ef0f188df"
-              },
-              {
-                "Ascetic Ideal": "34ed3679-99eb-4f8f-a4a1-92441ddfda61"
-              },
-              {
-                "Areas of Improvement": "9f9a1f51-58d2-4550-a44a-862f242502ca"
-              },
-              {
-                "Archatype": "80b89261-900d-472f-9a4e-7a580ae51e99"
-              },
-              {
-                "Appointed Board": "623271c1-8287-4e7a-9b57-a6b4fa773e69"
-              },
-              {
-                "Animal": "2af1b93a-e652-4809-b2e5-4607eb8ae5a1"
-              },
-              {
-                "Analytical  Jungian Psychology": "8fccac26-f3bd-4341-a374-8c4db38e2b4f"
-              },
-              {
-                "Allometic Laws": "e6ce0e5e-107b-419f-b83d-68533ba7c3a1"
-              },
-              {
-                "Alchemy": "b6fc2847-9416-465e-ac55-bdbdd3e14387"
-              },
-              {
-                "Airsoft": "73df030c-cbeb-49e3-937d-2b438821389f"
-              },
-              {
-                "Agent Based Modeling": "1b7495c6-fdde-46e3-9637-3c2251e72d07"
-              },
-              {
-                "Activity Pub": "c1a79e55-46b3-4070-9271-4cbee6a61fec"
-              },
-              {
-                "Active Interference": "4c7376a5-788e-4890-b0f5-c23a344b470c"
-              },
-              {
-                "Acronyms": "dd44570a-6b71-4628-a63f-def716a3d1eb"
-              },
-              {
-                "Accelerationisim": "9a3bbd28-7cc4-444a-9c27-a4ceb815a9ab"
-              },
-              {
-                "80 20 Rule": "4eb7dd15-c29a-4378-875e-c17b424c507a"
-              }
-            ]
-          },
-          {
-            "Categories": [
-              {
-                "economics": "08698f06-5b23-4072-97e5-86acad2031c0"
-              }
-            ]
-          },
-          {
-            "12 step program": "c3f31c7f-8163-4ec3-a557-428b6f09827c"
-          }
-        ]
-      },
-      {
-        "Research": [
-          {
-            "DAOs": [
-              {
-                "List of DAOs": [
-                  {
-                    "Sourcecred DAO": "4b7fcda9-08f9-4b63-9d65-877690bde53f"
-                  },
-                  {
-                    "Sobol": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
-                  },
-                  {
-                    "Proof of Humanity": "14df1c24-0732-42bb-abd8-34bb4ddfc0a1"
-                  },
-                  {
-                    "Opolis": "2ee5e73f-3d36-465e-896b-ba0542dd75ae"
-                  },
-                  {
-                    "Lex": "fbf0de09-d543-4456-847c-57fb27ee4e3d"
-                  },
-                  {
-                    "Fraktal DAO": "9cc23bdc-e38e-460a-a8d5-93a579fb9bef"
-                  },
-                  {
-                    "ENS Dao": "78c3cc09-c983-428b-81dc-e78ed7a9c0e7"
-                  },
-                  {
-                    "Commons Stack": "58c33617-cd2c-479b-b2a7-c49da6521f8b"
-                  }
-                ]
-              },
-              {
-                "DAO Protocols and Platforms": [
-                  {
-                    "daostack": "a823faee-57dd-4429-9a1b-3b8309fc3990"
-                  },
-                  {
-                    "Snapshot": "b24ee33c-b3bb-400e-ac10-fe833a536955"
-                  },
-                  {
-                    "Lens Protocol": "2e4b8504-85db-4ad1-bbfa-4cfb1216bdfe"
-                  },
-                  {
-                    "Deep Work": "5d76918e-df1c-48fd-8e09-50ef334c0112"
-                  },
-                  {
-                    "DAOhaus": "688dae83-c9c3-44d3-b32c-c6248ea0958e"
-                  }
-                ]
-              },
-              {
-                "Logs - DAO Research": "2fa7bcd5-8775-45f7-b6df-e86977b335f9"
-              },
-              {
-                "DAO Research Home": "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7"
-              },
-              {
-                "DAO Interrorgation": "d2e34182-88c3-4e81-b926-07650ad30ee6"
-              },
-              {
-                "DAO Incubators": "a7402f58-2c31-407a-a435-d98834d6a5d9"
-              },
-              {
-                "Blockchain Sniff Test": "9c289005-e2e3-41fe-93c8-3ab0acabae3f"
-              }
-            ]
-          },
-          {
-            "reddit export": "2ddae3c6-92e8-454e-8eee-5ebb62930fff"
-          },
-          {
-            "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
-          },
-          {
-            "Research Chaos": "60608327-5472-4577-a8c9-80372f61a9ef"
-          },
-          {
-            "Network Hardware": "4620935a-64c8-45de-9da7-5878621236a5"
-          },
-          {
-            "Event Organization Platforms": "94dfc14e-03c4-4a11-9b16-51e82db2351d"
-          },
-          {
-            "Decentralized Storage": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7"
-          },
-          {
-            "Contextualizing Azimuth": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6"
-          }
-        ]
-      },
-      {
-        "Hustlers University": [
-          {
-            "Copywriting": [
-              {
-                "homework": [
-                  {
-                    "005": "88dd3df8-6f60-40a4-b124-5bbcaf6e6128"
-                  },
-                  {
-                    "004": "e1e1e0a3-d022-4695-a3cc-146f18899f60"
-                  },
-                  {
-                    "003": "b32d3b2a-a2e5-45e9-b65a-cf4723954e0e"
-                  },
-                  {
-                    "002": "5fd61505-fd64-44cf-9476-54c9f8a8a1e4"
-                  }
-                ]
-              },
-              {
-                "avatars": [
-                  {
-                    "Jay": "7aa00cd4-590d-4028-b8c4-d826e6db486c"
-                  }
-                ]
-              },
-              {
-                "homework": "4212b94f-2a38-4578-8796-4d3d0569f91a"
-              },
-              {
-                "avatars": "56ee400f-c58d-4272-b64d-6383ea045f72"
-              }
-            ]
-          },
-          {
-            "Freelancing": "e72108ae-cd2a-4519-92a2-d45a2f664f60"
-          },
-          {
-            "Copywriting": "937a6a80-fc9e-4598-89f1-a079aea52910"
-          }
-        ]
-      },
-      {
-        "Public Questions": [
-          {
-            "What other some projects that scraped fandom.com": "4cb580de-4980-4475-9878-faba48388dd2"
-          },
-          {
-            "What are the parts of a URL?": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8"
-          },
-          {
-            "How to check if file or directory exists using python3?": "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5"
-          },
-          {
-            "How to Remove files recursively in Linux?": "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186"
-          }
-        ]
-      },
-      {
-        "Products": [
-          {
-            "Windscribe": "b60530ee-d23a-4895-8e53-1d1a56490ad1"
-          },
-          {
-            "Vultr": "0aa1a512-fab1-42c1-9b89-91f8df1a6a13"
-          },
-          {
-            "Sieve": "b80ac15e-9c7e-4e11-ac89-1717f19ef3a4"
-          },
-          {
-            "Privateer": "9fdcb75d-0bab-42b2-8001-76e7ccb552e9"
-          },
-          {
-            "Pirate Hat": "acd4ae08-6fb7-4e70-a1aa-4a84d742e820"
-          },
-          {
-            "Ledger": "f66a2618-116c-408b-80dc-8a5be57bf593"
-          },
-          {
-            "Fire Tablet": "e0b6b797-95c7-4f42-9ef1-e59e24f27ecd"
-          },
-          {
-            "Corsair": "d3049779-9171-49af-adcc-bf4cf8e727d7"
-          },
-          {
-            "Battery Bank for Cabin": "976ed1ce-9f49-4a0c-bb79-1107fea34757"
-          }
-        ]
-      },
-      {
-        "Acronyms": [
-          {
-            "saas": "6d27e465-d93c-4de2-b0e4-82ba5eabd7ea"
-          },
-          {
-            "WAGMI": "99dc23d5-ebf9-4bba-b259-bb34c491a44b"
-          },
-          {
-            "TZM": "b39a1e1f-e391-4451-bccb-b3e6052de91d"
-          },
-          {
-            "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc"
-          },
-          {
-            "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
-          },
-          {
-            "OLTP": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3"
-          },
-          {
-            "OLAP": "515a019e-5333-4996-956c-d4661cd215c8"
-          },
-          {
-            "MVP": "41018894-c14f-4996-bc7a-e8c656d10d26"
-          },
-          {
-            "MVC": "bb722263-d24b-4205-9485-33b19202e305"
-          },
-          {
-            "MPP": "93fab9de-fb11-4fcc-825c-8047cbe55203"
-          },
-          {
-            "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732"
-          },
-          {
-            "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
-          },
-          {
-            "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
-          },
-          {
-            "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf"
-          },
-          {
-            "ERD": "169abeb2-1466-40b0-8b0a-08b90ed1851d"
-          },
-          {
-            "ELT": "04d9c099-c626-46d7-aa94-1a33117e1d90"
-          },
-          {
-            "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
-          },
-          {
-            "DWH": "9ac583fa-1c5e-4989-9642-67d5e45bb81c"
-          },
-          {
-            "DDL": "a2026d45-81b5-4b47-b9a4-c86d10df5424"
-          },
-          {
-            "DBMS": "f96023ea-65ec-4ad1-9b06-a80c436b854d"
-          },
-          {
-            "CIF": "3937032a-3f05-4be5-bcc0-a0730c674d3c"
-          },
-          {
-            "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd"
-          },
-          {
-            "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61"
-          },
-          {
-            "AAA": "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
-          }
-        ]
-      },
-      {
-        "Wiki Backlog": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8"
-      },
-      {
-        "HU - Hustler's University": "974f7445-a807-4edc-bf61-4155c155ffe5"
       }
     ]
   },
@@ -6776,57 +5207,10 @@
         ]
       },
       {
-        "Mapping out Self Actualization": [
-          {
-            "What Humans Value": "f91229f0-4d0f-46d1-b754-4f775e256bab"
-          },
-          {
-            "Virtualizing The Self": "3fdd115e-53ba-40fe-af63-e5e19b97f763"
-          },
-          {
-            "The Human Social Interface": "0d7e33d9-001b-427f-a7c1-ad2c1a872b2c"
-          },
-          {
-            "Mapping The Human Heart": "2cee33f1-a73c-4c9c-b2e1-598fd2aa755b"
-          },
-          {
-            "Learning to sail the memes": "e3ed979d-7207-4dfa-806c-03aab973a4c9"
-          },
-          {
-            "Guide Posts for the Human Condition": "746f7dae-6c6d-416f-b98c-4c5e63351f71"
-          },
-          {
-            "For Manifesting Destiny": "b8ba3c64-63f3-47bc-bf00-da6a612f7b55"
-          },
-          {
-            "Cringe meets theory of mind": "cef3066c-8a14-467b-979e-9036068e3653"
-          }
-        ]
-      },
-      {
-        "Inital Writings": [
-          {
-            "You took the Transhumanist Wager Now What?": "34608d94-e304-4aa4-9339-f23d3fa39359"
-          },
-          {
-            "The Daemon is Real, Now What?": "952abb04-36df-4913-ace1-651763fa1c88"
-          },
-          {
-            "How Does One Go About Wielding Their Own Plot Armor?": "7de2eb48-087b-4936-8446-dcc021b74966"
-          },
-          {
-            "Consciousness and Parasites": "b31360a6-ae1d-45d2-95e1-cd884a27971f"
-          },
-          {
-            "Blockchain as the Operating System for the Technological Singularity": "09275ad7-56d9-47e1-b3ea-0e8ded3dce90"
-          },
-          {
-            "Becoming A Dataist In Training": "417617a8-a7b5-429c-8f5e-0e56ffe6ef21"
-          }
-        ]
-      },
-      {
         "Videos and Their Scripts": "b6611f4f-b019-4676-902e-8ea82840d740"
+      },
+      {
+        "Project Update Posts": "4c45797f-8d43-4277-a5c1-de8df9aa7876"
       },
       {
         "Mapping out Self Actualization": "6d0bbf21-e1ea-4a09-9597-ec479b998235"
@@ -7009,6 +5393,9 @@
         "How to Win Friends and Influence People": "706d5063-b980-4356-a454-327d29a5b9c4"
       },
       {
+        "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"
+      },
+      {
         "Heuristics of the Self": "facbb38d-5a92-4c93-848f-b97fec6701aa"
       },
       {
@@ -7058,6 +5445,1605 @@
       },
       {
         "12 Rules of Relationship Database Design": "13d4d10c-d1ae-43dd-87e9-ff4d5f7fa7fd"
+      }
+    ]
+  },
+  {
+    "Courses": [
+      {
+        "Hustlers University": [
+          {
+            "Copywriting": [
+              {
+                "homework": [
+                  {
+                    "005": "88dd3df8-6f60-40a4-b124-5bbcaf6e6128"
+                  },
+                  {
+                    "004": "e1e1e0a3-d022-4695-a3cc-146f18899f60"
+                  },
+                  {
+                    "003": "b32d3b2a-a2e5-45e9-b65a-cf4723954e0e"
+                  },
+                  {
+                    "002": "5fd61505-fd64-44cf-9476-54c9f8a8a1e4"
+                  }
+                ]
+              },
+              {
+                "avatars": [
+                  {
+                    "Jay": "7aa00cd4-590d-4028-b8c4-d826e6db486c"
+                  }
+                ]
+              },
+              {
+                "homework": "4212b94f-2a38-4578-8796-4d3d0569f91a"
+              },
+              {
+                "avatars": "56ee400f-c58d-4272-b64d-6383ea045f72"
+              }
+            ]
+          },
+          {
+            "Freelancing": "e72108ae-cd2a-4519-92a2-d45a2f664f60"
+          },
+          {
+            "Copywriting": "937a6a80-fc9e-4598-89f1-a079aea52910"
+          }
+        ]
+      },
+      {
+        "HU - Hustler's University": "974f7445-a807-4edc-bf61-4155c155ffe5"
+      }
+    ]
+  },
+  {
+    "Concepts": [
+      {
+        "List": [
+          {
+            "schema": [
+              {
+                "Snowflake": [
+                  {
+                    "3NF Third Normal Form": "b3267fa8-c110-4d80-a3ed-fdf68e34ff82"
+                  }
+                ]
+              },
+              {
+                "Star": "e6afe89a-3f66-4e2a-87d0-0c40d5807c13"
+              },
+              {
+                "Snowflake": "7ec75773-8d28-4d8e-ac21-16060734a0c4"
+              }
+            ]
+          },
+          {
+            "Database": [
+              {
+                "Graph": [
+                  {
+                    "Research": "f9030f9f-cf72-4bf3-a683-8b8cdc7ac11e"
+                  },
+                  {
+                    "Intuition": "1c488a38-c15b-43eb-aece-986e8332ca89"
+                  }
+                ]
+              },
+              {
+                "Relational": "403cb5ab-0ff3-4cd3-82fc-a7f1e934c954"
+              },
+              {
+                "Graph": "35f29bc3-ad1f-4ea8-b6bc-7fbc33413c73"
+              }
+            ]
+          },
+          {
+            "research": [
+              {
+                "product": "f4bee999-b5a6-47d0-a0b3-d87d0ca0e54a"
+              },
+              {
+                "case study": "27ddb602-17ba-427c-9e1f-61f60c96846f"
+              }
+            ]
+          },
+          {
+            "products": [
+              {
+                "life cycle": "6cb3d336-fbd0-4f63-ae57-ac81fa6ed7e0"
+              },
+              {
+                "compare services": "2b4a5c0a-89b3-4efb-ad3a-3fd2a840cb77"
+              }
+            ]
+          },
+          {
+            "UTxO": [
+              {
+                "redeemer": "e57b6933-dc1a-4eaa-a758-cb0ab9f00e39"
+              },
+              {
+                "datum": "83726d0a-1516-4140-a36c-4a3189bbb773"
+              }
+            ]
+          },
+          {
+            "Gnosticism": [
+              {
+                "research": "6f4da628-929b-4e52-9399-e2ef45f8fbd6"
+              }
+            ]
+          },
+          {
+            "Data Warehouse Archiecture": [
+              {
+                "Kimball s Bus": "4af2b623-59ad-4eaf-9e5f-505c3a99bc14"
+              },
+              {
+                "Inmon s Corporate Information Factory": "a05cbbee-a18a-4a8a-9948-ee1fc05ad0d5"
+              },
+              {
+                "Independent Data Marts": "1ceb378a-9918-4df0-940b-c6bc59cd21e9"
+              },
+              {
+                "Hybrid Kimball Busss and Inmon CIF": "bda2e085-93c5-4833-91fa-58caed638ea9"
+              }
+            ]
+          },
+          {
+            "Crypto Projects": [
+              {
+                "Ulti Arena": "8c2b056a-a495-45c1-83bb-366062383924"
+              },
+              {
+                "The Sandbox": "ad2e18d9-85e6-4858-9123-bf1423689355"
+              },
+              {
+                "Ethermon": "74d1302c-cd44-49c9-b0cb-a29806037ae1"
+              },
+              {
+                "Decentraland": "3079829e-6163-4297-9701-ba03086bde7d"
+              },
+              {
+                "Axie Infinity": "9762ae63-30f4-4c26-8a57-b5bd180b15c9"
+              }
+            ]
+          },
+          {
+            "Big Five Personality Traits": [
+              {
+                "neuroticism": "8ba62642-aeac-4887-aad4-ed8c74e9816d"
+              },
+              {
+                "extraversion": "5374772b-3c8a-4d99-9905-808fe542278d"
+              },
+              {
+                "conscientiousness": "32e4b16a-2d8f-46ea-851e-5ec3dd9435bb"
+              },
+              {
+                "agreeableness": "b9e10b34-9161-41f4-b658-3b22b20a2897"
+              },
+              {
+                "Personality Trait Openness": "68a0f5c8-ca7f-45b1-8295-cbedd2f1b737"
+              }
+            ]
+          },
+          {
+            "zettelkasten": "63312c68-1fef-48d3-b437-7e4858c93d8b"
+          },
+          {
+            "you are your attention": "4704385b-426f-4ed6-9e28-d0d0e6b67c10"
+          },
+          {
+            "whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
+          },
+          {
+            "we-are-already-cyborgs": "823657d2-c064-4a83-934f-d59a9bcd5caa"
+          },
+          {
+            "vps": "be804dcd-1a4e-4a3f-a17e-b56d1fdd40d6"
+          },
+          {
+            "vesting": "07c46a92-c6ab-4e52-807d-25af35e8c95e"
+          },
+          {
+            "valence": "61d052f2-088c-48a2-bb0f-49c24d218dd1"
+          },
+          {
+            "target market": "6d6242ee-9525-46b5-85ec-d8eb6a3a6a42"
+          },
+          {
+            "sexisim": "fb5cfe94-7fbd-4077-a788-99ce3978e330"
+          },
+          {
+            "services": "2535bc0b-46eb-4ae8-b323-5100cc32e6ac"
+          },
+          {
+            "self": "4a314864-0923-4bca-8527-87a3327e4ef9"
+          },
+          {
+            "self awareness": "b40296fc-58e1-4bc2-aab4-b8b0767fa643"
+          },
+          {
+            "second-brain": "3ce09588-25bc-49a2-9d55-0d71210aef2e"
+          },
+          {
+            "schema": "83aca571-097c-4635-9973-e0fea44806d5"
+          },
+          {
+            "research": "bb2cc052-fe4b-4e14-9402-517766d5c379"
+          },
+          {
+            "regime of attention": "c114de69-8e48-4688-8e93-d3c8a50028cf"
+          },
+          {
+            "red pill": "e5eab156-af05-4daf-8f10-bf5bb8ae1393"
+          },
+          {
+            "rape": "995cc032-f951-4c7e-a3ac-c29ece0f9303"
+          },
+          {
+            "psychopathy": "7f19ce59-a75b-4443-a884-82f3e1ee1bf2"
+          },
+          {
+            "protocol": "c3e60c21-f8ad-4054-b4cf-c5e8ece4d978"
+          },
+          {
+            "politics": "30c12975-a812-43c5-b708-92cda7b880d4"
+          },
+          {
+            "political formula": "0338ed57-c8d1-48b4-ac47-d19382d7bcf9"
+          },
+          {
+            "phylogeny": "38dcc960-4830-4305-9568-12e32a8bde51"
+          },
+          {
+            "phrasing": "0fbea940-0d88-4c12-8c49-593238757233"
+          },
+          {
+            "personality": "3dc59546-3de4-484f-9726-9711ec1b3b7f"
+          },
+          {
+            "nootropics": "ea2f2334-e9b2-4fa8-9d60-214ff3da8a51"
+          },
+          {
+            "non existence": "ec46c4f4-521c-4dbc-85a5-55b9cdff9f99"
+          },
+          {
+            "neurological disorders": "7c9e1bba-67b7-4bd8-9f03-d115f10be3df"
+          },
+          {
+            "neurological conditions": "56dfc509-b7c1-4d78-b08e-b2a869b568a9"
+          },
+          {
+            "network": "ae883edf-bdf2-495d-a827-858ffc721c0e"
+          },
+          {
+            "narcissism": "9b557b41-62c1-4aff-a998-bcd31891860a"
+          },
+          {
+            "mutex": "d5d02b16-ef02-4300-86ab-e5928f51af3c"
+          },
+          {
+            "money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
+          },
+          {
+            "mnemonic": "12d95a7f-52e7-4d21-8284-85a8049b9398"
+          },
+          {
+            "mirror for princes": "06d2c85c-c8fd-4248-b7fe-19ba825c7b47"
+          },
+          {
+            "maslow s hierarchy of needs": "4ba6fb77-1bf7-4636-8319-216b896daeb3"
+          },
+          {
+            "market maker": "3fd2ea50-e9bb-4c8c-a6c4-8489cf5cc5db"
+          },
+          {
+            "mania": "5aa092a2-f6c4-4ae7-9005-73a91b384b52"
+          },
+          {
+            "liquidity": "49b5f8b4-83d3-41cb-8d81-632f8d84fc1b"
+          },
+          {
+            "knowledge management": "7decfa6a-d846-4d65-896c-cb2d2c315edc"
+          },
+          {
+            "islander": "84181a87-2901-4dd3-b101-0c7b10e5ee2b"
+          },
+          {
+            "internet": "a2b70820-68e9-4593-940d-28cae928ecb1"
+          },
+          {
+            "incel": "634a87e7-e5bd-44be-bf18-148e712bfbdd"
+          },
+          {
+            "ideology research": "9946c9b6-7667-403f-bf89-b86530543279"
+          },
+          {
+            "ideology interpratation": "c28ee0d5-2c9f-4348-a09a-e2bb8cbf52fa"
+          },
+          {
+            "humor": "4ca766d9-10c8-45c0-bf2c-db54930cb94d"
+          },
+          {
+            "human script": "97ae3fbc-1f95-4ec4-a37f-49fa885fa925"
+          },
+          {
+            "human programable interface": "2828367d-4d62-487d-b582-52732d82b228"
+          },
+          {
+            "human nature": "d275225a-afe1-4d56-bb14-16775ee336a8"
+          },
+          {
+            "hpi": "dfda1180-e79f-4f05-880a-91f26f7c906c"
+          },
+          {
+            "holism": "7325ec18-5c6a-4e43-bb36-437050d54025"
+          },
+          {
+            "harmonic motion": "4fca2964-217c-4477-b868-1c6feb7f2e6d"
+          },
+          {
+            "graphs": "f17f125a-67fe-4243-aab9-a200db034b5d"
+          },
+          {
+            "fractal resonance": "c8724c97-18ca-4be6-ab2b-d737a036fa5e"
+          },
+          {
+            "feminisim": "d397c527-5132-47b7-be3e-1b1803bb9034"
+          },
+          {
+            "fediverse": "1c594442-cdbe-45e3-94ba-904788c28a82"
+          },
+          {
+            "fascination": "f6ab1d54-00d7-4782-83bb-df803f134e92"
+          },
+          {
+            "export your data": "be60b7d9-683e-46e6-a06c-8115d704aaa4"
+          },
+          {
+            "emotions": "0004d9a2-4b2e-4add-87c3-5bacafce1763"
+          },
+          {
+            "ego": "30642aec-f0e6-48db-89b3-171f4edb6936"
+          },
+          {
+            "distributed database": "0b412d35-920f-42fb-bfa2-501ed3224ded"
+          },
+          {
+            "dissociation": "2884e45d-0ba4-48f6-b8e0-1e0e8e7267cc"
+          },
+          {
+            "dentropydaemon - dd": "074834fe-d249-470e-8349-0298a0b0efe7"
+          },
+          {
+            "datum": "10209b0f-e9ea-4108-8c73-1f4fde6716d8"
+          },
+          {
+            "datagram": "3f1a8a37-88db-4a2c-ba6d-629ff07e6b30"
+          },
+          {
+            "daemon": "68931db0-bff0-4263-a326-59a535128eef"
+          },
+          {
+            "currency": "9bbf9f94-ce30-4785-8fe1-2a573ef50e97"
+          },
+          {
+            "cool search queries": "f57b2752-ef16-4d34-b6b4-5450ea644e9a"
+          },
+          {
+            "conceit": "f366ec1a-7141-4d71-af13-fb49a93b63e3"
+          },
+          {
+            "computronium": "5df20957-c30d-4b68-aea7-2fe3630090e8"
+          },
+          {
+            "cognitive security": "e69ff86b-f69b-4765-9760-d72a5815caa9"
+          },
+          {
+            "borg": "519c1b0f-784f-403b-87c0-78dfa50e7c2d"
+          },
+          {
+            "blockchain": "19a688e9-c7c0-4860-9007-4f07778049f9"
+          },
+          {
+            "bitcoin": "661f0e89-294a-4700-b640-2b11b5ed1f19"
+          },
+          {
+            "bandwidth": "dccb8225-96a6-4e35-aa63-3fb663aa3c22"
+          },
+          {
+            "autonomous system": "dd1e7897-bba4-4bd0-8e04-3ce9f9ab61e5"
+          },
+          {
+            "asset": "b701732c-5997-4ab6-90dc-21f3e6f81384"
+          },
+          {
+            "algorithmic-reflection": "591ada32-45ce-4a1c-9376-2c326c66cc25"
+          },
+          {
+            "agency": "a3db424a-2fa6-4c96-abe9-b7f1469bfbfc"
+          },
+          {
+            "addiction": "b284bc3b-cdfc-4f55-a2c3-ad3ef7a11bce"
+          },
+          {
+            "Zombie Argument": "6b8a2641-1ad4-4a7b-a67f-3c2feaf425b7"
+          },
+          {
+            "Zeno's paradoxes": "a0064fb4-5c59-4a60-bd22-3caf820aded6"
+          },
+          {
+            "Ying and Yang": "b18b42e5-14e1-4812-9fed-316ec2309189"
+          },
+          {
+            "Window of Tolerance": "1110db89-aac5-4d7e-9b98-2cf7bd935a09"
+          },
+          {
+            "Will to Power": "2fc34bc0-efad-466c-ab71-e1a69c4b9aa4"
+          },
+          {
+            "Will of Death": "1c741552-bfcd-4170-9dbc-72b53eb593ae"
+          },
+          {
+            "What is the Self?": "b922b3dc-2194-4c7d-bb5a-360c501c57b2"
+          },
+          {
+            "What is it like to be a bat": "85201c82-74ef-4fb7-b505-b01d6bf994f3"
+          },
+          {
+            "What does toil mean": "887b8bc3-3497-48e5-939c-840a40c16fcf"
+          },
+          {
+            "What are we going to do with all these digital humunculuses after the people they are based on are long dead and gone?": "f6583d81-36ec-44a8-ae1f-192e0c97d64b"
+          },
+          {
+            "WTF Happened in 1971": "81258339-d5d0-4621-976f-48bfd0fe2d17"
+          },
+          {
+            "Vitalisim": "ba556fc4-5521-4ac8-95e1-f055e61d90f4"
+          },
+          {
+            "Vision": "a3735b61-cc59-4014-960c-2b29e5f708c5"
+          },
+          {
+            "Virtue": "b5438c4a-fc92-41e0-b2ae-dfb863c07aa1"
+          },
+          {
+            "Version Control": "2bdd0310-d250-44e4-953a-c1f502818838"
+          },
+          {
+            "VTuber": "1b2df9c7-c855-4d46-9d57-b1c0c8c95e26"
+          },
+          {
+            "User Stories": "44c10f20-28ae-489d-bc46-0547c7997242"
+          },
+          {
+            "Uncertainty principle": "db4b5c4f-cdc5-41aa-81ca-e414d025a46d"
+          },
+          {
+            "Unabomber": "68b44843-081c-4fde-9c75-f64cd99228c0"
+          },
+          {
+            "UTxO": "453e41cb-de0e-40a5-85d3-8df0bcf7036f"
+          },
+          {
+            "UPSERT": "e694de9e-8159-4c8c-91cc-b7a5f90b0ef9"
+          },
+          {
+            "Turing test": "6854e23e-3591-4432-9bcc-c82f2121ebd3"
+          },
+          {
+            "Trigger Action Plans": "be457de2-4c92-4aa4-8d86-a1a8e5292d66"
+          },
+          {
+            "Transhumanist Wager": "96b74864-ae25-4506-85fc-07e68424be59"
+          },
+          {
+            "Time Magazine": "7b79ee31-9fb0-4863-a25f-b36ba093bd05"
+          },
+          {
+            "Theory of Mind": "4112ed67-47cb-4c85-a8f5-3530d70fcf01"
+          },
+          {
+            "Theory of Everything": "e2917bd7-f3db-456e-bd8d-23cb0429bdbb"
+          },
+          {
+            "The medium is the message": "112002ce-a9e0-4067-90b5-ababb31c2d55"
+          },
+          {
+            "The Zeitgeist Movement": "4e962984-9d46-443d-85c8-0646f7d74dc8"
+          },
+          {
+            "The Transparent Society": "2d51ba0a-5a58-4f62-817f-378d1bfb934b"
+          },
+          {
+            "The Social Contract": "8dcaafc1-8ecb-4618-85b8-6f12b5d4a75d"
+          },
+          {
+            "The Shadow": "83ccc60d-dba8-45f6-9cc2-549d462d4a56"
+          },
+          {
+            "The Psyche": "a149485b-e789-4289-8610-8e381519107d"
+          },
+          {
+            "The Power Process": "520389b2-39a2-4555-9515-c8e1f6e0b68b"
+          },
+          {
+            "The Portal": "d19c1ed9-6cb6-4a37-b4ae-f25c9fcbf237"
+          },
+          {
+            "The Network State": "27a61c3f-b5d6-4502-859c-19532c34dd44"
+          },
+          {
+            "The Mazeway": "b245c9a5-0449-45cb-b391-30a8c1cffd7e"
+          },
+          {
+            "The Devil": "1d90b262-8145-445f-a666-8e750d7925ff"
+          },
+          {
+            "The Archatype": "7ef4847e-569c-4fe8-a958-a6caa1ce8947"
+          },
+          {
+            "Technology  Purpose of Technology": "a8840f23-6d6c-47b2-ab0f-8b0d09fae889"
+          },
+          {
+            "Technological Singularity": "fa4a378f-e4b7-4d57-982b-b847ba23ecc4"
+          },
+          {
+            "Technelogical Singularity": "5f5afccb-36ed-462e-85ae-2188f580378d"
+          },
+          {
+            "Tabletop Roleplaying Games": "b8ed90ee-7105-421d-a129-d1e2cd74b71b"
+          },
+          {
+            "TTRPG": "cb50fd3f-3585-4d1e-b0a6-9b041406394e"
+          },
+          {
+            "TODO": "e32c804d-06e3-46c6-ad4c-93521018b81c"
+          },
+          {
+            "System Diagram": "349406a8-720c-4504-8eed-1000830e3266"
+          },
+          {
+            "Summary": "56b29914-7463-46c4-8b1f-28caaf6dc220"
+          },
+          {
+            "Sublime Object": "99563fc9-d67c-411e-9908-85afbb58c40f"
+          },
+          {
+            "Stoicisim": "ddc479cf-bb65-4db1-a95e-8fe41c91208d"
+          },
+          {
+            "Stable coins": "a8d6dc1a-5a14-498b-8ba0-f97c6f36ec98"
+          },
+          {
+            "Socratic Dialog": "8461d422-3f37-4db9-b561-aa17b404a4ff"
+          },
+          {
+            "Society": "404f168c-ea95-4039-a285-76bf6ba6cb9f"
+          },
+          {
+            "Social Fractals": "fa7cf452-4de4-459b-b93d-64f451909626"
+          },
+          {
+            "Social Change Agents": "cd32f0e6-d80d-4d4e-9137-268793180b7f"
+          },
+          {
+            "Social Annotation": "644dd14f-7a90-472a-9475-1596ce8cb4de"
+          },
+          {
+            "Smart Contract": "7f9d9842-5d16-4933-b896-e3567d964168"
+          },
+          {
+            "Six degrees of separation": "5241197b-7146-46d5-9084-e10a1f56804f"
+          },
+          {
+            "SegWit": "b49d524c-d04d-48bb-9440-20fc2af95bc0"
+          },
+          {
+            "Second Brain": "34e4e459-5645-4dc4-9bf6-a877efe927c7"
+          },
+          {
+            "Science": "cc6c5e5e-cec2-4fca-9417-735223a0b0bd"
+          },
+          {
+            "Sapiosexual": "4eb3ea02-ed2d-4361-95a8-34f05cc33265"
+          },
+          {
+            "Sage": "91ebbefc-2cdd-4278-8c0f-f1b19f963713"
+          },
+          {
+            "Sacred Geometry": "e071d929-af5c-4659-9837-7fb03734c71d"
+          },
+          {
+            "SAO Game Seed": "f59c2d75-4642-49d2-b90d-fa62b0594a63"
+          },
+          {
+            "Rubber Hand Illusion": "95eaa7b6-77b1-424c-9f30-5824ad1d040e"
+          },
+          {
+            "Roku s Basalask": "c3c24b28-951c-4569-b09e-fe4531853674"
+          },
+          {
+            "Reverse Engineering the Human Soul": "dc1588aa-289a-4bd2-89d1-faf06ba1c28f"
+          },
+          {
+            "Religion": "9df8cab2-648c-4171-abef-b5c875f2183a"
+          },
+          {
+            "Relationships": "dfa112f3-0fc7-4b92-b5dd-91af756b13ed"
+          },
+          {
+            "Relational Database": "f7ad145d-acaf-417c-a73c-34f110e88c1d"
+          },
+          {
+            "Reality": "137d8b09-dc00-4ed9-bb2c-825b5173c62b"
+          },
+          {
+            "README": "d8c7020b-fa33-4a44-b3b2-b9daab505ff6"
+          },
+          {
+            "Quests": "20e73a51-3cf8-492e-ba90-b9ff7d625372"
+          },
+          {
+            "Question": "31ebcbb3-2de1-4e48-bdae-aac01c14add4"
+          },
+          {
+            "Quest": "fbf58632-0593-4291-8dca-a0b2e6841750"
+          },
+          {
+            "Qualia": "3ef6214a-27ae-42f3-8060-1febd27f3fc0"
+          },
+          {
+            "QPS": "e700d36f-a803-44e9-863e-c5cd4f98e877"
+          },
+          {
+            "QED": "d9af5ab3-d19a-4c6b-a7c6-81967a147653"
+          },
+          {
+            "Puppy Dog Training": "e98ebc35-4e0b-4e61-a167-2b5058233ee9"
+          },
+          {
+            "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
+          },
+          {
+            "Prople have ideas and ideas have people": "76261f75-3052-4d74-b15e-2468789911b6"
+          },
+          {
+            "Project Proposal": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb"
+          },
+          {
+            "Project Management": "0e4562be-8998-4d6f-be4a-fa1264495d21"
+          },
+          {
+            "Project Management vs Design Management": "74bf6161-4a39-46fd-aa10-a8625697e665"
+          },
+          {
+            "Privateer": "94e2bf44-c23e-463e-b1a2-b368a14070b8"
+          },
+          {
+            "Private Torrent Trackers": "f13c1b64-dcb4-4e33-9ce5-de4930771974"
+          },
+          {
+            "Prime Mover": "af422175-df10-4821-a39c-829cac5f4af7"
+          },
+          {
+            "Primary Key": "25ae3b43-b50b-41f9-aaf7-a51ce9824b56"
+          },
+          {
+            "Power Law": "2f932b60-8d67-4d38-9445-c76eed264556"
+          },
+          {
+            "Polycentricity": "48155d84-e748-43d3-97bf-5704d31a6514"
+          },
+          {
+            "Political Science": "00f61098-d176-4725-9f93-1f6c18c33f36"
+          },
+          {
+            "Plato's forms": "30ad88dd-75b7-40e0-922e-48ef923ae691"
+          },
+          {
+            "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541"
+          },
+          {
+            "Personality Types": "f4069273-338a-417a-8a31-4dfaf46eeea0"
+          },
+          {
+            "Personal Legend": "c40839b6-4800-4114-82c2-616f63dad575"
+          },
+          {
+            "Personal Dissonance": "b3bae7bb-d53b-40cb-8eeb-a0efc703cb75"
+          },
+          {
+            "Peafowl": "b5376a11-140c-4854-87e9-3bfe1b117512"
+          },
+          {
+            "Peacock feathers": "a2f66e6c-3dac-49f6-a201-14d7d2a519e2"
+          },
+          {
+            "Pareto principle": "1b342931-f077-4345-bee0-5c60b93e9635"
+          },
+          {
+            "Parenting": "fabe88c7-3ee0-41fa-8cc5-4c8877f604bd"
+          },
+          {
+            "Panama Papers": "174b10ea-7d1c-4e33-86fe-dbe1c5762544"
+          },
+          {
+            "P verses NP": "16166cae-c4d6-4263-970c-4bf63b502a13"
+          },
+          {
+            "Overton Window": "7ec7e9c4-f1de-43cd-8ae2-15124c80a787"
+          },
+          {
+            "Optimistic Nihalisim": "0d1b55b3-90c8-4eac-91fd-754187ac3c9c"
+          },
+          {
+            "Ontological Design": "b6786924-6c41-45c0-a50a-7859afe4c30c"
+          },
+          {
+            "Omen": "43e53b22-128d-471b-9fd3-817c561d2785"
+          },
+          {
+            "Odyssey by Lucidity": "a17f02e2-c772-43b5-bb7d-58076efd6cca"
+          },
+          {
+            "Obin": "7e98de5e-7826-4d0d-ba60-81ea6bec5355"
+          },
+          {
+            "OSINT": "e5a5a594-f979-4aa3-bbd0-da97ff62c224"
+          },
+          {
+            "OLAP vs OLTP": "283d27f8-1257-438b-9159-5fc825d17eb1"
+          },
+          {
+            "OLAP Cubes": "084525cd-746c-47d4-90ed-753b814bb476"
+          },
+          {
+            "Nutrition": "9ab71fe7-4896-4647-b240-0561435e5e97"
+          },
+          {
+            "Numbers Everyone Should Know": "20330ab6-8754-4c22-8b97-93b1faf5eae8"
+          },
+          {
+            "Nuclear Family": "0d46900d-afa0-4222-882a-29b2a52d0101"
+          },
+          {
+            "Normalization": "4b5a5481-48b3-4d42-9bf8-39365ae1f4ef"
+          },
+          {
+            "Normal Form": "f38f40e6-27b3-41ba-999e-901eef5c7287"
+          },
+          {
+            "Noosphere": "f137d8eb-8bae-402d-ac87-601b8de88c13"
+          },
+          {
+            "Neon Genesis Evangelion": "a6a1addb-06e1-48c3-a100-2ace7697354e"
+          },
+          {
+            "Neo Reaction": "cadd7dd1-d681-4e4e-8eed-acbabcd80f89"
+          },
+          {
+            "Nature": "d7230e46-4fc7-4b0b-8ef2-3b5e53530870"
+          },
+          {
+            "Narrative Information Management": "c068d2dd-d5b3-4146-b5ea-0738fa9cf1b8"
+          },
+          {
+            "NPC": "6551c5f2-4351-4734-b4c7-6ba56108f775"
+          },
+          {
+            "NLP": "5cd22bfe-14f1-4724-9560-95a24b8cb849"
+          },
+          {
+            "NFT": "1dc1e76e-7ad5-428c-97bf-8d86ea6808d9"
+          },
+          {
+            "Morphogenetic field": "311a2b60-2e25-46ff-8d4f-dbd43551f3b1"
+          },
+          {
+            "Morphic Resonance": "1ea4d752-e783-45f8-a355-98b52d0ca391"
+          },
+          {
+            "Moral Algebra": "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9"
+          },
+          {
+            "Monorepos": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d"
+          },
+          {
+            "Money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
+          },
+          {
+            "Mission vs Vision Statements": "7c585bdb-a859-45c2-809f-8b19eb719521"
+          },
+          {
+            "Mission Statement": "e99c7bdd-3987-441e-a043-bcc81d6d2b29"
+          },
+          {
+            "Mind": "0495f426-37dc-44c5-92fe-a494b814ecf9"
+          },
+          {
+            "Mind Body Problem": "19f71300-59ae-448f-980d-9e5df39bef54"
+          },
+          {
+            "Milgram experiment": "ba807965-9c4d-46a0-a163-c4314f5e9b63"
+          },
+          {
+            "Midwit": "f5b79406-16d4-4779-82d7-0dcac95d5ccb"
+          },
+          {
+            "Microsoft MVP": "6b3bddf5-aeaa-4adf-955d-9826d6b3e062"
+          },
+          {
+            "Metcalfe s law": "7492ad77-0944-40d1-8f8b-d2244061d4d1"
+          },
+          {
+            "Metaverse": "7403b88e-ec0a-4307-a766-d37c364aa2f1"
+          },
+          {
+            "Meisner technique": "37bf3abd-b019-4ee3-aaee-2dbbbca4597b"
+          },
+          {
+            "Medieval Peasants": "359e9740-1586-4216-8dd1-b20d7b9f7d51"
+          },
+          {
+            "Media Consumption": "4cb35318-2318-451d-9103-009343a280ff"
+          },
+          {
+            "Meaning Maxie": "ea2ea1ba-3f17-479f-abd9-ff1dfc40dda3"
+          },
+          {
+            "Materialisim": "d898c0b3-5927-4803-9c2e-cd2dedc364f5"
+          },
+          {
+            "Marriam-Webster": "6b55ab1d-0279-4e65-bfd9-27a1ad9dabfe"
+          },
+          {
+            "Marriage": "0c1651c6-76a4-429d-b54b-1a5dc6459ddc"
+          },
+          {
+            "Markov Blanket": "b4e6ccfc-3b54-4c11-9a79-ed75c1b7f2e3"
+          },
+          {
+            "Markdown Files": "ceb61472-539e-4d96-8db5-9168bf51b6e9"
+          },
+          {
+            "Map vs Territory": "141000ee-8d0a-4937-8960-b6932062c30e"
+          },
+          {
+            "Manufacturing Consent": "1dd268ef-8d4f-4691-ace3-1bddff15590b"
+          },
+          {
+            "Manifesto": "7bfac9b7-8432-4f95-a5c8-cd27784cc208"
+          },
+          {
+            "Machine Learning": "43a0dfe3-6cf4-498b-a29a-60e53078c92d"
+          },
+          {
+            "Machiavellianism": "ab6aa1a2-9b8f-43af-b949-fcddc2096044"
+          },
+          {
+            "MEME Dag": "f6fac773-efe2-4a89-abd0-d65ecc028871"
+          },
+          {
+            "List of DAO Platforms": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696"
+          },
+          {
+            "Lions Tigers and Bears": "a732396b-42e4-469d-9734-cec11a9c5949"
+          },
+          {
+            "Lego Meat Gnosticim": "e5ee7c73-c251-43a5-ad64-63f6c98c857a"
+          },
+          {
+            "Lean Canvas": "0aa6a47f-90da-4483-b7ed-3db45a099686"
+          },
+          {
+            "LCL": "b53946d2-24eb-4282-9b29-4c5ec8f3c3cd"
+          },
+          {
+            "Kybalion": "dd913574-84ca-444a-b78d-f9e09d952677"
+          },
+          {
+            "Kwisatz Haderach": "b20c7712-31fd-40f3-aeca-61214d5e05bc"
+          },
+          {
+            "Knowledge argument": "e2cad632-0c65-44c3-924c-1b2cd870862a"
+          },
+          {
+            "Knowledge Graph": "9a4cdfe2-80b9-4ba8-84db-c7b29e46ff2f"
+          },
+          {
+            "Interference theory": "0679bd5d-395d-43da-9973-60a1c6604234"
+          },
+          {
+            "Infrastructure as Code - IAC": "18a9ad29-6aa9-40a6-be0a-ab3883d5d7df"
+          },
+          {
+            "Influence": "cfac8414-051e-4129-bf62-efdcb6cc6cfb"
+          },
+          {
+            "Index of all the worlds information": "5db3ecd5-3b0b-4381-9cbc-c0c6a21065a2"
+          },
+          {
+            "Incompleteness Theorem": "9cae8201-679e-4cdd-a768-1fd83231afb8"
+          },
+          {
+            "Ideology": "d77c97e5-e532-4912-8a5b-7d52641254c9"
+          },
+          {
+            "Ideological Reflection": "921dde4b-6640-4e98-813e-38b0c413e3da"
+          },
+          {
+            "Identity Protocols": "197d37c9-dd58-4222-8c98-9f63c043a77b"
+          },
+          {
+            "Idea": "fe018add-dd1d-43fe-84f6-8d70d4f666db"
+          },
+          {
+            "Id  Ego  Superego": "f6af78d0-0e0f-42bf-b5d2-5bd38c3f5511"
+          },
+          {
+            "IETF": "1b101444-8158-4bb4-ab65-f63d5bc644b0"
+          },
+          {
+            "IETF Internet Engineering Task Force": "2e051f2c-73d9-40ce-9af5-1b1be5604b78"
+          },
+          {
+            "IDEO": "f2582cde-6f19-43b5-ac74-efb2f0abb6cb"
+          },
+          {
+            "I Am What I Think You Think I Am": "fec3962a-b57c-44c8-a5ac-5d7511b4e5e2"
+          },
+          {
+            "Hypnotic Rhythm": "641f87f8-dca8-4b8c-87a9-715f83a61a2a"
+          },
+          {
+            "Hypervisor": "d8de751b-0b11-4076-b9e5-a020a31038a3"
+          },
+          {
+            "Hyper Reading": "86c3e240-9464-461d-90ee-4f7b209367cd"
+          },
+          {
+            "Human": "f29ded80-861c-4566-b1fd-cc9f867c7b4f"
+          },
+          {
+            "Human Potential Movement": "70cbd85e-4261-4d94-b500-71f4c5c27c22"
+          },
+          {
+            "Human Instrumentality": "90d2da70-b13d-49c9-adba-5eedf3ec08f9"
+          },
+          {
+            "Human Experience": "acdeb331-05b1-4e62-8faa-1a090dc1466d"
+          },
+          {
+            "Human Condition": "f9839ecb-58ec-472f-bebb-b8d8cc0008dd"
+          },
+          {
+            "Homo Sapians": "73b4f635-d2cd-4482-a13f-ec65bb12f255"
+          },
+          {
+            "Homelab": "596226d9-9379-401a-a131-20902c02f99d"
+          },
+          {
+            "Heuristic": "07b215c1-b4fa-4433-9233-470ebfe3539f"
+          },
+          {
+            "Heterophenomenology": "3213d6c4-e618-4a42-847d-060edfcf6959"
+          },
+          {
+            "Hero's Journey": "9d46661c-c6a7-4df3-9945-d17f14a37979"
+          },
+          {
+            "Hegelian dialectic": "a3acbd1e-0cda-4243-902e-7e188b1db442"
+          },
+          {
+            "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37"
+          },
+          {
+            "Government": "3dc06628-1344-4d36-b4b1-1c02c60fb362"
+          },
+          {
+            "Google": "2ee4e1cf-6028-4a69-bfae-e1defce11b7f"
+          },
+          {
+            "God": "41b53b6c-7073-4f0e-9549-575943f0ac66"
+          },
+          {
+            "God Head": "5eedae14-86ed-4eae-b904-380f2d2ab85f"
+          },
+          {
+            "Gnosticism": "a21ebe81-69b3-4567-a804-e4f21f779074"
+          },
+          {
+            "Gnosis": "b5c73059-0bfc-406e-b48d-6cb63279d034"
+          },
+          {
+            "Gell-Mann Amnesia": "9f7b5274-98ef-48af-9f8b-24816ab699f5"
+          },
+          {
+            "Gamer Girl Manifesto": "32743aff-2183-417b-931a-d1319267e66b"
+          },
+          {
+            "Game Theory": "c5ea45c4-9c31-4a58-9f58-45899596e413"
+          },
+          {
+            "Gaia": "acae29ae-731b-4949-b22f-60b9b55171d1"
+          },
+          {
+            "Functional Programming": "2b0bbe87-d9dc-4f14-82bd-a2b428fc5866"
+          },
+          {
+            "Full Stack Developer": "44aa09d5-dcf1-49ce-a2d3-045dc1e82437"
+          },
+          {
+            "Free Energy Principal": "77d20571-affa-4190-9ac9-07c1c45c48b1"
+          },
+          {
+            "Flow State": "65e44fba-1666-4304-9b35-4069d286feea"
+          },
+          {
+            "Flock": "31e92352-a98b-46fe-b6cb-46f1d386c8d1"
+          },
+          {
+            "Fear of God": "c6d670e9-a57c-4a40-bec4-59591b859306"
+          },
+          {
+            "Fascism": "6ae3be0e-34e5-4876-b13a-3ca6038c54a0"
+          },
+          {
+            "Fake Internet Theory": "d1b154d8-010c-4266-b18f-064092dc272b"
+          },
+          {
+            "Fact Tables": "ab1b3bda-a425-49db-80e1-f7cb8f3d6cee"
+          },
+          {
+            "Facilitator's Catechism": "1b5ef60f-d8e9-4598-940f-e1afedd37e7a"
+          },
+          {
+            "FAANG": "6472852f-3e10-4551-941d-95a970870d7c"
+          },
+          {
+            "Extended Mind Thesis": "7d2aa71b-8979-4452-a1b3-bfd02a27848c"
+          },
+          {
+            "Examples of Knowledge Management": "8d91554a-4bd1-4a29-a287-4979fa7d9da4"
+          },
+          {
+            "Eventual Consistency": "57a74be4-4fda-4b0e-8729-587a870bcb07"
+          },
+          {
+            "Eternal September": "616da5df-ef96-427b-80a0-6690355c2116"
+          },
+          {
+            "Entropy": "5495917e-ff4a-4ae7-9152-e7209b18b1c0"
+          },
+          {
+            "Entrepreneurship": "e04f2251-955e-41e3-a7e3-e69981686ecb"
+          },
+          {
+            "Entrepreneur": "3231b076-0d42-4249-8397-298ecab5b0e8"
+          },
+          {
+            "Entity Relationship Diagram": "15870a20-001c-451e-805c-7dbcf089ddbe"
+          },
+          {
+            "Energy": "020e17ac-9314-4170-a5c4-63e133795354"
+          },
+          {
+            "Encyclopedia Britannica": "42a131ef-607d-445e-9649-ce7cedfa85ff"
+          },
+          {
+            "Emoji": "aa7dda9a-4fb3-4f03-8f75-d7dea92ed4bf"
+          },
+          {
+            "Elite": "f4ff28b3-80a2-45fd-99d0-3b35f80efa63"
+          },
+          {
+            "Elite overproduction": "80d8b309-f444-49be-9d83-cdf0776eeec7"
+          },
+          {
+            "EVM": "034ecb2f-4d2b-448a-aa58-04082769c63b"
+          },
+          {
+            "EVM Compatible": "837f477d-cb08-4ab1-8dd5-c9785dd3f40a"
+          },
+          {
+            "ENS": "354e7428-f69e-42c5-97dd-92bf18521112"
+          },
+          {
+            "Dualisim": "b9f3d0a1-4752-432b-a8e2-d44084fa6487"
+          },
+          {
+            "Double Spend Problem": "5359177b-3774-4312-b8c3-3d2e99876d09"
+          },
+          {
+            "Dopamine Pumps": "f79eb288-40e6-4afa-a414-cc78007f47a2"
+          },
+          {
+            "Division of Labour": "805c5a5c-6d6d-45e1-8677-dd920eb61c97"
+          },
+          {
+            "Dimension Tables": "453185ef-6fb9-4d11-bdeb-681ac5c4a259"
+          },
+          {
+            "Digital Immortality": "a47c8a35-8cb1-4e0f-b0dc-a6e02eefe5a7"
+          },
+          {
+            "Dialectical materialism": "d724dbed-aec7-4173-8b11-6c0d77081b82"
+          },
+          {
+            "Desire": "3910c420-0876-4ac9-bf04-44880c8a8210"
+          },
+          {
+            "Design": "87a64729-08ab-4eb9-b3f0-23c9454772b4"
+          },
+          {
+            "Design Roadmap": "71dc6153-9d1b-493d-9c44-e804b26f0c15"
+          },
+          {
+            "Design Management": "882d152e-6978-4b37-97cf-a7dc61c0ff9b"
+          },
+          {
+            "Design Document": "72b49f16-d061-40d5-94c6-390a6c0c02b4"
+          },
+          {
+            "Description": "d5d2e50b-6665-4d7a-8ddb-aac6ed24e293"
+          },
+          {
+            "Dentropy Cloud": "4b98c736-45b5-4151-80b5-7ab0c746f1ea"
+          },
+          {
+            "Denormalization": "030ae2e4-3ea1-4140-b91c-e58ec8caf78d"
+          },
+          {
+            "Demisexual": "36238004-9b3a-47ae-8bc4-6bfb39fca9fa"
+          },
+          {
+            "Define Identity": "01eeae34-73e3-49b2-be72-9f8347abe6d8"
+          },
+          {
+            "Defi": "881994d3-ca60-4008-8cd2-da0b3df33c63"
+          },
+          {
+            "Deep Work": "fcfb7a16-5a8a-41e1-9f11-1bc5d2f5ff00"
+          },
+          {
+            "Dataisim": "97563997-6ace-427e-8132-c68377b9b78a"
+          },
+          {
+            "Database": "a120b519-3cc5-4883-a60b-8d971d7697db"
+          },
+          {
+            "Data Warehouse": "364036ef-b313-432b-a855-83b637de52e7"
+          },
+          {
+            "Data Priest": "c3d797fd-63a9-4c16-9426-eb10892b698a"
+          },
+          {
+            "Data Modeling": "76fba20d-2522-4bdc-aa43-5a842eda25f1"
+          },
+          {
+            "Data Engineering": "fac22898-27d1-4f21-89f2-ce30f410a2e8"
+          },
+          {
+            "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
+          },
+          {
+            "DIY Annotation Tooling": "6cd3ff9d-b7f2-4292-a631-c07b7a9f5920"
+          },
+          {
+            "DID": "4bc51a58-a746-42df-ab29-b8deb14682ae"
+          },
+          {
+            "DBT - Dialectical Behavior Therapy": "2d965a3f-bd71-4aaa-9bb9-2425c0410aa8"
+          },
+          {
+            "DAO": "26725b10-b472-41ee-ba3b-4e9bc851f174"
+          },
+          {
+            "Cypherpunk": "c09df7ee-3de0-4bd2-a51e-b4a2e4919abc"
+          },
+          {
+            "Cybernetic Collective": "dae203b7-8033-412f-a0b0-b4c1c2d45105"
+          },
+          {
+            "Cyber All Project": "5ccbeed6-e76d-4884-99b3-caf1c6ff704e"
+          },
+          {
+            "Cryptography": "391ab4bd-43fd-44fc-9813-82da7807e0df"
+          },
+          {
+            "Crypto": "983045b6-6cab-489c-8344-2f6c2b76f7ff"
+          },
+          {
+            "Crypto fiat currencies": "f7833f8d-1e97-4000-85c9-3ec0c45523f9"
+          },
+          {
+            "Crypto Projects": "409347b3-f25a-4bb9-8ffc-6f49ccf08961"
+          },
+          {
+            "Cringe": "eb9539fa-c2c5-49c5-8b1d-3f91d891b59a"
+          },
+          {
+            "Covid": "3424ca9f-c3a4-448f-96e2-0b290e2c4ac3"
+          },
+          {
+            "Corporations": "86653701-e0a0-4650-a202-4a5cca00b49b"
+          },
+          {
+            "Conway s Law": "0607d553-fe1e-4b0d-9329-ce54d7913e4b"
+          },
+          {
+            "Containerization": "2b328daa-25f6-48a6-846c-bc8be17fb3ee"
+          },
+          {
+            "Complex vs Complicated": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30"
+          },
+          {
+            "Comedy": "062c6b95-d165-4bdd-9a34-1dc958e77307"
+          },
+          {
+            "Combat Soap Opera": "92d8b7e1-86f1-42f3-82be-ec0448e0b56f"
+          },
+          {
+            "Cognitive Dissonance": "8c198cdd-4b8e-4784-ac8e-4c02cf113f49"
+          },
+          {
+            "Cognition": "8c518893-d16a-49aa-b194-482886c52607"
+          },
+          {
+            "Coaching Paradox": "ec50c9b3-a6ce-4bb7-9ce8-cebb65b9cc9e"
+          },
+          {
+            "Clustering Columns": "7909bbc0-7cec-4207-8b0d-f7b0a037f9b0"
+          },
+          {
+            "Cloud Acadamy": "dd855460-3aef-462c-8c44-eb4d42a018e7"
+          },
+          {
+            "Chinese Room": "e1aed0af-98ef-4514-9a7e-8e6eaaac2f1d"
+          },
+          {
+            "Categorical Imperative": "c2aae916-fbe6-4181-a92c-4fba2dfef831"
+          },
+          {
+            "Catechism": "474cf7d6-0c55-489d-90d0-cf4edce33b3a"
+          },
+          {
+            "Carl Jung’s Theory on Introverts  Extraverts  and Ambiverts": "88a81cfb-6168-484e-b414-9f925ad340e8"
+          },
+          {
+            "Carl Jung Shaddow": "34a6f91b-b091-475f-8ca3-e30f13fccb70"
+          },
+          {
+            "Canada's gender identity rights Bill C-16 An Act to amend the Canadian Human Rights Act and the Criminal Code": "5c32d3c4-7b2b-435e-ab08-b33a20561670"
+          },
+          {
+            "CRM - Customer Relationship Management": "8bdaa2dd-6098-4dc2-a049-e286f9968e9a"
+          },
+          {
+            "CBT - Cognitive behavioral therapy": "8a502d04-6d32-4607-8772-6c7a784604be"
+          },
+          {
+            "CBC Casper": "13238467-be41-4d6b-9769-0bb8ca16fdd4"
+          },
+          {
+            "CAP Theorem": "8c01e69a-28b0-48e6-bf73-01666dba3cab"
+          },
+          {
+            "Business Case": "12e0e877-dfcd-4c61-8be7-7b708f95448d"
+          },
+          {
+            "Bridge Networking": "9a8058a0-acab-47e3-9ac7-50e83a9af59b"
+          },
+          {
+            "Brain": "00b2606d-2803-4793-b4ea-df731c340cfa"
+          },
+          {
+            "Brain Trust": "27fe2c09-8df9-4ddf-b4eb-d506e1c13830"
+          },
+          {
+            "Boilerplate": "8bd819a5-f0fe-4cf7-aaef-744574c58d32"
+          },
+          {
+            "Bohemian Grove": "10197499-a27e-4118-be98-3c35882e3b76"
+          },
+          {
+            "Blooms Taxonomy": "906ffbbd-443b-4298-9a3a-de12e6bc19a8"
+          },
+          {
+            "Blockchain Token Bridge": "fa7d08c2-5e1e-49fa-93c2-05449eb4ac4a"
+          },
+          {
+            "Blockchain Naming Services": "6ba83b5b-6a74-4876-aff8-d0981e41a3ba"
+          },
+          {
+            "Birthday": "c919cb31-e11c-4d4c-b4de-512965a60ead"
+          },
+          {
+            "Bird": "14928e6c-b858-4a08-be9a-00e304cd3b6f"
+          },
+          {
+            "Big Five Personality Traits": "98bd1412-f674-4a4b-bb84-5bfc1b26b3c3"
+          },
+          {
+            "BIg Data": "15149aa2-7e2b-40bf-bd84-718487f2bb09"
+          },
+          {
+            "BIP39": "b44fa0e8-d49e-4873-b9d0-52ce862e4ed8"
+          },
+          {
+            "BGP Border Gateway Protocol": "975bfcf5-013b-45ac-bcf2-52ef78528b0e"
+          },
+          {
+            "Awesome": "ba19bb66-a8e9-4287-8eac-f854aacf899c"
+          },
+          {
+            "Average path length": "962b5f3f-1b8f-4314-9dc4-ac71a5a41fcf"
+          },
+          {
+            "Autophenomenology": "3ebbb692-9961-40b2-a99b-256d7ffa1cb6"
+          },
+          {
+            "Autocracy": "90be24f5-9d7f-4f87-acb6-b14ef0f188df"
+          },
+          {
+            "Ascetic Ideal": "34ed3679-99eb-4f8f-a4a1-92441ddfda61"
+          },
+          {
+            "Areas of Improvement": "9f9a1f51-58d2-4550-a44a-862f242502ca"
+          },
+          {
+            "Archatype": "80b89261-900d-472f-9a4e-7a580ae51e99"
+          },
+          {
+            "Appointed Board": "623271c1-8287-4e7a-9b57-a6b4fa773e69"
+          },
+          {
+            "Animal": "2af1b93a-e652-4809-b2e5-4607eb8ae5a1"
+          },
+          {
+            "Analytical  Jungian Psychology": "8fccac26-f3bd-4341-a374-8c4db38e2b4f"
+          },
+          {
+            "Allometic Laws": "e6ce0e5e-107b-419f-b83d-68533ba7c3a1"
+          },
+          {
+            "Alchemy": "b6fc2847-9416-465e-ac55-bdbdd3e14387"
+          },
+          {
+            "Airsoft": "73df030c-cbeb-49e3-937d-2b438821389f"
+          },
+          {
+            "Agent Based Modeling": "1b7495c6-fdde-46e3-9637-3c2251e72d07"
+          },
+          {
+            "Activity Pub": "c1a79e55-46b3-4070-9271-4cbee6a61fec"
+          },
+          {
+            "Active Interference": "4c7376a5-788e-4890-b0f5-c23a344b470c"
+          },
+          {
+            "Acronyms": "dd44570a-6b71-4628-a63f-def716a3d1eb"
+          },
+          {
+            "Accelerationisim": "9a3bbd28-7cc4-444a-9c27-a4ceb815a9ab"
+          },
+          {
+            "80 20 Rule": "4eb7dd15-c29a-4378-875e-c17b424c507a"
+          }
+        ]
+      },
+      {
+        "Categories": [
+          {
+            "economics": "08698f06-5b23-4072-97e5-86acad2031c0"
+          }
+        ]
+      },
+      {
+        "12 step program": "c3f31c7f-8163-4ec3-a557-428b6f09827c"
+      }
+    ]
+  },
+  {
+    "Writings": [
+      {
+        "Versioned": [
+          {
+            "You took the Transhumanist Wager Now What?": [
+              {
+                "You took the Transhumanist Wager Now What? v0.0.1": "34608d94-e304-4aa4-9339-f23d3fa39359"
+              }
+            ]
+          },
+          {
+            "What Humans Value": [
+              {
+                "What Humans Value": "f91229f0-4d0f-46d1-b754-4f775e256bab"
+              }
+            ]
+          },
+          {
+            "Virtualization The Self": [
+              {
+                "Virtualization The Self v0.0.1": "3fdd115e-53ba-40fe-af63-e5e19b97f763"
+              }
+            ]
+          },
+          {
+            "The Human Social Interface": [
+              {
+                "The Human Social Interface v0.0.1": "0d7e33d9-001b-427f-a7c1-ad2c1a872b2c"
+              }
+            ]
+          },
+          {
+            "The Daemon is Real, Now What?": [
+              {
+                "The Daemon is Real, Now What? v0.0.1": "952abb04-36df-4913-ace1-651763fa1c88"
+              }
+            ]
+          },
+          {
+            "Mapping The Human Heart": [
+              {
+                "Mapping The Human Heart v0.0.1": "2cee33f1-a73c-4c9c-b2e1-598fd2aa755b"
+              }
+            ]
+          },
+          {
+            "Learning to sail the memes": [
+              {
+                "Learning to sail the memes": "e3ed979d-7207-4dfa-806c-03aab973a4c9"
+              }
+            ]
+          },
+          {
+            "How Does One Go About Wielding Their Own Plot Armor?": [
+              {
+                "How Does One Go About Wielding Their Own Plot Armor? v0.0.1": "7de2eb48-087b-4936-8446-dcc021b74966"
+              }
+            ]
+          },
+          {
+            "Guide Posts for the Human Condition": [
+              {
+                "Guide Posts for the Human Condition v0.0.1": "746f7dae-6c6d-416f-b98c-4c5e63351f71"
+              }
+            ]
+          },
+          {
+            "For Manifesting Destiny": [
+              {
+                "For Manifesting Destiny v0.0.0": "b8ba3c64-63f3-47bc-bf00-da6a612f7b55"
+              }
+            ]
+          },
+          {
+            "Cringe meets theory of mind": [
+              {
+                "Cringe meets theory of mind v0.0.0": "cef3066c-8a14-467b-979e-9036068e3653"
+              }
+            ]
+          },
+          {
+            "Consciousness and Parasites": [
+              {
+                "Consciousness and Parasites v0.0.1": "b31360a6-ae1d-45d2-95e1-cd884a27971f"
+              }
+            ]
+          },
+          {
+            "Blockchain as the Operating System for the Technological Singularity": [
+              {
+                "Blockchain as the Operating System for the Technological Singularity v0.0.1": "09275ad7-56d9-47e1-b3ea-0e8ded3dce90"
+              }
+            ]
+          },
+          {
+            "Becoming A Dataist In Training": [
+              {
+                "Becoming A Dataist In Training v0.0.1": "417617a8-a7b5-429c-8f5e-0e56ffe6ef21"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Research": [
+      {
+        "DAOs": [
+          {
+            "List of DAOs": [
+              {
+                "Sourcecred DAO": "4b7fcda9-08f9-4b63-9d65-877690bde53f"
+              },
+              {
+                "Sobol": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
+              },
+              {
+                "Proof of Humanity": "14df1c24-0732-42bb-abd8-34bb4ddfc0a1"
+              },
+              {
+                "Opolis": "2ee5e73f-3d36-465e-896b-ba0542dd75ae"
+              },
+              {
+                "Lex": "fbf0de09-d543-4456-847c-57fb27ee4e3d"
+              },
+              {
+                "Fraktal DAO": "9cc23bdc-e38e-460a-a8d5-93a579fb9bef"
+              },
+              {
+                "ENS Dao": "78c3cc09-c983-428b-81dc-e78ed7a9c0e7"
+              },
+              {
+                "Commons Stack": "58c33617-cd2c-479b-b2a7-c49da6521f8b"
+              }
+            ]
+          },
+          {
+            "DAO Protocols and Platforms": [
+              {
+                "daostack": "a823faee-57dd-4429-9a1b-3b8309fc3990"
+              },
+              {
+                "Snapshot": "b24ee33c-b3bb-400e-ac10-fe833a536955"
+              },
+              {
+                "Lens Protocol": "2e4b8504-85db-4ad1-bbfa-4cfb1216bdfe"
+              },
+              {
+                "Deep Work": "5d76918e-df1c-48fd-8e09-50ef334c0112"
+              },
+              {
+                "DAOhaus": "688dae83-c9c3-44d3-b32c-c6248ea0958e"
+              }
+            ]
+          },
+          {
+            "Logs - DAO Research": "2fa7bcd5-8775-45f7-b6df-e86977b335f9"
+          },
+          {
+            "DAO Research Home": "63b4f695-2c15-4f11-bf8c-ac9b75d8f6a7"
+          },
+          {
+            "DAO Interrorgation": "d2e34182-88c3-4e81-b926-07650ad30ee6"
+          },
+          {
+            "DAO Incubators": "a7402f58-2c31-407a-a435-d98834d6a5d9"
+          },
+          {
+            "Blockchain Sniff Test": "9c289005-e2e3-41fe-93c8-3ab0acabae3f"
+          }
+        ]
+      },
+      {
+        "reddit export": "2ddae3c6-92e8-454e-8eee-5ebb62930fff"
+      },
+      {
+        "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
+      },
+      {
+        "Research Chaos": "60608327-5472-4577-a8c9-80372f61a9ef"
+      },
+      {
+        "Network Hardware": "4620935a-64c8-45de-9da7-5878621236a5"
+      },
+      {
+        "Event Organization Platforms": "94dfc14e-03c4-4a11-9b16-51e82db2351d"
+      },
+      {
+        "Decentralized Storage": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7"
+      },
+      {
+        "Contextualizing Azimuth": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6"
       }
     ]
   },
@@ -7226,6 +7212,9 @@
             "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": "ae8cb99d-65d5-404f-9d83-4572cca17719"
           },
           {
+            "What other some projects that scraped fandom.com?": "4cb580de-4980-4475-9878-faba48388dd2"
+          },
+          {
             "What is the name of the most active channel in each discord guild?": "27802970-c6dc-462e-8210-216bb1eb6a36"
           },
           {
@@ -7253,6 +7242,9 @@
             "What is a Poke in Hoon and how do you perform it?": "0362bbdd-cf29-4898-be54-2f675a4d3596"
           },
           {
+            "What is ETL to Question Engine?": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc"
+          },
+          {
             "What discord guilds have the most messages?": "2e369507-1f65-4c97-9a37-375f2b5d27fb"
           },
           {
@@ -7263,6 +7255,9 @@
           },
           {
             "What are the zero to hero urbit app examples with source code?": "4212d688-8696-4f32-8813-7edab4080e1c"
+          },
+          {
+            "What are the parts of a URL?": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8"
           },
           {
             "What are the most popular parts of the Hoon standard library?": "d228c0d3-4420-42e8-9932-0aab68e08350"
@@ -7349,6 +7344,12 @@
             "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
           },
           {
+            "How to check if file or directory exists using python3?": "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5"
+          },
+          {
+            "How to Remove files recursively in Linux?": "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186"
+          },
+          {
             "How does one store a 2 dimensional matrix in Hoon?": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00"
           },
           {
@@ -7371,6 +7372,16 @@
           },
           {
             "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d"
+          }
+        ]
+      },
+      {
+        "Sets": [
+          {
+            "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
+          },
+          {
+            "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439"
           }
         ]
       },
@@ -7636,6 +7647,37 @@
     ]
   },
   {
+    "Products": [
+      {
+        "Windscribe": "b60530ee-d23a-4895-8e53-1d1a56490ad1"
+      },
+      {
+        "Vultr": "0aa1a512-fab1-42c1-9b89-91f8df1a6a13"
+      },
+      {
+        "Sieve": "b80ac15e-9c7e-4e11-ac89-1717f19ef3a4"
+      },
+      {
+        "Privateer": "9fdcb75d-0bab-42b2-8001-76e7ccb552e9"
+      },
+      {
+        "Pirate Hat": "acd4ae08-6fb7-4e70-a1aa-4a84d742e820"
+      },
+      {
+        "Ledger": "f66a2618-116c-408b-80dc-8a5be57bf593"
+      },
+      {
+        "Fire Tablet": "e0b6b797-95c7-4f42-9ef1-e59e24f27ecd"
+      },
+      {
+        "Corsair": "d3049779-9171-49af-adcc-bf4cf8e727d7"
+      },
+      {
+        "Battery Bank for Cabin": "976ed1ce-9f49-4a0c-bb79-1107fea34757"
+      }
+    ]
+  },
+  {
     "MyResearch": [
       {
         "White Paper and Project Summaries": "4edd1389-1223-4dfa-b004-7fd601c714ad"
@@ -7677,61 +7719,86 @@
     ]
   },
   {
+    "Acronyms": [
+      {
+        "saas": "6d27e465-d93c-4de2-b0e4-82ba5eabd7ea"
+      },
+      {
+        "WAGMI": "99dc23d5-ebf9-4bba-b259-bb34c491a44b"
+      },
+      {
+        "TZM": "b39a1e1f-e391-4451-bccb-b3e6052de91d"
+      },
+      {
+        "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc"
+      },
+      {
+        "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
+      },
+      {
+        "OLTP": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3"
+      },
+      {
+        "OLAP": "515a019e-5333-4996-956c-d4661cd215c8"
+      },
+      {
+        "MVP": "41018894-c14f-4996-bc7a-e8c656d10d26"
+      },
+      {
+        "MVC": "bb722263-d24b-4205-9485-33b19202e305"
+      },
+      {
+        "MPP": "93fab9de-fb11-4fcc-825c-8047cbe55203"
+      },
+      {
+        "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732"
+      },
+      {
+        "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
+      },
+      {
+        "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
+      },
+      {
+        "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf"
+      },
+      {
+        "ERD": "169abeb2-1466-40b0-8b0a-08b90ed1851d"
+      },
+      {
+        "ELT": "04d9c099-c626-46d7-aa94-1a33117e1d90"
+      },
+      {
+        "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
+      },
+      {
+        "DWH": "9ac583fa-1c5e-4989-9642-67d5e45bb81c"
+      },
+      {
+        "DDL": "a2026d45-81b5-4b47-b9a4-c86d10df5424"
+      },
+      {
+        "DBMS": "f96023ea-65ec-4ad1-9b06-a80c436b854d"
+      },
+      {
+        "CIF": "3937032a-3f05-4be5-bcc0-a0730c674d3c"
+      },
+      {
+        "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd"
+      },
+      {
+        "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61"
+      },
+      {
+        "AAA": "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
+      }
+    ]
+  },
+  {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
   },
   {
-    "What is ETL to Question Engine?": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc"
-  },
-  {
-    "The 4 Step plan for Question Engine v0.0.2": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
-  },
-  {
-    "The 4 Step plan for Question Engine v0.0.1": "9dfba51c-8092-411d-859b-9acf356ec385"
-  },
-  {
-    "Tasks for ETL to Question Engine": "a6649a28-5862-4820-8797-1cfaf2ba1713"
-  },
-  {
-    "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
-  },
-  {
-    "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439"
-  },
-  {
-    "Project Update Posts": "4c45797f-8d43-4277-a5c1-de8df9aa7876"
-  },
-  {
-    "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1"
-  },
-  {
-    "Heuristics": "8b302a13-5350-41fc-b0c0-dc5bcb320adb"
-  },
-  {
-    "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
-  },
-  {
-    "ETL to Question Engine, Update 9, Wrote an ETL Class": "c307374d-a751-437a-8eb4-ff3dc7808499"
-  },
-  {
-    "ETL to Question Engine, Update 8, Wrote Analytics Class": "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8"
-  },
-  {
-    "ETL to Question Engine, Update 7, Fixing Bugs": "2a8426e6-7f84-42f2-82c3-e74e898e4c81"
-  },
-  {
-    "ETL to Question Engine, Update 5, Optimizations": "88cd3a9e-9156-4482-aaa5-2bb8eeebca0d"
-  },
-  {
-    "ETL to Question Engine, Update 4, Code Refactor and TrueNAS S3": "d59dbed7-08bd-462e-8f87-24a80c791f46"
-  },
-  {
-    "ETL to Question Engine, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
-  },
-  {
-    "ETL to Question Engine, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036"
-  },
-  {
-    "ETL to Question Engine, Update 1, SQLite to Postgres": "adf51542-a86b-437b-8542-9ef82c41d7a2"
+    "Quest Log": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8"
   },
   {
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
@@ -7741,14 +7808,5 @@
   },
   {
     "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
-  },
-  {
-    "DAO Frameworks": "d5820bd1-d82d-4dbb-962d-976998e9c8e0"
-  },
-  {
-    "Catechism - Discord Auditing, DAO use Case V0.0.1": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
-  },
-  {
-    "Catechism - Discord Auditing, DAO Use case V0.0.2": "ed188fb4-fc23-4352-90f9-34b6fe1718e3"
   }
 ]
