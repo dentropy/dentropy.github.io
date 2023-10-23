@@ -1802,6 +1802,9 @@
             "Storj": "e544dd7d-86c3-4206-b53d-6426885e4fdb"
           },
           {
+            "Steam - Software": "a767bb2e-1e7e-4ef0-a32f-766fefc91b9d"
+          },
+          {
             "Statbot": "6f5fb10c-f69a-4ea4-a111-f99666f9d958"
           },
           {
@@ -2309,7 +2312,7 @@
             "Haskell": "4961c81a-7d2d-4143-af57-2fa45afc69c7"
           },
           {
-            "Hardhat": "b2f5f020-78fc-4abf-9154-ddaf31d89822"
+            "Hardhat": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c"
           },
           {
             "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
@@ -4088,7 +4091,7 @@
             "ETL to QE, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036"
           },
           {
-            "ETL to QE, Update 14": "a7099c90-7fb1-4230-9c47-874fd85e8837"
+            "ETL to QE, Update 14, Topic Modeling": "a7099c90-7fb1-4230-9c47-874fd85e8837"
           },
           {
             "ETL to QE, Update 13, Redefining Project Scope": "0857e406-5e14-4b45-9e8c-3ae712a2f00a"
@@ -4097,10 +4100,10 @@
             "ETL to QE, Update 12, Presentation at Meetup": "20be1355-e585-4eb4-b0a7-4a65c1eda264"
           },
           {
-            "ETL to QE, Update 11, Time Queries": "8a04da32-878d-4f6c-9973-ed58870b250f"
+            "ETL to QE, Update 11, Posted Results on Discord": "a04a75b2-d970-44fc-8e09-53b3aeca6f2f"
           },
           {
-            "ETL to QE, Update 10, Post Results on Discord": "a04a75b2-d970-44fc-8e09-53b3aeca6f2f"
+            "ETL to QE, Update 10, Time Queries": "8a04da32-878d-4f6c-9973-ed58870b250f"
           },
           {
             "ETL to QE, Update 1, SQLite to Postgres": "adf51542-a86b-437b-8542-9ef82c41d7a2"
@@ -4760,7 +4763,7 @@
             "Feeling is the secret": "d3a532e8-2278-4306-a8cf-10102894457a"
           },
           {
-            "Favourite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
+            "Favorite Media": "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20"
           },
           {
             "Fandom.com": "39f1f2c7-ba86-4f7c-8ea5-27832529f1b3"
@@ -5934,6 +5937,9 @@
             "Transhumanist Wager": "96b74864-ae25-4506-85fc-07e68424be59"
           },
           {
+            "Topic Modelling": "97862aeb-dad1-4e01-bfe7-46210ddfc50c"
+          },
+          {
             "Time Magazine": "7b79ee31-9fb0-4863-a25f-b36ba093bd05"
           },
           {
@@ -6848,7 +6854,7 @@
           {
             "You took the Transhumanist Wager Now What?": [
               {
-                "You took the Transhumanist Wager Now What? v0.0.1": "34608d94-e304-4aa4-9339-f23d3fa39359"
+                "You took the Transhumanist Wager Now What?": "34608d94-e304-4aa4-9339-f23d3fa39359"
               }
             ]
           },
@@ -6862,7 +6868,7 @@
           {
             "Virtualization The Self": [
               {
-                "Virtualization The Self v0.0.1": "3fdd115e-53ba-40fe-af63-e5e19b97f763"
+                "Virtualization The Self": "3fdd115e-53ba-40fe-af63-e5e19b97f763"
               }
             ]
           },
@@ -6876,7 +6882,7 @@
           {
             "The Daemon is Real, Now What?": [
               {
-                "The Daemon is Real, Now What? v0.0.1": "952abb04-36df-4913-ace1-651763fa1c88"
+                "The Daemon is Real, Now What?": "952abb04-36df-4913-ace1-651763fa1c88"
               }
             ]
           },
@@ -6897,7 +6903,7 @@
           {
             "How Does One Go About Wielding Their Own Plot Armor?": [
               {
-                "How Does One Go About Wielding Their Own Plot Armor? v0.0.1": "7de2eb48-087b-4936-8446-dcc021b74966"
+                "How Does One Go About Wielding Their Own Plot Armor?": "7de2eb48-087b-4936-8446-dcc021b74966"
               }
             ]
           },
@@ -6918,14 +6924,14 @@
           {
             "Cringe meets theory of mind": [
               {
-                "Cringe meets theory of mind v0.0.0": "cef3066c-8a14-467b-979e-9036068e3653"
+                "Cringe meets theory of mind": "cef3066c-8a14-467b-979e-9036068e3653"
               }
             ]
           },
           {
             "Consciousness and Parasites": [
               {
-                "Consciousness and Parasites v0.0.1": "b31360a6-ae1d-45d2-95e1-cd884a27971f"
+                "Consciousness and Parasites": "b31360a6-ae1d-45d2-95e1-cd884a27971f"
               }
             ]
           },
@@ -6946,7 +6952,7 @@
         ]
       },
       {
-        "Dentropy's Blog Posts and Videos": "0709dea0-4a97-4596-8d8e-32a0e614f8a2"
+        "Blog Posts and Videos": "0709dea0-4a97-4596-8d8e-32a0e614f8a2"
       }
     ]
   },
@@ -7273,6 +7279,9 @@
           },
           {
             "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?": "637962de-f181-43cc-97a3-682b1ce4f2b3"
+          },
+          {
+            "How to write and deploy a ERC20 token using Hardhat.js": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25"
           },
           {
             "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf"
@@ -7643,6 +7652,13 @@
         ]
       },
       {
+        "Hackathons": [
+          {
+            "Blockhack": "d19fd243-11ec-4e85-b653-52a9b4607d9f"
+          }
+        ]
+      },
+      {
         "Blockchain Communities": "ebbd0aff-9a73-4922-bc91-a7d5ada3d602"
       }
     ]
@@ -7808,10 +7824,16 @@
     "Quest Log": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8"
   },
   {
-    "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
+    "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
   },
   {
-    "Dentropy's Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
+    "How to write and deploy a ERC721 token using Hardhat.js": "74693802-2d24-44c8-9cc4-1eea10bccf94"
+  },
+  {
+    "How to install OpenZepplin in Hardhat.js": "3b73f02b-021d-41b2-b094-af347aa351da"
+  },
+  {
+    "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
   },
   {
     "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"

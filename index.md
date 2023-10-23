@@ -8,8 +8,8 @@ Dentropy's Personal Wiki
 I like to work on projects, consume media that makes you think, and attempting to deconstruct big ideas. 
 
 
-* [Dentropy's Blog Posts and Videos](/0709dea0-4a97-4596-8d8e-32a0e614f8a2)
-* [Dentropy's Projects](/e76c8ac9-69f3-477f-8015-556e83738432)
+* [Blog Posts and Videos](/0709dea0-4a97-4596-8d8e-32a0e614f8a2)
+* [My Projects](/e76c8ac9-69f3-477f-8015-556e83738432)
 * [Tutorials and Learning Pathways](/5ba9b0de-6aad-48fa-ab60-ae39c62a027a)
 * [Favorite Software](/6a24cf3e-5693-4b99-b620-c3766a02a6c9)
-* [Favourite Media](/cf6a4db5-dcac-48ae-97ec-cf40f28e2b20)
+* [Favorite Media](/cf6a4db5-dcac-48ae-97ec-cf40f28e2b20)

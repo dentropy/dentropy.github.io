@@ -1,7 +1,7 @@
 ---
 uuid: cf6a4db5-dcac-48ae-97ec-cf40f28e2b20
 share: true
-title: Favourite Media
+title: Favorite Media
 ---
 [Media I am currently consuming](/78aa36ca-c4c6-40ed-873c-24099d5c2481)
 

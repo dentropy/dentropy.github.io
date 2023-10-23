@@ -602,6 +602,7 @@ nav:
         - SuperMemo: f28c3141-0d1a-44cc-ad84-c25ad300bc9a
         - Strava: d54a8965-ec39-4df1-b43c-8ad4d1deda4b
         - Storj: e544dd7d-86c3-4206-b53d-6426885e4fdb
+        - Steam - Software: a767bb2e-1e7e-4ef0-a32f-766fefc91b9d
         - Statbot: 6f5fb10c-f69a-4ea4-a111-f99666f9d958
         - Sqlite in nodejs: 8de02b07-3f06-42dd-ab2b-216d03487a06
         - Spark: def10d9d-3306-4324-835a-1870f4d7aa4d
@@ -771,7 +772,7 @@ nav:
         - Hasura: 2d4e9540-43e3-4891-be02-a8596ee7d727
         - Hasur: 527b0b71-dcf2-49e0-ba9d-f6f4c5f4a22a
         - Haskell: 4961c81a-7d2d-4143-af57-2fa45afc69c7
-        - Hardhat: b2f5f020-78fc-4abf-9154-ddaf31d89822
+        - Hardhat: 2ca7d8ef-95bc-4f40-94fb-2054b0717c3c
         - Hamilton DAG: a83ae1cd-71ba-4fe6-846f-2c169a802b9a
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
         - GunDB: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
@@ -1340,11 +1341,11 @@ nav:
         - "ETL to QE, Update 4, Code Refactor and TrueNAS S3": d59dbed7-08bd-462e-8f87-24a80c791f46
         - "ETL to QE, Update 3, Progress on first Report to be Published": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
         - "ETL to QE, Update 2, S3 and PostGraphile": 01d14af7-0d89-4c3a-90a8-12696e01e036
-        - "ETL to QE, Update 14": a7099c90-7fb1-4230-9c47-874fd85e8837
+        - "ETL to QE, Update 14, Topic Modeling": a7099c90-7fb1-4230-9c47-874fd85e8837
         - "ETL to QE, Update 13, Redefining Project Scope": 0857e406-5e14-4b45-9e8c-3ae712a2f00a
         - "ETL to QE, Update 12, Presentation at Meetup": 20be1355-e585-4eb4-b0a7-4a65c1eda264
-        - "ETL to QE, Update 11, Time Queries": 8a04da32-878d-4f6c-9973-ed58870b250f
-        - "ETL to QE, Update 10, Post Results on Discord": a04a75b2-d970-44fc-8e09-53b3aeca6f2f
+        - "ETL to QE, Update 11, Posted Results on Discord": a04a75b2-d970-44fc-8e09-53b3aeca6f2f
+        - "ETL to QE, Update 10, Time Queries": 8a04da32-878d-4f6c-9973-ed58870b250f
         - "ETL to QE, Update 1, SQLite to Postgres": adf51542-a86b-437b-8542-9ef82c41d7a2
     - ENS Indexing:
         - Logs - ENS Indexing: 3bbb81b1-154a-494f-acdf-781ad8ff35cf
@@ -1557,7 +1558,7 @@ nav:
         - "Finite and Infinite Games: A Vision of Life as Play and Possibility": c8f15232-dddf-4356-98a1-3d4c3ee0f651
         - "Financial Services Revolution: How Blockchain is Transforming Money  Markets  and Banking": 5eabb4fb-9967-41e2-af19-cb812e1d9453
         - Feeling is the secret: d3a532e8-2278-4306-a8cf-10102894457a
-        - Favourite Media: cf6a4db5-dcac-48ae-97ec-cf40f28e2b20
+        - Favorite Media: cf6a4db5-dcac-48ae-97ec-cf40f28e2b20
         - Fandom.com: 39f1f2c7-ba86-4f7c-8ea5-27832529f1b3
         - Everything you need to know about NFTs  DeFi  and Gaming: 6ce495cd-8c66-4732-9c9e-7813000405d6
         - Ethereum Whitepaper: f68e3c8b-a505-4c27-9f86-c03cf2dc2bfc
@@ -1932,6 +1933,7 @@ nav:
         - Turing test: 6854e23e-3591-4432-9bcc-c82f2121ebd3
         - Trigger Action Plans: be457de2-4c92-4aa4-8d86-a1a8e5292d66
         - Transhumanist Wager: 96b74864-ae25-4506-85fc-07e68424be59
+        - Topic Modelling: 97862aeb-dad1-4e01-bfe7-46210ddfc50c
         - Time Magazine: 7b79ee31-9fb0-4863-a25f-b36ba093bd05
         - Theory of Mind: 4112ed67-47cb-4c85-a8f5-3530d70fcf01
         - Theory of Everything: e2917bd7-f3db-456e-bd8d-23cb0429bdbb
@@ -2236,34 +2238,34 @@ nav:
 - Writings:
     - Versioned:
         - You took the Transhumanist Wager Now What?:
-            - You took the Transhumanist Wager Now What? v0.0.1: 34608d94-e304-4aa4-9339-f23d3fa39359
+            - You took the Transhumanist Wager Now What?: 34608d94-e304-4aa4-9339-f23d3fa39359
         - What Humans Value:
             - What Humans Value: f91229f0-4d0f-46d1-b754-4f775e256bab
         - Virtualization The Self:
-            - Virtualization The Self v0.0.1: 3fdd115e-53ba-40fe-af63-e5e19b97f763
+            - Virtualization The Self: 3fdd115e-53ba-40fe-af63-e5e19b97f763
         - The Human Social Interface:
             - The Human Social Interface v0.0.1: 0d7e33d9-001b-427f-a7c1-ad2c1a872b2c
         - "The Daemon is Real, Now What?":
-            - "The Daemon is Real, Now What? v0.0.1": 952abb04-36df-4913-ace1-651763fa1c88
+            - "The Daemon is Real, Now What?": 952abb04-36df-4913-ace1-651763fa1c88
         - Mapping The Human Heart:
             - Mapping The Human Heart v0.0.1: 2cee33f1-a73c-4c9c-b2e1-598fd2aa755b
         - Learning to sail the memes:
             - Learning to sail the memes: e3ed979d-7207-4dfa-806c-03aab973a4c9
         - How Does One Go About Wielding Their Own Plot Armor?:
-            - How Does One Go About Wielding Their Own Plot Armor? v0.0.1: 7de2eb48-087b-4936-8446-dcc021b74966
+            - How Does One Go About Wielding Their Own Plot Armor?: 7de2eb48-087b-4936-8446-dcc021b74966
         - Guide Posts for the Human Condition:
             - Guide Posts for the Human Condition v0.0.1: 746f7dae-6c6d-416f-b98c-4c5e63351f71
         - For Manifesting Destiny:
             - For Manifesting Destiny v0.0.0: b8ba3c64-63f3-47bc-bf00-da6a612f7b55
         - Cringe meets theory of mind:
-            - Cringe meets theory of mind v0.0.0: cef3066c-8a14-467b-979e-9036068e3653
+            - Cringe meets theory of mind: cef3066c-8a14-467b-979e-9036068e3653
         - Consciousness and Parasites:
-            - Consciousness and Parasites v0.0.1: b31360a6-ae1d-45d2-95e1-cd884a27971f
+            - Consciousness and Parasites: b31360a6-ae1d-45d2-95e1-cd884a27971f
         - Blockchain as the Operating System for the Technological Singularity:
             - Blockchain as the Operating System for the Technological Singularity v0.0.1: 09275ad7-56d9-47e1-b3ea-0e8ded3dce90
         - Becoming A Dataist In Training:
             - Becoming A Dataist In Training v0.0.1: 417617a8-a7b5-429c-8f5e-0e56ffe6ef21
-    - Dentropy's Blog Posts and Videos: 0709dea0-4a97-4596-8d8e-32a0e614f8a2
+    - Blog Posts and Videos: 0709dea0-4a97-4596-8d8e-32a0e614f8a2
 - Research:
     - DAOs:
         - List of DAOs:
@@ -2369,6 +2371,7 @@ nav:
         - Order discord Guild's by the oldest message?: f87ebf9c-0d6e-4224-9418-badaa496ce2f
         - Learn to Code Questions: 86917ba0-a64e-464a-bdb7-2e2fddd36ea4
         - Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?: 637962de-f181-43cc-97a3-682b1ce4f2b3
+        - How to write and deploy a ERC20 token using Hardhat.js: eb3f53b3-dac7-49d4-82ed-14f490b8ed25
         - How to write Hello World in Hoon and Urbit?: 780af269-c8c8-45df-8358-c9b2140c92cf
         - How to visualize represent storage on a computer drive?: f4753c78-856b-4dcb-813e-4be6a80db023
         - "How to store data in complex data structures, like a list of messages rather than a single value": 98338dc9-0611-4650-85af-75b2b67f3207
@@ -2486,6 +2489,8 @@ nav:
 - Community:
     - list:
         - Creative Code Toronto: 1aca0dc3-708d-4ad4-91ae-aa0fdb9fa93a
+    - Hackathons:
+        - Blockhack: d19fd243-11ec-4e85-b653-52a9b4607d9f
     - Blockchain Communities: ebbd0aff-9a73-4922-bc91-a7d5ada3d602
 - Queries and Prompts:
     - ChatGPT Prompts: 6161b22c-4f8a-456f-82e1-f30b56f0940a
@@ -2538,6 +2543,8 @@ nav:
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - Tutorials and Learning Pathways: 5ba9b0de-6aad-48fa-ab60-ae39c62a027a
 - Quest Log: edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8
+- My Projects: e76c8ac9-69f3-477f-8015-556e83738432
+- How to write and deploy a ERC721 token using Hardhat.js: 74693802-2d24-44c8-9cc4-1eea10bccf94
+- How to install OpenZepplin in Hardhat.js: 3b73f02b-021d-41b2-b094-af347aa351da
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
-- Dentropy's Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Dentropy's Blog Posts: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
