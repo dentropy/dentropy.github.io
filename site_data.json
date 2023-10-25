@@ -1146,6 +1146,7 @@
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "a421f02e-264c-4885-acdc-18b08cdc678e",
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac",
     "344c2005-e043-44c9-82a2-1ae504cdee33",
     "9095a661-af21-4192-8b91-f50e66f3226b",
     "645edce8-3a74-423c-a889-6fec0c1beaa9",
@@ -1501,6 +1502,11 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c",
+    "d578e995-036b-45be-9fae-ea54d92c8b58",
+    "a1498ef7-79af-4358-8a69-c2e546a1222f",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -3418,6 +3424,7 @@
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema 0.0.x - QE.md",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "QuestionEngine/Roadmap - Question Engine.md",
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "QuestionEngine/Pages Screens - QE.md",
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac": "QuestionEngine/Namespace Knowledge Schemas.md",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "QuestionEngine/Initial Questions for Question Engine.md",
     "9095a661-af21-4192-8b91-f50e66f3226b": "QuestionEngine/Heilmeier Catechism - Question Engine.md",
     "645edce8-3a74-423c-a889-6fec0c1beaa9": "QuestionEngine/Context Feed.md",
@@ -3773,6 +3780,11 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media Consumption Backlog.md",
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": "Media/Datasets - Video Games.md",
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": "Media/Datasets - Podcast.md",
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": "Media/Datasets - Music.md",
+    "d578e995-036b-45be-9fae-ea54d92c8b58": "Media/Datasets - Movies and TV Show.md",
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": "Media/Datasets - Books.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "Media/Videos/NRx.md",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "Media/Type/podcast.md",
@@ -5688,6 +5700,7 @@
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema 0",
     "a421f02e-264c-4885-acdc-18b08cdc678e": "Roadmap - Question Engine",
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": "Pages Screens - QE",
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac": "Namespace Knowledge Schemas",
     "344c2005-e043-44c9-82a2-1ae504cdee33": "Initial Questions for Question Engine",
     "9095a661-af21-4192-8b91-f50e66f3226b": "Heilmeier Catechism - Question Engine",
     "645edce8-3a74-423c-a889-6fec0c1beaa9": "Context Feed",
@@ -6043,6 +6056,11 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "Gauging Blockchain Understanding",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media Consumption Backlog",
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": "Datasets - Video Games",
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": "Datasets - Podcast",
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": "Datasets - Music",
+    "d578e995-036b-45be-9fae-ea54d92c8b58": "Datasets - Movies and TV Show",
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": "Datasets - Books",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "NRx",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "podcast",
@@ -7963,6 +7981,7 @@
     "QuestionEngine/Schema 0.0.x - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "QuestionEngine/Roadmap - Question Engine.md": "a421f02e-264c-4885-acdc-18b08cdc678e",
     "QuestionEngine/Pages Screens - QE.md": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
+    "QuestionEngine/Namespace Knowledge Schemas.md": "98674655-97b4-4c2d-a7ce-4ae6967044ac",
     "QuestionEngine/Initial Questions for Question Engine.md": "344c2005-e043-44c9-82a2-1ae504cdee33",
     "QuestionEngine/Heilmeier Catechism - Question Engine.md": "9095a661-af21-4192-8b91-f50e66f3226b",
     "QuestionEngine/Context Feed.md": "645edce8-3a74-423c-a889-6fec0c1beaa9",
@@ -8318,6 +8337,11 @@
     "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media/Media Consumption Backlog.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+    "Media/Datasets - Video Games.md": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
+    "Media/Datasets - Podcast.md": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
+    "Media/Datasets - Music.md": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
+    "Media/Datasets - Movies and TV Show.md": "d578e995-036b-45be-9fae-ea54d92c8b58",
+    "Media/Datasets - Books.md": "a1498ef7-79af-4358-8a69-c2e546a1222f",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "Media/Videos/NRx.md": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "Media/Type/podcast.md": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -10219,6 +10243,7 @@
     "Schema 0": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
     "Roadmap - Question Engine": "a421f02e-264c-4885-acdc-18b08cdc678e",
     "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
+    "Namespace Knowledge Schemas": "98674655-97b4-4c2d-a7ce-4ae6967044ac",
     "Initial Questions for Question Engine": "344c2005-e043-44c9-82a2-1ae504cdee33",
     "Heilmeier Catechism - Question Engine": "9095a661-af21-4192-8b91-f50e66f3226b",
     "Context Feed": "645edce8-3a74-423c-a889-6fec0c1beaa9",
@@ -10540,6 +10565,11 @@
     "Gauging Blockchain Understanding": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "Media Consumption Backlog": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+    "Datasets - Video Games": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
+    "Datasets - Podcast": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
+    "Datasets - Music": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
+    "Datasets - Movies and TV Show": "d578e995-036b-45be-9fae-ea54d92c8b58",
+    "Datasets - Books": "a1498ef7-79af-4358-8a69-c2e546a1222f",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "NRx": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "podcast": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -17003,6 +17033,11 @@
       "uuid": "a27724cd-21c5-4d8d-ae24-97fc746fe09d",
       "title": "Pages Screens - QE"
     },
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac": {
+      "uuid": "98674655-97b4-4c2d-a7ce-4ae6967044ac",
+      "share": true,
+      "title": "Namespace Knowledge Schemas"
+    },
     "344c2005-e043-44c9-82a2-1ae504cdee33": {
       "uuid": "344c2005-e043-44c9-82a2-1ae504cdee33",
       "share": true,
@@ -18781,6 +18816,31 @@
       "share": true,
       "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
       "title": "Media Consumption Backlog"
+    },
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": {
+      "uuid": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
+      "share": true,
+      "title": "Datasets - Video Games"
+    },
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": {
+      "uuid": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
+      "share": true,
+      "title": "Datasets - Podcast"
+    },
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": {
+      "uuid": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
+      "share": true,
+      "title": "Datasets - Music"
+    },
+    "d578e995-036b-45be-9fae-ea54d92c8b58": {
+      "uuid": "d578e995-036b-45be-9fae-ea54d92c8b58",
+      "share": true,
+      "title": "Datasets - Movies and TV Show"
+    },
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": {
+      "uuid": "a1498ef7-79af-4358-8a69-c2e546a1222f",
+      "share": true,
+      "title": "Datasets - Books"
     },
     "a75ff251-e084-43b9-afa7-ee9b23e25141": {
       "share": true,
@@ -26405,6 +26465,9 @@
       "Pages Screens - QE.md": {
         "uuid": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
       },
+      "Namespace Knowledge Schemas.md": {
+        "uuid": "98674655-97b4-4c2d-a7ce-4ae6967044ac"
+      },
       "Initial Questions for Question Engine.md": {
         "uuid": "344c2005-e043-44c9-82a2-1ae504cdee33"
       },
@@ -27623,6 +27686,21 @@
       },
       "Media Consumption Backlog.md": {
         "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
+      },
+      "Datasets - Video Games.md": {
+        "uuid": "76fdeb14-6cc3-484f-8607-a6298e4a22c1"
+      },
+      "Datasets - Podcast.md": {
+        "uuid": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6"
+      },
+      "Datasets - Music.md": {
+        "uuid": "130ed5fa-1246-4768-9457-2d2e2fa4770c"
+      },
+      "Datasets - Movies and TV Show.md": {
+        "uuid": "d578e995-036b-45be-9fae-ea54d92c8b58"
+      },
+      "Datasets - Books.md": {
+        "uuid": "a1498ef7-79af-4358-8a69-c2e546a1222f"
       },
       "Videos": {
         "Why Hegel knew there would be days like these.md": {
@@ -31259,6 +31337,7 @@
     ],
     "a421f02e-264c-4885-acdc-18b08cdc678e": [],
     "a27724cd-21c5-4d8d-ae24-97fc746fe09d": [],
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac": [],
     "344c2005-e043-44c9-82a2-1ae504cdee33": [],
     "9095a661-af21-4192-8b91-f50e66f3226b": [],
     "645edce8-3a74-423c-a889-6fec0c1beaa9": [],
@@ -31838,6 +31917,11 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": [],
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": [],
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": [],
+    "d578e995-036b-45be-9fae-ea54d92c8b58": [],
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": [],
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": [],
@@ -35000,7 +35084,8 @@
     "8d77e5a9-dcd8-4812-80b7-798826dcf337": [],
     "72a6abf7-ec72-41c7-969e-d1ba58496e03": [
       {
-        "text": "dentropydaemon-wiki/Software/List/Goodreads"
+        "link": "24837821-abf9-4a79-8e11-f39d399b4a59",
+        "text": "Goodreads"
       }
     ],
     "32e74e32-b207-44e5-adc2-3d8e1a6c4de1": [],
@@ -39524,6 +39609,87 @@
         "text": "view_persona - Screen"
       }
     ],
+    "98674655-97b4-4c2d-a7ce-4ae6967044ac": [
+      {
+        "link": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
+        "text": "Datasets - Podcast"
+      },
+      {
+        "link": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
+        "text": "Datasets - Video Games"
+      },
+      {
+        "link": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
+        "text": "Datasets - Music"
+      },
+      {
+        "link": "d578e995-036b-45be-9fae-ea54d92c8b58",
+        "text": "Datasets - Movies and TV Show"
+      },
+      {
+        "link": "a1498ef7-79af-4358-8a69-c2e546a1222f",
+        "text": "Datasets - Books"
+      },
+      {
+        "text": "Datasets - Anime"
+      },
+      {
+        "link": "44c636c0-d4d5-4f88-8aec-2de807639ff7",
+        "text": "Wikipedia"
+      },
+      {
+        "text": "Wikimedia"
+      },
+      {
+        "link": "42a131ef-607d-445e-9649-ce7cedfa85ff",
+        "text": "Encyclopedia Britannica"
+      },
+      {
+        "text": "Fandom.com"
+      },
+      {
+        "text": "Hypothes.is"
+      },
+      {
+        "link": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
+        "text": "DNS"
+      },
+      {
+        "link": "354e7428-f69e-42c5-97dd-92bf18521112",
+        "text": "ENS"
+      },
+      {
+        "link": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09",
+        "text": "DSM"
+      },
+      {
+        "text": "UPC"
+      },
+      {
+        "link": "dd44570a-6b71-4628-a63f-def716a3d1eb",
+        "text": "Acronyms"
+      },
+      {
+        "link": "fb164f5f-a98f-4241-be55-2b0b31e9ca43",
+        "text": "GIS"
+      },
+      {
+        "link": "ffaff3fb-3237-40f8-abba-0b87ed05c16b",
+        "text": "Facebook"
+      },
+      {
+        "link": "e256abb9-76ce-4856-9697-97ecd9993170",
+        "text": "Linkedin"
+      },
+      {
+        "link": "d327da7e-0881-4517-8a8f-c20190efeaa4",
+        "text": "Keybase"
+      },
+      {
+        "link": "053d3ec8-825f-40bd-b187-926273159b09",
+        "text": "Raindropio"
+      }
+    ],
     "344c2005-e043-44c9-82a2-1ae504cdee33": [
       {
         "text": "What book are you reading?"
@@ -41911,6 +42077,7 @@
         "text": "Steam - Software"
       },
       {
+        "link": "98674655-97b4-4c2d-a7ce-4ae6967044ac",
         "text": "Namespace Knowledge Schemas"
       },
       {
@@ -44523,6 +44690,49 @@
       },
       {
         "text": "Dr. Stone"
+      }
+    ],
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": [
+      {
+        "link": "a767bb2e-1e7e-4ef0-a32f-766fefc91b9d",
+        "text": "Steam - Software"
+      }
+    ],
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": [
+      {
+        "text": "Apple Podcasts"
+      },
+      {
+        "text": "Sniped App"
+      }
+    ],
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": [
+      {
+        "text": "Spotify"
+      },
+      {
+        "text": "Million Songs Dataset"
+      }
+    ],
+    "d578e995-036b-45be-9fae-ea54d92c8b58": [
+      {
+        "text": "IMDB"
+      },
+      {
+        "text": "TMDB"
+      }
+    ],
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": [
+      {
+        "link": "24837821-abf9-4a79-8e11-f39d399b4a59",
+        "text": "Goodreads"
+      },
+      {
+        "text": "Open Library"
+      },
+      {
+        "link": "72a6abf7-ec72-41c7-969e-d1ba58496e03",
+        "text": "The Story Graph"
       }
     ],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [
