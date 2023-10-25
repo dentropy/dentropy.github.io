@@ -3,9 +3,9 @@ share: true
 uuid: 146656b4-573a-4e42-8f00-239ab29eac3b
 title: index
 ---
-Dentropy's Personal Wiki
+Dentropy's Personal Wiki,
 
-I like to work on projects, consume media that makes you think, and attempting to deconstruct big ideas. 
+I like to work on projects, consume media that makes you think, and attempting to deconstruct big ideas.
 
 
 * [Blog Posts and Videos](/0709dea0-4a97-4596-8d8e-32a0e614f8a2)

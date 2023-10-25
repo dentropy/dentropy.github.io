@@ -4,8 +4,7 @@
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "e76c8ac9-69f3-477f-8015-556e83738432",
-    "74693802-2d24-44c8-9cc4-1eea10bccf94",
-    "3b73f02b-021d-41b2-b094-af347aa351da",
+    "62757222-49ff-4562-801f-df12661046c7",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
@@ -179,6 +178,7 @@
     "7326b865-6598-4839-bafa-4af8174b0b27",
     "c62c8cf0-9f46-48fd-a24e-e6af99f5417d",
     "afd34891-bd19-484b-a122-57b34254f6e6",
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16",
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a",
     "d631fbd2-3680-49fb-8bf0-b009d6c43210",
     "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b",
@@ -1106,6 +1106,7 @@
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "637962de-f181-43cc-97a3-682b1ce4f2b3",
+    "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "780af269-c8c8-45df-8358-c9b2140c92cf",
     "f4753c78-856b-4dcb-813e-4be6a80db023",
@@ -1119,6 +1120,7 @@
     "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "3b73f02b-021d-41b2-b094-af347aa351da",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
@@ -1294,6 +1296,7 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "9949cc79-681a-4ec8-a963-538958be3ec1",
     "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
     "20be1355-e585-4eb4-b0a7-4a65c1eda264",
@@ -1498,7 +1501,6 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
     "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-    "3d6300be-801b-4df3-93ad-ac452f22831d",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -2240,25 +2242,37 @@
     "99dc23d5-ebf9-4bba-b259-bb34c491a44b",
     "b39a1e1f-e391-4451-bccb-b3e6052de91d",
     "76c6adee-7782-4a88-b47b-a073853dbefc",
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0",
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244",
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33",
+    "96fab60c-c9db-4d51-8388-5b51a595d302",
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac",
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4",
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3",
     "515a019e-5333-4996-956c-d4661cd215c8",
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21",
     "41018894-c14f-4996-bc7a-e8c656d10d26",
     "bb722263-d24b-4205-9485-33b19202e305",
     "93fab9de-fb11-4fcc-825c-8047cbe55203",
     "752df433-2e6a-4ca6-8a61-c489dd090732",
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e",
     "bae8309a-b4a2-46de-8be6-d944d615977e",
     "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98",
+    "2df77633-f7af-45bb-9351-1a7e6c17d162",
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43",
     "7e381790-c582-4f58-9350-ef2e51efa9cf",
     "169abeb2-1466-40b0-8b0a-08b90ed1851d",
     "04d9c099-c626-46d7-aa94-1a33117e1d90",
     "83279a8d-9ef4-4323-841a-943c15d1aa7f",
     "9ac583fa-1c5e-4989-9642-67d5e45bb81c",
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09",
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
     "a2026d45-81b5-4b47-b9a4-c86d10df5424",
     "f96023ea-65ec-4ad1-9b06-a80c436b854d",
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4",
     "3937032a-3f05-4be5-bcc0-a0730c674d3c",
     "76120376-82a3-461f-8bae-032f5ae9c7dd",
+    "132723bd-200e-4d5d-b8a5-423857248251",
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
   ],
@@ -2267,10 +2281,9 @@
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways.md",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Quest Log.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects.md",
-    "74693802-2d24-44c8-9cc4-1eea10bccf94": "How to write and deploy a ERC721 token using Hardhat.js.md",
-    "3b73f02b-021d-41b2-b094-af347aa351da": "How to install OpenZepplin in Hardhat.js.md",
+    "62757222-49ff-4562-801f-df12661046c7": "Make list notable AI tools.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
-    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts.md",
+    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Blog Posts.md",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": "Writings/Blog Posts and Videos.md",
     "34608d94-e304-4aa4-9339-f23d3fa39359": "Writings/Versioned/You took the Transhumanist Wager Now What?/You took the Transhumanist Wager Now What?.md",
     "f91229f0-4d0f-46d1-b754-4f775e256bab": "Writings/Versioned/What Humans Value/What Humans Value.md",
@@ -2442,6 +2455,7 @@
     "7326b865-6598-4839-bafa-4af8174b0b27": "Software/List/pandas.md",
     "c62c8cf0-9f46-48fd-a24e-e6af99f5417d": "Software/List/org-mode.md",
     "afd34891-bd19-484b-a122-57b34254f6e6": "Software/List/openobserve.md",
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16": "Software/List/omnivore.md",
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a": "Software/List/oh-my-zsh.md",
     "d631fbd2-3680-49fb-8bf0-b009d6c43210": "Software/List/nvm.md",
     "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b": "Software/List/npm.md",
@@ -3364,6 +3378,7 @@
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Questions/list/Order discord Guild's by the oldest message?.md",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Questions/list/Learn to Code Questions.md",
     "637962de-f181-43cc-97a3-682b1ce4f2b3": "Questions/list/Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md",
+    "74693802-2d24-44c8-9cc4-1eea10bccf94": "Questions/list/How to write and deploy a ERC721 token using Hardhat.js.md",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "Questions/list/How to write Hello World in Hoon and Urbit?.md",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "Questions/list/How to visualize represent storage on a computer drive?.md",
@@ -3377,6 +3392,7 @@
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": "Questions/list/How to order folders by most files in each folder?.md",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "Questions/list/How to list total number of files in directory recursively?.md",
+    "3b73f02b-021d-41b2-b094-af347aa351da": "Questions/list/How to install OpenZepplin in Hardhat.js.md",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "Questions/list/How to get message count by day for a single discord guild?.md",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "Questions/list/How to find copies of the same file and images within a directory?.md",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": "Questions/list/How to edit a file inside a Desk from inside Dojo?.md",
@@ -3552,6 +3568,7 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": "MyProjects/ETL to QE/ETL to QE, Update 4, Code Refactor and TrueNAS S3.md",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "MyProjects/ETL to QE/ETL to QE, Update 3, Progress on first Report to be Published.md",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "MyProjects/ETL to QE/ETL to QE, Update 2, S3 and PostGraphile.md",
+    "9949cc79-681a-4ec8-a963-538958be3ec1": "MyProjects/ETL to QE/ETL to QE, Update 15, Attended Hackathon and Project Management.md",
     "a7099c90-7fb1-4230-9c47-874fd85e8837": "MyProjects/ETL to QE/ETL to QE, Update 14, Topic Modeling.md",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": "MyProjects/ETL to QE/ETL to QE, Update 13, Redefining Project Scope.md",
     "20be1355-e585-4eb4-b0a7-4a65c1eda264": "MyProjects/ETL to QE/ETL to QE, Update 12, Presentation at Meetup.md",
@@ -3755,8 +3772,7 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media I am currently consuming.md",
-    "3d6300be-801b-4df3-93ad-ac452f22831d": "Media/Media Consumption Backlog.md",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media Consumption Backlog.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "Media/Videos/NRx.md",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "Media/Type/podcast.md",
@@ -4496,25 +4512,37 @@
     "99dc23d5-ebf9-4bba-b259-bb34c491a44b": "Acronyms/WAGMI.md",
     "b39a1e1f-e391-4451-bccb-b3e6052de91d": "Acronyms/TZM.md",
     "76c6adee-7782-4a88-b47b-a073853dbefc": "Acronyms/TF-IDF.md",
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0": "Acronyms/TED.md",
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244": "Acronyms/SMART.md",
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33": "Acronyms/REPL.md",
+    "96fab60c-c9db-4d51-8388-5b51a595d302": "Acronyms/QE.md",
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac": "Acronyms/PKM.md",
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4": "Acronyms/ORM.md",
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3": "Acronyms/OLTP.md",
     "515a019e-5333-4996-956c-d4661cd215c8": "Acronyms/OLAP.md",
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21": "Acronyms/NER.md",
     "41018894-c14f-4996-bc7a-e8c656d10d26": "Acronyms/MVP.md",
     "bb722263-d24b-4205-9485-33b19202e305": "Acronyms/MVC.md",
     "93fab9de-fb11-4fcc-825c-8047cbe55203": "Acronyms/MPP.md",
     "752df433-2e6a-4ca6-8a61-c489dd090732": "Acronyms/LTV.md",
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e": "Acronyms/LLaMA.md",
     "bae8309a-b4a2-46de-8be6-d944d615977e": "Acronyms/KOL.md",
     "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98": "Acronyms/IAS.md",
+    "2df77633-f7af-45bb-9351-1a7e6c17d162": "Acronyms/GUCCES.md",
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43": "Acronyms/GIS.md",
     "7e381790-c582-4f58-9350-ef2e51efa9cf": "Acronyms/ETL.md",
     "169abeb2-1466-40b0-8b0a-08b90ed1851d": "Acronyms/ERD.md",
     "04d9c099-c626-46d7-aa94-1a33117e1d90": "Acronyms/ELT.md",
     "83279a8d-9ef4-4323-841a-943c15d1aa7f": "Acronyms/EGP.md",
     "9ac583fa-1c5e-4989-9642-67d5e45bb81c": "Acronyms/DWH.md",
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09": "Acronyms/DSM.md",
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098": "Acronyms/DNS.md",
     "a2026d45-81b5-4b47-b9a4-c86d10df5424": "Acronyms/DDL.md",
     "f96023ea-65ec-4ad1-9b06-a80c436b854d": "Acronyms/DBMS.md",
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4": "Acronyms/CUCEGS.md",
     "3937032a-3f05-4be5-bcc0-a0730c674d3c": "Acronyms/CIF.md",
     "76120376-82a3-461f-8bae-032f5ae9c7dd": "Acronyms/BI.md",
+    "132723bd-200e-4d5d-b8a5-423857248251": "Acronyms/AMM.md",
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": "Acronyms/ACID.md",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": "Acronyms/AAA.md"
   },
@@ -4523,10 +4551,9 @@
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways",
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Quest Log",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects",
-    "74693802-2d24-44c8-9cc4-1eea10bccf94": "How to write and deploy a ERC721 token using Hardhat",
-    "3b73f02b-021d-41b2-b094-af347aa351da": "How to install OpenZepplin in Hardhat",
+    "62757222-49ff-4562-801f-df12661046c7": "Make list notable AI tools",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
-    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Dentropy's Blog Posts",
+    "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Blog Posts",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": "Blog Posts and Videos",
     "34608d94-e304-4aa4-9339-f23d3fa39359": "You took the Transhumanist Wager Now What?",
     "f91229f0-4d0f-46d1-b754-4f775e256bab": "What Humans Value",
@@ -4698,6 +4725,7 @@
     "7326b865-6598-4839-bafa-4af8174b0b27": "pandas",
     "c62c8cf0-9f46-48fd-a24e-e6af99f5417d": "org-mode",
     "afd34891-bd19-484b-a122-57b34254f6e6": "openobserve",
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16": "omnivore",
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a": "oh-my-zsh",
     "d631fbd2-3680-49fb-8bf0-b009d6c43210": "nvm",
     "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b": "npm",
@@ -5620,6 +5648,7 @@
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Order discord Guild's by the oldest message?",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Learn to Code Questions",
     "637962de-f181-43cc-97a3-682b1ce4f2b3": "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum",
+    "74693802-2d24-44c8-9cc4-1eea10bccf94": "How to write and deploy a ERC721 token using Hardhat",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "How to write and deploy a ERC20 token using Hardhat",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "How to write Hello World in Hoon and Urbit?",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?",
@@ -5633,6 +5662,7 @@
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": "How to order folders by most files in each folder?",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "How to make a REST API in hoon so I can use curl on my urbit ship?",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "How to list total number of files in directory recursively?",
+    "3b73f02b-021d-41b2-b094-af347aa351da": "How to install OpenZepplin in Hardhat",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a single discord guild?",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?",
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": "How to edit a file inside a Desk from inside Dojo?",
@@ -5808,6 +5838,7 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to QE, Update 4, Code Refactor and TrueNAS S3",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to QE, Update 3, Progress on first Report to be Published",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to QE, Update 2, S3 and PostGraphile",
+    "9949cc79-681a-4ec8-a963-538958be3ec1": "ETL to QE, Update 15, Attended Hackathon and Project Management",
     "a7099c90-7fb1-4230-9c47-874fd85e8837": "ETL to QE, Update 14, Topic Modeling",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": "ETL to QE, Update 13, Redefining Project Scope",
     "20be1355-e585-4eb4-b0a7-4a65c1eda264": "ETL to QE, Update 12, Presentation at Meetup",
@@ -6011,8 +6042,7 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "Gauging Blockchain Understanding",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media I am currently consuming",
-    "3d6300be-801b-4df3-93ad-ac452f22831d": "Media Consumption Backlog",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media Consumption Backlog",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "NRx",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "podcast",
@@ -6752,25 +6782,37 @@
     "99dc23d5-ebf9-4bba-b259-bb34c491a44b": "WAGMI",
     "b39a1e1f-e391-4451-bccb-b3e6052de91d": "TZM",
     "76c6adee-7782-4a88-b47b-a073853dbefc": "TF-IDF",
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0": "TED",
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244": "SMART",
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33": "REPL",
+    "96fab60c-c9db-4d51-8388-5b51a595d302": "QE",
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac": "PKM",
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4": "ORM",
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3": "OLTP",
     "515a019e-5333-4996-956c-d4661cd215c8": "OLAP",
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21": "NER",
     "41018894-c14f-4996-bc7a-e8c656d10d26": "MVP",
     "bb722263-d24b-4205-9485-33b19202e305": "MVC",
     "93fab9de-fb11-4fcc-825c-8047cbe55203": "MPP",
     "752df433-2e6a-4ca6-8a61-c489dd090732": "LTV",
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e": "LLaMA",
     "bae8309a-b4a2-46de-8be6-d944d615977e": "KOL",
     "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98": "IAS",
+    "2df77633-f7af-45bb-9351-1a7e6c17d162": "GUCCES",
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43": "GIS",
     "7e381790-c582-4f58-9350-ef2e51efa9cf": "ETL",
     "169abeb2-1466-40b0-8b0a-08b90ed1851d": "ERD",
     "04d9c099-c626-46d7-aa94-1a33117e1d90": "ELT",
     "83279a8d-9ef4-4323-841a-943c15d1aa7f": "EGP",
     "9ac583fa-1c5e-4989-9642-67d5e45bb81c": "DWH",
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09": "DSM",
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098": "DNS",
     "a2026d45-81b5-4b47-b9a4-c86d10df5424": "DDL",
     "f96023ea-65ec-4ad1-9b06-a80c436b854d": "DBMS",
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4": "CUCEGS",
     "3937032a-3f05-4be5-bcc0-a0730c674d3c": "CIF",
     "76120376-82a3-461f-8bae-032f5ae9c7dd": "BI",
+    "132723bd-200e-4d5d-b8a5-423857248251": "AMM",
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": "ACID",
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": "AAA"
   },
@@ -6779,10 +6821,9 @@
     "Tutorials and Learning Pathways.md": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "Quest Log.md": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "My Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
-    "How to write and deploy a ERC721 token using Hardhat.js.md": "74693802-2d24-44c8-9cc4-1eea10bccf94",
-    "How to install OpenZepplin in Hardhat.js.md": "3b73f02b-021d-41b2-b094-af347aa351da",
+    "Make list notable AI tools.md": "62757222-49ff-4562-801f-df12661046c7",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
-    "Dentropy's Blog Posts.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Blog Posts.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "Writings/Blog Posts and Videos.md": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
     "Writings/Versioned/You took the Transhumanist Wager Now What?/You took the Transhumanist Wager Now What?.md": "34608d94-e304-4aa4-9339-f23d3fa39359",
     "Writings/Versioned/What Humans Value/What Humans Value.md": "f91229f0-4d0f-46d1-b754-4f775e256bab",
@@ -6954,6 +6995,7 @@
     "Software/List/pandas.md": "7326b865-6598-4839-bafa-4af8174b0b27",
     "Software/List/org-mode.md": "c62c8cf0-9f46-48fd-a24e-e6af99f5417d",
     "Software/List/openobserve.md": "afd34891-bd19-484b-a122-57b34254f6e6",
+    "Software/List/omnivore.md": "0f9c35d3-301b-415b-b2e2-86aaa99aca16",
     "Software/List/oh-my-zsh.md": "716d960f-d5e1-4d9a-94c4-55c08a32bb1a",
     "Software/List/nvm.md": "d631fbd2-3680-49fb-8bf0-b009d6c43210",
     "Software/List/npm.md": "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b",
@@ -7881,6 +7923,7 @@
     "Questions/list/Order discord Guild's by the oldest message?.md": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "Questions/list/Learn to Code Questions.md": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "Questions/list/Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md": "637962de-f181-43cc-97a3-682b1ce4f2b3",
+    "Questions/list/How to write and deploy a ERC721 token using Hardhat.js.md": "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "Questions/list/How to write Hello World in Hoon and Urbit?.md": "780af269-c8c8-45df-8358-c9b2140c92cf",
     "Questions/list/How to visualize represent storage on a computer drive?.md": "f4753c78-856b-4dcb-813e-4be6a80db023",
@@ -7894,6 +7937,7 @@
     "Questions/list/How to order folders by most files in each folder?.md": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "Questions/list/How to list total number of files in directory recursively?.md": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "Questions/list/How to install OpenZepplin in Hardhat.js.md": "3b73f02b-021d-41b2-b094-af347aa351da",
     "Questions/list/How to get message count by day for a single discord guild?.md": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Questions/list/How to find copies of the same file and images within a directory?.md": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "Questions/list/How to edit a file inside a Desk from inside Dojo?.md": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
@@ -8069,6 +8113,7 @@
     "MyProjects/ETL to QE/ETL to QE, Update 4, Code Refactor and TrueNAS S3.md": "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "MyProjects/ETL to QE/ETL to QE, Update 3, Progress on first Report to be Published.md": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "MyProjects/ETL to QE/ETL to QE, Update 2, S3 and PostGraphile.md": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "MyProjects/ETL to QE/ETL to QE, Update 15, Attended Hackathon and Project Management.md": "9949cc79-681a-4ec8-a963-538958be3ec1",
     "MyProjects/ETL to QE/ETL to QE, Update 14, Topic Modeling.md": "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "MyProjects/ETL to QE/ETL to QE, Update 13, Redefining Project Scope.md": "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
     "MyProjects/ETL to QE/ETL to QE, Update 12, Presentation at Meetup.md": "20be1355-e585-4eb4-b0a7-4a65c1eda264",
@@ -8272,8 +8317,7 @@
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
-    "Media/Media I am currently consuming.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-    "Media/Media Consumption Backlog.md": "3d6300be-801b-4df3-93ad-ac452f22831d",
+    "Media/Media Consumption Backlog.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "Media/Videos/NRx.md": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "Media/Type/podcast.md": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -9015,25 +9059,37 @@
     "Acronyms/WAGMI.md": "99dc23d5-ebf9-4bba-b259-bb34c491a44b",
     "Acronyms/TZM.md": "b39a1e1f-e391-4451-bccb-b3e6052de91d",
     "Acronyms/TF-IDF.md": "76c6adee-7782-4a88-b47b-a073853dbefc",
+    "Acronyms/TED.md": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0",
+    "Acronyms/SMART.md": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244",
+    "Acronyms/REPL.md": "a821f5d6-b82b-428c-8e4c-d160bd900a33",
+    "Acronyms/QE.md": "96fab60c-c9db-4d51-8388-5b51a595d302",
     "Acronyms/PKM.md": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac",
+    "Acronyms/ORM.md": "fe6d5adf-ced3-425a-88eb-a5645db9ced4",
     "Acronyms/OLTP.md": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3",
     "Acronyms/OLAP.md": "515a019e-5333-4996-956c-d4661cd215c8",
+    "Acronyms/NER.md": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21",
     "Acronyms/MVP.md": "41018894-c14f-4996-bc7a-e8c656d10d26",
     "Acronyms/MVC.md": "bb722263-d24b-4205-9485-33b19202e305",
     "Acronyms/MPP.md": "93fab9de-fb11-4fcc-825c-8047cbe55203",
     "Acronyms/LTV.md": "752df433-2e6a-4ca6-8a61-c489dd090732",
+    "Acronyms/LLaMA.md": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e",
     "Acronyms/KOL.md": "bae8309a-b4a2-46de-8be6-d944d615977e",
     "Acronyms/IAS.md": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98",
+    "Acronyms/GUCCES.md": "2df77633-f7af-45bb-9351-1a7e6c17d162",
+    "Acronyms/GIS.md": "fb164f5f-a98f-4241-be55-2b0b31e9ca43",
     "Acronyms/ETL.md": "7e381790-c582-4f58-9350-ef2e51efa9cf",
     "Acronyms/ERD.md": "169abeb2-1466-40b0-8b0a-08b90ed1851d",
     "Acronyms/ELT.md": "04d9c099-c626-46d7-aa94-1a33117e1d90",
     "Acronyms/EGP.md": "83279a8d-9ef4-4323-841a-943c15d1aa7f",
     "Acronyms/DWH.md": "9ac583fa-1c5e-4989-9642-67d5e45bb81c",
+    "Acronyms/DSM.md": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09",
     "Acronyms/DNS.md": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
     "Acronyms/DDL.md": "a2026d45-81b5-4b47-b9a4-c86d10df5424",
     "Acronyms/DBMS.md": "f96023ea-65ec-4ad1-9b06-a80c436b854d",
+    "Acronyms/CUCEGS.md": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4",
     "Acronyms/CIF.md": "3937032a-3f05-4be5-bcc0-a0730c674d3c",
     "Acronyms/BI.md": "76120376-82a3-461f-8bae-032f5ae9c7dd",
+    "Acronyms/AMM.md": "132723bd-200e-4d5d-b8a5-423857248251",
     "Acronyms/ACID.md": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "Acronyms/AAA.md": "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
   },
@@ -9046,10 +9102,9 @@
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "Quest Log": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
-    "How to write and deploy a ERC721 token using Hardhat": "74693802-2d24-44c8-9cc4-1eea10bccf94",
-    "How to install OpenZepplin in Hardhat": "3b73f02b-021d-41b2-b094-af347aa351da",
+    "Make list notable AI tools": "62757222-49ff-4562-801f-df12661046c7",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
-    "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+    "Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "Blog Posts and Videos": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
     "You took the Transhumanist Wager Now What?": "34608d94-e304-4aa4-9339-f23d3fa39359",
     "What Humans Value": "f91229f0-4d0f-46d1-b754-4f775e256bab",
@@ -9220,6 +9275,7 @@
     "pandas": "7326b865-6598-4839-bafa-4af8174b0b27",
     "org-mode": "c62c8cf0-9f46-48fd-a24e-e6af99f5417d",
     "openobserve": "afd34891-bd19-484b-a122-57b34254f6e6",
+    "omnivore": "0f9c35d3-301b-415b-b2e2-86aaa99aca16",
     "oh-my-zsh": "716d960f-d5e1-4d9a-94c4-55c08a32bb1a",
     "nvm": "d631fbd2-3680-49fb-8bf0-b009d6c43210",
     "npm": "3a178917-c084-4b87-b308-1953859378b0",
@@ -10123,6 +10179,7 @@
     "Order discord Guild's by the oldest message?": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "Learn to Code Questions": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
     "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum": "637962de-f181-43cc-97a3-682b1ce4f2b3",
+    "How to write and deploy a ERC721 token using Hardhat": "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "How to write and deploy a ERC20 token using Hardhat": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf",
     "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023",
@@ -10136,6 +10193,7 @@
     "How to order folders by most files in each folder?": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
     "How to make a REST API in hoon so I can use curl on my urbit ship?": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
+    "How to install OpenZepplin in Hardhat": "3b73f02b-021d-41b2-b094-af347aa351da",
     "How to get message count by day for a single discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
     "How to edit a file inside a Desk from inside Dojo?": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef",
@@ -10310,6 +10368,7 @@
     "ETL to QE, Update 4, Code Refactor and TrueNAS S3": "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "ETL to QE, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "ETL to QE, Update 15, Attended Hackathon and Project Management": "9949cc79-681a-4ec8-a963-538958be3ec1",
     "ETL to QE, Update 14, Topic Modeling": "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "ETL to QE, Update 13, Redefining Project Scope": "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
     "ETL to QE, Update 12, Presentation at Meetup": "20be1355-e585-4eb4-b0a7-4a65c1eda264",
@@ -10480,8 +10539,7 @@
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "Gauging Blockchain Understanding": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
-    "Media I am currently consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-    "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d",
+    "Media Consumption Backlog": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "NRx": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "podcast": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -11205,25 +11263,37 @@
     "WAGMI": "99dc23d5-ebf9-4bba-b259-bb34c491a44b",
     "TZM": "b39a1e1f-e391-4451-bccb-b3e6052de91d",
     "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc",
+    "TED": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0",
+    "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244",
+    "REPL": "a821f5d6-b82b-428c-8e4c-d160bd900a33",
+    "QE": "96fab60c-c9db-4d51-8388-5b51a595d302",
     "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac",
+    "ORM": "fe6d5adf-ced3-425a-88eb-a5645db9ced4",
     "OLTP": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3",
     "OLAP": "515a019e-5333-4996-956c-d4661cd215c8",
+    "NER": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21",
     "MVP": "41018894-c14f-4996-bc7a-e8c656d10d26",
     "MVC": "bb722263-d24b-4205-9485-33b19202e305",
     "MPP": "93fab9de-fb11-4fcc-825c-8047cbe55203",
     "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732",
+    "LLaMA": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e",
     "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e",
     "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98",
+    "GUCCES": "2df77633-f7af-45bb-9351-1a7e6c17d162",
+    "GIS": "fb164f5f-a98f-4241-be55-2b0b31e9ca43",
     "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf",
     "ERD": "169abeb2-1466-40b0-8b0a-08b90ed1851d",
     "ELT": "04d9c099-c626-46d7-aa94-1a33117e1d90",
     "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f",
     "DWH": "9ac583fa-1c5e-4989-9642-67d5e45bb81c",
+    "DSM": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09",
     "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
     "DDL": "a2026d45-81b5-4b47-b9a4-c86d10df5424",
     "DBMS": "f96023ea-65ec-4ad1-9b06-a80c436b854d",
+    "CUCEGS": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4",
     "CIF": "3937032a-3f05-4be5-bcc0-a0730c674d3c",
     "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd",
+    "AMM": "132723bd-200e-4d5d-b8a5-423857248251",
     "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61",
     "AAA": "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
   },
@@ -11248,15 +11318,10 @@
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432",
       "title": "My Projects"
     },
-    "74693802-2d24-44c8-9cc4-1eea10bccf94": {
-      "uuid": "74693802-2d24-44c8-9cc4-1eea10bccf94",
+    "62757222-49ff-4562-801f-df12661046c7": {
+      "uuid": "62757222-49ff-4562-801f-df12661046c7",
       "share": true,
-      "title": "How to write and deploy a ERC721 token using Hardhat"
-    },
-    "3b73f02b-021d-41b2-b094-af347aa351da": {
-      "uuid": "3b73f02b-021d-41b2-b094-af347aa351da",
-      "share": true,
-      "title": "How to install OpenZepplin in Hardhat"
+      "title": "Make list notable AI tools"
     },
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": {
       "share": true,
@@ -11266,7 +11331,7 @@
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": {
       "share": true,
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-      "title": "Dentropy's Blog Posts"
+      "title": "Blog Posts"
     },
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": {
       "uuid": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
@@ -12122,6 +12187,11 @@
       "uuid": "afd34891-bd19-484b-a122-57b34254f6e6",
       "share": true,
       "title": "openobserve"
+    },
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16": {
+      "uuid": "0f9c35d3-301b-415b-b2e2-86aaa99aca16",
+      "share": true,
+      "title": "omnivore"
     },
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a": {
       "uuid": "716d960f-d5e1-4d9a-94c4-55c08a32bb1a",
@@ -16733,6 +16803,11 @@
       "share": true,
       "title": "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum"
     },
+    "74693802-2d24-44c8-9cc4-1eea10bccf94": {
+      "uuid": "74693802-2d24-44c8-9cc4-1eea10bccf94",
+      "share": true,
+      "title": "How to write and deploy a ERC721 token using Hardhat"
+    },
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": {
       "uuid": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
       "share": true,
@@ -16797,6 +16872,11 @@
       "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
       "share": true,
       "title": "How to list total number of files in directory recursively?"
+    },
+    "3b73f02b-021d-41b2-b094-af347aa351da": {
+      "uuid": "3b73f02b-021d-41b2-b094-af347aa351da",
+      "share": true,
+      "title": "How to install OpenZepplin in Hardhat"
     },
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": {
       "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
@@ -17675,6 +17755,11 @@
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036",
       "share": true,
       "title": "ETL to QE, Update 2, S3 and PostGraphile"
+    },
+    "9949cc79-681a-4ec8-a963-538958be3ec1": {
+      "uuid": "9949cc79-681a-4ec8-a963-538958be3ec1",
+      "share": true,
+      "title": "ETL to QE, Update 15, Attended Hackathon and Project Management"
     },
     "a7099c90-7fb1-4230-9c47-874fd85e8837": {
       "uuid": "a7099c90-7fb1-4230-9c47-874fd85e8837",
@@ -18693,13 +18778,8 @@
       "title": "Recommended Media"
     },
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": {
+      "share": true,
       "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-      "share": true,
-      "title": "Media I am currently consuming"
-    },
-    "3d6300be-801b-4df3-93ad-ac452f22831d": {
-      "share": true,
-      "uuid": "3d6300be-801b-4df3-93ad-ac452f22831d",
       "title": "Media Consumption Backlog"
     },
     "a75ff251-e084-43b9-afa7-ee9b23e25141": {
@@ -22397,10 +22477,35 @@
       "uuid": "76c6adee-7782-4a88-b47b-a073853dbefc",
       "title": "TF-IDF"
     },
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0": {
+      "uuid": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0",
+      "share": true,
+      "title": "TED"
+    },
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244": {
+      "uuid": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244",
+      "share": true,
+      "title": "SMART"
+    },
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33": {
+      "uuid": "a821f5d6-b82b-428c-8e4c-d160bd900a33",
+      "share": true,
+      "title": "REPL"
+    },
+    "96fab60c-c9db-4d51-8388-5b51a595d302": {
+      "uuid": "96fab60c-c9db-4d51-8388-5b51a595d302",
+      "share": true,
+      "title": "QE"
+    },
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac": {
       "uuid": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac",
       "share": true,
       "title": "PKM"
+    },
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4": {
+      "uuid": "fe6d5adf-ced3-425a-88eb-a5645db9ced4",
+      "share": true,
+      "title": "ORM"
     },
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3": {
       "share": true,
@@ -22411,6 +22516,11 @@
       "share": true,
       "uuid": "515a019e-5333-4996-956c-d4661cd215c8",
       "title": "OLAP"
+    },
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21": {
+      "uuid": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21",
+      "share": true,
+      "title": "NER"
     },
     "41018894-c14f-4996-bc7a-e8c656d10d26": {
       "share": true,
@@ -22432,6 +22542,11 @@
       "uuid": "752df433-2e6a-4ca6-8a61-c489dd090732",
       "title": "LTV"
     },
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e": {
+      "uuid": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e",
+      "share": true,
+      "title": "LLaMA"
+    },
     "bae8309a-b4a2-46de-8be6-d944d615977e": {
       "share": true,
       "uuid": "bae8309a-b4a2-46de-8be6-d944d615977e",
@@ -22441,6 +22556,16 @@
       "share": true,
       "uuid": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98",
       "title": "IAS"
+    },
+    "2df77633-f7af-45bb-9351-1a7e6c17d162": {
+      "uuid": "2df77633-f7af-45bb-9351-1a7e6c17d162",
+      "share": true,
+      "title": "GUCCES"
+    },
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43": {
+      "uuid": "fb164f5f-a98f-4241-be55-2b0b31e9ca43",
+      "share": true,
+      "title": "GIS"
     },
     "7e381790-c582-4f58-9350-ef2e51efa9cf": {
       "share": true,
@@ -22467,6 +22592,11 @@
       "uuid": "9ac583fa-1c5e-4989-9642-67d5e45bb81c",
       "title": "DWH"
     },
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09": {
+      "uuid": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09",
+      "share": true,
+      "title": "DSM"
+    },
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098": {
       "share": true,
       "uuid": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098",
@@ -22482,6 +22612,11 @@
       "uuid": "f96023ea-65ec-4ad1-9b06-a80c436b854d",
       "title": "DBMS"
     },
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4": {
+      "uuid": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4",
+      "share": true,
+      "title": "CUCEGS"
+    },
     "3937032a-3f05-4be5-bcc0-a0730c674d3c": {
       "share": true,
       "uuid": "3937032a-3f05-4be5-bcc0-a0730c674d3c",
@@ -22491,6 +22626,11 @@
       "share": true,
       "uuid": "76120376-82a3-461f-8bae-032f5ae9c7dd",
       "title": "BI"
+    },
+    "132723bd-200e-4d5d-b8a5-423857248251": {
+      "uuid": "132723bd-200e-4d5d-b8a5-423857248251",
+      "share": true,
+      "title": "AMM"
     },
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": {
       "share": true,
@@ -22580,16 +22720,13 @@
     "My Projects.md": {
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432"
     },
-    "How to write and deploy a ERC721 token using Hardhat.js.md": {
-      "uuid": "74693802-2d24-44c8-9cc4-1eea10bccf94"
-    },
-    "How to install OpenZepplin in Hardhat.js.md": {
-      "uuid": "3b73f02b-021d-41b2-b094-af347aa351da"
+    "Make list notable AI tools.md": {
+      "uuid": "62757222-49ff-4562-801f-df12661046c7"
     },
     "Dentropy's Tutorials.md": {
       "uuid": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
     },
-    "Dentropy's Blog Posts.md": {
+    "Blog Posts.md": {
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
     },
     "Writings": {
@@ -23150,6 +23287,9 @@
         },
         "openobserve.md": {
           "uuid": "afd34891-bd19-484b-a122-57b34254f6e6"
+        },
+        "omnivore.md": {
+          "uuid": "0f9c35d3-301b-415b-b2e2-86aaa99aca16"
         },
         "oh-my-zsh.md": {
           "uuid": "716d960f-d5e1-4d9a-94c4-55c08a32bb1a"
@@ -26140,6 +26280,9 @@
         "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?.md": {
           "uuid": "637962de-f181-43cc-97a3-682b1ce4f2b3"
         },
+        "How to write and deploy a ERC721 token using Hardhat.js.md": {
+          "uuid": "74693802-2d24-44c8-9cc4-1eea10bccf94"
+        },
         "How to write and deploy a ERC20 token using Hardhat.js.md": {
           "uuid": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25"
         },
@@ -26178,6 +26321,9 @@
         },
         "How to list total number of files in directory recursively?.md": {
           "uuid": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e"
+        },
+        "How to install OpenZepplin in Hardhat.js.md": {
+          "uuid": "3b73f02b-021d-41b2-b094-af347aa351da"
         },
         "How to get message count by day for a single discord guild?.md": {
           "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e"
@@ -26773,6 +26919,9 @@
         },
         "ETL to QE, Update 2, S3 and PostGraphile.md": {
           "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036"
+        },
+        "ETL to QE, Update 15, Attended Hackathon and Project Management.md": {
+          "uuid": "9949cc79-681a-4ec8-a963-538958be3ec1"
         },
         "ETL to QE, Update 14, Topic Modeling.md": {
           "uuid": "a7099c90-7fb1-4230-9c47-874fd85e8837"
@@ -27472,11 +27621,8 @@
       "Recommended Media.md": {
         "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
       },
-      "Media I am currently consuming.md": {
-        "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
-      },
       "Media Consumption Backlog.md": {
-        "uuid": "3d6300be-801b-4df3-93ad-ac452f22831d"
+        "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       },
       "Videos": {
         "Why Hegel knew there would be days like these.md": {
@@ -29815,14 +29961,32 @@
       "TF-IDF.md": {
         "uuid": "76c6adee-7782-4a88-b47b-a073853dbefc"
       },
+      "TED.md": {
+        "uuid": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0"
+      },
+      "SMART.md": {
+        "uuid": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
+      },
+      "REPL.md": {
+        "uuid": "a821f5d6-b82b-428c-8e4c-d160bd900a33"
+      },
+      "QE.md": {
+        "uuid": "96fab60c-c9db-4d51-8388-5b51a595d302"
+      },
       "PKM.md": {
         "uuid": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
+      },
+      "ORM.md": {
+        "uuid": "fe6d5adf-ced3-425a-88eb-a5645db9ced4"
       },
       "OLTP.md": {
         "uuid": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3"
       },
       "OLAP.md": {
         "uuid": "515a019e-5333-4996-956c-d4661cd215c8"
+      },
+      "NER.md": {
+        "uuid": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21"
       },
       "MVP.md": {
         "uuid": "41018894-c14f-4996-bc7a-e8c656d10d26"
@@ -29836,11 +30000,20 @@
       "LTV.md": {
         "uuid": "752df433-2e6a-4ca6-8a61-c489dd090732"
       },
+      "LLaMA.md": {
+        "uuid": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e"
+      },
       "KOL.md": {
         "uuid": "bae8309a-b4a2-46de-8be6-d944d615977e"
       },
       "IAS.md": {
         "uuid": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
+      },
+      "GUCCES.md": {
+        "uuid": "2df77633-f7af-45bb-9351-1a7e6c17d162"
+      },
+      "GIS.md": {
+        "uuid": "fb164f5f-a98f-4241-be55-2b0b31e9ca43"
       },
       "ETL.md": {
         "uuid": "7e381790-c582-4f58-9350-ef2e51efa9cf"
@@ -29857,6 +30030,9 @@
       "DWH.md": {
         "uuid": "9ac583fa-1c5e-4989-9642-67d5e45bb81c"
       },
+      "DSM.md": {
+        "uuid": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09"
+      },
       "DNS.md": {
         "uuid": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
       },
@@ -29866,11 +30042,17 @@
       "DBMS.md": {
         "uuid": "f96023ea-65ec-4ad1-9b06-a80c436b854d"
       },
+      "CUCEGS.md": {
+        "uuid": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4"
+      },
       "CIF.md": {
         "uuid": "3937032a-3f05-4be5-bcc0-a0730c674d3c"
       },
       "BI.md": {
         "uuid": "76120376-82a3-461f-8bae-032f5ae9c7dd"
+      },
+      "AMM.md": {
+        "uuid": "132723bd-200e-4d5d-b8a5-423857248251"
       },
       "ACID.md": {
         "uuid": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61"
@@ -29885,8 +30067,7 @@
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [],
     "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
-    "74693802-2d24-44c8-9cc4-1eea10bccf94": [],
-    "3b73f02b-021d-41b2-b094-af347aa351da": [],
+    "62757222-49ff-4562-801f-df12661046c7": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [],
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": [],
@@ -30070,6 +30251,7 @@
     "7326b865-6598-4839-bafa-4af8174b0b27": [],
     "c62c8cf0-9f46-48fd-a24e-e6af99f5417d": [],
     "afd34891-bd19-484b-a122-57b34254f6e6": [],
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16": [],
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a": [],
     "d631fbd2-3680-49fb-8bf0-b009d6c43210": [],
     "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b": [],
@@ -31032,6 +31214,7 @@
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": [],
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [],
     "637962de-f181-43cc-97a3-682b1ce4f2b3": [],
+    "74693802-2d24-44c8-9cc4-1eea10bccf94": [],
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": [],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
     "f4753c78-856b-4dcb-813e-4be6a80db023": [],
@@ -31045,6 +31228,7 @@
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": [],
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": [],
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [],
+    "3b73f02b-021d-41b2-b094-af347aa351da": [],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [],
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [],
     "ed0f66f5-3cfd-459f-bded-decfb2cb02ef": [],
@@ -31434,6 +31618,7 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": [],
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": [],
     "01d14af7-0d89-4c3a-90a8-12696e01e036": [],
+    "9949cc79-681a-4ec8-a963-538958be3ec1": [],
     "a7099c90-7fb1-4230-9c47-874fd85e8837": [],
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": [],
     "20be1355-e585-4eb4-b0a7-4a65c1eda264": [],
@@ -31653,7 +31838,6 @@
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
-    "3d6300be-801b-4df3-93ad-ac452f22831d": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": [],
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": [],
@@ -32482,25 +32666,37 @@
     "99dc23d5-ebf9-4bba-b259-bb34c491a44b": [],
     "b39a1e1f-e391-4451-bccb-b3e6052de91d": [],
     "76c6adee-7782-4a88-b47b-a073853dbefc": [],
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0": [],
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244": [],
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33": [],
+    "96fab60c-c9db-4d51-8388-5b51a595d302": [],
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac": [],
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4": [],
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3": [],
     "515a019e-5333-4996-956c-d4661cd215c8": [],
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21": [],
     "41018894-c14f-4996-bc7a-e8c656d10d26": [],
     "bb722263-d24b-4205-9485-33b19202e305": [],
     "93fab9de-fb11-4fcc-825c-8047cbe55203": [],
     "752df433-2e6a-4ca6-8a61-c489dd090732": [],
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e": [],
     "bae8309a-b4a2-46de-8be6-d944d615977e": [],
     "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98": [],
+    "2df77633-f7af-45bb-9351-1a7e6c17d162": [],
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43": [],
     "7e381790-c582-4f58-9350-ef2e51efa9cf": [],
     "169abeb2-1466-40b0-8b0a-08b90ed1851d": [],
     "04d9c099-c626-46d7-aa94-1a33117e1d90": [],
     "83279a8d-9ef4-4323-841a-943c15d1aa7f": [],
     "9ac583fa-1c5e-4989-9642-67d5e45bb81c": [],
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09": [],
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098": [],
     "a2026d45-81b5-4b47-b9a4-c86d10df5424": [],
     "f96023ea-65ec-4ad1-9b06-a80c436b854d": [],
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4": [],
     "3937032a-3f05-4be5-bcc0-a0730c674d3c": [],
     "76120376-82a3-461f-8bae-032f5ae9c7dd": [],
+    "132723bd-200e-4d5d-b8a5-423857248251": [],
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": [],
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": []
   },
@@ -32753,7 +32949,7 @@
       },
       {
         "link": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-        "text": "Dentropy's Blog Posts"
+        "text": "Blog Posts"
       },
       {
         "text": "Tower of Thiel"
@@ -32876,28 +33072,10 @@
         "text": "Let's Learn Web Scraping"
       }
     ],
-    "74693802-2d24-44c8-9cc4-1eea10bccf94": [
+    "62757222-49ff-4562-801f-df12661046c7": [
       {
-        "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
-        "text": "Hardhat"
-      },
-      {
-        "link": "36572430-69db-43ab-ab20-7228c84920df",
-        "text": "ERC721"
-      },
-      {
-        "link": "1522137f-093c-4f7f-8719-eed40c3db26f",
-        "text": "OpenZepplin"
-      }
-    ],
-    "3b73f02b-021d-41b2-b094-af347aa351da": [
-      {
-        "link": "1522137f-093c-4f7f-8719-eed40c3db26f",
-        "text": "OpenZepplin"
-      },
-      {
-        "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
-        "text": "Hardhat"
+        "link": "1f16e3ec-47c6-4f57-97a6-4ab3bbec3237",
+        "text": "Notable AI Tools"
       }
     ],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [
@@ -33087,7 +33265,7 @@
       },
       {
         "link": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
-        "text": "Dentropy's Blog Posts"
+        "text": "Blog Posts"
       }
     ],
     "34608d94-e304-4aa4-9339-f23d3fa39359": [
@@ -34398,6 +34576,7 @@
     ],
     "c62c8cf0-9f46-48fd-a24e-e6af99f5417d": [],
     "afd34891-bd19-484b-a122-57b34254f6e6": [],
+    "0f9c35d3-301b-415b-b2e2-86aaa99aca16": [],
     "716d960f-d5e1-4d9a-94c4-55c08a32bb1a": [],
     "d631fbd2-3680-49fb-8bf0-b009d6c43210": [],
     "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b": [],
@@ -34987,6 +35166,10 @@
     "053d3ec8-825f-40bd-b187-926273159b09": [
       {
         "text": "dentropydaemon-wiki/Wiki/Concepts/List/dentropydaemon"
+      },
+      {
+        "link": "0f9c35d3-301b-415b-b2e2-86aaa99aca16",
+        "text": "omnivore"
       }
     ],
     "2ca74e2e-066a-42ef-b7f5-b95c3b23475b": [],
@@ -36509,15 +36692,27 @@
     ],
     "27671926-6623-45cc-99f0-e5122f071880": [
       {
+        "link": "80428ac9-197a-4c70-9230-119cf9079782",
+        "text": "Python"
+      },
+      {
+        "link": "80428ac9-197a-4c70-9230-119cf9079782",
+        "text": "Python"
+      },
+      {
+        "text": "Setup AMD GPU ROCm environment"
+      },
+      {
+        "link": "d631fbd2-3680-49fb-8bf0-b009d6c43210",
+        "text": "nvm"
+      },
+      {
         "link": "1881c3bf-5c49-4d28-9d7b-ba80fea5094b",
         "text": "Language - Markup"
       },
       {
         "link": "5480b258-6a4c-4d56-b0b5-fe28823d74ac",
         "text": "YAML"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/Programming Language/python"
       }
     ],
     "8c76dc5d-4b41-4c5b-b856-14766d517de1": [],
@@ -38985,6 +39180,20 @@
       }
     ],
     "637962de-f181-43cc-97a3-682b1ce4f2b3": [],
+    "74693802-2d24-44c8-9cc4-1eea10bccf94": [
+      {
+        "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
+        "text": "Hardhat"
+      },
+      {
+        "link": "36572430-69db-43ab-ab20-7228c84920df",
+        "text": "ERC721"
+      },
+      {
+        "link": "1522137f-093c-4f7f-8719-eed40c3db26f",
+        "text": "OpenZepplin"
+      }
+    ],
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": [
       {
         "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
@@ -39026,6 +39235,16 @@
       {
         "link": "51b24c5c-afc0-4196-ad38-02c3679710b4",
         "text": "bash"
+      }
+    ],
+    "3b73f02b-021d-41b2-b094-af347aa351da": [
+      {
+        "link": "1522137f-093c-4f7f-8719-eed40c3db26f",
+        "text": "OpenZepplin"
+      },
+      {
+        "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
+        "text": "Hardhat"
       }
     ],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [
@@ -39948,7 +40167,11 @@
         "text": "ETL to QE, Update 14, Topic Modeling"
       },
       {
+        "link": "9949cc79-681a-4ec8-a963-538958be3ec1",
         "text": "ETL to QE, Update 15, Attended Hackathon and Project Management"
+      },
+      {
+        "text": "ETL to QE, Update 16, Got AMD GPU ROCm running inside docker"
       },
       {
         "link": "a6649a28-5862-4820-8797-1cfaf2ba1713",
@@ -40639,6 +40862,21 @@
         "text": "Discord Scraping Logs - Private"
       },
       {
+        "text": "The Professional Data Science Manifesto"
+      },
+      {
+        "text": "QE - Time Block Reading and Understanding CryptoDiscord Guilds"
+      },
+      {
+        "text": "QE - Search Stock Symbols, Crypto Project Names in Discord Messages"
+      },
+      {
+        "text": "QE - Analyze average message length across channels and users"
+      },
+      {
+        "text": "QE - Topic Modelling in Graph Database"
+      },
+      {
         "link": "7e381790-c582-4f58-9350-ef2e51efa9cf",
         "text": "ETL"
       },
@@ -41230,6 +41468,7 @@
         "text": "Udacity Data Engineering Capstone Project"
       },
       {
+        "link": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244",
         "text": "SMART"
       },
       {
@@ -41606,6 +41845,18 @@
       },
       {
         "text": "Decide on ETL procedure and document it - ETLtoQE"
+      }
+    ],
+    "9949cc79-681a-4ec8-a963-538958be3ec1": [
+      {
+        "text": "2023-10-23"
+      },
+      {
+        "link": "d19fd243-11ec-4e85-b653-52a9b4607d9f",
+        "text": "Blockhack"
+      },
+      {
+        "text": "Linus Sebastian"
       }
     ],
     "a7099c90-7fb1-4230-9c47-874fd85e8837": [
@@ -44185,58 +44436,23 @@
         "text": "The Light of Other Days"
       },
       {
+        "link": "c08deecb-2c73-43a7-a00b-613321905b86",
+        "text": "Sorcerer's stone a beginner's guide to alchemy"
+      },
+      {
         "text": "Darwin and the Machines"
       },
       {
         "text": "Human Forever"
       },
       {
-        "text": "Foundation"
+        "text": "The Eggs Benedict Option"
       },
       {
-        "text": "Severence"
+        "text": "Cyberpunk 2077"
       },
       {
-        "text": "For All Mankind"
-      },
-      {
-        "text": "The Eminence in Shadow"
-      },
-      {
-        "text": "Ghost in The Shell Stand Alone Complex"
-      },
-      {
-        "link": "3d6300be-801b-4df3-93ad-ac452f22831d",
-        "text": "Media Consumption Backlog"
-      }
-    ],
-    "3d6300be-801b-4df3-93ad-ac452f22831d": [
-      {
-        "link": "c08deecb-2c73-43a7-a00b-613321905b86",
-        "text": "Sorcerer's stone a beginner's guide to alchemy"
-      },
-      {
-        "link": "4b8647cf-c6d8-4462-9a7f-2174bc8c744e",
-        "text": "Tower of God"
-      },
-      {
-        "link": "63efdc20-f130-43aa-8c41-fdd8a37441dc",
-        "text": "Persona 4"
-      },
-      {
-        "text": "Human Forever"
-      },
-      {
-        "link": "a1e22b45-2551-43af-aa2d-5f4dc4c788c8",
-        "text": "The Rediscovery of Man"
-      },
-      {
-        "link": "3a268c07-a5e3-4594-b20c-264e50c48d93",
-        "text": "We by Yevgeny Zamyatin"
-      },
-      {
-        "link": "cfa80bd3-71c6-4662-b215-bf0340ee2e74",
-        "text": "The Light of Other Days"
+        "text": "Baulders Gate 4"
       },
       {
         "link": "d11091a7-4db0-4e12-bed2-d12d61029b25",
@@ -44255,12 +44471,58 @@
         "text": "Animatrix"
       },
       {
-        "link": "91c882b1-420a-4a1d-bab9-ae264ea6071f",
-        "text": "Person of Interest"
+        "link": "63efdc20-f130-43aa-8c41-fdd8a37441dc",
+        "text": "Persona 4"
+      },
+      {
+        "text": "The Eminence in Shadow"
+      },
+      {
+        "text": "Ghost in The Shell Stand Alone Complex"
       },
       {
         "link": "cc5b2121-7847-4656-bf80-30fc4203283b",
         "text": "Travelers"
+      },
+      {
+        "text": "Foundation"
+      },
+      {
+        "text": "Severence"
+      },
+      {
+        "text": "For All Mankind"
+      },
+      {
+        "text": "Angel's Egg"
+      },
+      {
+        "text": "Eighth Grade"
+      },
+      {
+        "text": "Lost in Translation"
+      },
+      {
+        "text": "Annihilation"
+      },
+      {
+        "text": "Coherence - Movie"
+      },
+      {
+        "text": "Aeon Flux"
+      },
+      {
+        "text": "Zardoz"
+      },
+      {
+        "text": "The Lazarus Projec"
+      },
+      {
+        "link": "4b8647cf-c6d8-4462-9a7f-2174bc8c744e",
+        "text": "Tower of God"
+      },
+      {
+        "text": "Dr. Stone"
       }
     ],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [
@@ -44997,7 +45259,10 @@
     "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [
       {
         "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-        "text": "Media I am currently consuming"
+        "text": "Media Consumption Backlog"
+      },
+      {
+        "text": "Non Fiction Books"
       },
       {
         "link": "2055ffd4-310b-4f0f-b7f8-61d91402650c",
@@ -45013,6 +45278,9 @@
       {
         "link": "550c359a-b6b9-45f7-87f0-3325be73cf59",
         "text": "12 Rules For Life"
+      },
+      {
+        "text": "Fiction Books"
       },
       {
         "link": "b541230e-3354-44a6-ab43-917335802cf5",
@@ -47561,6 +47829,15 @@
       }
     ],
     "76c6adee-7782-4a88-b47b-a073853dbefc": [],
+    "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0": [],
+    "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244": [],
+    "a821f5d6-b82b-428c-8e4c-d160bd900a33": [],
+    "96fab60c-c9db-4d51-8388-5b51a595d302": [
+      {
+        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
+        "text": "Question Engine - QE"
+      }
+    ],
     "10e57c0e-9c54-41fb-82d0-f36f3165c4ac": [
       {
         "link": "f76a085e-f2c8-43bd-a852-47760f01e401",
@@ -47579,6 +47856,7 @@
         "text": "Google Docs"
       }
     ],
+    "fe6d5adf-ced3-425a-88eb-a5645db9ced4": [],
     "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3": [
       {
         "link": "515a019e-5333-4996-956c-d4661cd215c8",
@@ -47599,6 +47877,7 @@
         "text": "OLAP vs OLTP"
       }
     ],
+    "a33f0277-9ea9-4c79-8eb9-41a052aa3a21": [],
     "41018894-c14f-4996-bc7a-e8c656d10d26": [
       {
         "link": "6b3bddf5-aeaa-4adf-955d-9826d6b3e062",
@@ -47608,8 +47887,11 @@
     "bb722263-d24b-4205-9485-33b19202e305": [],
     "93fab9de-fb11-4fcc-825c-8047cbe55203": [],
     "752df433-2e6a-4ca6-8a61-c489dd090732": [],
+    "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e": [],
     "bae8309a-b4a2-46de-8be6-d944d615977e": [],
     "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98": [],
+    "2df77633-f7af-45bb-9351-1a7e6c17d162": [],
+    "fb164f5f-a98f-4241-be55-2b0b31e9ca43": [],
     "7e381790-c582-4f58-9350-ef2e51efa9cf": [],
     "169abeb2-1466-40b0-8b0a-08b90ed1851d": [
       {
@@ -47625,6 +47907,7 @@
         "text": "Data Warehouse"
       }
     ],
+    "b726e1ed-3b47-44ef-9f45-e2c1bda40c09": [],
     "6f2b1d6c-3b38-4e05-bf02-69af4d23f098": [],
     "a2026d45-81b5-4b47-b9a4-c86d10df5424": [],
     "f96023ea-65ec-4ad1-9b06-a80c436b854d": [
@@ -47633,8 +47916,14 @@
         "text": "Database"
       }
     ],
+    "a24a6b3d-b8f2-435d-91cc-ed636dddaee4": [],
     "3937032a-3f05-4be5-bcc0-a0730c674d3c": [],
     "76120376-82a3-461f-8bae-032f5ae9c7dd": [],
+    "132723bd-200e-4d5d-b8a5-423857248251": [
+      {
+        "text": "Automatic Market Maker"
+      }
+    ],
     "0f1f6127-3cd4-4e4a-83f2-8cd048090d61": [],
     "f695942a-96ad-4a1f-9f10-cced4ae7bf97": []
   }

@@ -3,16 +3,15 @@ uuid: cf6a4db5-dcac-48ae-97ec-cf40f28e2b20
 share: true
 title: Favorite Media
 ---
-[Media I am currently consuming](/78aa36ca-c4c6-40ed-873c-24099d5c2481)
-
-## Non Fiction Books
+* [Media Consumption Backlog](/78aa36ca-c4c6-40ed-873c-24099d5c2481)
+## [Non Fiction Books](/undefined)
 
 * [Homo Deus](/2055ffd4-310b-4f0f-b7f8-61d91402650c)
 * [The Singularity Is Near](/051e7911-5b2a-43e8-89be-899447d13e80)
 * [Human Forever](/undefined)
 * [12 Rules For Life](/550c359a-b6b9-45f7-87f0-3325be73cf59)
 
-## Fiction Books
+## [Fiction Books](/undefined)
 
 * [Altered Carbon](/b541230e-3354-44a6-ab43-917335802cf5)
 * [The Culture Series](/45ae90e1-c4fd-4d7a-b290-a4050b37b573)

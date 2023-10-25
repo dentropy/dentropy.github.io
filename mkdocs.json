@@ -1262,6 +1262,9 @@
             "openobserve": "afd34891-bd19-484b-a122-57b34254f6e6"
           },
           {
+            "omnivore": "0f9c35d3-301b-415b-b2e2-86aaa99aca16"
+          },
+          {
             "oh-my-zsh": "716d960f-d5e1-4d9a-94c4-55c08a32bb1a"
           },
           {
@@ -4091,6 +4094,9 @@
             "ETL to QE, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036"
           },
           {
+            "ETL to QE, Update 15, Attended Hackathon and Project Management": "9949cc79-681a-4ec8-a963-538958be3ec1"
+          },
+          {
             "ETL to QE, Update 14, Topic Modeling": "a7099c90-7fb1-4230-9c47-874fd85e8837"
           },
           {
@@ -4966,10 +4972,7 @@
         "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
       },
       {
-        "Media I am currently consuming": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
-      },
-      {
-        "Media Consumption Backlog": "3d6300be-801b-4df3-93ad-ac452f22831d"
+        "Media Consumption Backlog": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       }
     ]
   },
@@ -7281,6 +7284,9 @@
             "Is there a way to get the current block number on Ethereum in Hoon natively using ethereum.hoon?": "637962de-f181-43cc-97a3-682b1ce4f2b3"
           },
           {
+            "How to write and deploy a ERC721 token using Hardhat.js": "74693802-2d24-44c8-9cc4-1eea10bccf94"
+          },
+          {
             "How to write and deploy a ERC20 token using Hardhat.js": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25"
           },
           {
@@ -7318,6 +7324,9 @@
           },
           {
             "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e"
+          },
+          {
+            "How to install OpenZepplin in Hardhat.js": "3b73f02b-021d-41b2-b094-af347aa351da"
           },
           {
             "How to get message count by day for a single discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e"
@@ -7750,13 +7759,31 @@
         "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc"
       },
       {
+        "TED": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0"
+      },
+      {
+        "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
+      },
+      {
+        "REPL": "a821f5d6-b82b-428c-8e4c-d160bd900a33"
+      },
+      {
+        "QE": "96fab60c-c9db-4d51-8388-5b51a595d302"
+      },
+      {
         "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
+      },
+      {
+        "ORM": "fe6d5adf-ced3-425a-88eb-a5645db9ced4"
       },
       {
         "OLTP": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3"
       },
       {
         "OLAP": "515a019e-5333-4996-956c-d4661cd215c8"
+      },
+      {
+        "NER": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21"
       },
       {
         "MVP": "41018894-c14f-4996-bc7a-e8c656d10d26"
@@ -7771,10 +7798,19 @@
         "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732"
       },
       {
+        "LLaMA": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e"
+      },
+      {
         "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
       },
       {
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
+      },
+      {
+        "GUCCES": "2df77633-f7af-45bb-9351-1a7e6c17d162"
+      },
+      {
+        "GIS": "fb164f5f-a98f-4241-be55-2b0b31e9ca43"
       },
       {
         "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf"
@@ -7792,6 +7828,9 @@
         "DWH": "9ac583fa-1c5e-4989-9642-67d5e45bb81c"
       },
       {
+        "DSM": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09"
+      },
+      {
         "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
       },
       {
@@ -7801,10 +7840,16 @@
         "DBMS": "f96023ea-65ec-4ad1-9b06-a80c436b854d"
       },
       {
+        "CUCEGS": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4"
+      },
+      {
         "CIF": "3937032a-3f05-4be5-bcc0-a0730c674d3c"
       },
       {
         "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd"
+      },
+      {
+        "AMM": "132723bd-200e-4d5d-b8a5-423857248251"
       },
       {
         "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61"
@@ -7827,15 +7872,12 @@
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
   },
   {
-    "How to write and deploy a ERC721 token using Hardhat.js": "74693802-2d24-44c8-9cc4-1eea10bccf94"
-  },
-  {
-    "How to install OpenZepplin in Hardhat.js": "3b73f02b-021d-41b2-b094-af347aa351da"
+    "Make list notable AI tools": "62757222-49ff-4562-801f-df12661046c7"
   },
   {
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
   },
   {
-    "Dentropy's Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
+    "Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
   }
 ]
