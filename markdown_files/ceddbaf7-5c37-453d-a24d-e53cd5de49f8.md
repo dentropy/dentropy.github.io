@@ -3,13 +3,6 @@ share: true
 uuid: ceddbaf7-5c37-453d-a24d-e53cd5de49f8
 title: qanda
 ---
----
-id: 4Q0S6IXaNh4Mvc66HvEov
-title: Qanda
-desc: ''
-updated: 1628449250321
-created: 1628449250321
----
 # qanda
 How do I port forward to localhost
 ----------------------------------

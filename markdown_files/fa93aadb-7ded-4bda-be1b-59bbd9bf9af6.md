@@ -3,13 +3,6 @@ share: true
 uuid: fa93aadb-7ded-4bda-be1b-59bbd9bf9af6
 title: setup
 ---
----
-id: DPUQM04b4dqQzUOfBHzro
-title: Setup
-desc: ''
-updated: 1628449250321
-created: 1628449250321
----
 # setup
 Setup of stuff
 --------------

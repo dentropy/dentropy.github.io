@@ -786,10 +786,10 @@
                 "notebook": "be3a6d7a-755e-4131-adc7-985ea199f36a"
               },
               {
-                "lab": "7ff7669c-16e9-4757-b775-89d38e17d3b3"
+                "hub": "1491a1df-9146-4358-8731-5292e30cc056"
               },
               {
-                "hub": "1491a1df-9146-4358-8731-5292e30cc056"
+                "Jupyter Lab": "7ff7669c-16e9-4757-b775-89d38e17d3b3"
               }
             ]
           },
@@ -2951,9 +2951,6 @@
             "Obsidian Publishing Tools": "f341ea4e-2ba4-4b46-9eb4-9efc19794e84"
           },
           {
-            "Notable AI Tools": "1f16e3ec-47c6-4f57-97a6-4ab3bbec3237"
-          },
-          {
             "NoSQL": "f35ea2c0-a28d-430c-9893-6f5120f1ee89"
           },
           {
@@ -3201,6 +3198,9 @@
         "Software Languages": "09d86337-622e-4709-9f61-c6d5587704f6"
       },
       {
+        "Notable AI tools": "1f16e3ec-47c6-4f57-97a6-4ab3bbec3237"
+      },
+      {
         "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
       },
       {
@@ -3396,9 +3396,6 @@
                     "Blockchain Binding": "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5"
                   }
                 ]
-              },
-              {
-                "Scrape Twitter": "833ad269-eae3-4a38-964d-df4f5ddd1225"
               },
               {
                 "Scrape Linkedin": "9597719e-4990-4ce7-a6fc-7db6d61428e9"
@@ -4113,6 +4110,9 @@
           },
           {
             "ETL to QE, Update 1, SQLite to Postgres": "adf51542-a86b-437b-8542-9ef82c41d7a2"
+          },
+          {
+            "ETL to QE, GPU accelerated Topic Modelling": "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f"
           }
         ]
       },
@@ -5372,6 +5372,9 @@
         "The Trinity of Terrible Ideas": "caedb383-fdba-4090-b3ab-fabf5ee51872"
       },
       {
+        "The Professional Data Science Manifesto": "f4c6bce3-f2f9-481a-8a2b-a79498be4047"
+      },
+      {
         "Specific Aims": "5a73b29e-e4d3-4150-a48a-6db2c929d231"
       },
       {
@@ -6007,9 +6010,6 @@
           },
           {
             "Technological Singularity": "fa4a378f-e4b7-4d57-982b-b847ba23ecc4"
-          },
-          {
-            "Technelogical Singularity": "5f5afccb-36ed-462e-85ae-2188f580378d"
           },
           {
             "Tabletop Roleplaying Games": "b8ed90ee-7105-421d-a129-d1e2cd74b71b"
@@ -6705,6 +6705,9 @@
             "Combat Soap Opera": "92d8b7e1-86f1-42f3-82be-ec0448e0b56f"
           },
           {
+            "Coin Market Cap": "29e42843-4391-4cca-bfc5-7b6954f4e5e6"
+          },
+          {
             "Cognitive Dissonance": "8c198cdd-4b8e-4784-ac8e-4c02cf113f49"
           },
           {
@@ -7160,6 +7163,9 @@
         "How To Do Research": "de8df389-b5c2-41b9-baad-63582d46c832"
       },
       {
+        "Get list of all wikipedia articles": "dd0e7670-af04-4eb0-8af5-5a85af115360"
+      },
+      {
         "Docker Postgres with Backup and Restore": "c32224a7-826f-47a5-a7af-dfe0ffcdb2f1"
       },
       {
@@ -7239,6 +7245,9 @@
             "What is the most active channel in a discord guild?": "45f50e6a-fb81-4f7c-87b6-70785da72633"
           },
           {
+            "What is the length of the Bertopic default dataset from sklearn?": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5"
+          },
+          {
             "What is the average message count for most active X days of a Discord Guild?": "9a9414ed-c3bd-433e-bb5b-4732aff405a0"
           },
           {
@@ -7269,6 +7278,12 @@
             "What discord guild's have the most Users?": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5"
           },
           {
+            "What discord channels have the most messages?": "8db17737-329a-485d-9f99-98dce3ec1462"
+          },
+          {
+            "What discord channel has the longest average message length?": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1"
+          },
+          {
             "What authors posted the most in each discord guild?": "34592fa9-bd8d-4237-bdff-36cb58fdc21e"
           },
           {
@@ -7285,9 +7300,6 @@
           },
           {
             "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7"
-          },
-          {
-            "Questions for Discord Data?": "46abc67b-bbe7-4800-82f5-f08d4c457ef0"
           },
           {
             "Order discord Guild's by the oldest message?": "f87ebf9c-0d6e-4224-9418-badaa496ce2f"
@@ -7405,6 +7417,9 @@
       {
         "Sets": [
           {
+            "Random Questions for Discord Data": "a0e190a2-4225-4937-b81d-45fd29e0c4ce"
+          },
+          {
             "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
           },
           {
@@ -7414,6 +7429,12 @@
       },
       {
         "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd"
+      },
+      {
+        "Questions for Discord Data": "46abc67b-bbe7-4800-82f5-f08d4c457ef0"
+      },
+      {
+        "Questions for DAO's": "766d2aac-bcb3-4b91-a029-537e834f2816"
       }
     ]
   },
@@ -7881,6 +7902,9 @@
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
   },
   {
+    "What discord user has the longest average message length?": "c71bada1-ae88-4a99-bfec-84efafe8fed9"
+  },
+  {
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
   },
   {
@@ -7888,9 +7912,6 @@
   },
   {
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
-  },
-  {
-    "Make list notable AI tools": "62757222-49ff-4562-801f-df12661046c7"
   },
   {
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"

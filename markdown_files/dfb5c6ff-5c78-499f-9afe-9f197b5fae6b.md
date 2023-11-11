@@ -3,19 +3,6 @@ share: true
 uuid: dfb5c6ff-5c78-499f-9afe-9f197b5fae6b
 title: media-management
 ---
----
-id: uYPlZMexK4A4xoSzwIswV
-title: Media Management
-desc: ''
-updated: 1628474425419
-created: 1628474425419
-description: null
-published: true
-date: '2021-01-07T17:23:34.061Z'
-editor: undefined
-dateCreated: '2021-01-07T17:23:32.072Z'
----
-
 # Media Management
 
 So aparently Americans now spend about 11 hours a day consuming media. Media is possibly the number one way people inject memes into their mind. I want to track Anime, Books, Documentaries, Movies, Podcasts, TVShows, Music, and Youtube Videos. I want to know when I watched and or read what and attach metadata to any piece of media. The first step is to find indexs of each kind of media. For books it is easy to use the ISBN system but when it comes to movies there are prioritary systems that require an API key. Then there are podcasts which traditionally use RSS which is decentralized therefore has the ability to fail over long periods of time. Magazines should be added at later date.

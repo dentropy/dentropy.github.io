@@ -3,14 +3,6 @@ share: true
 uuid: 2831accf-38a0-4cd6-a2bc-a0a6a0f5de0f
 title: Dentropy s Heuristics of Sociology
 ---
----
-id: 1kmrdhjud6mp9qpysthuix0
-title: Dentropy s Heuristics of Sociology
-desc: ''
-updated: 1641583846404
-created: 1635210481597
----
-
 Just spit balling here, don't take this too serious
 
 When I hired a dating coach I was learning how to be empathetic when I realized that "Don't rape" is an Axiom for society. Don't rape is something that can be communicated and understood with little to no language.

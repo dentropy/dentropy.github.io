@@ -3,13 +3,6 @@ share: true
 uuid: d2bce5ca-9adf-4c3c-a8e4-be1f6845ccac
 title: 5 Elements of Effective Thinking
 ---
----
-id: ZdIUBu4xrMGWALp9SlmNQ
-title: 5 Elements of Effective Thinking
-desc: ''
-updated: 1633230712467
-created: 1628449250439
----
 # 5 Elements of Effective Thinking
 [The 5 Elements of Effective Thinking – Life Lessons](https://lifelessons.co/personal-development/5elementsofeffectivethinking/) 👁
 

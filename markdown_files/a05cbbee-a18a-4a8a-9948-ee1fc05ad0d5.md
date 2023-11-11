@@ -3,14 +3,6 @@ share: true
 uuid: a05cbbee-a18a-4a8a-9948-ee1fc05ad0d5
 title: Inmon s Corporate Information Factory
 ---
----
-id: Y94MpMYioKDcjBZdfvXBT
-title: Inmon s Corporate Information Factory
-desc: ''
-updated: 1644413666969
-created: 1644413400354
----
-
 * Inmon's Corporate Information Factory
   * 2 ETL Process
   * Source systems → 3NF database

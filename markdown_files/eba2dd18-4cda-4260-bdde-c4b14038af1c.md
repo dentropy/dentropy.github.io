@@ -5,9 +5,7 @@ title: twitter-scraper
 ---
 ## WORKS vladkens/twscrape
 
-* Code: [vladkens/twscrape: 2023! Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.](https://github.com/vladkens/twscrape)
-* Results:
-	* CLI does not work for adding accounts, but the default Python method with the cookies works like a charm
+* [twscrape](/undefined)
 ## FAIL mahrtayyab/tweety
 
 * Code: [mahrtayyab/tweety: Twitter Scraper](https://github.com/mahrtayyab/tweety)

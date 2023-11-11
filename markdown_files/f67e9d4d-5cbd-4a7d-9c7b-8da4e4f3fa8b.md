@@ -3,13 +3,6 @@ share: true
 uuid: f67e9d4d-5cbd-4a7d-9c7b-8da4e4f3fa8b
 title: lvm - logical volume manager
 ---
----
-id: VjZ1GvlmjjFXXfa97opDc
-title: lvm - logical volume manager
-desc: ''
-updated: 1630509835751
-created: 1628449250426
----
 # lvm - logical volume manager
 Chapter 7, Paritions, Filesystems, and LVM for Noobs
 ----------------------------------------------------

@@ -3,14 +3,6 @@ share: true
 uuid: cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4
 title: docs
 ---
----
-id: gc7cc9ndr6jz76n6ukgp6u8
-title: Docs
-desc: ''
-updated: 1641486548217
-created: 1640737198013
----
-
 * [ddaemon.monorepo.datapipelines](/undefined)
 
 ## Adding a data visualization
