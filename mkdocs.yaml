@@ -422,6 +422,7 @@ nav:
         - pandas: 7326b865-6598-4839-bafa-4af8174b0b27
         - org-mode: c62c8cf0-9f46-48fd-a24e-e6af99f5417d
         - openobserve: afd34891-bd19-484b-a122-57b34254f6e6
+        - oobabooga text-generation-webui: 0177b9c7-9a60-491c-8ebb-c71e724e5786
         - omnivore: 0f9c35d3-301b-415b-b2e2-86aaa99aca16
         - oh-my-zsh: 716d960f-d5e1-4d9a-94c4-55c08a32bb1a
         - nvm: d631fbd2-3680-49fb-8bf0-b009d6c43210
@@ -705,6 +706,7 @@ nav:
         - Notion: d4e07a3a-4260-4d1e-812d-b213447f4a3e
         - NotesAlong: 16317e4b-3bc6-41f5-8a07-46f96f24501c
         - Nostr: 78abfe73-37cb-4f3b-9e08-faad85669fb7
+        - Noco.ai: 716957dd-1f5a-4865-b04b-c02b0bd34bae
         - Nextcloud: 734650a9-17b5-48ce-9062-9201594ec7d2
         - Netmaker: f3ba6bff-ad26-4243-9950-9249d9426446
         - Netflix: 6ffa34d2-e228-4d24-8f0e-a6540eb37abf
@@ -712,6 +714,7 @@ nav:
         - NIX OS: 827f3235-a73a-426e-941e-59f25625f426
         - NATS: 6ecbaee4-8c95-44e7-a242-9a084d89074e
         - MyHBarWallet: bc3117bc-4c76-4417-ae57-5fac03d9a604
+        - Multi On: 8ab360ae-e3bc-4d23-a60c-23847e562228
         - Monica CRM: b0fcf97c-1900-4a2f-9eb1-bae8ab6a2446
         - MongoDB: a00e584f-0e98-40a4-b1c3-853f62315317
         - Misskey: f3ee7e01-776c-4d8f-9663-501eb3809b6d
@@ -735,15 +738,22 @@ nav:
         - Logstash: ff8b4dc5-dad3-41f5-b9f3-6f1c71ecc33c
         - LogKeys: 721f3ea0-b91d-4e87-b6c8-3f07f048e996
         - LocalStack: 8262417f-8636-4cfe-a754-b636b0586b7f
+        - LocalAI: 588cb087-a325-4c18-a0b3-269da9304a31
+        - Local AI Playground: 6b8d65a1-2f20-4621-8423-fa7506d70050
+        - LoLLMS Web UI: edace957-36da-4bd7-b7bd-170c152688d1
         - Lisp: 35ba03ec-2762-4d0d-b397-948ae32d6ede
         - LinuxFest Northwest 2018 Perkeep: a20b5a3e-f5ed-4f10-8b70-c96b9f052020
         - Linkedin: e256abb9-76ce-4856-9697-97ecd9993170
         - Let's Encrypto Go: c553dfd1-eaa1-43bf-bd7a-06c63510e347
         - LeoFS: 01a797c7-0ef6-4b3c-8d6f-60e7ac35ee69
         - Ledger Live: a68e7ddb-710a-42fb-901d-eeeac286b2d8
+        - Langflow: fb09a999-1293-4309-98dc-8f1bfa157f82
         - Lang Chain: f2746cd8-46b4-4d36-a3d7-cfe8937bbe96
+        - LM Studio: fab4d5b4-4863-4109-baea-5b376fe1910c
+        - LLM CLI: 0ab1f6ba-e1ec-45f3-8762-0e96939b3d75
         - LDAP: 91dcc396-4854-454a-af93-12b19f08b4de
         - Korganizer: d0b74367-c336-469d-8272-6776fc7c1c7b
+        - KoboldAI: 11293940-4b2d-4785-91cd-d96912437f3a
         - Klaytn: 26045e67-4efe-4dfd-83c7-a76139c0cb12
         - Keybase: d327da7e-0881-4517-8a8f-c20190efeaa4
         - Kali Linux: c3b7729e-7577-4602-a971-a1bfc7c56d09
@@ -778,6 +788,7 @@ nav:
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
         - GunDB: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
         - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
+        - Gorilla: 9097a030-8dfa-4e53-8ba9-65be7d582e6a
         - Google Play: 87b29a54-0bb9-4c65-92b2-9a82e960228c
         - Google Docs: 27b9ed36-0be3-452d-a583-2c850f101989
         - Google Desktop: 99c498a0-c6e4-40b7-9abf-1a9eac8db6fa
@@ -827,6 +838,7 @@ nav:
         - Datagrid: efe438fc-2bb0-407e-9df3-b67b878d353a
         - DappNode: 38b05107-47d7-4a1f-8329-7ee742b3eecc
         - Damselfly: f9120bc7-47b8-478c-b187-a249f56eb4ba
+        - Dalai: 12b80fef-933d-4c49-9564-e818506124a9
         - DNSxyz: 1fc0ade3-41fb-4d34-ade4-b56ca53611db
         - DGraph: 980869eb-e907-4e49-888b-0b7d839b7505
         - DAOmehaus: 6086aa85-9683-4fb9-a5da-f9d23b3182ea
@@ -837,6 +849,7 @@ nav:
         - Cozy: 06239505-9e3a-42ac-84c5-c48fdbdca391
         - Cosmos: 5eb716bc-57bd-461d-86eb-faf04f3fa7ec
         - Coqui TTS: dac58659-e71f-4eea-b6d2-465508a922ee
+        - ConfyUI: 06e73bbb-c33f-4c93-90e1-a8e3e294f3fb
         - Confluence: 847a8136-5459-4b12-a382-1422423eecae
         - CodexOS: c1e5d216-a0fa-4d76-b0c6-03e637098787
         - Code Server: 80990cc1-fafc-4b8f-afe2-a3ae6b185f2f
@@ -1372,7 +1385,7 @@ nav:
     - Docker VPN Router: aeb2a3d9-c371-404a-ae82-f9c70253e0e2
     - DentropyCloud - dc: 53b4819a-70af-4a7d-be7f-c79d3b1fa40a
     - DIY Keylogger: 03ce87b5-898b-4e7a-9c47-6694c8d652fe
-    - DAO Auditing via Discord: 1c376bfd-75ef-4c0d-9e23-3680653de55f
+    - DAO Auditing via Discord Design Doc: 1c376bfd-75ef-4c0d-9e23-3680653de55f
     - DAO Auditing via Discord - Queries: d5e65c1e-f806-49b1-87dd-bd9c24220f03
     - Blockchain Royalties: 04ffe6b4-1ff0-41b0-82f3-6c0d1a742268
     - ActivityPub Utils: d41891f6-34ec-48e2-bed3-4e1bb4edd4a8
@@ -1499,7 +1512,7 @@ nav:
         - Satisfactory: b506fd7f-c2b2-4e4c-b0e7-873ba6dc6a1c
         - Sapiens Book: 816c0ab2-1934-4642-89fd-1bc1edd96961
         - SAOAlternateGungale: 7f75b38d-8d9d-4433-986f-8e8f3c27dc90
-        - Redo The Healer: a086e10a-046c-4a83-a089-fde2e8d0b9ae
+        - Redo of  a Healer: a086e10a-046c-4a83-a089-fde2e8d0b9ae
         - Red Notice: abd62e8b-845b-41d5-92d3-6ecaa7dca540
         - Recapture the Rapture: 1e4f1fcb-2a91-4336-b3b5-7e399059fea1
         - Re Creators: 7871fe55-e7f2-4255-9ffc-95b89f393656
@@ -1543,7 +1556,7 @@ nav:
         - Indecent Proposal  1993: 836b4a06-698f-4101-858c-641ebd376528
         - Inception: c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26
         - IBM and the Holocaust: 52328777-f484-47b0-99a4-7343fb40bc0a
-        - Hyperion: 5e1088f4-7428-487f-9300-86f478f05dca
+        - Hyperion Cantos: 5e1088f4-7428-487f-9300-86f478f05dca
         - How to talk about books you haven t read: 2786846d-80d6-499a-8e39-b4a899b3b099
         - How to be sad: 0688ef0d-7a2b-43a6-bd79-1c1ffff22d98
         - How to Integrate Your Shadow - The Dark Side is Unrealized Potential: 32480141-833f-40b8-826b-fe80b74f4783
@@ -1583,6 +1596,7 @@ nav:
         - Brave New WOrld: 64965a4a-a58a-470f-b3b9-66f52a209b0b
         - Boogiebop: 1ecf81f3-9aaa-441a-b810-99960e9e3429
         - Bold: 192d6f4b-fd13-4733-a829-dde384db7e20
+        - Bobiverse: 09ce892b-bf33-4374-9a2f-39179043c96e
         - BlockchainRevolution: 29ed3e16-61ec-4a4c-9d4a-99add4b7463b
         - Bitcoin Whitepaper: de859af5-6ea7-46bb-8360-ae6cf88bb9db
         - Beyond-The-Boundry: 83e2137b-fbfd-4cad-b7e9-270fb4eaee75
@@ -1983,6 +1997,7 @@ nav:
         - Rubber Hand Illusion: 95eaa7b6-77b1-424c-9f30-5824ad1d040e
         - Roku s Basalask: c3c24b28-951c-4569-b09e-fe4531853674
         - Reverse Engineering the Human Soul: dc1588aa-289a-4bd2-89d1-faf06ba1c28f
+        - Replicate.com: 3e059b70-740a-4c81-8fd9-559910c8038c
         - Religion: 9df8cab2-648c-4171-abef-b5c875f2183a
         - Relationships: dfa112f3-0fc7-4b92-b5dd-91af756b13ed
         - Relational Database: f7ad145d-acaf-417c-a73c-34f110e88c1d
@@ -2351,19 +2366,23 @@ nav:
     - list:
         - "Why are there multiple desks for Arvo, how do they get used?": ce0fd799-e5af-4215-89da-e20d53c344b3
         - Why am I building Question Engine?: 114d3861-6af9-4254-8cee-0e7aa0b47532
+        - Who are the most active Users within a Discord Guild?: 5834c212-c616-4a8e-8b6e-16d4007cea7f
         - "Where is a list of the most popular Urbit apps, also including their source code?": b633ea18-544c-4f74-ae9d-3395c9a78192
         - When was the most active month for the most active channel in each discord guild?: 30d09691-d6bc-462d-b9ae-8534e88e4cf1
         - "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": fb38895a-faca-42e7-8e40-416fe115a9ee
         - What percentage of days actually have messages?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
         - "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": ae8cb99d-65d5-404f-9d83-4572cca17719
         - What other some projects that scraped fandom.com?: 4cb580de-4980-4475-9878-faba48388dd2
+        - What month was X discord guild the most active?: 0f897f8f-e4b5-4e18-834f-7082f950dfb6
         - What is the name of the most active channel in each discord guild?: 27802970-c6dc-462e-8210-216bb1eb6a36
         - What is the most active channel in a discord guild?: 45f50e6a-fb81-4f7c-87b6-70785da72633
+        - What is the median message count per channel in a particular Discord Guild?: 3fbf2fad-a355-4b8d-8d2d-0133ec53773d
         - What is the length of the Bertopic default dataset from sklearn?: 7b81aadb-d7cd-4afa-8c16-4402e8ce19d5
+        - What is the average message count per Channel in a particular Discord Guild?: ad60bd2d-b872-4d0b-8f13-6f4214896871
         - What is the average message count for most active X days of a Discord Guild?: 9a9414ed-c3bd-433e-bb5b-4732aff405a0
         - What is the average half life of top 30% active users?: 4f6a01a0-6799-43a6-b36a-38edd59d36fc
         - What is the activity per month of each discord guild measured in messages per month?: edb39918-b02f-4ee7-b2b2-d902c8370412
-        - What is the activity of each month for each guild normalised on a single graph?: 8b9a34f5-a141-47be-ab51-091a0e05339b
+        - What is the activity of each month for each guild normalized on a single graph?: 8b9a34f5-a141-47be-ab51-091a0e05339b
         - What is the Mimetic File System?: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
         - What is cognitive computing?: e0fcec25-9225-4926-bfc3-8318ec40a638
         - What is a Poke in Hoon and how do you perform it?: 0362bbdd-cf29-4898-be54-2f675a4d3596
@@ -2395,6 +2414,7 @@ nav:
         - How to order folders by most files in each folder?: dcf1ad67-afbc-4444-b037-a6d3c4938135
         - How to make a REST API in hoon so I can use curl on my urbit ship?: 77034042-9d84-4a9b-b6b0-ab93bbde1d4b
         - How to list total number of files in directory recursively?: 8c3d5832-d1d2-4564-95b4-ead1e83d5f8e
+        - How to list the number of Bots on a Discord Guild?: dd096aae-3c6c-437b-9890-76e7355b93a0
         - How to install OpenZepplin in Hardhat.js: 3b73f02b-021d-41b2-b094-af347aa351da
         - How to get message count by day for a single discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
         - How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
@@ -2407,6 +2427,10 @@ nav:
         - How to conduct user research through surveys?: 8845c35b-1532-4efc-af8f-6ec7c97d91bc
         - How to check if file or directory exists using python3?: 301a1a37-47e3-4dc4-8d1c-1f16bf9338b5
         - How to Remove files recursively in Linux?: 6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186
+        - How many users have posted more than 100 messages in a particular discord guild?: edc06a13-7305-4b5f-8eb6-9e8eb1b4df23
+        - How many messages per channel in a particular discord guild?: 3ca67bba-4104-47a3-9c2a-14734afae6d1
+        - How many messages per channel in Discord Guild?: 320d56d6-d028-425b-a1de-10d80b6d8669
+        - How many authors posted in each particular channel of a particular discord guild?: a1e2f1f3-a636-4f25-949f-e9bec02f9830
         - How does one store a 2 dimensional matrix in Hoon?: 22fe8e8c-bb6e-4df5-bcca-03375c9dfd00
         - How does async await work in Hoon?: f7097115-4e65-4c20-80b9-663e8d954c88
         - How do you split a string by a specific character into a list of strings in Hoon?: d489b5cd-9f29-47b1-af41-d6795d33792a
@@ -2568,10 +2592,16 @@ nav:
     - AMM: 132723bd-200e-4d5d-b8a5-423857248251
     - ACID: 0f1f6127-3cd4-4e4a-83f2-8cd048090d61
     - AAA: f695942a-96ad-4a1f-9f10-cced4ae7bf97
+- ollama: 0a74265c-1db8-4150-93d8-735a4cfc8619
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - What discord user has the longest average message length?: c71bada1-ae88-4a99-bfec-84efafe8fed9
+- What discord channel has the longest average message length of a particular guild?: 86ac9f2f-087d-4791-a0e0-2f01688fe0c7
 - Tutorials and Learning Pathways: 5ba9b0de-6aad-48fa-ab60-ae39c62a027a
 - Quest Log: edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432
+- LLM Token Tests: ceefeffb-870e-439d-a4f1-7cd77a1b932b
+- LLM Client: 72945e2f-6225-460b-a11e-eae8bb44ad6e
+- GPT for All: d80422a0-621c-4784-a273-284c1c8e5520
+- Faraday.dev: 2482e507-0def-445e-844e-3e7159cb2a57
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Blog Posts: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33

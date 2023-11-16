@@ -5,19 +5,25 @@ title: What discord user has the longest average message length?
 ---
 ``` sql
 
-select authors_t.name, authors_t.nickname, authors_t.id, avg_content_length_t.content_length, avg_content_length_t.content_count  from 
+select 
+	authors_t.author_name,
+	authors_t.nickname,
+	avg_content_length_t.content_length,
+	avg_content_length_t.content_count,
+	authors_t.id
+from 
 (
 	select 
-		author_id, 
+		author_guild_id, 
 		count(content_length) as content_count,
 		AVG(content_length) as content_length
 	from
 		messages_t
 	where isbot = false
-	group by author_id
+	group by author_guild_id
 ) as avg_content_length_t
 join authors_t
-on authors_t.id = avg_content_length_t.author_id
+on authors_t.id = avg_content_length_t.author_guild_id
 order by avg_content_length_t.content_length desc;
 
 ```

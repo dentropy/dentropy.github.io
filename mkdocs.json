@@ -1262,6 +1262,9 @@
             "openobserve": "afd34891-bd19-484b-a122-57b34254f6e6"
           },
           {
+            "oobabooga text-generation-webui": "0177b9c7-9a60-491c-8ebb-c71e724e5786"
+          },
+          {
             "omnivore": "0f9c35d3-301b-415b-b2e2-86aaa99aca16"
           },
           {
@@ -2111,6 +2114,9 @@
             "Nostr": "78abfe73-37cb-4f3b-9e08-faad85669fb7"
           },
           {
+            "Noco.ai": "716957dd-1f5a-4865-b04b-c02b0bd34bae"
+          },
+          {
             "Nextcloud": "734650a9-17b5-48ce-9062-9201594ec7d2"
           },
           {
@@ -2130,6 +2136,9 @@
           },
           {
             "MyHBarWallet": "bc3117bc-4c76-4417-ae57-5fac03d9a604"
+          },
+          {
+            "Multi On": "8ab360ae-e3bc-4d23-a60c-23847e562228"
           },
           {
             "Monica CRM": "b0fcf97c-1900-4a2f-9eb1-bae8ab6a2446"
@@ -2201,6 +2210,15 @@
             "LocalStack": "8262417f-8636-4cfe-a754-b636b0586b7f"
           },
           {
+            "LocalAI": "588cb087-a325-4c18-a0b3-269da9304a31"
+          },
+          {
+            "Local AI Playground": "6b8d65a1-2f20-4621-8423-fa7506d70050"
+          },
+          {
+            "LoLLMS Web UI": "edace957-36da-4bd7-b7bd-170c152688d1"
+          },
+          {
             "Lisp": "35ba03ec-2762-4d0d-b397-948ae32d6ede"
           },
           {
@@ -2219,13 +2237,25 @@
             "Ledger Live": "a68e7ddb-710a-42fb-901d-eeeac286b2d8"
           },
           {
+            "Langflow": "fb09a999-1293-4309-98dc-8f1bfa157f82"
+          },
+          {
             "Lang Chain": "f2746cd8-46b4-4d36-a3d7-cfe8937bbe96"
+          },
+          {
+            "LM Studio": "fab4d5b4-4863-4109-baea-5b376fe1910c"
+          },
+          {
+            "LLM CLI": "0ab1f6ba-e1ec-45f3-8762-0e96939b3d75"
           },
           {
             "LDAP": "91dcc396-4854-454a-af93-12b19f08b4de"
           },
           {
             "Korganizer": "d0b74367-c336-469d-8272-6776fc7c1c7b"
+          },
+          {
+            "KoboldAI": "11293940-4b2d-4785-91cd-d96912437f3a"
           },
           {
             "Klaytn": "26045e67-4efe-4dfd-83c7-a76139c0cb12"
@@ -2328,6 +2358,9 @@
           },
           {
             "GraphQL Software": "4ad9fcf5-6717-4e6c-97ed-0be3754373a8"
+          },
+          {
+            "Gorilla": "9097a030-8dfa-4e53-8ba9-65be7d582e6a"
           },
           {
             "Google Play": "87b29a54-0bb9-4c65-92b2-9a82e960228c"
@@ -2477,6 +2510,9 @@
             "Damselfly": "f9120bc7-47b8-478c-b187-a249f56eb4ba"
           },
           {
+            "Dalai": "12b80fef-933d-4c49-9564-e818506124a9"
+          },
+          {
             "DNSxyz": "1fc0ade3-41fb-4d34-ade4-b56ca53611db"
           },
           {
@@ -2505,6 +2541,9 @@
           },
           {
             "Coqui TTS": "dac58659-e71f-4eea-b6d2-465508a922ee"
+          },
+          {
+            "ConfyUI": "06e73bbb-c33f-4c93-90e1-a8e3e294f3fb"
           },
           {
             "Confluence": "847a8136-5459-4b12-a382-1422423eecae"
@@ -4190,7 +4229,7 @@
         "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
       },
       {
-        "DAO Auditing via Discord": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+        "DAO Auditing via Discord Design Doc": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
       },
       {
         "DAO Auditing via Discord - Queries": "d5e65c1e-f806-49b1-87dd-bd9c24220f03"
@@ -4586,7 +4625,7 @@
             "SAOAlternateGungale": "7f75b38d-8d9d-4433-986f-8e8f3c27dc90"
           },
           {
-            "Redo The Healer": "a086e10a-046c-4a83-a089-fde2e8d0b9ae"
+            "Redo of  a Healer": "a086e10a-046c-4a83-a089-fde2e8d0b9ae"
           },
           {
             "Red Notice": "abd62e8b-845b-41d5-92d3-6ecaa7dca540"
@@ -4718,7 +4757,7 @@
             "IBM and the Holocaust": "52328777-f484-47b0-99a4-7343fb40bc0a"
           },
           {
-            "Hyperion": "5e1088f4-7428-487f-9300-86f478f05dca"
+            "Hyperion Cantos": "5e1088f4-7428-487f-9300-86f478f05dca"
           },
           {
             "How to talk about books you haven t read": "2786846d-80d6-499a-8e39-b4a899b3b099"
@@ -4836,6 +4875,9 @@
           },
           {
             "Bold": "192d6f4b-fd13-4733-a829-dde384db7e20"
+          },
+          {
+            "Bobiverse": "09ce892b-bf33-4374-9a2f-39179043c96e"
           },
           {
             "BlockchainRevolution": "29ed3e16-61ec-4a4c-9d4a-99add4b7463b"
@@ -6087,6 +6129,9 @@
             "Reverse Engineering the Human Soul": "dc1588aa-289a-4bd2-89d1-faf06ba1c28f"
           },
           {
+            "Replicate.com": "3e059b70-740a-4c81-8fd9-559910c8038c"
+          },
+          {
             "Religion": "9df8cab2-648c-4171-abef-b5c875f2183a"
           },
           {
@@ -7221,6 +7266,9 @@
             "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532"
           },
           {
+            "Who are the most active Users within a Discord Guild?": "5834c212-c616-4a8e-8b6e-16d4007cea7f"
+          },
+          {
             "Where is a list of the most popular Urbit apps, also including their source code?": "b633ea18-544c-4f74-ae9d-3395c9a78192"
           },
           {
@@ -7239,13 +7287,22 @@
             "What other some projects that scraped fandom.com?": "4cb580de-4980-4475-9878-faba48388dd2"
           },
           {
+            "What month was X discord guild the most active?": "0f897f8f-e4b5-4e18-834f-7082f950dfb6"
+          },
+          {
             "What is the name of the most active channel in each discord guild?": "27802970-c6dc-462e-8210-216bb1eb6a36"
           },
           {
             "What is the most active channel in a discord guild?": "45f50e6a-fb81-4f7c-87b6-70785da72633"
           },
           {
+            "What is the median message count per channel in a particular Discord Guild?": "3fbf2fad-a355-4b8d-8d2d-0133ec53773d"
+          },
+          {
             "What is the length of the Bertopic default dataset from sklearn?": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5"
+          },
+          {
+            "What is the average message count per Channel in a particular Discord Guild?": "ad60bd2d-b872-4d0b-8f13-6f4214896871"
           },
           {
             "What is the average message count for most active X days of a Discord Guild?": "9a9414ed-c3bd-433e-bb5b-4732aff405a0"
@@ -7257,7 +7314,7 @@
             "What is the activity per month of each discord guild measured in messages per month?": "edb39918-b02f-4ee7-b2b2-d902c8370412"
           },
           {
-            "What is the activity of each month for each guild normalised on a single graph?": "8b9a34f5-a141-47be-ab51-091a0e05339b"
+            "What is the activity of each month for each guild normalized on a single graph?": "8b9a34f5-a141-47be-ab51-091a0e05339b"
           },
           {
             "What is the Mimetic File System?": "d6bc0e0e-54f2-4389-a143-3bb60f8daa61"
@@ -7353,6 +7410,9 @@
             "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e"
           },
           {
+            "How to list the number of Bots on a Discord Guild?": "dd096aae-3c6c-437b-9890-76e7355b93a0"
+          },
+          {
             "How to install OpenZepplin in Hardhat.js": "3b73f02b-021d-41b2-b094-af347aa351da"
           },
           {
@@ -7387,6 +7447,18 @@
           },
           {
             "How to Remove files recursively in Linux?": "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186"
+          },
+          {
+            "How many users have posted more than 100 messages in a particular discord guild?": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23"
+          },
+          {
+            "How many messages per channel in a particular discord guild?": "3ca67bba-4104-47a3-9c2a-14734afae6d1"
+          },
+          {
+            "How many messages per channel in Discord Guild?": "320d56d6-d028-425b-a1de-10d80b6d8669"
+          },
+          {
+            "How many authors posted in each particular channel of a particular discord guild?": "a1e2f1f3-a636-4f25-949f-e9bec02f9830"
           },
           {
             "How does one store a 2 dimensional matrix in Hoon?": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00"
@@ -7899,10 +7971,16 @@
     ]
   },
   {
+    "ollama": "0a74265c-1db8-4150-93d8-735a4cfc8619"
+  },
+  {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
   },
   {
     "What discord user has the longest average message length?": "c71bada1-ae88-4a99-bfec-84efafe8fed9"
+  },
+  {
+    "What discord channel has the longest average message length of a particular guild?": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7"
   },
   {
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
@@ -7912,6 +7990,18 @@
   },
   {
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
+  },
+  {
+    "LLM Token Tests": "ceefeffb-870e-439d-a4f1-7cd77a1b932b"
+  },
+  {
+    "LLM Client": "72945e2f-6225-460b-a11e-eae8bb44ad6e"
+  },
+  {
+    "GPT for All": "d80422a0-621c-4784-a273-284c1c8e5520"
+  },
+  {
+    "Faraday.dev": "2482e507-0def-445e-844e-3e7159cb2a57"
   },
   {
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
