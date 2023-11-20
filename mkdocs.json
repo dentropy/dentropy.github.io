@@ -1214,6 +1214,9 @@
             "pyenv": "687bbe1e-57b1-4cc6-a44e-e4f470319f11"
           },
           {
+            "psycopg2": "3fab38a4-8d02-49ff-b524-db359affb04f"
+          },
+          {
             "psql": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a"
           },
           {
@@ -2507,6 +2510,9 @@
             "DappNode": "38b05107-47d7-4a1f-8329-7ee742b3eecc"
           },
           {
+            "Danswer": "c9fc823a-baf0-4e39-9056-3f2b39550378"
+          },
+          {
             "Damselfly": "f9120bc7-47b8-478c-b187-a249f56eb4ba"
           },
           {
@@ -3786,9 +3792,6 @@
             "dentropycloud.research.reference-designs": "890c1069-453d-4b96-80b0-6d153cfbbe9f"
           },
           {
-            "Logs - DDaemon": "7621dfbb-6988-4e80-9836-a8011f664099"
-          },
-          {
             "DentropyCloud Software": "db82f3a7-04a5-4403-b16a-057177b2ae10"
           },
           {
@@ -3796,6 +3799,9 @@
           },
           {
             "DenropyDaemon TODO": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb"
+          },
+          {
+            "Backlog - DDaemon": "7621dfbb-6988-4e80-9836-a8011f664099"
           }
         ]
       },
@@ -3971,9 +3977,6 @@
             "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
           },
           {
-            "Logs - DentropyCloud": "4e71511d-083c-4683-adb1-617be0f9f5be"
-          },
-          {
             "Design Doc - DentropyCloud": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5"
           },
           {
@@ -3981,6 +3984,9 @@
           },
           {
             "Dentropy's Umbrel Appstore": "fcc49407-81d6-4576-8eeb-9a3b3c843f75"
+          },
+          {
+            "Backlog - DentropyCloud": "4e71511d-083c-4683-adb1-617be0f9f5be"
           }
         ]
       },
@@ -4223,13 +4229,13 @@
         "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
       },
       {
+        "Discord Guild Indexing": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+      },
+      {
         "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
       },
       {
         "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
-      },
-      {
-        "DAO Auditing via Discord Design Doc": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
       },
       {
         "DAO Auditing via Discord - Queries": "d5e65c1e-f806-49b1-87dd-bd9c24220f03"
@@ -5014,9 +5020,6 @@
         "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
       },
       {
-        "Media Consumption Backlog": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
-      },
-      {
         "Datasets - Video Games": "76fdeb14-6cc3-484f-8607-a6298e4a22c1"
       },
       {
@@ -5030,6 +5033,9 @@
       },
       {
         "Datasets - Books": "a1498ef7-79af-4358-8a69-c2e546a1222f"
+      },
+      {
+        "Backlog - Media Consumption": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       }
     ]
   },
@@ -7240,10 +7246,16 @@
       {
         "List": [
           {
+            "Who is worth getting to know on Discord DAO Guilds?": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2"
+          },
+          {
             "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?": "17db1c37-5a7e-4f24-98d5-5ef5276553bb"
           },
           {
             "How to send data between Urbit ships using Hoon?": "5754d8d2-c988-4bce-a42e-2353ee3344c9"
+          },
+          {
+            "How do we get to know individuals in Discord DAO Guilds?": "d9749f38-2694-405a-a5af-4ef357f29d9c"
           },
           {
             "How do I audit all the archives of data I have?": "c1b2973d-c991-446f-b1d1-d71ff62503b2"
@@ -7266,7 +7278,13 @@
             "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532"
           },
           {
+            "Who is the most consistent poster within a Discord Guild?": "dba668aa-bb99-46d5-9942-9f41bed27766"
+          },
+          {
             "Who are the most active Users within a Discord Guild?": "5834c212-c616-4a8e-8b6e-16d4007cea7f"
+          },
+          {
+            "Which discord channel was most active between two dates?": "25b82439-effc-4780-a493-2ababf099494"
           },
           {
             "Where is a list of the most popular Urbit apps, also including their source code?": "b633ea18-544c-4f74-ae9d-3395c9a78192"
@@ -7329,6 +7347,12 @@
             "What is ETL to Question Engine?": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc"
           },
           {
+            "What discord users show up in multiple guilds?": "1151704f-92c1-4273-9a2a-af361dfb88be"
+          },
+          {
+            "What discord user was the most active for a particular date range within a particular discord guild?": "cca39f0d-a173-4849-986f-fbc5ea0e46bf"
+          },
+          {
             "What discord guilds have the most messages?": "2e369507-1f65-4c97-9a37-375f2b5d27fb"
           },
           {
@@ -7341,6 +7365,12 @@
             "What discord channel has the longest average message length?": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1"
           },
           {
+            "What discord author got the most reactions to their messages?": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d"
+          },
+          {
+            "What day of the week does the particular discord author post their messages?": "cb543a19-8513-43ae-8720-5ffeaec4a385"
+          },
+          {
             "What authors posted the most in each discord guild?": "34592fa9-bd8d-4237-bdff-36cb58fdc21e"
           },
           {
@@ -7351,6 +7381,9 @@
           },
           {
             "What are the most popular parts of the Hoon standard library?": "d228c0d3-4420-42e8-9932-0aab68e08350"
+          },
+          {
+            "What are the channels of a particular discord guild?": "a0219c15-6f5c-41b6-888f-41698790b9d2"
           },
           {
             "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a"
@@ -7378,6 +7411,9 @@
           },
           {
             "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023"
+          },
+          {
+            "How to view a discord message in context?": "fdaf9b18-a664-4861-894b-836af806393a"
           },
           {
             "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207"
@@ -7452,10 +7488,10 @@
             "How many users have posted more than 100 messages in a particular discord guild?": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23"
           },
           {
-            "How many messages per channel in a particular discord guild?": "3ca67bba-4104-47a3-9c2a-14734afae6d1"
+            "How many times did a particular author post a particular discord guild?": "637757e1-13bf-4560-94c5-92052bf389e5"
           },
           {
-            "How many messages per channel in Discord Guild?": "320d56d6-d028-425b-a1de-10d80b6d8669"
+            "How many messages per channel in a particular discord guild?": "320d56d6-d028-425b-a1de-10d80b6d8669"
           },
           {
             "How many authors posted in each particular channel of a particular discord guild?": "a1e2f1f3-a636-4f25-949f-e9bec02f9830"
@@ -7977,16 +8013,19 @@
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"
   },
   {
+    "genai-stack": "3b6e6bc9-e5e6-43af-84c8-834379d49e55"
+  },
+  {
     "What discord user has the longest average message length?": "c71bada1-ae88-4a99-bfec-84efafe8fed9"
+  },
+  {
+    "What discord user has the longest average message length in a particular guild?": "2f4fd09e-24a3-4359-81b2-049742a03610"
   },
   {
     "What discord channel has the longest average message length of a particular guild?": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7"
   },
   {
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
-  },
-  {
-    "Quest Log": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8"
   },
   {
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"

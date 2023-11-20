@@ -3,6 +3,8 @@ uuid: c71bada1-ae88-4a99-bfec-84efafe8fed9
 share: true
 title: What discord user has the longest average message length?
 ---
+## SQL Query
+
 ``` sql
 
 select 

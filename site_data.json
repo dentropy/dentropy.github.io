@@ -2,10 +2,11 @@
   "uuid_list": [
     "0a74265c-1db8-4150-93d8-735a4cfc8619",
     "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55",
     "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+    "2f4fd09e-24a3-4359-81b2-049742a03610",
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "e76c8ac9-69f3-477f-8015-556e83738432",
     "ceefeffb-870e-439d-a4f1-7cd77a1b932b",
     "72945e2f-6225-460b-a11e-eae8bb44ad6e",
@@ -170,6 +171,7 @@
     "63d04b10-f4ad-4735-92c4-c18f93475977",
     "30fb6856-7123-4579-b117-8a2eeac604e4",
     "687bbe1e-57b1-4cc6-a44e-e4f470319f11",
+    "3fab38a4-8d02-49ff-b524-db359affb04f",
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
@@ -601,6 +603,7 @@
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
     "efe438fc-2bb0-407e-9df3-b67b878d353a",
     "38b05107-47d7-4a1f-8329-7ee742b3eecc",
+    "c9fc823a-baf0-4e39-9056-3f2b39550378",
     "f9120bc7-47b8-478c-b187-a249f56eb4ba",
     "12b80fef-933d-4c49-9564-e818506124a9",
     "1fc0ade3-41fb-4d34-ade4-b56ca53611db",
@@ -1091,8 +1094,10 @@
     "5d76918e-df1c-48fd-8e09-50ef334c0112",
     "688dae83-c9c3-44d3-b32c-c6248ea0958e",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "5754d8d2-c988-4bce-a42e-2353ee3344c9",
+    "d9749f38-2694-405a-a5af-4ef357f29d9c",
     "c1b2973d-c991-446f-b1d1-d71ff62503b2",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
@@ -1100,7 +1105,9 @@
     "766d2aac-bcb3-4b91-a029-537e834f2816",
     "ce0fd799-e5af-4215-89da-e20d53c344b3",
     "114d3861-6af9-4254-8cee-0e7aa0b47532",
+    "dba668aa-bb99-46d5-9942-9f41bed27766",
     "5834c212-c616-4a8e-8b6e-16d4007cea7f",
+    "25b82439-effc-4780-a493-2ababf099494",
     "b633ea18-544c-4f74-ae9d-3395c9a78192",
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1",
     "fb38895a-faca-42e7-8e40-416fe115a9ee",
@@ -1121,14 +1128,19 @@
     "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "0362bbdd-cf29-4898-be54-2f675a4d3596",
     "65d3b35b-b939-4da8-bd29-e206dd2ea9bc",
+    "1151704f-92c1-4273-9a2a-af361dfb88be",
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf",
     "2e369507-1f65-4c97-9a37-375f2b5d27fb",
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
     "8db17737-329a-485d-9f99-98dce3ec1462",
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+    "cb543a19-8513-43ae-8720-5ffeaec4a385",
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e",
     "4212d688-8696-4f32-8813-7edab4080e1c",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
     "d228c0d3-4420-42e8-9932-0aab68e08350",
+    "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "d501e972-f005-4aba-a7bf-3404b735c27a",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
@@ -1138,6 +1150,7 @@
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "780af269-c8c8-45df-8358-c9b2140c92cf",
     "f4753c78-856b-4dcb-813e-4be6a80db023",
+    "fdaf9b18-a664-4861-894b-836af806393a",
     "98338dc9-0611-4650-85af-75b2b67f3207",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "334719ff-63c4-46eb-958d-8aa0ffd12841",
@@ -1162,7 +1175,7 @@
     "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5",
     "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186",
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23",
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1",
+    "637757e1-13bf-4560-94c5-92052bf389e5",
     "320d56d6-d028-425b-a1de-10d80b6d8669",
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
@@ -1291,9 +1304,9 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
@@ -1344,10 +1357,10 @@
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f",
-    "7621dfbb-6988-4e80-9836-a8011f664099",
     "db82f3a7-04a5-4403-b16a-057177b2ae10",
     "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
     "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb",
+    "7621dfbb-6988-4e80-9836-a8011f664099",
     "9597719e-4990-4ce7-a6fc-7db6d61428e9",
     "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
@@ -1478,10 +1491,10 @@
     "41c5d192-2968-43a1-88bf-4f913ebd58e0",
     "f738f680-95a2-46e5-bb4c-57b67687e36a",
     "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
-    "4e71511d-083c-4683-adb1-617be0f9f5be",
     "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
     "f2bc7463-f3c7-4944-bbe2-9d91aa365178",
     "fcc49407-81d6-4576-8eeb-9a3b3c843f75",
+    "4e71511d-083c-4683-adb1-617be0f9f5be",
     "7c3f645b-762a-42df-9270-f6d8af138c5b",
     "93f81b51-d1e6-4153-8d5c-50963764f6b9",
     "a9a837ae-f4c8-4756-87b2-d37f202167dc",
@@ -1535,12 +1548,12 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6",
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8",
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
     "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
     "130ed5fa-1246-4768-9457-2d2e2fa4770c",
     "d578e995-036b-45be-9fae-ea54d92c8b58",
     "a1498ef7-79af-4358-8a69-c2e546a1222f",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -2322,10 +2335,11 @@
   "uuid_filepath": {
     "0a74265c-1db8-4150-93d8-735a4cfc8619": "ollama.md",
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55": "genai-stack.md",
     "c71bada1-ae88-4a99-bfec-84efafe8fed9": "What discord user has the longest average message length?.md",
+    "2f4fd09e-24a3-4359-81b2-049742a03610": "What discord user has the longest average message length in a particular guild?.md",
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "What discord channel has the longest average message length of a particular guild?.md",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways.md",
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Quest Log.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects.md",
     "ceefeffb-870e-439d-a4f1-7cd77a1b932b": "LLM Token Tests.md",
     "72945e2f-6225-460b-a11e-eae8bb44ad6e": "LLM Client.md",
@@ -2490,6 +2504,7 @@
     "63d04b10-f4ad-4735-92c4-c18f93475977": "Software/List/pywebcopy.md",
     "30fb6856-7123-4579-b117-8a2eeac604e4": "Software/List/pyspark.md",
     "687bbe1e-57b1-4cc6-a44e-e4f470319f11": "Software/List/pyenv.md",
+    "3fab38a4-8d02-49ff-b524-db359affb04f": "Software/List/psycopg2.md",
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": "Software/List/psql.md",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": "Software/List/protege.md",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": "Software/List/promnesia.md",
@@ -2921,6 +2936,7 @@
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": "Software/List/DeDRM.md",
     "efe438fc-2bb0-407e-9df3-b67b878d353a": "Software/List/Datagrid.md",
     "38b05107-47d7-4a1f-8329-7ee742b3eecc": "Software/List/DappNode.md",
+    "c9fc823a-baf0-4e39-9056-3f2b39550378": "Software/List/Danswer.md",
     "f9120bc7-47b8-478c-b187-a249f56eb4ba": "Software/List/Damselfly.md",
     "12b80fef-933d-4c49-9564-e818506124a9": "Software/List/Dalai.md",
     "1fc0ade3-41fb-4d34-ade4-b56ca53611db": "Software/List/DNSxyz.md",
@@ -3406,8 +3422,10 @@
     "5d76918e-df1c-48fd-8e09-50ef334c0112": "Research/DAOs/DAO Protocols and Platforms/Deep Work.md",
     "688dae83-c9c3-44d3-b32c-c6248ea0958e": "Research/DAOs/DAO Protocols and Platforms/DAOhaus.md",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Relationships/People/Ted Kaczynski.md",
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2": "Quests/List/Who is worth getting to know on Discord DAO Guilds?.md",
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb": "Quests/List/If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md",
     "5754d8d2-c988-4bce-a42e-2353ee3344c9": "Quests/List/How to send data between Urbit ships using Hoon?.md",
+    "d9749f38-2694-405a-a5af-4ef357f29d9c": "Quests/List/How do we get to know individuals in Discord DAO Guilds?.md",
     "c1b2973d-c991-446f-b1d1-d71ff62503b2": "Quests/List/How do I audit all the archives of data I have?.md",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": "Quests/List/Encrypted Git Backup.md",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions/Questions for Question Engine.md",
@@ -3415,7 +3433,9 @@
     "766d2aac-bcb3-4b91-a029-537e834f2816": "Questions/Questions for DAO's.md",
     "ce0fd799-e5af-4215-89da-e20d53c344b3": "Questions/list/Why are there multiple desks for Arvo, how do they get used?.md",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Questions/list/Why am I building Question Engine?.md",
+    "dba668aa-bb99-46d5-9942-9f41bed27766": "Questions/list/Who is the most consistent poster within a Discord Guild?.md",
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": "Questions/list/Who are the most active Users within a Discord Guild?.md",
+    "25b82439-effc-4780-a493-2ababf099494": "Questions/list/Which discord channel was most active between two dates?.md",
     "b633ea18-544c-4f74-ae9d-3395c9a78192": "Questions/list/Where is a list of the most popular Urbit apps, also including their source code?.md",
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": "Questions/list/When was the most active month for the most active channel in each discord guild?.md",
     "fb38895a-faca-42e7-8e40-416fe115a9ee": "Questions/list/What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?.md",
@@ -3436,14 +3456,19 @@
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "Questions/list/What is cognitive computing?.md",
     "0362bbdd-cf29-4898-be54-2f675a4d3596": "Questions/list/What is a Poke in Hoon and how do you perform it?.md",
     "65d3b35b-b939-4da8-bd29-e206dd2ea9bc": "Questions/list/What is ETL to Question Engine?.md",
+    "1151704f-92c1-4273-9a2a-af361dfb88be": "Questions/list/What discord users show up in multiple guilds?.md",
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf": "Questions/list/What discord user was the most active for a particular date range within a particular discord guild?.md",
     "2e369507-1f65-4c97-9a37-375f2b5d27fb": "Questions/list/What discord guilds have the most messages?.md",
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": "Questions/list/What discord guild's have the most Users?.md",
     "8db17737-329a-485d-9f99-98dce3ec1462": "Questions/list/What discord channels have the most messages?.md",
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": "Questions/list/What discord channel has the longest average message length?.md",
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": "Questions/list/What discord author got the most reactions to their messages?.md",
+    "cb543a19-8513-43ae-8720-5ffeaec4a385": "Questions/list/What day of the week does the particular discord author post their messages?.md",
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e": "Questions/list/What authors posted the most in each discord guild?.md",
     "4212d688-8696-4f32-8813-7edab4080e1c": "Questions/list/What are the zero to hero urbit app examples with source code?.md",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": "Questions/list/What are the parts of a URL?.md",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "Questions/list/What are the most popular parts of the Hoon standard library?.md",
+    "a0219c15-6f5c-41b6-888f-41698790b9d2": "Questions/list/What are the channels of a particular discord guild?.md",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "Questions/list/What are the basics of Hoon?.md",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": "Questions/list/What are some bulk file renaming tools?.md",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Questions/list/Order discord Guild's by the oldest message?.md",
@@ -3453,6 +3478,7 @@
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "Questions/list/How to write Hello World in Hoon and Urbit?.md",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "Questions/list/How to visualize represent storage on a computer drive?.md",
+    "fdaf9b18-a664-4861-894b-836af806393a": "Questions/list/How to view a discord message in context?.md",
     "98338dc9-0611-4650-85af-75b2b67f3207": "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": "Questions/list/How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?.md",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md",
@@ -3477,8 +3503,8 @@
     "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5": "Questions/list/How to check if file or directory exists using python3?.md",
     "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186": "Questions/list/How to Remove files recursively in Linux?.md",
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23": "Questions/list/How many users have posted more than 100 messages in a particular discord guild?.md",
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1": "Questions/list/How many messages per channel in a particular discord guild?.md",
-    "320d56d6-d028-425b-a1de-10d80b6d8669": "Questions/list/How many messages per channel in Discord Guild?.md",
+    "637757e1-13bf-4560-94c5-92052bf389e5": "Questions/list/How many times did a particular author post a particular discord guild?.md",
+    "320d56d6-d028-425b-a1de-10d80b6d8669": "Questions/list/How many messages per channel in a particular discord guild?.md",
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": "Questions/list/How many authors posted in each particular channel of a particular discord guild?.md",
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": "Questions/list/How does one store a 2 dimensional matrix in Hoon?.md",
     "f7097115-4e65-4c20-80b9-663e8d954c88": "Questions/list/How does async await work in Hoon?.md",
@@ -3606,9 +3632,9 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": "MyProjects/Proxy Pubic IP address into my Home Network.md",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "MyProjects/Keybase Binding.md",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "MyProjects/Docker VPN Router.md",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/Discord Guild Indexing.md",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "MyProjects/DentropyCloud - dc.md",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "MyProjects/DIY Keylogger.md",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/DAO Auditing via Discord Design Doc.md",
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": "MyProjects/DAO Auditing via Discord - Queries.md",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "MyProjects/Blockchain Royalties.md",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "MyProjects/ActivityPub Utils.md",
@@ -3659,10 +3685,10 @@
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO use Case V0.0.1.md",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO Use case V0.0.2.md",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md",
-    "7621dfbb-6988-4e80-9836-a8011f664099": "MyProjects/Dentropy Daemon/Logs - DDaemon.md",
     "db82f3a7-04a5-4403-b16a-057177b2ae10": "MyProjects/Dentropy Daemon/DentropyCloud Software.md",
     "488cb22c-91d3-4d1e-bd47-b1588e3fb899": "MyProjects/Dentropy Daemon/Dentropy Daemon - Home.md",
     "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb": "MyProjects/Dentropy Daemon/DenropyDaemon TODO.md",
+    "7621dfbb-6988-4e80-9836-a8011f664099": "MyProjects/Dentropy Daemon/Backlog - DDaemon.md",
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": "MyProjects/Dentropy Daemon/bindings/Scrape Linkedin.md",
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": "MyProjects/Dentropy Daemon/bindings/ActivityWatch Experiments.md",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Blockchain Binding.md",
@@ -3793,10 +3819,10 @@
     "41c5d192-2968-43a1-88bf-4f913ebd58e0": "MyProjects/Dentropy Cloud/Supported Apps - DentropyCloud.md",
     "f738f680-95a2-46e5-bb4c-57b67687e36a": "MyProjects/Dentropy Cloud/Supported App List - DentropyCloud.md",
     "f6ae9aa0-41dc-431d-972c-47cfe397fda2": "MyProjects/Dentropy Cloud/Roadmap - DentropyCloud.md",
-    "4e71511d-083c-4683-adb1-617be0f9f5be": "MyProjects/Dentropy Cloud/Logs - DentropyCloud.md",
     "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": "MyProjects/Dentropy Cloud/Design Doc - DentropyCloud.md",
     "f2bc7463-f3c7-4944-bbe2-9d91aa365178": "MyProjects/Dentropy Cloud/DentropyCloud Reminders.md",
     "fcc49407-81d6-4576-8eeb-9a3b3c843f75": "MyProjects/Dentropy Cloud/Dentropy's Umbrel Appstore.md",
+    "4e71511d-083c-4683-adb1-617be0f9f5be": "MyProjects/Dentropy Cloud/Backlog - DentropyCloud.md",
     "7c3f645b-762a-42df-9270-f6d8af138c5b": "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.misskey.md",
     "93f81b51-d1e6-4153-8d5c-50963764f6b9": "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.md",
     "a9a837ae-f4c8-4756-87b2-d37f202167dc": "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.app-types.torrenting.md",
@@ -3850,12 +3876,12 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6": "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md",
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Media/Recommended Media.md",
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Media Consumption Backlog.md",
     "76fdeb14-6cc3-484f-8607-a6298e4a22c1": "Media/Datasets - Video Games.md",
     "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": "Media/Datasets - Podcast.md",
     "130ed5fa-1246-4768-9457-2d2e2fa4770c": "Media/Datasets - Music.md",
     "d578e995-036b-45be-9fae-ea54d92c8b58": "Media/Datasets - Movies and TV Show.md",
     "a1498ef7-79af-4358-8a69-c2e546a1222f": "Media/Datasets - Books.md",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media/Backlog - Media Consumption.md",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Media/Videos/Why Hegel knew there would be days like these.md",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "Media/Videos/NRx.md",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "Media/Type/podcast.md",
@@ -4634,10 +4660,11 @@
   "uuid_filename": {
     "0a74265c-1db8-4150-93d8-735a4cfc8619": "ollama",
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55": "genai-stack",
     "c71bada1-ae88-4a99-bfec-84efafe8fed9": "What discord user has the longest average message length?",
+    "2f4fd09e-24a3-4359-81b2-049742a03610": "What discord user has the longest average message length in a particular guild?",
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "What discord channel has the longest average message length of a particular guild?",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways",
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": "Quest Log",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects",
     "ceefeffb-870e-439d-a4f1-7cd77a1b932b": "LLM Token Tests",
     "72945e2f-6225-460b-a11e-eae8bb44ad6e": "LLM Client",
@@ -4802,6 +4829,7 @@
     "63d04b10-f4ad-4735-92c4-c18f93475977": "pywebcopy",
     "30fb6856-7123-4579-b117-8a2eeac604e4": "pyspark",
     "687bbe1e-57b1-4cc6-a44e-e4f470319f11": "pyenv",
+    "3fab38a4-8d02-49ff-b524-db359affb04f": "psycopg2",
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": "psql",
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": "protege",
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": "promnesia",
@@ -5233,6 +5261,7 @@
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": "DeDRM",
     "efe438fc-2bb0-407e-9df3-b67b878d353a": "Datagrid",
     "38b05107-47d7-4a1f-8329-7ee742b3eecc": "DappNode",
+    "c9fc823a-baf0-4e39-9056-3f2b39550378": "Danswer",
     "f9120bc7-47b8-478c-b187-a249f56eb4ba": "Damselfly",
     "12b80fef-933d-4c49-9564-e818506124a9": "Dalai",
     "1fc0ade3-41fb-4d34-ade4-b56ca53611db": "DNSxyz",
@@ -5718,8 +5747,10 @@
     "5d76918e-df1c-48fd-8e09-50ef334c0112": "Deep Work",
     "688dae83-c9c3-44d3-b32c-c6248ea0958e": "DAOhaus",
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": "Ted Kaczynski",
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2": "Who is worth getting to know on Discord DAO Guilds?",
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb": "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?",
     "5754d8d2-c988-4bce-a42e-2353ee3344c9": "How to send data between Urbit ships using Hoon?",
+    "d9749f38-2694-405a-a5af-4ef357f29d9c": "How do we get to know individuals in Discord DAO Guilds?",
     "c1b2973d-c991-446f-b1d1-d71ff62503b2": "How do I audit all the archives of data I have?",
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": "Encrypted Git Backup",
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": "Questions for Question Engine",
@@ -5727,7 +5758,9 @@
     "766d2aac-bcb3-4b91-a029-537e834f2816": "Questions for DAO's",
     "ce0fd799-e5af-4215-89da-e20d53c344b3": "Why are there multiple desks for Arvo, how do they get used?",
     "114d3861-6af9-4254-8cee-0e7aa0b47532": "Why am I building Question Engine?",
+    "dba668aa-bb99-46d5-9942-9f41bed27766": "Who is the most consistent poster within a Discord Guild?",
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": "Who are the most active Users within a Discord Guild?",
+    "25b82439-effc-4780-a493-2ababf099494": "Which discord channel was most active between two dates?",
     "b633ea18-544c-4f74-ae9d-3395c9a78192": "Where is a list of the most popular Urbit apps, also including their source code?",
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": "When was the most active month for the most active channel in each discord guild?",
     "fb38895a-faca-42e7-8e40-416fe115a9ee": "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?",
@@ -5748,14 +5781,19 @@
     "e0fcec25-9225-4926-bfc3-8318ec40a638": "What is cognitive computing?",
     "0362bbdd-cf29-4898-be54-2f675a4d3596": "What is a Poke in Hoon and how do you perform it?",
     "65d3b35b-b939-4da8-bd29-e206dd2ea9bc": "What is ETL to Question Engine?",
+    "1151704f-92c1-4273-9a2a-af361dfb88be": "What discord users show up in multiple guilds?",
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf": "What discord user was the most active for a particular date range within a particular discord guild?",
     "2e369507-1f65-4c97-9a37-375f2b5d27fb": "What discord guilds have the most messages?",
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": "What discord guild's have the most Users?",
     "8db17737-329a-485d-9f99-98dce3ec1462": "What discord channels have the most messages?",
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": "What discord channel has the longest average message length?",
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": "What discord author got the most reactions to their messages?",
+    "cb543a19-8513-43ae-8720-5ffeaec4a385": "What day of the week does the particular discord author post their messages?",
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e": "What authors posted the most in each discord guild?",
     "4212d688-8696-4f32-8813-7edab4080e1c": "What are the zero to hero urbit app examples with source code?",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": "What are the parts of a URL?",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "What are the most popular parts of the Hoon standard library?",
+    "a0219c15-6f5c-41b6-888f-41698790b9d2": "What are the channels of a particular discord guild?",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "What are the basics of Hoon?",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": "What are some bulk file renaming tools?",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Order discord Guild's by the oldest message?",
@@ -5765,6 +5803,7 @@
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "How to write and deploy a ERC20 token using Hardhat",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "How to write Hello World in Hoon and Urbit?",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?",
+    "fdaf9b18-a664-4861-894b-836af806393a": "How to view a discord message in context?",
     "98338dc9-0611-4650-85af-75b2b67f3207": "How to store data in complex data structures, like a list of messages rather than a single value",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "How to send data from ship to ship in Urbit using using Hoon?",
@@ -5789,8 +5828,8 @@
     "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5": "How to check if file or directory exists using python3?",
     "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186": "How to Remove files recursively in Linux?",
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23": "How many users have posted more than 100 messages in a particular discord guild?",
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1": "How many messages per channel in a particular discord guild?",
-    "320d56d6-d028-425b-a1de-10d80b6d8669": "How many messages per channel in Discord Guild?",
+    "637757e1-13bf-4560-94c5-92052bf389e5": "How many times did a particular author post a particular discord guild?",
+    "320d56d6-d028-425b-a1de-10d80b6d8669": "How many messages per channel in a particular discord guild?",
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": "How many authors posted in each particular channel of a particular discord guild?",
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": "How does one store a 2 dimensional matrix in Hoon?",
     "f7097115-4e65-4c20-80b9-663e8d954c88": "How does async await work in Hoon?",
@@ -5918,9 +5957,9 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": "Proxy Pubic IP address into my Home Network",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "Keybase Binding",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "Docker VPN Router",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "Discord Guild Indexing",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "DentropyCloud - dc",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "DIY Keylogger",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "DAO Auditing via Discord Design Doc",
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": "DAO Auditing via Discord - Queries",
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": "Blockchain Royalties",
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": "ActivityPub Utils",
@@ -5971,10 +6010,10 @@
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "dentropycloud",
-    "7621dfbb-6988-4e80-9836-a8011f664099": "Logs - DDaemon",
     "db82f3a7-04a5-4403-b16a-057177b2ae10": "DentropyCloud Software",
     "488cb22c-91d3-4d1e-bd47-b1588e3fb899": "Dentropy Daemon - Home",
     "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb": "DenropyDaemon TODO",
+    "7621dfbb-6988-4e80-9836-a8011f664099": "Backlog - DDaemon",
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": "Scrape Linkedin",
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": "ActivityWatch Experiments",
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": "Blockchain Binding",
@@ -6105,10 +6144,10 @@
     "41c5d192-2968-43a1-88bf-4f913ebd58e0": "Supported Apps - DentropyCloud",
     "f738f680-95a2-46e5-bb4c-57b67687e36a": "Supported App List - DentropyCloud",
     "f6ae9aa0-41dc-431d-972c-47cfe397fda2": "Roadmap - DentropyCloud",
-    "4e71511d-083c-4683-adb1-617be0f9f5be": "Logs - DentropyCloud",
     "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": "Design Doc - DentropyCloud",
     "f2bc7463-f3c7-4944-bbe2-9d91aa365178": "DentropyCloud Reminders",
     "fcc49407-81d6-4576-8eeb-9a3b3c843f75": "Dentropy's Umbrel Appstore",
+    "4e71511d-083c-4683-adb1-617be0f9f5be": "Backlog - DentropyCloud",
     "7c3f645b-762a-42df-9270-f6d8af138c5b": "dentropycloud",
     "93f81b51-d1e6-4153-8d5c-50963764f6b9": "dentropycloud",
     "a9a837ae-f4c8-4756-87b2-d37f202167dc": "dentropycloud",
@@ -6162,12 +6201,12 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6": "Logs - Blockchain Royalties",
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": "Gauging Blockchain Understanding",
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": "Recommended Media",
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Media Consumption Backlog",
     "76fdeb14-6cc3-484f-8607-a6298e4a22c1": "Datasets - Video Games",
     "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": "Datasets - Podcast",
     "130ed5fa-1246-4768-9457-2d2e2fa4770c": "Datasets - Music",
     "d578e995-036b-45be-9fae-ea54d92c8b58": "Datasets - Movies and TV Show",
     "a1498ef7-79af-4358-8a69-c2e546a1222f": "Datasets - Books",
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": "Backlog - Media Consumption",
     "a75ff251-e084-43b9-afa7-ee9b23e25141": "Why Hegel knew there would be days like these",
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": "NRx",
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": "podcast",
@@ -6946,10 +6985,11 @@
   "filepath_uuid": {
     "ollama.md": "0a74265c-1db8-4150-93d8-735a4cfc8619",
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "genai-stack.md": "3b6e6bc9-e5e6-43af-84c8-834379d49e55",
     "What discord user has the longest average message length?.md": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+    "What discord user has the longest average message length in a particular guild?.md": "2f4fd09e-24a3-4359-81b2-049742a03610",
     "What discord channel has the longest average message length of a particular guild?.md": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "Tutorials and Learning Pathways.md": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
-    "Quest Log.md": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "My Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
     "LLM Token Tests.md": "ceefeffb-870e-439d-a4f1-7cd77a1b932b",
     "LLM Client.md": "72945e2f-6225-460b-a11e-eae8bb44ad6e",
@@ -7114,6 +7154,7 @@
     "Software/List/pywebcopy.md": "63d04b10-f4ad-4735-92c4-c18f93475977",
     "Software/List/pyspark.md": "30fb6856-7123-4579-b117-8a2eeac604e4",
     "Software/List/pyenv.md": "687bbe1e-57b1-4cc6-a44e-e4f470319f11",
+    "Software/List/psycopg2.md": "3fab38a4-8d02-49ff-b524-db359affb04f",
     "Software/List/psql.md": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "Software/List/protege.md": "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "Software/List/promnesia.md": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
@@ -7545,6 +7586,7 @@
     "Software/List/DeDRM.md": "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
     "Software/List/Datagrid.md": "efe438fc-2bb0-407e-9df3-b67b878d353a",
     "Software/List/DappNode.md": "38b05107-47d7-4a1f-8329-7ee742b3eecc",
+    "Software/List/Danswer.md": "c9fc823a-baf0-4e39-9056-3f2b39550378",
     "Software/List/Damselfly.md": "f9120bc7-47b8-478c-b187-a249f56eb4ba",
     "Software/List/Dalai.md": "12b80fef-933d-4c49-9564-e818506124a9",
     "Software/List/DNSxyz.md": "1fc0ade3-41fb-4d34-ade4-b56ca53611db",
@@ -8035,8 +8077,10 @@
     "Research/DAOs/DAO Protocols and Platforms/Deep Work.md": "5d76918e-df1c-48fd-8e09-50ef334c0112",
     "Research/DAOs/DAO Protocols and Platforms/DAOhaus.md": "688dae83-c9c3-44d3-b32c-c6248ea0958e",
     "Relationships/People/Ted Kaczynski.md": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "Quests/List/Who is worth getting to know on Discord DAO Guilds?.md": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
     "Quests/List/If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "Quests/List/How to send data between Urbit ships using Hoon?.md": "5754d8d2-c988-4bce-a42e-2353ee3344c9",
+    "Quests/List/How do we get to know individuals in Discord DAO Guilds?.md": "d9749f38-2694-405a-a5af-4ef357f29d9c",
     "Quests/List/How do I audit all the archives of data I have?.md": "c1b2973d-c991-446f-b1d1-d71ff62503b2",
     "Quests/List/Encrypted Git Backup.md": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "Questions/Questions for Question Engine.md": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
@@ -8044,7 +8088,9 @@
     "Questions/Questions for DAO's.md": "766d2aac-bcb3-4b91-a029-537e834f2816",
     "Questions/list/Why are there multiple desks for Arvo, how do they get used?.md": "ce0fd799-e5af-4215-89da-e20d53c344b3",
     "Questions/list/Why am I building Question Engine?.md": "114d3861-6af9-4254-8cee-0e7aa0b47532",
+    "Questions/list/Who is the most consistent poster within a Discord Guild?.md": "dba668aa-bb99-46d5-9942-9f41bed27766",
     "Questions/list/Who are the most active Users within a Discord Guild?.md": "5834c212-c616-4a8e-8b6e-16d4007cea7f",
+    "Questions/list/Which discord channel was most active between two dates?.md": "25b82439-effc-4780-a493-2ababf099494",
     "Questions/list/Where is a list of the most popular Urbit apps, also including their source code?.md": "b633ea18-544c-4f74-ae9d-3395c9a78192",
     "Questions/list/When was the most active month for the most active channel in each discord guild?.md": "30d09691-d6bc-462d-b9ae-8534e88e4cf1",
     "Questions/list/What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?.md": "fb38895a-faca-42e7-8e40-416fe115a9ee",
@@ -8065,14 +8111,19 @@
     "Questions/list/What is cognitive computing?.md": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "Questions/list/What is a Poke in Hoon and how do you perform it?.md": "0362bbdd-cf29-4898-be54-2f675a4d3596",
     "Questions/list/What is ETL to Question Engine?.md": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc",
+    "Questions/list/What discord users show up in multiple guilds?.md": "1151704f-92c1-4273-9a2a-af361dfb88be",
+    "Questions/list/What discord user was the most active for a particular date range within a particular discord guild?.md": "cca39f0d-a173-4849-986f-fbc5ea0e46bf",
     "Questions/list/What discord guilds have the most messages?.md": "2e369507-1f65-4c97-9a37-375f2b5d27fb",
     "Questions/list/What discord guild's have the most Users?.md": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
     "Questions/list/What discord channels have the most messages?.md": "8db17737-329a-485d-9f99-98dce3ec1462",
     "Questions/list/What discord channel has the longest average message length?.md": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+    "Questions/list/What discord author got the most reactions to their messages?.md": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+    "Questions/list/What day of the week does the particular discord author post their messages?.md": "cb543a19-8513-43ae-8720-5ffeaec4a385",
     "Questions/list/What authors posted the most in each discord guild?.md": "34592fa9-bd8d-4237-bdff-36cb58fdc21e",
     "Questions/list/What are the zero to hero urbit app examples with source code?.md": "4212d688-8696-4f32-8813-7edab4080e1c",
     "Questions/list/What are the parts of a URL?.md": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
     "Questions/list/What are the most popular parts of the Hoon standard library?.md": "d228c0d3-4420-42e8-9932-0aab68e08350",
+    "Questions/list/What are the channels of a particular discord guild?.md": "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "Questions/list/What are the basics of Hoon?.md": "d501e972-f005-4aba-a7bf-3404b735c27a",
     "Questions/list/What are some bulk file renaming tools?.md": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "Questions/list/Order discord Guild's by the oldest message?.md": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
@@ -8082,6 +8133,7 @@
     "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "Questions/list/How to write Hello World in Hoon and Urbit?.md": "780af269-c8c8-45df-8358-c9b2140c92cf",
     "Questions/list/How to visualize represent storage on a computer drive?.md": "f4753c78-856b-4dcb-813e-4be6a80db023",
+    "Questions/list/How to view a discord message in context?.md": "fdaf9b18-a664-4861-894b-836af806393a",
     "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md": "98338dc9-0611-4650-85af-75b2b67f3207",
     "Questions/list/How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?.md": "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md": "334719ff-63c4-46eb-958d-8aa0ffd12841",
@@ -8106,8 +8158,8 @@
     "Questions/list/How to check if file or directory exists using python3?.md": "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5",
     "Questions/list/How to Remove files recursively in Linux?.md": "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186",
     "Questions/list/How many users have posted more than 100 messages in a particular discord guild?.md": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23",
-    "Questions/list/How many messages per channel in a particular discord guild?.md": "3ca67bba-4104-47a3-9c2a-14734afae6d1",
-    "Questions/list/How many messages per channel in Discord Guild?.md": "320d56d6-d028-425b-a1de-10d80b6d8669",
+    "Questions/list/How many times did a particular author post a particular discord guild?.md": "637757e1-13bf-4560-94c5-92052bf389e5",
+    "Questions/list/How many messages per channel in a particular discord guild?.md": "320d56d6-d028-425b-a1de-10d80b6d8669",
     "Questions/list/How many authors posted in each particular channel of a particular discord guild?.md": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
     "Questions/list/How does one store a 2 dimensional matrix in Hoon?.md": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
     "Questions/list/How does async await work in Hoon?.md": "f7097115-4e65-4c20-80b9-663e8d954c88",
@@ -8235,9 +8287,9 @@
     "MyProjects/Proxy Pubic IP address into my Home Network.md": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "MyProjects/Keybase Binding.md": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "MyProjects/Docker VPN Router.md": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
+    "MyProjects/Discord Guild Indexing.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "MyProjects/DentropyCloud - dc.md": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "MyProjects/DIY Keylogger.md": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
-    "MyProjects/DAO Auditing via Discord Design Doc.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "MyProjects/DAO Auditing via Discord - Queries.md": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "MyProjects/Blockchain Royalties.md": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "MyProjects/ActivityPub Utils.md": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
@@ -8288,10 +8340,10 @@
     "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO use Case V0.0.1.md": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO Use case V0.0.2.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
-    "MyProjects/Dentropy Daemon/Logs - DDaemon.md": "7621dfbb-6988-4e80-9836-a8011f664099",
     "MyProjects/Dentropy Daemon/DentropyCloud Software.md": "db82f3a7-04a5-4403-b16a-057177b2ae10",
     "MyProjects/Dentropy Daemon/Dentropy Daemon - Home.md": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
     "MyProjects/Dentropy Daemon/DenropyDaemon TODO.md": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb",
+    "MyProjects/Dentropy Daemon/Backlog - DDaemon.md": "7621dfbb-6988-4e80-9836-a8011f664099",
     "MyProjects/Dentropy Daemon/bindings/Scrape Linkedin.md": "9597719e-4990-4ce7-a6fc-7db6d61428e9",
     "MyProjects/Dentropy Daemon/bindings/ActivityWatch Experiments.md": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Blockchain Binding.md": "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
@@ -8422,10 +8474,10 @@
     "MyProjects/Dentropy Cloud/Supported Apps - DentropyCloud.md": "41c5d192-2968-43a1-88bf-4f913ebd58e0",
     "MyProjects/Dentropy Cloud/Supported App List - DentropyCloud.md": "f738f680-95a2-46e5-bb4c-57b67687e36a",
     "MyProjects/Dentropy Cloud/Roadmap - DentropyCloud.md": "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
-    "MyProjects/Dentropy Cloud/Logs - DentropyCloud.md": "4e71511d-083c-4683-adb1-617be0f9f5be",
     "MyProjects/Dentropy Cloud/Design Doc - DentropyCloud.md": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
     "MyProjects/Dentropy Cloud/DentropyCloud Reminders.md": "f2bc7463-f3c7-4944-bbe2-9d91aa365178",
     "MyProjects/Dentropy Cloud/Dentropy's Umbrel Appstore.md": "fcc49407-81d6-4576-8eeb-9a3b3c843f75",
+    "MyProjects/Dentropy Cloud/Backlog - DentropyCloud.md": "4e71511d-083c-4683-adb1-617be0f9f5be",
     "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.misskey.md": "7c3f645b-762a-42df-9270-f6d8af138c5b",
     "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.md": "93f81b51-d1e6-4153-8d5c-50963764f6b9",
     "MyProjects/Dentropy Cloud/Stuff/dentropycloud.software.app-types.torrenting.md": "a9a837ae-f4c8-4756-87b2-d37f202167dc",
@@ -8479,12 +8531,12 @@
     "MyProjects/Blockchain Royalties/Logs - Blockchain Royalties.md": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "MyProjects/Blockchain Research/Gauging Blockchain Understanding.md": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Media/Recommended Media.md": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
-    "Media/Media Consumption Backlog.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Datasets - Video Games.md": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
     "Media/Datasets - Podcast.md": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
     "Media/Datasets - Music.md": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
     "Media/Datasets - Movies and TV Show.md": "d578e995-036b-45be-9fae-ea54d92c8b58",
     "Media/Datasets - Books.md": "a1498ef7-79af-4358-8a69-c2e546a1222f",
+    "Media/Backlog - Media Consumption.md": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Media/Videos/Why Hegel knew there would be days like these.md": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "Media/Videos/NRx.md": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "Media/Type/podcast.md": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -9270,10 +9322,11 @@
     "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
     "ollama": "0a74265c-1db8-4150-93d8-735a4cfc8619",
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
+    "genai-stack": "3b6e6bc9-e5e6-43af-84c8-834379d49e55",
     "What discord user has the longest average message length?": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+    "What discord user has the longest average message length in a particular guild?": "2f4fd09e-24a3-4359-81b2-049742a03610",
     "What discord channel has the longest average message length of a particular guild?": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
-    "Quest Log": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
     "LLM Token Tests": "ceefeffb-870e-439d-a4f1-7cd77a1b932b",
     "LLM Client": "72945e2f-6225-460b-a11e-eae8bb44ad6e",
@@ -9437,6 +9490,7 @@
     "pywebcopy": "63d04b10-f4ad-4735-92c4-c18f93475977",
     "pyspark": "30fb6856-7123-4579-b117-8a2eeac604e4",
     "pyenv": "687bbe1e-57b1-4cc6-a44e-e4f470319f11",
+    "psycopg2": "3fab38a4-8d02-49ff-b524-db359affb04f",
     "psql": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a",
     "protege": "4ac49f4e-a0d5-49da-b619-acc5e1f101ed",
     "promnesia": "7b6514de-e3fc-44ce-ae1f-b579a31e13d8",
@@ -9868,6 +9922,7 @@
     "DeDRM": "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b",
     "Datagrid": "efe438fc-2bb0-407e-9df3-b67b878d353a",
     "DappNode": "38b05107-47d7-4a1f-8329-7ee742b3eecc",
+    "Danswer": "c9fc823a-baf0-4e39-9056-3f2b39550378",
     "Damselfly": "f9120bc7-47b8-478c-b187-a249f56eb4ba",
     "Dalai": "12b80fef-933d-4c49-9564-e818506124a9",
     "DNSxyz": "1fc0ade3-41fb-4d34-ade4-b56ca53611db",
@@ -10334,8 +10389,10 @@
     "Deep Work": "fcfb7a16-5a8a-41e1-9f11-1bc5d2f5ff00",
     "DAOhaus": "688dae83-c9c3-44d3-b32c-c6248ea0958e",
     "Ted Kaczynski": "8d993396-f877-4f00-9ec2-38b6ff760ab1",
+    "Who is worth getting to know on Discord DAO Guilds?": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
     "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
     "How to send data between Urbit ships using Hoon?": "5754d8d2-c988-4bce-a42e-2353ee3344c9",
+    "How do we get to know individuals in Discord DAO Guilds?": "d9749f38-2694-405a-a5af-4ef357f29d9c",
     "How do I audit all the archives of data I have?": "c1b2973d-c991-446f-b1d1-d71ff62503b2",
     "Encrypted Git Backup": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03",
     "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd",
@@ -10343,7 +10400,9 @@
     "Questions for DAO's": "766d2aac-bcb3-4b91-a029-537e834f2816",
     "Why are there multiple desks for Arvo, how do they get used?": "ce0fd799-e5af-4215-89da-e20d53c344b3",
     "Why am I building Question Engine?": "114d3861-6af9-4254-8cee-0e7aa0b47532",
+    "Who is the most consistent poster within a Discord Guild?": "dba668aa-bb99-46d5-9942-9f41bed27766",
     "Who are the most active Users within a Discord Guild?": "5834c212-c616-4a8e-8b6e-16d4007cea7f",
+    "Which discord channel was most active between two dates?": "25b82439-effc-4780-a493-2ababf099494",
     "Where is a list of the most popular Urbit apps, also including their source code?": "b633ea18-544c-4f74-ae9d-3395c9a78192",
     "When was the most active month for the most active channel in each discord guild?": "30d09691-d6bc-462d-b9ae-8534e88e4cf1",
     "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": "fb38895a-faca-42e7-8e40-416fe115a9ee",
@@ -10364,14 +10423,19 @@
     "What is cognitive computing?": "e0fcec25-9225-4926-bfc3-8318ec40a638",
     "What is a Poke in Hoon and how do you perform it?": "0362bbdd-cf29-4898-be54-2f675a4d3596",
     "What is ETL to Question Engine?": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc",
+    "What discord users show up in multiple guilds?": "1151704f-92c1-4273-9a2a-af361dfb88be",
+    "What discord user was the most active for a particular date range within a particular discord guild?": "cca39f0d-a173-4849-986f-fbc5ea0e46bf",
     "What discord guilds have the most messages?": "2e369507-1f65-4c97-9a37-375f2b5d27fb",
     "What discord guild's have the most Users?": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
     "What discord channels have the most messages?": "8db17737-329a-485d-9f99-98dce3ec1462",
     "What discord channel has the longest average message length?": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+    "What discord author got the most reactions to their messages?": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+    "What day of the week does the particular discord author post their messages?": "cb543a19-8513-43ae-8720-5ffeaec4a385",
     "What authors posted the most in each discord guild?": "34592fa9-bd8d-4237-bdff-36cb58fdc21e",
     "What are the zero to hero urbit app examples with source code?": "4212d688-8696-4f32-8813-7edab4080e1c",
     "What are the parts of a URL?": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
     "What are the most popular parts of the Hoon standard library?": "d228c0d3-4420-42e8-9932-0aab68e08350",
+    "What are the channels of a particular discord guild?": "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a",
     "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "Order discord Guild's by the oldest message?": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
@@ -10381,6 +10445,7 @@
     "How to write and deploy a ERC20 token using Hardhat": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf",
     "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023",
+    "How to view a discord message in context?": "fdaf9b18-a664-4861-894b-836af806393a",
     "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207",
     "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?": "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "How to send data from ship to ship in Urbit using using Hoon?": "334719ff-63c4-46eb-958d-8aa0ffd12841",
@@ -10405,8 +10470,8 @@
     "How to check if file or directory exists using python3?": "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5",
     "How to Remove files recursively in Linux?": "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186",
     "How many users have posted more than 100 messages in a particular discord guild?": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23",
-    "How many messages per channel in a particular discord guild?": "3ca67bba-4104-47a3-9c2a-14734afae6d1",
-    "How many messages per channel in Discord Guild?": "320d56d6-d028-425b-a1de-10d80b6d8669",
+    "How many times did a particular author post a particular discord guild?": "637757e1-13bf-4560-94c5-92052bf389e5",
+    "How many messages per channel in a particular discord guild?": "320d56d6-d028-425b-a1de-10d80b6d8669",
     "How many authors posted in each particular channel of a particular discord guild?": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
     "How does one store a 2 dimensional matrix in Hoon?": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
     "How does async await work in Hoon?": "f7097115-4e65-4c20-80b9-663e8d954c88",
@@ -10534,9 +10599,9 @@
     "Proxy Pubic IP address into my Home Network": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "Keybase Binding": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
+    "Discord Guild Indexing": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
-    "DAO Auditing via Discord Design Doc": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "DAO Auditing via Discord - Queries": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
     "Blockchain Royalties": "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268",
     "ActivityPub Utils": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
@@ -10586,10 +10651,10 @@
     "Catechism - Discord Auditing, DAO use Case V0": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "Catechism - Discord Auditing, DAO Use case V0": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "dentropycloud": "e98a394d-7608-4f7b-916e-d4863e6aa62a",
-    "Logs - DDaemon": "7621dfbb-6988-4e80-9836-a8011f664099",
     "DentropyCloud Software": "db82f3a7-04a5-4403-b16a-057177b2ae10",
     "Dentropy Daemon - Home": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
     "DenropyDaemon TODO": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb",
+    "Backlog - DDaemon": "7621dfbb-6988-4e80-9836-a8011f664099",
     "Scrape Linkedin": "9597719e-4990-4ce7-a6fc-7db6d61428e9",
     "ActivityWatch Experiments": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
     "Blockchain Binding": "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5",
@@ -10712,10 +10777,10 @@
     "Supported Apps - DentropyCloud": "41c5d192-2968-43a1-88bf-4f913ebd58e0",
     "Supported App List - DentropyCloud": "f738f680-95a2-46e5-bb4c-57b67687e36a",
     "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
-    "Logs - DentropyCloud": "4e71511d-083c-4683-adb1-617be0f9f5be",
     "Design Doc - DentropyCloud": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
     "DentropyCloud Reminders": "f2bc7463-f3c7-4944-bbe2-9d91aa365178",
     "Dentropy's Umbrel Appstore": "fcc49407-81d6-4576-8eeb-9a3b3c843f75",
+    "Backlog - DentropyCloud": "4e71511d-083c-4683-adb1-617be0f9f5be",
     "Volumes Used - DentropyCloud": "9b3fdc5b-58e0-4439-9607-39127b9bd05a",
     "Ports, IP's, Network and DNS - DentropyCloud": "a6364f21-fc05-4aad-bd59-797aa2a70af5",
     "Backup and Restore - DentropyCloud": "ed891aab-64dd-427e-98d0-09736799927e",
@@ -10744,12 +10809,12 @@
     "Logs - Blockchain Royalties": "2e191352-0a11-410d-b4a5-50574257b3d6",
     "Gauging Blockchain Understanding": "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd",
     "Recommended Media": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
-    "Media Consumption Backlog": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Datasets - Video Games": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
     "Datasets - Podcast": "bcf15494-4d0b-4c5f-9aeb-47a512915ed6",
     "Datasets - Music": "130ed5fa-1246-4768-9457-2d2e2fa4770c",
     "Datasets - Movies and TV Show": "d578e995-036b-45be-9fae-ea54d92c8b58",
     "Datasets - Books": "a1498ef7-79af-4358-8a69-c2e546a1222f",
+    "Backlog - Media Consumption": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
     "Why Hegel knew there would be days like these": "a75ff251-e084-43b9-afa7-ee9b23e25141",
     "NRx": "ef3f0c6d-548b-4741-a573-ed357e9230e4",
     "podcast": "b7f300bf-f909-403a-a53c-c91ef38a36ed",
@@ -11521,10 +11586,20 @@
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b",
       "title": "index"
     },
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55": {
+      "uuid": "3b6e6bc9-e5e6-43af-84c8-834379d49e55",
+      "share": true,
+      "title": "genai-stack"
+    },
     "c71bada1-ae88-4a99-bfec-84efafe8fed9": {
       "uuid": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
       "share": true,
       "title": "What discord user has the longest average message length?"
+    },
+    "2f4fd09e-24a3-4359-81b2-049742a03610": {
+      "uuid": "2f4fd09e-24a3-4359-81b2-049742a03610",
+      "share": true,
+      "title": "What discord user has the longest average message length in a particular guild?"
     },
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": {
       "uuid": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
@@ -11535,11 +11610,6 @@
       "uuid": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
       "share": true,
       "title": "Tutorials and Learning Pathways"
-    },
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": {
-      "uuid": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8",
-      "share": true,
-      "title": "Quest Log"
     },
     "e76c8ac9-69f3-477f-8015-556e83738432": {
       "share": true,
@@ -12360,6 +12430,11 @@
       "share": true,
       "uuid": "687bbe1e-57b1-4cc6-a44e-e4f470319f11",
       "title": "pyenv"
+    },
+    "3fab38a4-8d02-49ff-b524-db359affb04f": {
+      "uuid": "3fab38a4-8d02-49ff-b524-db359affb04f",
+      "share": true,
+      "title": "psycopg2"
     },
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": {
       "share": true,
@@ -14515,6 +14590,11 @@
       "share": true,
       "uuid": "38b05107-47d7-4a1f-8329-7ee742b3eecc",
       "title": "DappNode"
+    },
+    "c9fc823a-baf0-4e39-9056-3f2b39550378": {
+      "uuid": "c9fc823a-baf0-4e39-9056-3f2b39550378",
+      "share": true,
+      "title": "Danswer"
     },
     "f9120bc7-47b8-478c-b187-a249f56eb4ba": {
       "share": true,
@@ -16941,6 +17021,11 @@
       "share": true,
       "title": "Ted Kaczynski"
     },
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2": {
+      "uuid": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
+      "share": true,
+      "title": "Who is worth getting to know on Discord DAO Guilds?"
+    },
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb": {
       "uuid": "17db1c37-5a7e-4f24-98d5-5ef5276553bb",
       "share": true,
@@ -16950,6 +17035,11 @@
       "uuid": "5754d8d2-c988-4bce-a42e-2353ee3344c9",
       "share": true,
       "title": "How to send data between Urbit ships using Hoon?"
+    },
+    "d9749f38-2694-405a-a5af-4ef357f29d9c": {
+      "uuid": "d9749f38-2694-405a-a5af-4ef357f29d9c",
+      "share": true,
+      "title": "How do we get to know individuals in Discord DAO Guilds?"
     },
     "c1b2973d-c991-446f-b1d1-d71ff62503b2": {
       "uuid": "c1b2973d-c991-446f-b1d1-d71ff62503b2",
@@ -16986,10 +17076,20 @@
       "share": true,
       "title": "Why am I building Question Engine?"
     },
+    "dba668aa-bb99-46d5-9942-9f41bed27766": {
+      "uuid": "dba668aa-bb99-46d5-9942-9f41bed27766",
+      "share": true,
+      "title": "Who is the most consistent poster within a Discord Guild?"
+    },
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": {
       "uuid": "5834c212-c616-4a8e-8b6e-16d4007cea7f",
       "share": true,
       "title": "Who are the most active Users within a Discord Guild?"
+    },
+    "25b82439-effc-4780-a493-2ababf099494": {
+      "uuid": "25b82439-effc-4780-a493-2ababf099494",
+      "share": true,
+      "title": "Which discord channel was most active between two dates?"
     },
     "b633ea18-544c-4f74-ae9d-3395c9a78192": {
       "uuid": "b633ea18-544c-4f74-ae9d-3395c9a78192",
@@ -17091,6 +17191,16 @@
       "share": true,
       "title": "What is ETL to Question Engine?"
     },
+    "1151704f-92c1-4273-9a2a-af361dfb88be": {
+      "uuid": "1151704f-92c1-4273-9a2a-af361dfb88be",
+      "share": true,
+      "title": "What discord users show up in multiple guilds?"
+    },
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf": {
+      "uuid": "cca39f0d-a173-4849-986f-fbc5ea0e46bf",
+      "share": true,
+      "title": "What discord user was the most active for a particular date range within a particular discord guild?"
+    },
     "2e369507-1f65-4c97-9a37-375f2b5d27fb": {
       "uuid": "2e369507-1f65-4c97-9a37-375f2b5d27fb",
       "share": true,
@@ -17111,6 +17221,16 @@
       "share": true,
       "title": "What discord channel has the longest average message length?"
     },
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": {
+      "uuid": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+      "share": true,
+      "title": "What discord author got the most reactions to their messages?"
+    },
+    "cb543a19-8513-43ae-8720-5ffeaec4a385": {
+      "uuid": "cb543a19-8513-43ae-8720-5ffeaec4a385",
+      "share": true,
+      "title": "What day of the week does the particular discord author post their messages?"
+    },
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e": {
       "uuid": "34592fa9-bd8d-4237-bdff-36cb58fdc21e",
       "share": true,
@@ -17130,6 +17250,11 @@
       "uuid": "d228c0d3-4420-42e8-9932-0aab68e08350",
       "share": true,
       "title": "What are the most popular parts of the Hoon standard library?"
+    },
+    "a0219c15-6f5c-41b6-888f-41698790b9d2": {
+      "uuid": "a0219c15-6f5c-41b6-888f-41698790b9d2",
+      "share": true,
+      "title": "What are the channels of a particular discord guild?"
     },
     "d501e972-f005-4aba-a7bf-3404b735c27a": {
       "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a",
@@ -17175,6 +17300,11 @@
       "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023",
       "share": true,
       "title": "How to visualize represent storage on a computer drive?"
+    },
+    "fdaf9b18-a664-4861-894b-836af806393a": {
+      "uuid": "fdaf9b18-a664-4861-894b-836af806393a",
+      "share": true,
+      "title": "How to view a discord message in context?"
     },
     "98338dc9-0611-4650-85af-75b2b67f3207": {
       "uuid": "98338dc9-0611-4650-85af-75b2b67f3207",
@@ -17296,15 +17426,15 @@
       "share": true,
       "title": "How many users have posted more than 100 messages in a particular discord guild?"
     },
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1": {
-      "uuid": "3ca67bba-4104-47a3-9c2a-14734afae6d1",
+    "637757e1-13bf-4560-94c5-92052bf389e5": {
+      "uuid": "637757e1-13bf-4560-94c5-92052bf389e5",
       "share": true,
-      "title": "How many messages per channel in a particular discord guild?"
+      "title": "How many times did a particular author post a particular discord guild?"
     },
     "320d56d6-d028-425b-a1de-10d80b6d8669": {
       "uuid": "320d56d6-d028-425b-a1de-10d80b6d8669",
       "share": true,
-      "title": "How many messages per channel in Discord Guild?"
+      "title": "How many messages per channel in a particular discord guild?"
     },
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": {
       "uuid": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
@@ -17941,6 +18071,11 @@
       "uuid": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
       "title": "Docker VPN Router"
     },
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
+      "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+      "share": true,
+      "title": "Discord Guild Indexing"
+    },
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": {
       "share": true,
       "uuid": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -17950,11 +18085,6 @@
       "share": true,
       "uuid": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
       "title": "DIY Keylogger"
-    },
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
-      "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-      "share": true,
-      "title": "DAO Auditing via Discord Design Doc"
     },
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": {
       "uuid": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
@@ -18210,11 +18340,6 @@
       "uuid": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
       "title": "dentropycloud"
     },
-    "7621dfbb-6988-4e80-9836-a8011f664099": {
-      "share": true,
-      "uuid": "7621dfbb-6988-4e80-9836-a8011f664099",
-      "title": "Logs - DDaemon"
-    },
     "db82f3a7-04a5-4403-b16a-057177b2ae10": {
       "share": true,
       "uuid": "db82f3a7-04a5-4403-b16a-057177b2ae10",
@@ -18229,6 +18354,11 @@
       "share": true,
       "uuid": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb",
       "title": "DenropyDaemon TODO"
+    },
+    "7621dfbb-6988-4e80-9836-a8011f664099": {
+      "share": true,
+      "uuid": "7621dfbb-6988-4e80-9836-a8011f664099",
+      "title": "Backlog - DDaemon"
     },
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": {
       "share": true,
@@ -18880,11 +19010,6 @@
       "uuid": "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
       "title": "Roadmap - DentropyCloud"
     },
-    "4e71511d-083c-4683-adb1-617be0f9f5be": {
-      "share": true,
-      "uuid": "4e71511d-083c-4683-adb1-617be0f9f5be",
-      "title": "Logs - DentropyCloud"
-    },
     "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": {
       "share": true,
       "uuid": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
@@ -18899,6 +19024,11 @@
       "share": true,
       "uuid": "fcc49407-81d6-4576-8eeb-9a3b3c843f75",
       "title": "Dentropy's Umbrel Appstore"
+    },
+    "4e71511d-083c-4683-adb1-617be0f9f5be": {
+      "share": true,
+      "uuid": "4e71511d-083c-4683-adb1-617be0f9f5be",
+      "title": "Backlog - DentropyCloud"
     },
     "7c3f645b-762a-42df-9270-f6d8af138c5b": {
       "share": true,
@@ -19165,11 +19295,6 @@
       "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8",
       "title": "Recommended Media"
     },
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": {
-      "share": true,
-      "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-      "title": "Media Consumption Backlog"
-    },
     "76fdeb14-6cc3-484f-8607-a6298e4a22c1": {
       "uuid": "76fdeb14-6cc3-484f-8607-a6298e4a22c1",
       "share": true,
@@ -19194,6 +19319,11 @@
       "uuid": "a1498ef7-79af-4358-8a69-c2e546a1222f",
       "share": true,
       "title": "Datasets - Books"
+    },
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": {
+      "share": true,
+      "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
+      "title": "Backlog - Media Consumption"
     },
     "a75ff251-e084-43b9-afa7-ee9b23e25141": {
       "share": true,
@@ -23137,17 +23267,20 @@
     "index.md": {
       "uuid": "146656b4-573a-4e42-8f00-239ab29eac3b"
     },
+    "genai-stack.md": {
+      "uuid": "3b6e6bc9-e5e6-43af-84c8-834379d49e55"
+    },
     "What discord user has the longest average message length?.md": {
       "uuid": "c71bada1-ae88-4a99-bfec-84efafe8fed9"
+    },
+    "What discord user has the longest average message length in a particular guild?.md": {
+      "uuid": "2f4fd09e-24a3-4359-81b2-049742a03610"
     },
     "What discord channel has the longest average message length of a particular guild?.md": {
       "uuid": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7"
     },
     "Tutorials and Learning Pathways.md": {
       "uuid": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
-    },
-    "Quest Log.md": {
-      "uuid": "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8"
     },
     "My Projects.md": {
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432"
@@ -23686,6 +23819,9 @@
         },
         "pyenv.md": {
           "uuid": "687bbe1e-57b1-4cc6-a44e-e4f470319f11"
+        },
+        "psycopg2.md": {
+          "uuid": "3fab38a4-8d02-49ff-b524-db359affb04f"
         },
         "psql.md": {
           "uuid": "4409a1a7-de50-4bbb-8a7c-73c57dc3439a"
@@ -24979,6 +25115,9 @@
         },
         "DappNode.md": {
           "uuid": "38b05107-47d7-4a1f-8329-7ee742b3eecc"
+        },
+        "Danswer.md": {
+          "uuid": "c9fc823a-baf0-4e39-9056-3f2b39550378"
         },
         "Damselfly.md": {
           "uuid": "f9120bc7-47b8-478c-b187-a249f56eb4ba"
@@ -26654,11 +26793,17 @@
     },
     "Quests": {
       "List": {
+        "Who is worth getting to know on Discord DAO Guilds?.md": {
+          "uuid": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2"
+        },
         "If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?.md": {
           "uuid": "17db1c37-5a7e-4f24-98d5-5ef5276553bb"
         },
         "How to send data between Urbit ships using Hoon?.md": {
           "uuid": "5754d8d2-c988-4bce-a42e-2353ee3344c9"
+        },
+        "How do we get to know individuals in Discord DAO Guilds?.md": {
+          "uuid": "d9749f38-2694-405a-a5af-4ef357f29d9c"
         },
         "How do I audit all the archives of data I have?.md": {
           "uuid": "c1b2973d-c991-446f-b1d1-d71ff62503b2"
@@ -26685,8 +26830,14 @@
         "Why am I building Question Engine?.md": {
           "uuid": "114d3861-6af9-4254-8cee-0e7aa0b47532"
         },
+        "Who is the most consistent poster within a Discord Guild?.md": {
+          "uuid": "dba668aa-bb99-46d5-9942-9f41bed27766"
+        },
         "Who are the most active Users within a Discord Guild?.md": {
           "uuid": "5834c212-c616-4a8e-8b6e-16d4007cea7f"
+        },
+        "Which discord channel was most active between two dates?.md": {
+          "uuid": "25b82439-effc-4780-a493-2ababf099494"
         },
         "Where is a list of the most popular Urbit apps, also including their source code?.md": {
           "uuid": "b633ea18-544c-4f74-ae9d-3395c9a78192"
@@ -26748,6 +26899,12 @@
         "What is ETL to Question Engine?.md": {
           "uuid": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc"
         },
+        "What discord users show up in multiple guilds?.md": {
+          "uuid": "1151704f-92c1-4273-9a2a-af361dfb88be"
+        },
+        "What discord user was the most active for a particular date range within a particular discord guild?.md": {
+          "uuid": "cca39f0d-a173-4849-986f-fbc5ea0e46bf"
+        },
         "What discord guilds have the most messages?.md": {
           "uuid": "2e369507-1f65-4c97-9a37-375f2b5d27fb"
         },
@@ -26760,6 +26917,12 @@
         "What discord channel has the longest average message length?.md": {
           "uuid": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1"
         },
+        "What discord author got the most reactions to their messages?.md": {
+          "uuid": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d"
+        },
+        "What day of the week does the particular discord author post their messages?.md": {
+          "uuid": "cb543a19-8513-43ae-8720-5ffeaec4a385"
+        },
         "What authors posted the most in each discord guild?.md": {
           "uuid": "34592fa9-bd8d-4237-bdff-36cb58fdc21e"
         },
@@ -26771,6 +26934,9 @@
         },
         "What are the most popular parts of the Hoon standard library?.md": {
           "uuid": "d228c0d3-4420-42e8-9932-0aab68e08350"
+        },
+        "What are the channels of a particular discord guild?.md": {
+          "uuid": "a0219c15-6f5c-41b6-888f-41698790b9d2"
         },
         "What are the basics of Hoon?.md": {
           "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a"
@@ -26798,6 +26964,9 @@
         },
         "How to visualize represent storage on a computer drive?.md": {
           "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023"
+        },
+        "How to view a discord message in context?.md": {
+          "uuid": "fdaf9b18-a664-4861-894b-836af806393a"
         },
         "How to store data in complex data structures, like a list of messages rather than a single value.md": {
           "uuid": "98338dc9-0611-4650-85af-75b2b67f3207"
@@ -26871,10 +27040,10 @@
         "How many users have posted more than 100 messages in a particular discord guild?.md": {
           "uuid": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23"
         },
-        "How many messages per channel in a particular discord guild?.md": {
-          "uuid": "3ca67bba-4104-47a3-9c2a-14734afae6d1"
+        "How many times did a particular author post a particular discord guild?.md": {
+          "uuid": "637757e1-13bf-4560-94c5-92052bf389e5"
         },
-        "How many messages per channel in Discord Guild?.md": {
+        "How many messages per channel in a particular discord guild?.md": {
           "uuid": "320d56d6-d028-425b-a1de-10d80b6d8669"
         },
         "How many authors posted in each particular channel of a particular discord guild?.md": {
@@ -27305,14 +27474,14 @@
       "Docker VPN Router.md": {
         "uuid": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
       },
+      "Discord Guild Indexing.md": {
+        "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+      },
       "DentropyCloud - dc.md": {
         "uuid": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
       },
       "DIY Keylogger.md": {
         "uuid": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
-      },
-      "DAO Auditing via Discord Design Doc.md": {
-        "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
       },
       "DAO Auditing via Discord - Queries.md": {
         "uuid": "d5e65c1e-f806-49b1-87dd-bd9c24220f03"
@@ -27493,9 +27662,6 @@
         "dentropycloud.research.reference-designs.md": {
           "uuid": "890c1069-453d-4b96-80b0-6d153cfbbe9f"
         },
-        "Logs - DDaemon.md": {
-          "uuid": "7621dfbb-6988-4e80-9836-a8011f664099"
-        },
         "DentropyCloud Software.md": {
           "uuid": "db82f3a7-04a5-4403-b16a-057177b2ae10"
         },
@@ -27504,6 +27670,9 @@
         },
         "DenropyDaemon TODO.md": {
           "uuid": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb"
+        },
+        "Backlog - DDaemon.md": {
+          "uuid": "7621dfbb-6988-4e80-9836-a8011f664099"
         },
         "bindings": {
           "Scrape Linkedin.md": {
@@ -27963,9 +28132,6 @@
         "Roadmap - DentropyCloud.md": {
           "uuid": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
         },
-        "Logs - DentropyCloud.md": {
-          "uuid": "4e71511d-083c-4683-adb1-617be0f9f5be"
-        },
         "Design Doc - DentropyCloud.md": {
           "uuid": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5"
         },
@@ -27974,6 +28140,9 @@
         },
         "Dentropy's Umbrel Appstore.md": {
           "uuid": "fcc49407-81d6-4576-8eeb-9a3b3c843f75"
+        },
+        "Backlog - DentropyCloud.md": {
+          "uuid": "4e71511d-083c-4683-adb1-617be0f9f5be"
         },
         "Stuff": {
           "dentropycloud.software.misskey.md": {
@@ -28149,9 +28318,6 @@
       "Recommended Media.md": {
         "uuid": "a0e8088e-cf07-4717-abef-eacfdeb268b8"
       },
-      "Media Consumption Backlog.md": {
-        "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
-      },
       "Datasets - Video Games.md": {
         "uuid": "76fdeb14-6cc3-484f-8607-a6298e4a22c1"
       },
@@ -28166,6 +28332,9 @@
       },
       "Datasets - Books.md": {
         "uuid": "a1498ef7-79af-4358-8a69-c2e546a1222f"
+      },
+      "Backlog - Media Consumption.md": {
+        "uuid": "78aa36ca-c4c6-40ed-873c-24099d5c2481"
       },
       "Videos": {
         "Why Hegel knew there would be days like these.md": {
@@ -30617,10 +30786,11 @@
   "embedded_note_links": {
     "0a74265c-1db8-4150-93d8-735a4cfc8619": [],
     "146656b4-573a-4e42-8f00-239ab29eac3b": [],
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55": [],
     "c71bada1-ae88-4a99-bfec-84efafe8fed9": [],
+    "2f4fd09e-24a3-4359-81b2-049742a03610": [],
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": [],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [],
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
     "ceefeffb-870e-439d-a4f1-7cd77a1b932b": [],
     "72945e2f-6225-460b-a11e-eae8bb44ad6e": [],
@@ -30795,6 +30965,7 @@
     "63d04b10-f4ad-4735-92c4-c18f93475977": [],
     "30fb6856-7123-4579-b117-8a2eeac604e4": [],
     "687bbe1e-57b1-4cc6-a44e-e4f470319f11": [],
+    "3fab38a4-8d02-49ff-b524-db359affb04f": [],
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": [],
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": [],
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": [],
@@ -31226,6 +31397,7 @@
     "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b": [],
     "efe438fc-2bb0-407e-9df3-b67b878d353a": [],
     "38b05107-47d7-4a1f-8329-7ee742b3eecc": [],
+    "c9fc823a-baf0-4e39-9056-3f2b39550378": [],
     "f9120bc7-47b8-478c-b187-a249f56eb4ba": [],
     "12b80fef-933d-4c49-9564-e818506124a9": [],
     "1fc0ade3-41fb-4d34-ade4-b56ca53611db": [],
@@ -31736,8 +31908,10 @@
     "5d76918e-df1c-48fd-8e09-50ef334c0112": [],
     "688dae83-c9c3-44d3-b32c-c6248ea0958e": [],
     "8d993396-f877-4f00-9ec2-38b6ff760ab1": [],
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2": [],
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb": [],
     "5754d8d2-c988-4bce-a42e-2353ee3344c9": [],
+    "d9749f38-2694-405a-a5af-4ef357f29d9c": [],
     "c1b2973d-c991-446f-b1d1-d71ff62503b2": [],
     "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03": [],
     "a739aa8a-2a04-4f01-bd2e-0434d47d96bd": [],
@@ -31751,7 +31925,9 @@
     "766d2aac-bcb3-4b91-a029-537e834f2816": [],
     "ce0fd799-e5af-4215-89da-e20d53c344b3": [],
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
+    "dba668aa-bb99-46d5-9942-9f41bed27766": [],
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": [],
+    "25b82439-effc-4780-a493-2ababf099494": [],
     "b633ea18-544c-4f74-ae9d-3395c9a78192": [],
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": [],
     "fb38895a-faca-42e7-8e40-416fe115a9ee": [],
@@ -31772,14 +31948,19 @@
     "e0fcec25-9225-4926-bfc3-8318ec40a638": [],
     "0362bbdd-cf29-4898-be54-2f675a4d3596": [],
     "65d3b35b-b939-4da8-bd29-e206dd2ea9bc": [],
+    "1151704f-92c1-4273-9a2a-af361dfb88be": [],
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf": [],
     "2e369507-1f65-4c97-9a37-375f2b5d27fb": [],
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": [],
     "8db17737-329a-485d-9f99-98dce3ec1462": [],
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": [],
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": [],
+    "cb543a19-8513-43ae-8720-5ffeaec4a385": [],
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e": [],
     "4212d688-8696-4f32-8813-7edab4080e1c": [],
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": [],
     "d228c0d3-4420-42e8-9932-0aab68e08350": [],
+    "a0219c15-6f5c-41b6-888f-41698790b9d2": [],
     "d501e972-f005-4aba-a7bf-3404b735c27a": [],
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": [],
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": [],
@@ -31789,6 +31970,7 @@
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": [],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
     "f4753c78-856b-4dcb-813e-4be6a80db023": [],
+    "fdaf9b18-a664-4861-894b-836af806393a": [],
     "98338dc9-0611-4650-85af-75b2b67f3207": [],
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
@@ -31813,7 +31995,7 @@
     "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5": [],
     "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186": [],
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23": [],
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1": [],
+    "637757e1-13bf-4560-94c5-92052bf389e5": [],
     "320d56d6-d028-425b-a1de-10d80b6d8669": [],
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": [],
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": [],
@@ -32147,9 +32329,9 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": [],
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": [],
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [],
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [],
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": [],
     "04ffe6b4-1ff0-41b0-82f3-6c0d1a742268": [],
     "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8": [],
@@ -32214,10 +32396,10 @@
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [],
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
-    "7621dfbb-6988-4e80-9836-a8011f664099": [],
     "db82f3a7-04a5-4403-b16a-057177b2ae10": [],
     "488cb22c-91d3-4d1e-bd47-b1588e3fb899": [],
     "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb": [],
+    "7621dfbb-6988-4e80-9836-a8011f664099": [],
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": [],
     "71cde479-25d2-47df-bdd8-0f9a41b7c510": [],
     "5598ab4c-9e1d-40b2-b63b-94b52fac2cc5": [],
@@ -32358,10 +32540,10 @@
     "41c5d192-2968-43a1-88bf-4f913ebd58e0": [],
     "f738f680-95a2-46e5-bb4c-57b67687e36a": [],
     "f6ae9aa0-41dc-431d-972c-47cfe397fda2": [],
-    "4e71511d-083c-4683-adb1-617be0f9f5be": [],
     "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": [],
     "f2bc7463-f3c7-4944-bbe2-9d91aa365178": [],
     "fcc49407-81d6-4576-8eeb-9a3b3c843f75": [],
+    "4e71511d-083c-4683-adb1-617be0f9f5be": [],
     "7c3f645b-762a-42df-9270-f6d8af138c5b": [],
     "93f81b51-d1e6-4153-8d5c-50963764f6b9": [],
     "a9a837ae-f4c8-4756-87b2-d37f202167dc": [],
@@ -32415,12 +32597,12 @@
     "2e191352-0a11-410d-b4a5-50574257b3d6": [],
     "0d394c9d-34d2-4846-ab4b-e6e3b2b2ddcd": [],
     "a0e8088e-cf07-4717-abef-eacfdeb268b8": [],
-    "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
     "76fdeb14-6cc3-484f-8607-a6298e4a22c1": [],
     "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": [],
     "130ed5fa-1246-4768-9457-2d2e2fa4770c": [],
     "d578e995-036b-45be-9fae-ea54d92c8b58": [],
     "a1498ef7-79af-4358-8a69-c2e546a1222f": [],
+    "78aa36ca-c4c6-40ed-873c-24099d5c2481": [],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [],
     "ef3f0c6d-548b-4741-a573-ed357e9230e4": [],
     "b7f300bf-f909-403a-a53c-c91ef38a36ed": [],
@@ -33314,11 +33496,21 @@
         "text": "Favorite Media"
       }
     ],
+    "3b6e6bc9-e5e6-43af-84c8-834379d49e55": [],
     "c71bada1-ae88-4a99-bfec-84efafe8fed9": [],
+    "2f4fd09e-24a3-4359-81b2-049742a03610": [
+      {
+        "link": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+        "text": "What discord user has the longest average message length?"
+      }
+    ],
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": [
       {
         "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
         "text": "What discord channel has the longest average message length?"
+      },
+      {
+        "text": "What is the number of messages in each channel for a particular discord guild?"
       }
     ],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [
@@ -33367,201 +33559,18 @@
         "text": "Learning Pathways"
       }
     ],
-    "edd435e9-87a7-4a33-a4c2-0aa8f5a9d3f8": [
-      {
-        "text": "What are some exploitable questions?"
-      },
-      {
-        "text": "Who is my next stair up the Tower of Thiel?"
-      },
-      {
-        "text": "Write Short Stories"
-      },
-      {
-        "text": "Directory Projects"
-      },
-      {
-        "text": "Tower of Thiel"
-      },
-      {
-        "text": "What is your organizing principal?"
-      },
-      {
-        "link": "c5f350fd-ab1d-4111-9f0d-cdd7eabd9bfa",
-        "text": "LEARN TO COOK"
-      },
-      {
-        "text": "Stand up Meeting"
-      },
-      {
-        "text": "Tower of Thiel"
-      },
-      {
-        "text": "Who do I want to be judged by?"
-      },
-      {
-        "text": "Produce More Imaginary Conversations"
-      },
-      {
-        "text": "Who are the reference designs for my desired persona?"
-      },
-      {
-        "text": "Write blog about what I regret not doing"
-      },
-      {
-        "text": "Setup Analytics on wiki.ddaemon.org"
-      },
-      {
-        "text": "Life Log Prompt Generator"
-      },
-      {
-        "text": "Semantic Meta Annotation System"
-      },
-      {
-        "text": "Why do I care about Archive Software?"
-      },
-      {
-        "text": "Fix Memex"
-      },
-      {
-        "text": "Research Investigation Tools"
-      },
-      {
-        "text": "Research DAO Frameworks"
-      },
-      {
-        "text": "How do I annotate webpages offline?"
-      },
-      {
-        "text": "Youtube Likes and Playlists to Raindrop Conversion"
-      },
-      {
-        "text": "Find all titles with law and principal on Wikipedia"
-      },
-      {
-        "text": "Write a script that maps out tags for PKM"
-      },
-      {
-        "text": "Index, Segment, and Prompt Personal Data"
-      },
-      {
-        "text": "Scrape a tone of wikis"
-      },
-      {
-        "text": "Find Develop or Scope out a Wolfram Alpha Obsidian Extension"
-      },
-      {
-        "text": "Backlog - Social Engineering"
-      },
-      {
-        "text": "Run a Hacklab Workshop"
-      },
-      {
-        "text": "Develop Internet Personality"
-      },
-      {
-        "text": "Health"
-      },
-      {
-        "text": "Learn how to Relax and write blog posts about it"
-      },
-      {
-        "text": "Develop a Portfolio"
-      },
-      {
-        "link": "31f7e81a-967e-41f4-872e-91d1571df726",
-        "text": "Backlog - Tutorials"
-      },
-      {
-        "text": "Social Media Migration Tool"
-      },
-      {
-        "text": "Deploy Skilltreeplatform"
-      },
-      {
-        "text": "Markdown Folder to SQL"
-      },
-      {
-        "text": "Development Docker Container"
-      },
-      {
-        "text": "Review and publish public PKM"
-      },
-      {
-        "link": "f43d858e-c32e-4d15-bfc4-456bb7f56ceb",
-        "text": "dentropys-obsidian-publisher"
-      },
-      {
-        "text": "Develop a web scraping curriculum"
-      },
-      {
-        "link": "dd43be98-5e8e-45b2-b279-6cfb7474bba9",
-        "text": "Web Scraping Orchestration"
-      },
-      {
-        "link": "174ec832-c137-4d44-b581-3e552e0c047e",
-        "text": "Mimetic File System - MFS"
-      },
-      {
-        "link": "e76c8ac9-69f3-477f-8015-556e83738432",
-        "text": "My Projects"
-      },
-      {
-        "text": "Finish developing and testing apps within dentropys-umbrel-appstore"
-      },
-      {
-        "text": "Deploy Photo Backup and Tagging Application"
-      },
-      {
-        "text": "Deploy PaperlessNG for Umbrel"
-      },
-      {
-        "text": "Better backup and restore for Umbrel"
-      },
-      {
-        "text": "Do Standup Comedy"
-      },
-      {
-        "text": "Become the psyop"
-      },
-      {
-        "text": "Get Into Hacker House"
-      },
-      {
-        "text": "Start A Company"
-      }
-    ],
     "e76c8ac9-69f3-477f-8015-556e83738432": [
       {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "Discord Guild Indexing"
+      },
+      {
         "link": "f43d858e-c32e-4d15-bfc4-456bb7f56ceb",
         "text": "dentropys-obsidian-publisher"
       },
       {
-        "link": "28740a43-67c5-4930-8b5c-41c06e659c6a",
-        "text": "ENS Indexing"
-      },
-      {
-        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "DAO Auditing via Discord Design Doc"
-      },
-      {
-        "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
-        "text": "Keybase Binding"
-      },
-      {
-        "text": "Question Engine on DDaemon"
-      },
-      {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
-      },
-      {
-        "link": "174ec832-c137-4d44-b581-3e552e0c047e",
-        "text": "Mimetic File System - MFS"
-      },
-      {
-        "link": "074834fe-d249-470e-8349-0298a0b0efe7",
-        "text": "dentropydaemon - dd"
+        "link": "2023c4df-936d-4d08-98ac-f97c4b63c632",
+        "text": "MKDocs"
       },
       {
         "link": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -33584,6 +33593,21 @@
         "text": "Python Compressor"
       },
       {
+        "link": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
+        "text": "ActivityWatch Experiments"
+      },
+      {
+        "link": "c01a2d70-0b4b-4ba3-9149-928494bb231b",
+        "text": "ActivityWatch"
+      },
+      {
+        "link": "074834fe-d249-470e-8349-0298a0b0efe7",
+        "text": "dentropydaemon - dd"
+      },
+      {
+        "text": "Question Engine on DDaemon"
+      },
+      {
         "link": "9ea6bc24-4645-4ee2-b365-05de36bfca4c",
         "text": "Raindrop Binding"
       },
@@ -33594,10 +33618,6 @@
       {
         "link": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
         "text": "ActivityPub Utils"
-      },
-      {
-        "link": "71cde479-25d2-47df-bdd8-0f9a41b7c510",
-        "text": "ActivityWatch Experiments"
       },
       {
         "link": "d41891f6-34ec-48e2-bed3-4e1bb4edd4a8",
@@ -34464,9 +34484,11 @@
         "text": "ConfyUI"
       },
       {
+        "link": "c9fc823a-baf0-4e39-9056-3f2b39550378",
         "text": "Danswer"
       },
       {
+        "link": "3b6e6bc9-e5e6-43af-84c8-834379d49e55",
         "text": "genai-stack"
       },
       {
@@ -34551,6 +34573,7 @@
         "text": "LLaMA"
       },
       {
+        "link": "c9fc823a-baf0-4e39-9056-3f2b39550378",
         "text": "Danswer"
       },
       {
@@ -35226,6 +35249,12 @@
         "text": "https://github.com/pyenv/pyenv/wiki/Common-build-problems#error-the-python-ssl-extension-was-not-compiled-missing-the-openssl-lib"
       }
     ],
+    "3fab38a4-8d02-49ff-b524-db359affb04f": [
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      }
+    ],
     "4409a1a7-de50-4bbb-8a7c-73c57dc3439a": [],
     "4ac49f4e-a0d5-49da-b619-acc5e1f101ed": [],
     "7b6514de-e3fc-44ce-ae1f-b579a31e13d8": [],
@@ -35491,14 +35520,16 @@
     "a95add63-c9f2-49d7-bd54-e498015d072a": [],
     "6cae1c13-b46d-40a2-9f7d-91bfef18bdff": [
       {
-        "text": "dentropydaemon-wiki/Software/Catagories/Language/Language - Query"
+        "link": "dde6bcd9-3c39-46d3-946e-4e1613c2c3d5",
+        "text": "Language - Query"
       },
       {
         "link": "458b1549-c829-487a-ac99-433f356b1c65",
-        "text": "wiki.software.programming language.cypher.Basic Queries"
+        "text": "Basic Cypher Queries"
       },
       {
-        "text": "wiki.software.programming language.cypher.examples Simplist Example"
+        "link": "59430e1c-f2a6-4e81-aafd-9b5777c4408c",
+        "text": "Cypher Queries"
       },
       {
         "text": "wiki.software.programming language.cypher.examples.Movie Graph Example"
@@ -36790,6 +36821,7 @@
       }
     ],
     "38b05107-47d7-4a1f-8329-7ee742b3eecc": [],
+    "c9fc823a-baf0-4e39-9056-3f2b39550378": [],
     "f9120bc7-47b8-478c-b187-a249f56eb4ba": [],
     "12b80fef-933d-4c49-9564-e818506124a9": [],
     "1fc0ade3-41fb-4d34-ade4-b56ca53611db": [],
@@ -39278,6 +39310,15 @@
         "text": "The Power Process"
       }
     ],
+    "315a04ff-5358-4d9f-840e-09c7ab7ea1a2": [
+      {
+        "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
+        "text": "What discord user has the longest average message length in a particular guild?"
+      },
+      {
+        "text": "What discord user sent the most messages in a particular discord guild?"
+      }
+    ],
     "17db1c37-5a7e-4f24-98d5-5ef5276553bb": [
       {
         "text": "ethereum"
@@ -39291,6 +39332,7 @@
       }
     ],
     "5754d8d2-c988-4bce-a42e-2353ee3344c9": [],
+    "d9749f38-2694-405a-a5af-4ef357f29d9c": [],
     "c1b2973d-c991-446f-b1d1-d71ff62503b2": [
       {
         "link": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
@@ -39496,13 +39538,82 @@
     ],
     "46abc67b-bbe7-4800-82f5-f08d4c457ef0": [
       {
+        "link": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
+        "text": "Who is worth getting to know on Discord DAO Guilds?"
+      },
+      {
+        "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
+        "text": "What discord user has the longest average message length in a particular guild?"
+      },
+      {
+        "text": "What discord user sent the most messages in a particular discord guild?"
+      },
+      {
+        "link": "dba668aa-bb99-46d5-9942-9f41bed27766",
+        "text": "Who is the most consistent poster within a Discord Guild?"
+      },
+      {
+        "link": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+        "text": "What discord author got the most reactions to their messages?"
+      },
+      {
+        "text": "What discord user has the highest spike in activity?"
+      },
+      {
+        "link": "cca39f0d-a173-4849-986f-fbc5ea0e46bf",
+        "text": "What discord user was the most active for a particular date range within a particular discord guild?"
+      },
+      {
+        "text": "What discord author was mentioned the most?"
+      },
+      {
+        "text": "Who gets replied to the most in a particular discord guild?"
+      },
+      {
+        "text": "Who does the most replying in a particular discord guild?"
+      },
+      {
+        "text": "Who sent the most attachments?"
+      },
+      {
+        "link": "d9749f38-2694-405a-a5af-4ef357f29d9c",
+        "text": "How do we get to know individuals in Discord DAO Guilds?"
+      },
+      {
+        "link": "fdaf9b18-a664-4861-894b-836af806393a",
         "text": "How to view a discord message in context?"
       },
       {
-        "text": "What discord users show up in multiple guilds?"
+        "text": "How many messages per discord channel has an author posted in?"
       },
       {
-        "text": "Who is the most consistent poster within a Discord Guild?"
+        "text": "How to generate a word cloud based on a discord authors messages in a particular discord guild?"
+      },
+      {
+        "text": "What discord message was reacted to the most from this particular author?"
+      },
+      {
+        "text": "What channel was a discord author mentioned the most in within a particular discord guild?"
+      },
+      {
+        "text": "What other author mentions a different particular author the most? "
+      },
+      {
+        "text": "What message with an attachment from a particular author in a discord guild got the most reactions?"
+      },
+      {
+        "text": "What prompts for LLM's can be used to understand and label a users discord messages?"
+      },
+      {
+        "text": "What time of day does the particular discord author post their messages, group by hour?"
+      },
+      {
+        "link": "cb543a19-8513-43ae-8720-5ffeaec4a385",
+        "text": "What day of the week does the particular discord author post their messages?"
+      },
+      {
+        "link": "1151704f-92c1-4273-9a2a-af361dfb88be",
+        "text": "What discord users show up in multiple guilds?"
       },
       {
         "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
@@ -39587,13 +39698,25 @@
         "text": "Discord Guild Specific Report"
       },
       {
+        "link": "a0219c15-6f5c-41b6-888f-41698790b9d2",
+        "text": "What are the channels of a particular discord guild?"
+      },
+      {
+        "text": "What channels from a particular discord guild have the most messages?"
+      },
+      {
+        "link": "8db17737-329a-485d-9f99-98dce3ec1462",
+        "text": "What discord channels have the most messages?"
+      },
+      {
         "link": "0f897f8f-e4b5-4e18-834f-7082f950dfb6",
         "text": "What month was X discord guild the most active?"
       },
       {
-        "text": "What is the heatmap of the most active months github activity style?"
+        "text": "What is the heat map of the most active months github activity style?"
       },
       {
+        "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
         "text": "What discord user has the longest average message length in a particular guild?"
       },
       {
@@ -39608,16 +39731,15 @@
         "text": "How to list the number of Bots on a Discord Guild?"
       },
       {
-        "link": "3ca67bba-4104-47a3-9c2a-14734afae6d1",
-        "text": "How many messages per channel in a particular discord guild?"
-      },
-      {
         "link": "320d56d6-d028-425b-a1de-10d80b6d8669",
-        "text": "How many messages per channel in Discord Guild?"
+        "text": "How many messages per channel in a particular discord guild?"
       },
       {
         "link": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
         "text": "How many authors posted in each particular channel of a particular discord guild?"
+      },
+      {
+        "text": "What is the number of messages in each channel for a particular discord guild?"
       },
       {
         "link": "ad60bd2d-b872-4d0b-8f13-6f4214896871",
@@ -39628,6 +39750,9 @@
         "text": "What is the median message count per channel in a particular Discord Guild?"
       },
       {
+        "text": "How many message per author in a particular discord guild?"
+      },
+      {
         "link": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23",
         "text": "How many users have posted more than 100 messages in a particular discord guild?"
       },
@@ -39636,17 +39761,15 @@
         "text": "What discord channel has the longest average message length of a particular guild?"
       },
       {
-        "link": "8db17737-329a-485d-9f99-98dce3ec1462",
-        "text": "What discord channels have the most messages?"
+        "link": "25b82439-effc-4780-a493-2ababf099494",
+        "text": "Which discord channel was most active between two dates?"
       },
       {
-        "text": "What channels belong to a Discord Guild?"
+        "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+        "text": "What discord channel has the longest average message length?"
       },
       {
-        "text": "What are the channels of a particular discord server?"
-      },
-      {
-        "text": "Which discord channel was most active for a specific week?"
+        "text": "What discord user sent the most messages in a particular discord guild?"
       },
       {
         "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
@@ -39657,6 +39780,10 @@
         "text": "What discord user has the longest average message length?"
       },
       {
+        "text": "Which authors posted in more than on guild?"
+      },
+      {
+        "link": "637757e1-13bf-4560-94c5-92052bf389e5",
         "text": "How many times did a particular author post a particular discord guild?"
       },
       {
@@ -39681,6 +39808,9 @@
         "text": "What are the number of reactions for messages aggregated by month, week, and day?"
       },
       {
+        "text": "What discord attachment message has the most reactions?"
+      },
+      {
         "text": "How many Scraped Discord Guilds?"
       },
       {
@@ -39694,6 +39824,17 @@
       },
       {
         "text": "How many messages per day are in the database from Discord?"
+      },
+      {
+        "link": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
+        "text": "DAO Auditing via Discord - Queries"
+      },
+      {
+        "text": "DAO Auditing via Discord - Raw Queries"
+      },
+      {
+        "link": "e8844eeb-76f6-4df1-b639-dc776b63ffc1",
+        "text": "keybase data questions"
       },
       {
         "text": "Do we need to link discord GuildID to discord MessageID directly?"
@@ -39743,7 +39884,9 @@
     ],
     "ce0fd799-e5af-4215-89da-e20d53c344b3": [],
     "114d3861-6af9-4254-8cee-0e7aa0b47532": [],
+    "dba668aa-bb99-46d5-9942-9f41bed27766": [],
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": [],
+    "25b82439-effc-4780-a493-2ababf099494": [],
     "b633ea18-544c-4f74-ae9d-3395c9a78192": [],
     "30d09691-d6bc-462d-b9ae-8534e88e4cf1": [],
     "fb38895a-faca-42e7-8e40-416fe115a9ee": [
@@ -39888,6 +40031,8 @@
         "text": "Heilmeier Catechism - Question Engine"
       }
     ],
+    "1151704f-92c1-4273-9a2a-af361dfb88be": [],
+    "cca39f0d-a173-4849-986f-fbc5ea0e46bf": [],
     "2e369507-1f65-4c97-9a37-375f2b5d27fb": [
       {
         "text": "What are the sum of messages in each discord guild?"
@@ -39895,11 +40040,19 @@
     ],
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": [],
     "8db17737-329a-485d-9f99-98dce3ec1462": [],
-    "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": [],
+    "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": [
+      {
+        "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
+        "text": "What discord user has the longest average message length in a particular guild?"
+      }
+    ],
+    "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": [],
+    "cb543a19-8513-43ae-8720-5ffeaec4a385": [],
     "34592fa9-bd8d-4237-bdff-36cb58fdc21e": [],
     "4212d688-8696-4f32-8813-7edab4080e1c": [],
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": [],
     "d228c0d3-4420-42e8-9932-0aab68e08350": [],
+    "a0219c15-6f5c-41b6-888f-41698790b9d2": [],
     "d501e972-f005-4aba-a7bf-3404b735c27a": [
       {
         "text": "How do Variables work in Hoon?"
@@ -40038,6 +40191,7 @@
         "text": "Disk Usage Analyzer"
       }
     ],
+    "fdaf9b18-a664-4861-894b-836af806393a": [],
     "98338dc9-0611-4650-85af-75b2b67f3207": [],
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
@@ -40091,12 +40245,12 @@
     "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5": [],
     "6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186": [],
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23": [],
-    "3ca67bba-4104-47a3-9c2a-14734afae6d1": [
+    "637757e1-13bf-4560-94c5-92052bf389e5": [],
+    "320d56d6-d028-425b-a1de-10d80b6d8669": [
       {
         "text": "How many messages for each channel within Discord Guild?"
       }
     ],
-    "320d56d6-d028-425b-a1de-10d80b6d8669": [],
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": [
       {
         "link": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
@@ -41112,7 +41266,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "DAO Auditing via Discord Design Doc"
+        "text": "Discord Guild Indexing"
       }
     ],
     "6d0bbf21-e1ea-4a09-9597-ec479b998235": [
@@ -41744,33 +41898,6 @@
       }
     ],
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
-    "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [
-      {
-        "link": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
-        "text": "Design Doc - DentropyCloud"
-      },
-      {
-        "link": "f738f680-95a2-46e5-bb4c-57b67687e36a",
-        "text": "Supported App List - DentropyCloud"
-      },
-      {
-        "link": "4e71511d-083c-4683-adb1-617be0f9f5be",
-        "text": "Logs - DentropyCloud"
-      },
-      {
-        "link": "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
-        "text": "Roadmap - DentropyCloud"
-      }
-    ],
-    "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [
-      {
-        "link": "23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c",
-        "text": "Keylogger Binding"
-      },
-      {
-        "text": "keylogger research"
-      }
-    ],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
         "text": "DiscordChatExporter"
@@ -41778,6 +41905,10 @@
       {
         "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
         "text": "Postgres"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
       },
       {
         "link": "8d4d461f-49f7-4dbd-829f-807d0bb602df",
@@ -41813,21 +41944,33 @@
       },
       {
         "text": "What do I do about those RClone Errors from copying Discord Data to S3?"
+      }
+    ],
+    "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [
+      {
+        "link": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
+        "text": "Design Doc - DentropyCloud"
       },
       {
-        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
-        "text": "Questions for Discord Data"
+        "link": "f738f680-95a2-46e5-bb4c-57b67687e36a",
+        "text": "Supported App List - DentropyCloud"
       },
       {
-        "link": "d5e65c1e-f806-49b1-87dd-bd9c24220f03",
-        "text": "DAO Auditing via Discord - Queries"
+        "link": "4e71511d-083c-4683-adb1-617be0f9f5be",
+        "text": "Backlog - DentropyCloud"
       },
       {
-        "text": "DAO Auditing via Discord - Raw Queries"
+        "link": "f6ae9aa0-41dc-431d-972c-47cfe397fda2",
+        "text": "Roadmap - DentropyCloud"
+      }
+    ],
+    "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [
+      {
+        "link": "23b9004c-6bb4-4bc8-a79a-d27e2fb4f35c",
+        "text": "Keylogger Binding"
       },
       {
-        "link": "e8844eeb-76f6-4df1-b639-dc776b63ffc1",
-        "text": "keybase data questions"
+        "text": "keylogger research"
       }
     ],
     "d5e65c1e-f806-49b1-87dd-bd9c24220f03": [],
@@ -41955,7 +42098,7 @@
     "d2de5cc9-f1a5-4fcc-8eb4-008690124728": [
       {
         "link": "7621dfbb-6988-4e80-9836-a8011f664099",
-        "text": "Logs - DDaemon"
+        "text": "Backlog - DDaemon"
       },
       {
         "link": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -41963,7 +42106,7 @@
       },
       {
         "link": "4e71511d-083c-4683-adb1-617be0f9f5be",
-        "text": "Logs - DentropyCloud"
+        "text": "Backlog - DentropyCloud"
       },
       {
         "link": "163c0664-6ffd-4777-9dca-ece7754d44c0",
@@ -42011,7 +42154,7 @@
       },
       {
         "link": "4e71511d-083c-4683-adb1-617be0f9f5be",
-        "text": "Logs - DentropyCloud"
+        "text": "Backlog - DentropyCloud"
       },
       {
         "link": "074834fe-d249-470e-8349-0298a0b0efe7",
@@ -42289,7 +42432,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "DAO Auditing via Discord Design Doc"
+        "text": "Discord Guild Indexing"
       },
       {
         "link": "053d3ec8-825f-40bd-b187-926273159b09",
@@ -42305,7 +42448,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "DAO Auditing via Discord Design Doc"
+        "text": "Discord Guild Indexing"
       },
       {
         "link": "053d3ec8-825f-40bd-b187-926273159b09",
@@ -42413,6 +42556,7 @@
         "text": "Discord Binding"
       },
       {
+        "link": "3fab38a4-8d02-49ff-b524-db359affb04f",
         "text": "psycopg2"
       },
       {
@@ -42449,9 +42593,11 @@
         "text": "Python"
       },
       {
+        "link": "3fab38a4-8d02-49ff-b524-db359affb04f",
         "text": "psycopg2"
       },
       {
+        "link": "3fab38a4-8d02-49ff-b524-db359affb04f",
         "text": "psycopg2"
       }
     ],
@@ -42936,7 +43082,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "DAO Auditing via Discord Design Doc"
+        "text": "Discord Guild Indexing"
       },
       {
         "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
@@ -42957,85 +43103,6 @@
       }
     ],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
-    "7621dfbb-6988-4e80-9836-a8011f664099": [
-      {
-        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
-        "text": "Question Engine - QE"
-      },
-      {
-        "text": "DDaemon Product Ideas"
-      },
-      {
-        "text": "Miss Martian"
-      },
-      {
-        "text": "Who do I want to become?"
-      },
-      {
-        "text": "What am I angry at?"
-      },
-      {
-        "text": "Who do I know that works on projects?"
-      },
-      {
-        "text": "Giggachad YES"
-      },
-      {
-        "text": "2023-01-17"
-      },
-      {
-        "text": "2023-01-16"
-      },
-      {
-        "text": "2023-01-13"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/List/ActivityWatch"
-      },
-      {
-        "text": "2023-01-12"
-      },
-      {
-        "text": "2023-01-11"
-      },
-      {
-        "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
-        "text": "Keybase Binding"
-      },
-      {
-        "text": "2023-01-10"
-      },
-      {
-        "text": "dentropydaemon-wiki/Media/List/do androids dream of electric sheep"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/List/Photoprism"
-      },
-      {
-        "text": "dentropydaemon-wiki/Software/List/Raindropio"
-      },
-      {
-        "text": "daily.journal.2021.10.31"
-      },
-      {
-        "text": "Community.list.Conclience Project"
-      },
-      {
-        "text": "Community.list.Ryerson Zone System"
-      },
-      {
-        "text": "Community.list.Creative Destruction Lab"
-      },
-      {
-        "text": "Community.list.Citizen Lab"
-      },
-      {
-        "text": "Relationships.Relationship Catagories.Tower of Thiel#tower-of-thiel"
-      },
-      {
-        "text": "wiki.concepts.list.Theory of Mind"
-      }
-    ],
     "db82f3a7-04a5-4403-b16a-057177b2ae10": [],
     "488cb22c-91d3-4d1e-bd47-b1588e3fb899": [
       {
@@ -43143,7 +43210,7 @@
       },
       {
         "link": "4e71511d-083c-4683-adb1-617be0f9f5be",
-        "text": "Logs - DentropyCloud"
+        "text": "Backlog - DentropyCloud"
       },
       {
         "text": "Dentropy Daemon Recruiting"
@@ -43151,6 +43218,85 @@
       {
         "link": "d6c7b9d4-1ce5-4661-9040-28be18e457ca",
         "text": "Vision - DDaemon"
+      }
+    ],
+    "7621dfbb-6988-4e80-9836-a8011f664099": [
+      {
+        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
+        "text": "Question Engine - QE"
+      },
+      {
+        "text": "DDaemon Product Ideas"
+      },
+      {
+        "text": "Miss Martian"
+      },
+      {
+        "text": "Who do I want to become?"
+      },
+      {
+        "text": "What am I angry at?"
+      },
+      {
+        "text": "Who do I know that works on projects?"
+      },
+      {
+        "text": "Giggachad YES"
+      },
+      {
+        "text": "2023-01-17"
+      },
+      {
+        "text": "2023-01-16"
+      },
+      {
+        "text": "2023-01-13"
+      },
+      {
+        "text": "dentropydaemon-wiki/Software/List/ActivityWatch"
+      },
+      {
+        "text": "2023-01-12"
+      },
+      {
+        "text": "2023-01-11"
+      },
+      {
+        "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
+        "text": "Keybase Binding"
+      },
+      {
+        "text": "2023-01-10"
+      },
+      {
+        "text": "dentropydaemon-wiki/Media/List/do androids dream of electric sheep"
+      },
+      {
+        "text": "dentropydaemon-wiki/Software/List/Photoprism"
+      },
+      {
+        "text": "dentropydaemon-wiki/Software/List/Raindropio"
+      },
+      {
+        "text": "daily.journal.2021.10.31"
+      },
+      {
+        "text": "Community.list.Conclience Project"
+      },
+      {
+        "text": "Community.list.Ryerson Zone System"
+      },
+      {
+        "text": "Community.list.Creative Destruction Lab"
+      },
+      {
+        "text": "Community.list.Citizen Lab"
+      },
+      {
+        "text": "Relationships.Relationship Catagories.Tower of Thiel#tower-of-thiel"
+      },
+      {
+        "text": "wiki.concepts.list.Theory of Mind"
       }
     ],
     "9597719e-4990-4ce7-a6fc-7db6d61428e9": [],
@@ -43433,7 +43579,7 @@
     ],
     "16cc922f-56ea-422e-95be-72f5f55e4111": [
       {
-        "text": "Discord Binding Logs - private"
+        "text": "Backlog - Discord Binding"
       },
       {
         "text": "Discord Software"
@@ -44471,6 +44617,108 @@
         "text": "dentropydaemon-wiki/Wiki/Concepts/List/HTTP Basic Auth"
       }
     ],
+    "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": [
+      {
+        "link": "81391cc3-8783-48a9-aed1-ccf9e0d590b6",
+        "text": "Simple Plan - DentropyCloud"
+      },
+      {
+        "link": "38fd56a5-a10e-492c-9bbc-8b1ff8deec0a",
+        "text": "Catechism - DentropyCloud"
+      },
+      {
+        "link": "733f4f63-08be-49b5-9a04-9d9a89341b0b",
+        "text": "Design Questions - DentropyCloud"
+      },
+      {
+        "link": "1d5dc5a1-64d0-4cb3-b71f-24e45797944c",
+        "text": "Problems - DentropyCloud"
+      },
+      {
+        "link": "1d4b76d7-a29f-47ef-b2d8-db7eff5acfd7",
+        "text": "Inital Design Doc - DentropyCloud"
+      },
+      {
+        "link": "e3b6a277-00dd-43cb-ad0d-c7694e7ebd7f",
+        "text": "Research - DentropyCloud"
+      },
+      {
+        "text": "dentropydaemon-wiki/Wiki/Concepts/List/Design Roadmap"
+      },
+      {
+        "link": "f992b586-671a-4c15-b91e-4272eb41cf07",
+        "text": "Design Brief - DentropyCloud"
+      },
+      {
+        "link": "3c1833a8-df54-4561-91d8-da981b8b53b8",
+        "text": "Scoping - DentropyCloud"
+      },
+      {
+        "link": "80f08cba-aef6-4b53-9c29-c4babb4d88a1",
+        "text": "Imbalance - DentropyCloud"
+      },
+      {
+        "link": "0d23e53b-b9f7-4b85-aab6-0e5b4fd1f4e6",
+        "text": "Situation Scan - DentropyCloud"
+      },
+      {
+        "link": "c4e92074-2abd-48aa-b129-540da1897ab8",
+        "text": "User Stories - DentropyCloud"
+      },
+      {
+        "link": "8b6c24a5-e676-478d-88f2-fe9c7ba2c5b5",
+        "text": "Human Factors Capabilities - DentropyCloud"
+      },
+      {
+        "link": "aec7b8af-db44-4b01-849d-746aa5d95262",
+        "text": "User Groups - DentropyCloud"
+      },
+      {
+        "link": "1e9a908e-7c40-48e3-af69-242c18dfeb0e",
+        "text": "Personas - DentropyCloud"
+      },
+      {
+        "link": "eaac3a5a-3608-4275-9993-2b5a77b76dd3",
+        "text": "Requirements - DentropyCloud"
+      },
+      {
+        "link": "b76b5f60-b129-4a4b-8d53-d747e1e507b1",
+        "text": "Competition - DentropyCloud"
+      }
+    ],
+    "f2bc7463-f3c7-4944-bbe2-9d91aa365178": [],
+    "fcc49407-81d6-4576-8eeb-9a3b3c843f75": [
+      {
+        "link": "2195a706-03d5-4d97-af0f-f9d7f220f30a",
+        "text": "Tiddly Wiki"
+      },
+      {
+        "link": "b0fcf97c-1900-4a2f-9eb1-bae8ab6a2446",
+        "text": "Monica CRM"
+      },
+      {
+        "link": "a77a4e60-ee82-4f5d-933d-fa2819d2dc2f",
+        "text": "Wallabag"
+      },
+      {
+        "link": "b04649d5-c9c1-4d05-bf04-15db21b3d393",
+        "text": "Wireguard"
+      },
+      {
+        "link": "d0573927-80c5-4128-bd20-5b13c7948572",
+        "text": "mediagoblin"
+      },
+      {
+        "link": "56cdc9d1-1ef0-4dd8-93d2-70c14b0716a5",
+        "text": "minio"
+      },
+      {
+        "text": "2023-04-02"
+      },
+      {
+        "text": "Does linuxserver.io wireguard instance update domain of certs when env variable changes?"
+      }
+    ],
     "4e71511d-083c-4683-adb1-617be0f9f5be": [
       {
         "link": "a6364f21-fc05-4aad-bd59-797aa2a70af5",
@@ -44726,108 +44974,6 @@
       {
         "link": "96e3ea02-9a99-4783-af83-bb7a0ca6e44d",
         "text": "ddaemon.monorepo.schemas"
-      }
-    ],
-    "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5": [
-      {
-        "link": "81391cc3-8783-48a9-aed1-ccf9e0d590b6",
-        "text": "Simple Plan - DentropyCloud"
-      },
-      {
-        "link": "38fd56a5-a10e-492c-9bbc-8b1ff8deec0a",
-        "text": "Catechism - DentropyCloud"
-      },
-      {
-        "link": "733f4f63-08be-49b5-9a04-9d9a89341b0b",
-        "text": "Design Questions - DentropyCloud"
-      },
-      {
-        "link": "1d5dc5a1-64d0-4cb3-b71f-24e45797944c",
-        "text": "Problems - DentropyCloud"
-      },
-      {
-        "link": "1d4b76d7-a29f-47ef-b2d8-db7eff5acfd7",
-        "text": "Inital Design Doc - DentropyCloud"
-      },
-      {
-        "link": "e3b6a277-00dd-43cb-ad0d-c7694e7ebd7f",
-        "text": "Research - DentropyCloud"
-      },
-      {
-        "text": "dentropydaemon-wiki/Wiki/Concepts/List/Design Roadmap"
-      },
-      {
-        "link": "f992b586-671a-4c15-b91e-4272eb41cf07",
-        "text": "Design Brief - DentropyCloud"
-      },
-      {
-        "link": "3c1833a8-df54-4561-91d8-da981b8b53b8",
-        "text": "Scoping - DentropyCloud"
-      },
-      {
-        "link": "80f08cba-aef6-4b53-9c29-c4babb4d88a1",
-        "text": "Imbalance - DentropyCloud"
-      },
-      {
-        "link": "0d23e53b-b9f7-4b85-aab6-0e5b4fd1f4e6",
-        "text": "Situation Scan - DentropyCloud"
-      },
-      {
-        "link": "c4e92074-2abd-48aa-b129-540da1897ab8",
-        "text": "User Stories - DentropyCloud"
-      },
-      {
-        "link": "8b6c24a5-e676-478d-88f2-fe9c7ba2c5b5",
-        "text": "Human Factors Capabilities - DentropyCloud"
-      },
-      {
-        "link": "aec7b8af-db44-4b01-849d-746aa5d95262",
-        "text": "User Groups - DentropyCloud"
-      },
-      {
-        "link": "1e9a908e-7c40-48e3-af69-242c18dfeb0e",
-        "text": "Personas - DentropyCloud"
-      },
-      {
-        "link": "eaac3a5a-3608-4275-9993-2b5a77b76dd3",
-        "text": "Requirements - DentropyCloud"
-      },
-      {
-        "link": "b76b5f60-b129-4a4b-8d53-d747e1e507b1",
-        "text": "Competition - DentropyCloud"
-      }
-    ],
-    "f2bc7463-f3c7-4944-bbe2-9d91aa365178": [],
-    "fcc49407-81d6-4576-8eeb-9a3b3c843f75": [
-      {
-        "link": "2195a706-03d5-4d97-af0f-f9d7f220f30a",
-        "text": "Tiddly Wiki"
-      },
-      {
-        "link": "b0fcf97c-1900-4a2f-9eb1-bae8ab6a2446",
-        "text": "Monica CRM"
-      },
-      {
-        "link": "a77a4e60-ee82-4f5d-933d-fa2819d2dc2f",
-        "text": "Wallabag"
-      },
-      {
-        "link": "b04649d5-c9c1-4d05-bf04-15db21b3d393",
-        "text": "Wireguard"
-      },
-      {
-        "link": "d0573927-80c5-4128-bd20-5b13c7948572",
-        "text": "mediagoblin"
-      },
-      {
-        "link": "56cdc9d1-1ef0-4dd8-93d2-70c14b0716a5",
-        "text": "minio"
-      },
-      {
-        "text": "2023-04-02"
-      },
-      {
-        "text": "Does linuxserver.io wireguard instance update domain of certs when env variable changes?"
       }
     ],
     "7c3f645b-762a-42df-9270-f6d8af138c5b": [],
@@ -45220,6 +45366,49 @@
         "text": "Banned Discovery Channel Documentary\\"
       }
     ],
+    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": [
+      {
+        "link": "a767bb2e-1e7e-4ef0-a32f-766fefc91b9d",
+        "text": "Steam - Software"
+      }
+    ],
+    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": [
+      {
+        "text": "Apple Podcasts"
+      },
+      {
+        "text": "Sniped App"
+      }
+    ],
+    "130ed5fa-1246-4768-9457-2d2e2fa4770c": [
+      {
+        "text": "Spotify"
+      },
+      {
+        "text": "Million Songs Dataset"
+      }
+    ],
+    "d578e995-036b-45be-9fae-ea54d92c8b58": [
+      {
+        "text": "IMDB"
+      },
+      {
+        "text": "TMDB"
+      }
+    ],
+    "a1498ef7-79af-4358-8a69-c2e546a1222f": [
+      {
+        "link": "24837821-abf9-4a79-8e11-f39d399b4a59",
+        "text": "Goodreads"
+      },
+      {
+        "text": "Open Library"
+      },
+      {
+        "link": "72a6abf7-ec72-41c7-969e-d1ba58496e03",
+        "text": "The Story Graph"
+      }
+    ],
     "78aa36ca-c4c6-40ed-873c-24099d5c2481": [
       {
         "text": "The Diamond Age"
@@ -45326,49 +45515,6 @@
       },
       {
         "text": "Dr. Stone"
-      }
-    ],
-    "76fdeb14-6cc3-484f-8607-a6298e4a22c1": [
-      {
-        "link": "a767bb2e-1e7e-4ef0-a32f-766fefc91b9d",
-        "text": "Steam - Software"
-      }
-    ],
-    "bcf15494-4d0b-4c5f-9aeb-47a512915ed6": [
-      {
-        "text": "Apple Podcasts"
-      },
-      {
-        "text": "Sniped App"
-      }
-    ],
-    "130ed5fa-1246-4768-9457-2d2e2fa4770c": [
-      {
-        "text": "Spotify"
-      },
-      {
-        "text": "Million Songs Dataset"
-      }
-    ],
-    "d578e995-036b-45be-9fae-ea54d92c8b58": [
-      {
-        "text": "IMDB"
-      },
-      {
-        "text": "TMDB"
-      }
-    ],
-    "a1498ef7-79af-4358-8a69-c2e546a1222f": [
-      {
-        "link": "24837821-abf9-4a79-8e11-f39d399b4a59",
-        "text": "Goodreads"
-      },
-      {
-        "text": "Open Library"
-      },
-      {
-        "link": "72a6abf7-ec72-41c7-969e-d1ba58496e03",
-        "text": "The Story Graph"
       }
     ],
     "a75ff251-e084-43b9-afa7-ee9b23e25141": [
@@ -46107,7 +46253,7 @@
     "cf6a4db5-dcac-48ae-97ec-cf40f28e2b20": [
       {
         "link": "78aa36ca-c4c6-40ed-873c-24099d5c2481",
-        "text": "Media Consumption Backlog"
+        "text": "Backlog - Media Consumption"
       },
       {
         "text": "Non Fiction Books"
@@ -47221,6 +47367,14 @@
       {
         "link": "96e3ea02-9a99-4783-af83-bb7a0ca6e44d",
         "text": "ddaemon-webapp"
+      },
+      {
+        "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
+        "text": "Question Engine - QE"
+      },
+      {
+        "link": "174ec832-c137-4d44-b581-3e552e0c047e",
+        "text": "Mimetic File System - MFS"
       },
       {
         "text": "Social Media Singularity"
