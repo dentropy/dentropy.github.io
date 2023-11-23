@@ -2358,6 +2358,7 @@ nav:
 - Relationships:
     - People:
         - Ted Kaczynski: 8d993396-f877-4f00-9ec2-38b6ff760ab1
+        - Jethro Knights: fbd8cc15-3749-4dca-8a13-24d82f2aeb08
 - Quests:
     - List:
         - Who is worth getting to know on Discord DAO Guilds?: 315a04ff-5358-4d9f-840e-09c7ab7ea1a2
@@ -2370,16 +2371,21 @@ nav:
     - list:
         - "Why are there multiple desks for Arvo, how do they get used?": ce0fd799-e5af-4215-89da-e20d53c344b3
         - Why am I building Question Engine?: 114d3861-6af9-4254-8cee-0e7aa0b47532
+        - Who sent the most attachments?: bb1fc99d-24cc-4ea2-9110-3bf7d695ac03
         - Who is the most consistent poster within a Discord Guild?: dba668aa-bb99-46d5-9942-9f41bed27766
+        - Who gets replied to the most in a particular discord guild?: 94a09a5b-5712-40f6-b902-a162a82c4129
+        - Who does the most replying in a particular discord guild?: d4667470-72b3-42f6-8b26-bf9150f8bafb
         - Who are the most active Users within a Discord Guild?: 5834c212-c616-4a8e-8b6e-16d4007cea7f
         - Which discord channel was most active between two dates?: 25b82439-effc-4780-a493-2ababf099494
         - "Where is a list of the most popular Urbit apps, also including their source code?": b633ea18-544c-4f74-ae9d-3395c9a78192
         - When was the most active month for the most active channel in each discord guild?: 30d09691-d6bc-462d-b9ae-8534e88e4cf1
+        - "What time of day does the particular discord author post their messages, group by hour?": d0faa6c6-be48-4170-941a-a30d833f6d1c
         - "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": fb38895a-faca-42e7-8e40-416fe115a9ee
         - What percentage of days actually have messages?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
         - "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": ae8cb99d-65d5-404f-9d83-4572cca17719
         - What other some projects that scraped fandom.com?: 4cb580de-4980-4475-9878-faba48388dd2
         - What month was X discord guild the most active?: 0f897f8f-e4b5-4e18-834f-7082f950dfb6
+        - What message with an attachment from a particular author in a discord guild got the most reactions?: 2c19f286-32de-4f5e-94f0-98d6eae21492
         - What is the name of the most active channel in each discord guild?: 27802970-c6dc-462e-8210-216bb1eb6a36
         - What is the most active channel in a discord guild?: 45f50e6a-fb81-4f7c-87b6-70785da72633
         - What is the median message count per channel in a particular Discord Guild?: 3fbf2fad-a355-4b8d-8d2d-0133ec53773d
@@ -2395,11 +2401,17 @@ nav:
         - What is ETL to Question Engine?: 65d3b35b-b939-4da8-bd29-e206dd2ea9bc
         - What discord users show up in multiple guilds?: 1151704f-92c1-4273-9a2a-af361dfb88be
         - What discord user was the most active for a particular date range within a particular discord guild?: cca39f0d-a173-4849-986f-fbc5ea0e46bf
+        - What discord user sent the most messages in a particular discord guild?: d473e743-c32d-45f7-bfe8-9836eeff97f4
+        - What discord user has the highest spike in activity?: 0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615
+        - What discord messages were reacted to the most from this particular author?: f386a8f1-5a03-4800-b3fb-9ff569a064af
         - What discord guilds have the most messages?: 2e369507-1f65-4c97-9a37-375f2b5d27fb
         - What discord guild's have the most Users?: a1f0f53d-327b-4999-9d06-81d2c14a5eb5
         - What discord channels have the most messages?: 8db17737-329a-485d-9f99-98dce3ec1462
         - What discord channel has the longest average message length?: 0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1
+        - What discord author was mentioned the most?: 02996ff2-f55e-4eae-a4b6-15d042b92896
         - What discord author got the most reactions to their messages?: 31ea5eb0-424d-4bac-ac87-dcc463b5d92d
+        - What discord author got the most distinct reactions to their messages?: 1045dbd7-8a3e-4975-8dea-fe81c3c354d1
+        - What discord author edits the highest percentage of their messages within a particular discord guild?: 80a2d7fc-3d80-420a-ba6b-d9bd41206606
         - What day of the week does the particular discord author post their messages?: cb543a19-8513-43ae-8720-5ffeaec4a385
         - What authors posted the most in each discord guild?: 34592fa9-bd8d-4237-bdff-36cb58fdc21e
         - What are the zero to hero urbit app examples with source code?: 4212d688-8696-4f32-8813-7edab4080e1c
@@ -2442,6 +2454,7 @@ nav:
         - How many users have posted more than 100 messages in a particular discord guild?: edc06a13-7305-4b5f-8eb6-9e8eb1b4df23
         - How many times did a particular author post a particular discord guild?: 637757e1-13bf-4560-94c5-92052bf389e5
         - How many messages per channel in a particular discord guild?: 320d56d6-d028-425b-a1de-10d80b6d8669
+        - How many messages has a user posted in each discord channel of a particular discord guild?: d4d9a29d-c144-4b7b-bb49-af768905cd79
         - How many authors posted in each particular channel of a particular discord guild?: a1e2f1f3-a636-4f25-949f-e9bec02f9830
         - How does one store a 2 dimensional matrix in Hoon?: 22fe8e8c-bb6e-4df5-bcca-03375c9dfd00
         - How does async await work in Hoon?: f7097115-4e65-4c20-80b9-663e8d954c88
