@@ -3,11 +3,11 @@ uuid: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
 share: true
 title: Questions to Answer in General Report to Compare Discord Guilds
 ---
-1. [What are the discord guilds are in the database?](/undefined)
+1. [What are the discord guilds are in the database?](/26b46eff-ac32-457c-b35b-cd936fa1af83)
 2. [Order discord Guild's by the oldest message?](/f87ebf9c-0d6e-4224-9418-badaa496ce2f)
 3. [What discord guilds have the most messages?](/2e369507-1f65-4c97-9a37-375f2b5d27fb)
 4. [What discord guild's have the most Users?](/a1f0f53d-327b-4999-9d06-81d2c14a5eb5)
-5. [What discord guild's have the most channels?](/undefined)
+5. [What discord guild's have the most channels?](/5fda1ed0-692e-4c6f-9a52-917ca152b003)
 6. [What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?](/fb38895a-faca-42e7-8e40-416fe115a9ee)
 7. [What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?](/ae8cb99d-65d5-404f-9d83-4572cca17719)
 8. [What is the activity per month of each discord guild measured in messages per month?](/edb39918-b02f-4ee7-b2b2-d902c8370412)
