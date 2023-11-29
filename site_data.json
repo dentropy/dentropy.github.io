@@ -1212,6 +1212,7 @@
     "d489b5cd-9f29-47b1-af41-d6795d33792a",
     "dd10212c-15d1-4f49-b090-647b15ad8b45",
     "4c94f5e5-b80f-466d-ae03-4353c29a66cd",
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce",
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "c62c2add-e005-4a80-b6f9-370612abc42d",
@@ -2241,6 +2242,7 @@
     "0607d553-fe1e-4b0d-9329-ce54d7913e4b",
     "2b328daa-25f6-48a6-846c-bc8be17fb3ee",
     "39796bb2-7b24-4d55-95fb-a05ef1a0cc30",
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16",
     "062c6b95-d165-4bdd-9a34-1dc958e77307",
     "92d8b7e1-86f1-42f3-82be-ec0448e0b56f",
     "29e42843-4391-4cca-bfc5-7b6954f4e5e6",
@@ -3572,6 +3574,7 @@
     "d489b5cd-9f29-47b1-af41-d6795d33792a": "Questions/list/How do you split a string by a specific character into a list of strings in Hoon?.md",
     "dd10212c-15d1-4f49-b090-647b15ad8b45": "Questions/list/How do you get the time inside a program?.md",
     "4c94f5e5-b80f-466d-ae03-4353c29a66cd": "Questions/list/How do I run a program at a specific time, like for something that uses Chron in Hoon?.md",
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce": "Questions/list/How do I plan to add value to the universe?.md",
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f": "Questions/list/How do I launch a fake planet for development?.md",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "Questions/list/How do I do Hello World in Ansible?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
@@ -4598,6 +4601,7 @@
     "0607d553-fe1e-4b0d-9329-ce54d7913e4b": "Concepts/List/Conway s Law.md",
     "2b328daa-25f6-48a6-846c-bc8be17fb3ee": "Concepts/List/Containerization.md",
     "39796bb2-7b24-4d55-95fb-a05ef1a0cc30": "Concepts/List/Complex vs Complicated.md",
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16": "Concepts/List/Commoditize Context.md",
     "062c6b95-d165-4bdd-9a34-1dc958e77307": "Concepts/List/Comedy.md",
     "92d8b7e1-86f1-42f3-82be-ec0448e0b56f": "Concepts/List/Combat Soap Opera.md",
     "29e42843-4391-4cca-bfc5-7b6954f4e5e6": "Concepts/List/Coin Market Cap.md",
@@ -5929,6 +5933,7 @@
     "d489b5cd-9f29-47b1-af41-d6795d33792a": "How do you split a string by a specific character into a list of strings in Hoon?",
     "dd10212c-15d1-4f49-b090-647b15ad8b45": "How do you get the time inside a program?",
     "4c94f5e5-b80f-466d-ae03-4353c29a66cd": "How do I run a program at a specific time, like for something that uses Chron in Hoon?",
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce": "How do I plan to add value to the universe?",
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f": "How do I launch a fake planet for development?",
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "How do I do Hello World in Ansible?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
@@ -6955,6 +6960,7 @@
     "0607d553-fe1e-4b0d-9329-ce54d7913e4b": "Conway s Law",
     "2b328daa-25f6-48a6-846c-bc8be17fb3ee": "Containerization",
     "39796bb2-7b24-4d55-95fb-a05ef1a0cc30": "Complex vs Complicated",
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16": "Commoditize Context",
     "062c6b95-d165-4bdd-9a34-1dc958e77307": "Comedy",
     "92d8b7e1-86f1-42f3-82be-ec0448e0b56f": "Combat Soap Opera",
     "29e42843-4391-4cca-bfc5-7b6954f4e5e6": "Coin Market Cap",
@@ -8291,6 +8297,7 @@
     "Questions/list/How do you split a string by a specific character into a list of strings in Hoon?.md": "d489b5cd-9f29-47b1-af41-d6795d33792a",
     "Questions/list/How do you get the time inside a program?.md": "dd10212c-15d1-4f49-b090-647b15ad8b45",
     "Questions/list/How do I run a program at a specific time, like for something that uses Chron in Hoon?.md": "4c94f5e5-b80f-466d-ae03-4353c29a66cd",
+    "Questions/list/How do I plan to add value to the universe?.md": "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce",
     "Questions/list/How do I launch a fake planet for development?.md": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "Questions/list/How do I do Hello World in Ansible?.md": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
@@ -9320,6 +9327,7 @@
     "Concepts/List/Conway s Law.md": "0607d553-fe1e-4b0d-9329-ce54d7913e4b",
     "Concepts/List/Containerization.md": "2b328daa-25f6-48a6-846c-bc8be17fb3ee",
     "Concepts/List/Complex vs Complicated.md": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30",
+    "Concepts/List/Commoditize Context.md": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16",
     "Concepts/List/Comedy.md": "062c6b95-d165-4bdd-9a34-1dc958e77307",
     "Concepts/List/Combat Soap Opera.md": "92d8b7e1-86f1-42f3-82be-ec0448e0b56f",
     "Concepts/List/Coin Market Cap.md": "29e42843-4391-4cca-bfc5-7b6954f4e5e6",
@@ -10635,6 +10643,7 @@
     "How do you split a string by a specific character into a list of strings in Hoon?": "d489b5cd-9f29-47b1-af41-d6795d33792a",
     "How do you get the time inside a program?": "dd10212c-15d1-4f49-b090-647b15ad8b45",
     "How do I run a program at a specific time, like for something that uses Chron in Hoon?": "4c94f5e5-b80f-466d-ae03-4353c29a66cd",
+    "How do I plan to add value to the universe?": "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce",
     "How do I launch a fake planet for development?": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
     "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
@@ -11616,6 +11625,7 @@
     "Conway s Law": "0607d553-fe1e-4b0d-9329-ce54d7913e4b",
     "Containerization": "2b328daa-25f6-48a6-846c-bc8be17fb3ee",
     "Complex vs Complicated": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30",
+    "Commoditize Context": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16",
     "Comedy": "062c6b95-d165-4bdd-9a34-1dc958e77307",
     "Combat Soap Opera": "92d8b7e1-86f1-42f3-82be-ec0448e0b56f",
     "Coin Market Cap": "29e42843-4391-4cca-bfc5-7b6954f4e5e6",
@@ -17771,6 +17781,11 @@
       "share": true,
       "title": "How do I run a program at a specific time, like for something that uses Chron in Hoon?"
     },
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce": {
+      "uuid": "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce",
+      "share": true,
+      "title": "How do I plan to add value to the universe?"
+    },
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f": {
       "uuid": "f4c5f595-1a48-4515-9e70-412e94a3ae4f",
       "share": true,
@@ -22905,6 +22920,11 @@
       "uuid": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30",
       "title": "Complex vs Complicated"
     },
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16": {
+      "uuid": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16",
+      "share": true,
+      "title": "Commoditize Context"
+    },
     "062c6b95-d165-4bdd-9a34-1dc958e77307": {
       "share": true,
       "uuid": "062c6b95-d165-4bdd-9a34-1dc958e77307",
@@ -27471,6 +27491,9 @@
         "How do I run a program at a specific time, like for something that uses Chron in Hoon?.md": {
           "uuid": "4c94f5e5-b80f-466d-ae03-4353c29a66cd"
         },
+        "How do I plan to add value to the universe?.md": {
+          "uuid": "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce"
+        },
         "How do I launch a fake planet for development?.md": {
           "uuid": "f4c5f595-1a48-4515-9e70-412e94a3ae4f"
         },
@@ -30796,6 +30819,9 @@
         "Complex vs Complicated.md": {
           "uuid": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30"
         },
+        "Commoditize Context.md": {
+          "uuid": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16"
+        },
         "Comedy.md": {
           "uuid": "062c6b95-d165-4bdd-9a34-1dc958e77307"
         },
@@ -32448,6 +32474,7 @@
     "d489b5cd-9f29-47b1-af41-d6795d33792a": [],
     "dd10212c-15d1-4f49-b090-647b15ad8b45": [],
     "4c94f5e5-b80f-466d-ae03-4353c29a66cd": [],
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce": [],
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f": [],
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
@@ -33773,6 +33800,7 @@
     "0607d553-fe1e-4b0d-9329-ce54d7913e4b": [],
     "2b328daa-25f6-48a6-846c-bc8be17fb3ee": [],
     "39796bb2-7b24-4d55-95fb-a05ef1a0cc30": [],
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16": [],
     "062c6b95-d165-4bdd-9a34-1dc958e77307": [],
     "92d8b7e1-86f1-42f3-82be-ec0448e0b56f": [],
     "29e42843-4391-4cca-bfc5-7b6954f4e5e6": [],
@@ -40951,6 +40979,12 @@
     "d489b5cd-9f29-47b1-af41-d6795d33792a": [],
     "dd10212c-15d1-4f49-b090-647b15ad8b45": [],
     "4c94f5e5-b80f-466d-ae03-4353c29a66cd": [],
+    "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce": [
+      {
+        "link": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16",
+        "text": "Commoditize Context"
+      }
+    ],
     "f4c5f595-1a48-4515-9e70-412e94a3ae4f": [],
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [
       {
@@ -49012,6 +49046,10 @@
         "text": "Memex"
       },
       {
+        "link": "a8266a1f-e6ca-4cf7-af97-e5cc7198f8ce",
+        "text": "How do I plan to add value to the universe?"
+      },
+      {
         "link": "97e9c159-ac4f-454b-a2fe-0922348e0480",
         "text": "What problem does the dentropydaemon solve?"
       },
@@ -49491,6 +49529,7 @@
     "0607d553-fe1e-4b0d-9329-ce54d7913e4b": [],
     "2b328daa-25f6-48a6-846c-bc8be17fb3ee": [],
     "39796bb2-7b24-4d55-95fb-a05ef1a0cc30": [],
+    "6c1a104f-51d8-40ac-bb23-c5768cdbfb16": [],
     "062c6b95-d165-4bdd-9a34-1dc958e77307": [],
     "92d8b7e1-86f1-42f3-82be-ec0448e0b56f": [
       {
