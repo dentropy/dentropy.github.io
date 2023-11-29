@@ -5,7 +5,7 @@ title: twitter-scraper
 ---
 ## WORKS vladkens/twscrape
 
-* [twscrape](/undefined)
+* [twscrape](/157d789b-d138-4499-a60a-d719cc6b4e65)
 ## FAIL mahrtayyab/tweety
 
 * Code: [mahrtayyab/tweety: Twitter Scraper](https://github.com/mahrtayyab/tweety)
