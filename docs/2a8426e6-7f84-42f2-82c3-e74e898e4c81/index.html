@@ -26147,8 +26147,6 @@
       
         
       
-        
-      
     
     
     
@@ -26805,6 +26803,8 @@
       
         
       
+        
+      
     
     
     
@@ -26971,11 +26971,31 @@
   
   
     <li class="md-nav__item">
-      <a href="../16cc922f-56ea-422e-95be-72f5f55e4111" class="md-nav__link">
+      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Discord Binding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dc6a1ac7-60f0-452d-9536-9fed6d92bc51" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog - Discord Binding
   </span>
   
 
@@ -33635,6 +33655,8 @@
       
         
       
+        
+      
     
     
     
@@ -33664,6 +33686,26 @@
             Discord Data Analysis
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a976ba89-4013-4831-ab31-b5d59a7ae971" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discord Binding User Stories
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -34064,26 +34106,6 @@
   
   <span class="md-ellipsis">
     Docker VPN Router
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Discord Data Analysis
   </span>
   
 
@@ -64864,7 +64886,7 @@
   <h1>ETL to QE, Update 7, Fixing Bugs</h1>
 
 <p>Date: <a href="/undefined">2023-10-11</a></p>
-<p>See <a href="/16cc922f-56ea-422e-95be-72f5f55e4111">Discord Binding</a> for project context</p>
+<p>See <a href="/1c376bfd-75ef-4c0d-9e23-3680653de55f">Discord Binding</a> for project context</p>
 <h2 id="guild_id-column-not-in-authors_t-table">guild_id column not in authors_t table</h2>
 <p>commit: 112a76164e756e4edf1c14fae92f57de441ffe5e</p>
 <p>I tried to run some aggregation queries on the authors_t table, such as <a href="/a1f0f53d-327b-4999-9d06-81d2c14a5eb5">What discord guild's have the most Users?</a>, but found that guild_id was missing. I need to have the data <a href="/4b5a5481-48b3-4d42-9bf8-39365ae1f4ef">noramlized</a> because if I use a join the query can be an order of magnitude slower or even more. It is best to perform aggregations, for example using <code>sum</code> or <code>group by</code> in a single table.</p>

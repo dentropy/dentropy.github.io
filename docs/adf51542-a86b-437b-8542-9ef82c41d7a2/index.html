@@ -26147,8 +26147,6 @@
       
         
       
-        
-      
     
     
     
@@ -26805,6 +26803,8 @@
       
         
       
+        
+      
     
     
     
@@ -26971,11 +26971,31 @@
   
   
     <li class="md-nav__item">
-      <a href="../16cc922f-56ea-422e-95be-72f5f55e4111" class="md-nav__link">
+      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Discord Binding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dc6a1ac7-60f0-452d-9536-9fed6d92bc51" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog - Discord Binding
   </span>
   
 
@@ -33635,6 +33655,8 @@
       
         
       
+        
+      
     
     
     
@@ -33664,6 +33686,26 @@
             Discord Data Analysis
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a976ba89-4013-4831-ab31-b5d59a7ae971" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discord Binding User Stories
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -34064,26 +34106,6 @@
   
   <span class="md-ellipsis">
     Docker VPN Router
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Discord Data Analysis
   </span>
   
 
@@ -64850,7 +64872,7 @@
   <h1>ETL to QE, Update 1, SQLite to Postgres</h1>
 
 <p>Date: <a href="/undefined">2023-10-02</a></p>
-<p>See <a href="/16cc922f-56ea-422e-95be-72f5f55e4111">Discord Binding</a> for project context</p>
+<p>See <a href="/1c376bfd-75ef-4c0d-9e23-3680653de55f">Discord Binding</a> for project context</p>
 <p>Project Context TLDR; I am trying to use the output of <a href="/undefined">DiscordChatExporter</a> which exports data from Discord Guilds to JSON files and put it into a relational database.</p>
 <h2 id="removing-sqlite-from-etl-pipeline">Removing SQLite from ETL Pipeline</h2>
 <p>Today I practiced running my ETL pipeline from end to end. During this process I discovered going from json files to sqlite to postgres is not ideal. The reasons for converting to sqlite rather then directly to postgres were the following,</p>

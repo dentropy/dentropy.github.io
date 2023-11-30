@@ -26147,8 +26147,6 @@
       
         
       
-        
-      
     
     
     
@@ -26805,6 +26803,8 @@
       
         
       
+        
+      
     
     
     
@@ -26971,11 +26971,31 @@
   
   
     <li class="md-nav__item">
-      <a href="../16cc922f-56ea-422e-95be-72f5f55e4111" class="md-nav__link">
+      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Discord Binding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dc6a1ac7-60f0-452d-9536-9fed6d92bc51" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog - Discord Binding
   </span>
   
 
@@ -33635,6 +33655,8 @@
       
         
       
+        
+      
     
     
     
@@ -33664,6 +33686,26 @@
             Discord Data Analysis
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a976ba89-4013-4831-ab31-b5d59a7ae971" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discord Binding User Stories
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -34064,26 +34106,6 @@
   
   <span class="md-ellipsis">
     Docker VPN Router
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../1c376bfd-75ef-4c0d-9e23-3680653de55f" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Discord Data Analysis
   </span>
   
 
@@ -64843,7 +64865,7 @@
   <h1>ETL to QE, Update 14, Topic Modeling</h1>
 
 <p>Date: <a href="/undefined">2023-10-19</a></p>
-<p>See <a href="/16cc922f-56ea-422e-95be-72f5f55e4111">Discord Binding</a> for project context,</p>
+<p>See <a href="/1c376bfd-75ef-4c0d-9e23-3680653de55f">Discord Binding</a> for project context,</p>
 <p>ETL to QE has been at a stand still the last couple days as I try to prioritize and sort out its vision and roadmap. No code has been written since <a href="/a04a75b2-d970-44fc-8e09-53b3aeca6f2f">ETL to QE, Update 11, Posted Results on Discord</a> while I have been coming up with new queries to run, analysis's to do, and features for the dashboard. I still have to answer simple questions like, Who is the dashboard for? What problem does it solve? and What are the different component parts? Today I thought through what the Topic Modelling feature will look like.</p>
 <h2 id="think-through-topic-modeling">Think Through Topic Modeling</h2>
 <p><a href="/97862aeb-dad1-4e01-bfe7-46210ddfc50c">Topic Modelling</a> can take in 1000's of discord messages and then create small lists of words that represent topics that were extracted from the discord messages. Getting something like <a href="/undefined">BERTopic</a> up and running taking in discord messages and outputting topics is pretty easy and strait forward. The problem of what to do with the topics after they are generated and how to do this on mass for the 26 million messages I have in my postgres database.</p>
