@@ -1334,7 +1334,6 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "38fcd810-80ab-4de0-8ad4-9c66da369de3",
@@ -1382,6 +1381,7 @@
     "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "28740a43-67c5-4930-8b5c-41c06e659c6a",
+    "a976ba89-4013-4831-ab31-b5d59a7ae971",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -1423,7 +1423,8 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
-    "16cc922f-56ea-422e-95be-72f5f55e4111",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "36bce7d0-c306-4903-873f-73fb60199312",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -3696,7 +3697,6 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": "MyProjects/Proxy Pubic IP address into my Home Network.md",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "MyProjects/Keybase Binding.md",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "MyProjects/Docker VPN Router.md",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/Discord Data Analysis.md",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "MyProjects/DentropyCloud - dc.md",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "MyProjects/DIY Keylogger.md",
     "38fcd810-80ab-4de0-8ad4-9c66da369de3": "MyProjects/DDaemon - Two Root Problems.md",
@@ -3744,6 +3744,7 @@
     "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f": "MyProjects/ETL to QE/ETL to QE, GPU accelerated Topic Modelling.md",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "MyProjects/ENS Indexing/Logs - ENS Indexing.md",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "MyProjects/ENS Indexing/ENS Indexing.md",
+    "a976ba89-4013-4831-ab31-b5d59a7ae971": "MyProjects/Discord Data Analysis/Discord Binding User Stories.md",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO use Case V0.0.1.md",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO Use case V0.0.2.md",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md",
@@ -3785,7 +3786,8 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Data Cypher Queries.md",
-    "16cc922f-56ea-422e-95be-72f5f55e4111": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md",
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Backlog - Discord Binding.md",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md",
     "36bce7d0-c306-4903-873f-73fb60199312": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1 Schema.md",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/ActivityWatch/ActivityWatch Binding.md",
@@ -6055,7 +6057,6 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": "Proxy Pubic IP address into my Home Network",
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": "Keybase Binding",
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": "Docker VPN Router",
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "Discord Data Analysis",
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": "DentropyCloud - dc",
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": "DIY Keylogger",
     "38fcd810-80ab-4de0-8ad4-9c66da369de3": "DDaemon - Two Root Problems",
@@ -6103,6 +6104,7 @@
     "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f": "ETL to QE, GPU accelerated Topic Modelling",
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": "Logs - ENS Indexing",
     "28740a43-67c5-4930-8b5c-41c06e659c6a": "ENS Indexing",
+    "a976ba89-4013-4831-ab31-b5d59a7ae971": "Discord Binding User Stories",
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": "Catechism - Discord Auditing, DAO use Case V0",
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": "Catechism - Discord Auditing, DAO Use case V0",
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": "dentropycloud",
@@ -6144,7 +6146,8 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": "Email Binding",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "Discord Elasticsearch Queries",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": "Discord Data Cypher Queries",
-    "16cc922f-56ea-422e-95be-72f5f55e4111": "Discord Binding",
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": "Discord Binding",
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": "Backlog - Discord Binding",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "Discord Binding V1",
     "36bce7d0-c306-4903-873f-73fb60199312": "Discord Binding V1 Schema",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": "ActivityWatch Binding",
@@ -8419,7 +8422,6 @@
     "MyProjects/Proxy Pubic IP address into my Home Network.md": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "MyProjects/Keybase Binding.md": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "MyProjects/Docker VPN Router.md": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
-    "MyProjects/Discord Data Analysis.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "MyProjects/DentropyCloud - dc.md": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "MyProjects/DIY Keylogger.md": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "MyProjects/DDaemon - Two Root Problems.md": "38fcd810-80ab-4de0-8ad4-9c66da369de3",
@@ -8467,6 +8469,7 @@
     "MyProjects/ETL to QE/ETL to QE, GPU accelerated Topic Modelling.md": "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f",
     "MyProjects/ENS Indexing/Logs - ENS Indexing.md": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "MyProjects/ENS Indexing/ENS Indexing.md": "28740a43-67c5-4930-8b5c-41c06e659c6a",
+    "MyProjects/Discord Data Analysis/Discord Binding User Stories.md": "a976ba89-4013-4831-ab31-b5d59a7ae971",
     "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO use Case V0.0.1.md": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "MyProjects/Discord Data Analysis/Catechism - Discord Auditing, DAO Use case V0.0.2.md": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "MyProjects/Dentropy Daemon/dentropycloud.research.reference-designs.md": "890c1069-453d-4b96-80b0-6d153cfbbe9f",
@@ -8508,7 +8511,8 @@
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md": "52116bc3-599b-4dd4-961d-21cd3426280d",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Data Cypher Queries.md": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
-    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md": "16cc922f-56ea-422e-95be-72f5f55e4111",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Backlog - Discord Binding.md": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md": "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1 Schema.md": "36bce7d0-c306-4903-873f-73fb60199312",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/ActivityWatch/ActivityWatch Binding.md": "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -10765,7 +10769,6 @@
     "Proxy Pubic IP address into my Home Network": "1059a94c-58af-4593-9fa9-82770fdf9f80",
     "Keybase Binding": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
     "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
-    "Discord Data Analysis": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
     "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
     "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe",
     "DDaemon - Two Root Problems": "38fcd810-80ab-4de0-8ad4-9c66da369de3",
@@ -10812,6 +10815,7 @@
     "ETL to QE, GPU accelerated Topic Modelling": "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f",
     "Logs - ENS Indexing": "3bbb81b1-154a-494f-acdf-781ad8ff35cf",
     "ENS Indexing": "28740a43-67c5-4930-8b5c-41c06e659c6a",
+    "Discord Binding User Stories": "a976ba89-4013-4831-ab31-b5d59a7ae971",
     "Catechism - Discord Auditing, DAO use Case V0": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
     "Catechism - Discord Auditing, DAO Use case V0": "ed188fb4-fc23-4352-90f9-34b6fe1718e3",
     "dentropycloud": "e98a394d-7608-4f7b-916e-d4863e6aa62a",
@@ -10849,7 +10853,8 @@
     "Email Binding": "52116bc3-599b-4dd4-961d-21cd3426280d",
     "Discord Elasticsearch Queries": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "Discord Data Cypher Queries": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
-    "Discord Binding": "16cc922f-56ea-422e-95be-72f5f55e4111",
+    "Discord Binding": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "Backlog - Discord Binding": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "Discord Binding V1": "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "Discord Binding V1 Schema": "36bce7d0-c306-4903-873f-73fb60199312",
     "ActivityWatch Binding": "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -18391,11 +18396,6 @@
       "uuid": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2",
       "title": "Docker VPN Router"
     },
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
-      "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-      "share": true,
-      "title": "Discord Data Analysis"
-    },
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": {
       "share": true,
       "uuid": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a",
@@ -18635,6 +18635,11 @@
       "uuid": "28740a43-67c5-4930-8b5c-41c06e659c6a",
       "title": "ENS Indexing"
     },
+    "a976ba89-4013-4831-ab31-b5d59a7ae971": {
+      "uuid": "a976ba89-4013-4831-ab31-b5d59a7ae971",
+      "share": true,
+      "title": "Discord Binding User Stories"
+    },
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": {
       "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
       "share": true,
@@ -18840,10 +18845,15 @@
       "share": true,
       "title": "Discord Data Cypher Queries"
     },
-    "16cc922f-56ea-422e-95be-72f5f55e4111": {
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
       "share": true,
-      "uuid": "16cc922f-56ea-422e-95be-72f5f55e4111",
+      "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
       "title": "Discord Binding"
+    },
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": {
+      "uuid": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
+      "share": true,
+      "title": "Backlog - Discord Binding"
     },
     "ce890113-147e-4515-8d16-b9e0abf81cd2": {
       "share": true,
@@ -23552,15 +23562,15 @@
       ]
     },
     {
-      "note_uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-      "image_links": [
-        "DiscordETL.png"
-      ]
-    },
-    {
       "note_uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4",
       "image_links": [
         "AnalysisQueries.svg"
+      ]
+    },
+    {
+      "note_uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+      "image_links": [
+        "DiscordETL.png"
       ]
     },
     {
@@ -27904,9 +27914,6 @@
       "Docker VPN Router.md": {
         "uuid": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
       },
-      "Discord Data Analysis.md": {
-        "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
-      },
       "DentropyCloud - dc.md": {
         "uuid": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
       },
@@ -28075,6 +28082,9 @@
         }
       },
       "Discord Data Analysis": {
+        "Discord Binding User Stories.md": {
+          "uuid": "a976ba89-4013-4831-ab31-b5d59a7ae971"
+        },
         "Catechism - Discord Auditing, DAO use Case V0.0.1.md": {
           "uuid": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
         },
@@ -28226,7 +28236,10 @@
                 "uuid": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7"
               },
               "Discord Binding.md": {
-                "uuid": "16cc922f-56ea-422e-95be-72f5f55e4111"
+                "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+              },
+              "Backlog - Discord Binding.md": {
+                "uuid": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51"
               },
               "V1": {
                 "Discord Binding V1.md": {
@@ -32806,12 +32819,6 @@
     "1059a94c-58af-4593-9fa9-82770fdf9f80": [],
     "3ff1df10-10b8-4206-b9b2-3bbad4b748d5": [],
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
-      {
-        "text": "Discord Binding User Stories",
-        "heading": ""
-      }
-    ],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [],
     "03ce87b5-898b-4e7a-9c47-6694c8d652fe": [],
     "38fcd810-80ab-4de0-8ad4-9c66da369de3": [],
@@ -32873,6 +32880,7 @@
     "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f": [],
     "3bbb81b1-154a-494f-acdf-781ad8ff35cf": [],
     "28740a43-67c5-4930-8b5c-41c06e659c6a": [],
+    "a976ba89-4013-4831-ab31-b5d59a7ae971": [],
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [],
     "ed188fb4-fc23-4352-90f9-34b6fe1718e3": [],
     "890c1069-453d-4b96-80b0-6d153cfbbe9f": [],
@@ -32914,7 +32922,14 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": [],
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": [],
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": [],
-    "16cc922f-56ea-422e-95be-72f5f55e4111": [],
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
+      {
+        "link": "a976ba89-4013-4831-ab31-b5d59a7ae971",
+        "text": "Discord Binding User Stories",
+        "heading": ""
+      }
+    ],
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": [],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [],
     "36bce7d0-c306-4903-873f-73fb60199312": [],
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": [],
@@ -33967,7 +33982,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "link": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
@@ -34045,7 +34060,7 @@
     "e76c8ac9-69f3-477f-8015-556e83738432": [
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "link": "f43d858e-c32e-4d15-bfc4-456bb7f56ceb",
@@ -37306,7 +37321,7 @@
     "94394a3f-55e8-4953-8fd1-4288597cbbf3": [],
     "434d4a81-f2cc-4a50-b75c-0c66af4c15b2": [
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -40216,6 +40231,9 @@
         "text": "What are the total sum of URL links in each discord channel of a specific discord guild"
       },
       {
+        "text": "How to extract URL link metadata such as domain name and connect it with the discord messages they were listed in?"
+      },
+      {
         "link": "320d56d6-d028-425b-a1de-10d80b6d8669",
         "text": "How many messages per channel in a particular discord guild?"
       },
@@ -40227,6 +40245,9 @@
       },
       {
         "text": "How to get all URL's posted by a specific author in a specific discord guild?"
+      },
+      {
+        "text": "How to connect twitter, youtube and other platform links in discord messages to said platforms metadata?"
       },
       {
         "link": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
@@ -41998,7 +42019,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       }
     ],
     "6d0bbf21-e1ea-4a09-9597-ec479b998235": [
@@ -42632,54 +42653,6 @@
       }
     ],
     "aeb2a3d9-c371-404a-ae82-f9c70253e0e2": [],
-    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
-      {
-        "text": "DiscordChatExporter"
-      },
-      {
-        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
-        "text": "Postgres"
-      },
-      {
-        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
-        "text": "Questions for Discord Data"
-      },
-      {
-        "link": "8d4d461f-49f7-4dbd-829f-807d0bb602df",
-        "text": "The 4 Step plan for Question Engine"
-      },
-      {
-        "text": "Catechism - Discord Auditing, DAO use Case V0.0.1"
-      },
-      {
-        "text": "DAO Auditing via Discord - Design Decision Logs"
-      },
-      {
-        "text": "DAO Auditing via Discord - Design Questions"
-      },
-      {
-        "link": "7e381790-c582-4f58-9350-ef2e51efa9cf",
-        "text": "ETL"
-      },
-      {
-        "text": "DiscordChatExporter"
-      },
-      {
-        "text": "Where to find Discord Guilds to Join?"
-      },
-      {
-        "text": "How to get Discord User Token?"
-      },
-      {
-        "text": "How to scrape a Single Discord Guild?"
-      },
-      {
-        "text": "How to scrape a data from a Single Discord Account using DiscordChatExporter?"
-      },
-      {
-        "text": "What do I do about those RClone Errors from copying Discord Data to S3?"
-      }
-    ],
     "53b4819a-70af-4a7d-be7f-c79d3b1fa40a": [
       {
         "link": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5",
@@ -43069,7 +43042,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "link": "053d3ec8-825f-40bd-b187-926273159b09",
@@ -43085,7 +43058,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "link": "053d3ec8-825f-40bd-b187-926273159b09",
@@ -43133,7 +43106,7 @@
         "text": "2023-10-13"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       }
     ],
@@ -43142,7 +43115,7 @@
         "text": "2023-10-12"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43162,7 +43135,7 @@
         "text": "2023-10-11"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43189,7 +43162,7 @@
         "text": "2023-10-10"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43243,11 +43216,11 @@
         "text": "2023-10-05"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43328,7 +43301,7 @@
         "text": "2023-10-04"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43361,7 +43334,7 @@
         "text": "2023-10-03"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43434,7 +43407,7 @@
         "text": "2023-10-19"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43458,7 +43431,7 @@
         "text": "2023-10-19"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43503,7 +43476,7 @@
         "text": "2023-10-18"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43528,7 +43501,7 @@
         "text": "2023-10-17"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43543,7 +43516,7 @@
         "text": "2023-10-16"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       }
     ],
@@ -43552,7 +43525,7 @@
         "text": "2023-10-02"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43602,7 +43575,7 @@
         "text": "2023-10-19"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
       {
@@ -43709,6 +43682,7 @@
         "text": "ethersjs"
       }
     ],
+    "a976ba89-4013-4831-ab31-b5d59a7ae971": [],
     "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4": [
       {
         "text": "What interactions am I personally looking for on Discord? 1"
@@ -43719,7 +43693,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "link": "fe4c8191-b213-44c3-9e9b-0cd31b42e303",
@@ -43858,6 +43832,7 @@
     ],
     "7621dfbb-6988-4e80-9836-a8011f664099": [
       {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
         "text": "Backlog - Discord Binding"
       },
       {
@@ -43893,12 +43868,14 @@
         "text": "Backlog - Question Engine"
       },
       {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
         "text": "Backlog - Discord Binding"
       },
       {
         "text": "Backlog - Map Effective Accelerationism"
       },
       {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
         "text": "Backlog - Discord Binding"
       },
       {
@@ -44260,8 +44237,59 @@
       }
     ],
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": [],
-    "16cc922f-56ea-422e-95be-72f5f55e4111": [
+    "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
+        "text": "DiscordChatExporter"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "link": "8d4d461f-49f7-4dbd-829f-807d0bb602df",
+        "text": "The 4 Step plan for Question Engine"
+      },
+      {
+        "text": "Catechism - Discord Auditing, DAO use Case V0.0.1"
+      },
+      {
+        "text": "DAO Auditing via Discord - Design Decision Logs"
+      },
+      {
+        "text": "DAO Auditing via Discord - Design Questions"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "Discord Binding"
+      },
+      {
+        "link": "7e381790-c582-4f58-9350-ef2e51efa9cf",
+        "text": "ETL"
+      },
+      {
+        "text": "DiscordChatExporter"
+      },
+      {
+        "text": "Where to find Discord Guilds to Join?"
+      },
+      {
+        "text": "How to get Discord User Token?"
+      },
+      {
+        "text": "How to scrape a Single Discord Guild?"
+      },
+      {
+        "text": "How to scrape a data from a Single Discord Account using DiscordChatExporter?"
+      },
+      {
+        "text": "What do I do about those RClone Errors from copying Discord Data to S3?"
+      },
+      {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
         "text": "Backlog - Discord Binding"
       },
       {
@@ -44284,6 +44312,47 @@
       },
       {
         "text": "Discord Datapipeline"
+      }
+    ],
+    "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": [
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "Discord Binding"
+      },
+      {
+        "text": "Logs - Discord Binding"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "text": "Make a video recording ddaemon discord binding what I got so far"
+      },
+      {
+        "text": "Graph QL Alchemy"
+      },
+      {
+        "text": "Graph all the SQL queries for Discord Data from for who is worth getting to know and how to get to know them"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "text": "2023-11-30"
+      },
+      {
+        "text": "2023-11-29"
+      },
+      {
+        "text": "2023-11-28"
+      },
+      {
+        "text": "2023-11-27"
+      },
+      {
+        "text": "2023-11-23"
       }
     ],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [
@@ -44835,7 +44904,7 @@
         "text": "wiki.ddaemon.monorepo.bindings.keybase"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "wiki.ddaemon.monorepo.bindings.discord"
       },
       {
@@ -44909,7 +44978,7 @@
         "text": "wiki.ddaemon.monorepo.bindings"
       },
       {
-        "link": "16cc922f-56ea-422e-95be-72f5f55e4111",
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "wiki.ddaemon.monorepo.bindings.discord"
       },
       {
@@ -49179,7 +49248,7 @@
         "text": "Artisinal Skill Share"
       },
       {
-        "text": "dentropys-obsidian-publisher\n* [[Discord Data Analysis"
+        "text": "dentropys-obsidian-publisher\n* [[Discord Binding"
       },
       {
         "link": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",
@@ -49195,7 +49264,7 @@
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
-        "text": "Discord Data Analysis"
+        "text": "Discord Binding"
       },
       {
         "text": "Dentropy Daemon - dd Old"
@@ -49253,6 +49322,7 @@
         "text": "User Stories"
       },
       {
+        "link": "a976ba89-4013-4831-ab31-b5d59a7ae971",
         "text": "Discord Binding User Stories"
       },
       {

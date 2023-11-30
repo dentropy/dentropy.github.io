@@ -3387,7 +3387,10 @@
                         "Discord Data Cypher Queries": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7"
                       },
                       {
-                        "Discord Binding": "16cc922f-56ea-422e-95be-72f5f55e4111"
+                        "Discord Binding": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+                      },
+                      {
+                        "Backlog - Discord Binding": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51"
                       }
                     ]
                   },
@@ -4195,6 +4198,9 @@
       {
         "Discord Data Analysis": [
           {
+            "Discord Binding User Stories": "a976ba89-4013-4831-ab31-b5d59a7ae971"
+          },
+          {
             "Catechism - Discord Auditing, DAO use Case V0.0.1": "a5fc0cc8-0abb-4192-8675-b98e8ee9fad4"
           },
           {
@@ -4248,9 +4254,6 @@
       },
       {
         "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
-      },
-      {
-        "Discord Data Analysis": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
       },
       {
         "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
