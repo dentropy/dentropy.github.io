@@ -337,7 +337,7 @@ nav:
         - EVM:
             - EVM Compatible: 69c74487-6f3b-4eeb-b858-bfacd5a92658
         - Discord:
-            - Bots: 242edfe1-c98b-45ea-856e-25299086793d
+            - Discord Bots: 242edfe1-c98b-45ea-856e-25299086793d
         - Debian:
             - Troubleshooting Debian: ebb51eba-3d84-4a89-9566-72b1963e6c4a
             - Debian Based Fresh Install: e231d0df-f038-4611-b9b5-e05c6549b328
@@ -819,7 +819,7 @@ nav:
         - Filecoin: 9249d3c4-3d1c-4621-95a5-4d5c3e8cf8b5
         - Fedora: cddf176b-95cf-45ab-9000-55a3c9e27b38
         - Feast Software: 41f616fc-ac5b-47fc-830b-cb96e201a5a5
-        - Favourite Obsidian Plugins: 275484f1-3b27-4128-93bb-a12846eb3a02
+        - Favorite Obsidian Plugins: 275484f1-3b27-4128-93bb-a12846eb3a02
         - Farcaster: 37fc6869-e5ef-4549-9b15-9dbea06658bd
         - Faraday.dev: 2482e507-0def-445e-844e-3e7159cb2a57
         - FairyNote: e6d40805-4078-4db3-96c5-d51ca55ea8ac
@@ -1121,10 +1121,11 @@ nav:
                     - V1:
                         - Discord Binding V1: ce890113-147e-4515-8d16-b9e0abf81cd2
                         - Discord Binding V1 Schema: 36bce7d0-c306-4903-873f-73fb60199312
+                    - Roadmap - Discord Binding: dc6a1ac7-60f0-452d-9536-9fed6d92bc51
+                    - Queries Implemented in queries.py: 3a44d50b-0280-42f8-8fa0-6c15d4ffe161
                     - Discord Elasticsearch Queries: 755e7c50-f7f1-42d9-a6ac-d147103acd05
                     - Discord Data Cypher Queries: 75f91c17-64d4-4aa6-a84f-40c2613a7ab7
                     - Discord Binding: 1c376bfd-75ef-4c0d-9e23-3680653de55f
-                    - Backlog - Discord Binding: dc6a1ac7-60f0-452d-9536-9fed6d92bc51
                 - Whatsapp:
                     - Whatsapp Binding: 04a10593-c9c5-43ce-a8f0-d457f2353d88
                 - Twitter:
@@ -1353,7 +1354,6 @@ nav:
         - obsidian-publish + hugo: 55f88f15-e0a1-48eb-a9b4-3bf370ede0f1
         - Let's Learn Web Scraping: 3dc8dff3-226e-4315-a126-df63912c5265
     - ETL to QE:
-        - The 4 Step plan for Question Engine: 8d4d461f-49f7-4dbd-829f-807d0bb602df
         - The 4 Step plan for Question Engine v0.0.1: 9dfba51c-8092-411d-859b-9acf356ec385
         - Tasks for ETL to Question Engine: a6649a28-5862-4820-8797-1cfaf2ba1713
         - "ETL to QE, Update 9, Wrote an ETL Class": c307374d-a751-437a-8eb4-ff3dc7808499
@@ -1372,10 +1372,12 @@ nav:
         - "ETL to QE, Update 10, Time Queries": 8a04da32-878d-4f6c-9973-ed58870b250f
         - "ETL to QE, Update 1, SQLite to Postgres": adf51542-a86b-437b-8542-9ef82c41d7a2
         - "ETL to QE, GPU accelerated Topic Modelling": 0a62e9d5-68ae-41a5-8bdb-7773b59abc1f
+        - Dentropy Daemon Roadmap: 8d4d461f-49f7-4dbd-829f-807d0bb602df
     - ENS Indexing:
         - Logs - ENS Indexing: 3bbb81b1-154a-494f-acdf-781ad8ff35cf
         - ENS Indexing: 28740a43-67c5-4930-8b5c-41c06e659c6a
     - Discord Data Analysis:
+        - Discord Guild Specific Report: a41f63f6-9eaf-41bb-8e62-e47ffa29cb92
         - Discord Binding User Stories: a976ba89-4013-4831-ab31-b5d59a7ae971
         - "Catechism - Discord Auditing, DAO use Case V0.0.1": a5fc0cc8-0abb-4192-8675-b98e8ee9fad4
         - "Catechism - Discord Auditing, DAO Use case V0.0.2": ed188fb4-fc23-4352-90f9-34b6fe1718e3
@@ -2368,6 +2370,7 @@ nav:
     - How To Do Research: de8df389-b5c2-41b9-baad-63582d46c832
     - Get list of all wikipedia articles: dd0e7670-af04-4eb0-8af5-5a85af115360
     - Docker Postgres with Backup and Restore: c32224a7-826f-47a5-a7af-dfe0ffcdb2f1
+    - Discord Scraping Procedures: dc48a7b7-34e6-4113-bdeb-c655cf2da186
     - Dentropys's SQL Alchemy Tutorial: 34aa710f-0d0e-4098-88aa-e0b554a2298e
     - Create a Multi ISO USB Drive and document the process as a tutorial: 69a15b0e-608e-4f59-ba71-a4b159ca12a0
     - Backlog - Tutorials: 31f7e81a-967e-41f4-872e-91d1571df726
@@ -2378,6 +2381,7 @@ nav:
 - Quests:
     - List:
         - Who is worth getting to know on Discord DAO Guilds?: 315a04ff-5358-4d9f-840e-09c7ab7ea1a2
+        - Research Example Project Roadmaps: e56b849c-2f2f-42cf-83a1-ba42a5a9cf57
         - If I control my planet in bridge with a Hardware Wallet and I lose my master ticket can I regenerate it?: 17db1c37-5a7e-4f24-98d5-5ef5276553bb
         - How to send data between Urbit ships using Hoon?: 5754d8d2-c988-4bce-a42e-2353ee3344c9
         - How do we get to know individuals in Discord DAO Guilds?: d9749f38-2694-405a-a5af-4ef357f29d9c
@@ -2391,25 +2395,26 @@ nav:
         - Who is the most consistent poster within a Discord Guild?: dba668aa-bb99-46d5-9942-9f41bed27766
         - Who gets replied to the most in a particular discord guild?: 94a09a5b-5712-40f6-b902-a162a82c4129
         - Who does the most replying in a particular discord guild?: d4667470-72b3-42f6-8b26-bf9150f8bafb
-        - Who are the most active Users within a Discord Guild?: 5834c212-c616-4a8e-8b6e-16d4007cea7f
         - Which discord channel was most active between two dates?: 25b82439-effc-4780-a493-2ababf099494
         - "Where is a list of the most popular Urbit apps, also including their source code?": b633ea18-544c-4f74-ae9d-3395c9a78192
         - When was the most active month for the most active channel in each discord guild?: 30d09691-d6bc-462d-b9ae-8534e88e4cf1
         - "What time of day does the particular discord author post their messages, group by hour?": d0faa6c6-be48-4170-941a-a30d833f6d1c
         - What problem does the dentropydaemon solve?: 97e9c159-ac4f-454b-a2fe-0922348e0480
         - "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": fb38895a-faca-42e7-8e40-416fe115a9ee
-        - What percentage of days actually have messages?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
+        - What percentage of days actually have messages for a specific discord guild?: 3fb84a3c-742b-423a-a881-d5b46fd82a28
         - "What percentage of all messages in Discord Guild came from 1, 10, and 100 Authors?": ae8cb99d-65d5-404f-9d83-4572cca17719
         - What other some projects that scraped fandom.com?: 4cb580de-4980-4475-9878-faba48388dd2
         - What month was X discord guild the most active?: 0f897f8f-e4b5-4e18-834f-7082f950dfb6
         - What message with an attachment from a particular author in a discord guild got the most reactions?: 2c19f286-32de-4f5e-94f0-98d6eae21492
+        - What is the number of messages in each channel for a specific discord guild?: 22ff490c-f5af-4dbc-aab9-66cfa4a4697b
+        - What is the number of channels within a specific discord guild?: 4ed752fe-249c-49ac-aaad-43d365c385dd
         - What is the name of the most active channel in each discord guild?: 27802970-c6dc-462e-8210-216bb1eb6a36
-        - What is the most active channel in a discord guild?: 45f50e6a-fb81-4f7c-87b6-70785da72633
         - What is the median message count per channel in a particular Discord Guild?: 3fbf2fad-a355-4b8d-8d2d-0133ec53773d
         - What is the length of the Bertopic default dataset from sklearn?: 7b81aadb-d7cd-4afa-8c16-4402e8ce19d5
         - What is the average message count per Channel in a particular Discord Guild?: ad60bd2d-b872-4d0b-8f13-6f4214896871
         - What is the average message count for most active X days of a Discord Guild?: 9a9414ed-c3bd-433e-bb5b-4732aff405a0
-        - What is the average half life of top 30% active users?: 4f6a01a0-6799-43a6-b36a-38edd59d36fc
+        - What is the average half life of top x% active users?: 4f6a01a0-6799-43a6-b36a-38edd59d36fc
+        - What is the age of the oldest message in each channel of a specific discord guild?: 29361fd4-6f1d-46b5-8154-c0b0ee39381d
         - What is the activity per month of each discord guild measured in messages per month?: edb39918-b02f-4ee7-b2b2-d902c8370412
         - What is the activity of each month for each guild normalized on a single graph?: 8b9a34f5-a141-47be-ab51-091a0e05339b
         - What is the Mimetic File System?: d6bc0e0e-54f2-4389-a143-3bb60f8daa61
@@ -2418,11 +2423,8 @@ nav:
         - What is ETL to Question Engine?: 65d3b35b-b939-4da8-bd29-e206dd2ea9bc
         - What discord users show up in multiple guilds?: 1151704f-92c1-4273-9a2a-af361dfb88be
         - What discord user was the most active for a particular date range within a particular discord guild?: cca39f0d-a173-4849-986f-fbc5ea0e46bf
-        - What discord user sent the most messages in a particular discord guild?: d473e743-c32d-45f7-bfe8-9836eeff97f4
         - What discord user has the longest average message length?: c71bada1-ae88-4a99-bfec-84efafe8fed9
         - What discord user has the longest average message length in a particular guild?: 2f4fd09e-24a3-4359-81b2-049742a03610
-        - What discord user has the highest spike in activity in single day?: 0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615
-        - What discord user asked the most questions in a specific guild?: c102ef60-4b8c-423e-8102-69578c1ec330
         - What discord messages were reacted to the most from this particular author?: f386a8f1-5a03-4800-b3fb-9ff569a064af
         - What discord guilds have the most messages?: 2e369507-1f65-4c97-9a37-375f2b5d27fb
         - What discord guild's have the most channels?: 5fda1ed0-692e-4c6f-9a52-917ca152b003
@@ -2431,17 +2433,23 @@ nav:
         - What discord channel has the longest average message length?: 0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1
         - What discord channel has the longest average message length of a particular guild?: 86ac9f2f-087d-4791-a0e0-2f01688fe0c7
         - What discord author was mentioned the most?: 02996ff2-f55e-4eae-a4b6-15d042b92896
+        - What discord author has the highest spike in activity in single day from a specific discord guild?: 0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615
         - What discord author got the most reactions to their messages?: 31ea5eb0-424d-4bac-ac87-dcc463b5d92d
         - What discord author got the most distinct reactions to their messages?: 1045dbd7-8a3e-4975-8dea-fe81c3c354d1
         - What discord author edits the highest percentage of their messages within a particular discord guild?: 80a2d7fc-3d80-420a-ba6b-d9bd41206606
+        - What discord attachment message has the most reactions?: 0ddac7dd-a016-4971-b163-b4f890232e50
         - What day of the week does the particular discord author post their messages?: cb543a19-8513-43ae-8720-5ffeaec4a385
         - What channel was a discord author mentioned the most in within a particular discord guild?: 35fb0306-f973-4de1-805c-7a027ed7c9a7
         - What authors posted the most in each discord guild?: 34592fa9-bd8d-4237-bdff-36cb58fdc21e
+        - What authors posted the most in a specific discord guild?: 7922cc2d-f1cc-435d-832d-5fa4d555b121
         - What authors posted in a specific discord channel?: cfa39119-a580-49de-8562-259a33f3b80f
         - What authors posted in a particular discord guild?: 90c0ecd1-f1d2-4f89-84ea-aa1b615644e3
+        - What authors asked the most questions within a specific discord guild?: c102ef60-4b8c-423e-8102-69578c1ec330
+        - What author posted the most in a specific discord guild?: 5834c212-c616-4a8e-8b6e-16d4007cea7f
         - What are the zero to hero urbit app examples with source code?: 4212d688-8696-4f32-8813-7edab4080e1c
         - What are the parts of a URL?: df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8
         - What are the most popular parts of the Hoon standard library?: d228c0d3-4420-42e8-9932-0aab68e08350
+        - What are the most active channels in a specific discord guild?: 45f50e6a-fb81-4f7c-87b6-70785da72633
         - What are the discord guilds are in the database?: 26b46eff-ac32-457c-b35b-cd936fa1af83
         - What are the channels of a particular discord guild?: a0219c15-6f5c-41b6-888f-41698790b9d2
         - What are the basics of Hoon?: d501e972-f005-4aba-a7bf-3404b735c27a
@@ -2465,9 +2473,11 @@ nav:
         - How to order folders by most files in each folder?: dcf1ad67-afbc-4444-b037-a6d3c4938135
         - How to make a REST API in hoon so I can use curl on my urbit ship?: 77034042-9d84-4a9b-b6b0-ab93bbde1d4b
         - How to list total number of files in directory recursively?: 8c3d5832-d1d2-4564-95b4-ead1e83d5f8e
-        - How to list the number of Bots on a Discord Guild?: dd096aae-3c6c-437b-9890-76e7355b93a0
+        - How to list the number of authors within a specific discord guild?: 3b702235-9c4e-4b3a-9d5c-09c4da822409
+        - How to list the most reacted to URL's from a specific discord guild?: 2afa5525-8727-4032-8742-56a176e63c82
+        - How to list Bots on a Discord Guild?: dd096aae-3c6c-437b-9890-76e7355b93a0
         - How to install OpenZepplin in Hardhat.js: 3b73f02b-021d-41b2-b094-af347aa351da
-        - How to get message count by day for a single discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
+        - How to get message count by day for a particular discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
         - How to generate a word cloud based on a discord authors messages in a particular discord guild?: af9ab3a8-c2bd-4241-b8ed-0cfba608070c
         - How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
         - How to edit a file inside a Desk from inside Dojo?: ed0f66f5-3cfd-459f-bded-decfb2cb02ef
@@ -2479,11 +2489,16 @@ nav:
         - How to conduct user research through surveys?: 8845c35b-1532-4efc-af8f-6ec7c97d91bc
         - How to check if file or directory exists using python3?: 301a1a37-47e3-4dc4-8d1c-1f16bf9338b5
         - How to Remove files recursively in Linux?: 6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186
+        - How much activity for a specific discord guild per month?: efcd6f7d-b36e-4032-b89b-0fe9fd5a0da9
+        - How much activity for a specific discord guild per day of week?: 7cd7bef3-c7ca-4d80-b02b-ba6552b6087c
         - How many users have posted more than 100 messages in a particular discord guild?: edc06a13-7305-4b5f-8eb6-9e8eb1b4df23
+        - How many times was each domain name mentioned in a specific discord guild?: 7164edc9-2cb5-4505-b30f-bb1664a6fe2f
         - How many times did a particular author post a particular discord guild?: 637757e1-13bf-4560-94c5-92052bf389e5
-        - How many messages per channel in a particular discord guild?: 320d56d6-d028-425b-a1de-10d80b6d8669
+        - How many messages per channel in a specific discord guild?: 320d56d6-d028-425b-a1de-10d80b6d8669
+        - How many messages per author in a specific discord guild?: d473e743-c32d-45f7-bfe8-9836eeff97f4
         - How many messages has a user posted in each discord channel of a particular discord guild?: d4d9a29d-c144-4b7b-bb49-af768905cd79
-        - How many authors posted in each particular channel of a particular discord guild?: a1e2f1f3-a636-4f25-949f-e9bec02f9830
+        - How many authors posted in each specific channel of a specific discord guild?: a1e2f1f3-a636-4f25-949f-e9bec02f9830
+        - How many attachments of a specific file type are each channel of a specific discord guild?: 3d0bc481-e27a-4076-9452-302ec5dd7ce5
         - How does one store a 2 dimensional matrix in Hoon?: 22fe8e8c-bb6e-4df5-bcca-03375c9dfd00
         - How does async await work in Hoon?: f7097115-4e65-4c20-80b9-663e8d954c88
         - How do you split a string by a specific character into a list of strings in Hoon?: d489b5cd-9f29-47b1-af41-d6795d33792a
@@ -2497,6 +2512,7 @@ nav:
         - Random Questions for Discord Data: a0e190a2-4225-4937-b81d-45fd29e0c4ce
         - Questions to Answer in General Report to Compare Discord Guilds: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
         - Questions for DAO Platforms: 81513d3d-8329-4638-b04e-e6cb2002e439
+        - Questions for Community Managers: 6f6e717a-0936-4936-a844-93a7af2c1a8e
         - Project Kickoff Questions: 24f446da-27ff-4625-8f2f-9a32388c377d
     - Questions for Question Engine: a739aa8a-2a04-4f01-bd2e-0434d47d96bd
     - Questions for Discord Data: 46abc67b-bbe7-4800-82f5-f08d4c457ef0
@@ -2651,5 +2667,7 @@ nav:
 - Tutorials and Learning Pathways: 5ba9b0de-6aad-48fa-ab60-ae39c62a027a
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Mimetic File System: b93b6058-c6a0-488e-a4b1-13bfe452b1c7
+- How to count the number of bots on a specific discord guild?: d1c748eb-cb64-4a67-9e19-20cceb9fc1db
+- How to count the number of authors within a specific discord guild?: 63d6106e-79d3-47ec-b06d-d613ab3ff71d
 - Dentropy's Tutorials: b554fe38-0be3-4e5e-a817-41077f5f6e69
 - Blog Posts: 3d59d5cc-de9f-42d3-96fd-e4bb02710a33
