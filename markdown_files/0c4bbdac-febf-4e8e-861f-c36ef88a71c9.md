@@ -1,7 +1,7 @@
 ---
 uuid: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
 share: true
-title: Questions to Answer in General Report to Compare Discord Guilds
+title: Queries Comparing Discord Guilds
 ---
 1. [What are the discord guilds are in the database?](/26b46eff-ac32-457c-b35b-cd936fa1af83)
 2. [Order discord Guild's by the oldest message?](/f87ebf9c-0d6e-4224-9418-badaa496ce2f)
@@ -22,7 +22,3 @@ title: Questions to Answer in General Report to Compare Discord Guilds
 13. [What is the average half life of top x% active users?](/4f6a01a0-6799-43a6-b36a-38edd59d36fc)
 14. [What are the sum of messages in each discord guild?](/undefined)
 17. [What authors posted the most in each discord guild?](/34592fa9-bd8d-4237-bdff-36cb58fdc21e)
-
-Queries in Progress:
-
-* [What is the rate of new users joining the discord guild?](/undefined)

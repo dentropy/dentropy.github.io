@@ -7,7 +7,9 @@
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69",
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
     "34608d94-e304-4aa4-9339-f23d3fa39359",
@@ -937,6 +939,7 @@
     "49f1b279-196d-40ef-b333-5d04748d7e96",
     "793811ec-3199-4709-9291-c06229e022f1",
     "69c74487-6f3b-4eeb-b858-bfacd5a92658",
+    "687219ba-9009-4012-8986-f816c048a784",
     "242edfe1-c98b-45ea-856e-25299086793d",
     "ebb51eba-3d84-4a89-9566-72b1963e6c4a",
     "e231d0df-f038-4611-b9b5-e05c6549b328",
@@ -1129,10 +1132,17 @@
     "4cb580de-4980-4475-9878-faba48388dd2",
     "0f897f8f-e4b5-4e18-834f-7082f950dfb6",
     "2c19f286-32de-4f5e-94f0-98d6eae21492",
+    "53d082f2-cdd8-443f-ab0e-527915f88f45",
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b",
+    "333a03ed-caee-4355-841a-4af914799849",
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64",
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004",
     "4ed752fe-249c-49ac-aaad-43d365c385dd",
     "27802970-c6dc-462e-8210-216bb1eb6a36",
+    "16563015-3102-4e34-92c3-08aee5f52dd9",
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d",
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02",
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5",
     "ad60bd2d-b872-4d0b-8f13-6f4214896871",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
@@ -1156,6 +1166,7 @@
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "02996ff2-f55e-4eae-a4b6-15d042b92896",
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c",
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
     "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
     "1045dbd7-8a3e-4975-8dea-fe81c3c354d1",
@@ -1171,6 +1182,8 @@
     "5834c212-c616-4a8e-8b6e-16d4007cea7f",
     "4212d688-8696-4f32-8813-7edab4080e1c",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
+    "1b602ce2-6e32-482a-8d60-daf9f4997974",
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
     "d228c0d3-4420-42e8-9932-0aab68e08350",
     "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "26b46eff-ac32-457c-b35b-cd936fa1af83",
@@ -1184,22 +1197,26 @@
     "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "faf2668b-49df-469f-a630-fca35d1c7c9d",
     "f4753c78-856b-4dcb-813e-4be6a80db023",
     "fdaf9b18-a664-4861-894b-836af806393a",
     "98338dc9-0611-4650-85af-75b2b67f3207",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
+    "3c8179a3-265d-4591-881c-d6720b8d4417",
     "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
     "dcf1ad67-afbc-4444-b037-a6d3c4938135",
+    "83d03dd6-f408-4f08-a698-6583f2668bdd",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
     "3b702235-9c4e-4b3a-9d5c-09c4da822409",
     "2afa5525-8727-4032-8742-56a176e63c82",
     "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "3b73f02b-021d-41b2-b094-af347aa351da",
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -1232,9 +1249,9 @@
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "c62c2add-e005-4a80-b6f9-370612abc42d",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
-    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "81513d3d-8329-4638-b04e-e6cb2002e439",
     "6f6e717a-0936-4936-a844-93a7af2c1a8e",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "24f446da-27ff-4625-8f2f-9a32388c377d",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -1440,9 +1457,19 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d",
     "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "3a44d50b-0280-42f8-8fa0-6c15d4ffe161",
+    "974d677f-15f0-4cf2-813d-69fb843b9367",
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf",
+    "88b3a4ff-8c43-416c-baed-f89483f9347a",
+    "5e079c99-f189-4078-8330-da0ca4be0a3c",
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147",
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed",
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "f6c57d06-6240-41fc-9174-7a6b18362030",
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
     "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "36bce7d0-c306-4903-873f-73fb60199312",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -2393,7 +2420,9 @@
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": "Mimetic File System.md",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": "How to count the number of bots on a specific discord guild?.md",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": "How to count the number of authors within a specific discord guild?.md",
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": "How many attachments of each file type are in each discord channel of a specific discord guild?.md",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials.md",
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f": "Custom Discord Queries.md",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Blog Posts.md",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": "Writings/Blog Posts and Videos.md",
     "34608d94-e304-4aa4-9339-f23d3fa39359": "Writings/Versioned/You took the Transhumanist Wager Now What?/You took the Transhumanist Wager Now What?.md",
@@ -3318,6 +3347,7 @@
     "49f1b279-196d-40ef-b333-5d04748d7e96": "Software/List/Elasticsearch/Examples/Basics.md",
     "793811ec-3199-4709-9291-c06229e022f1": "Software/List/Elasticsearch/Examples/API.md",
     "69c74487-6f3b-4eeb-b858-bfacd5a92658": "Software/List/EVM/EVM Compatible.md",
+    "687219ba-9009-4012-8986-f816c048a784": "Software/List/Discord/Discord Queries Aggregated by Day.md",
     "242edfe1-c98b-45ea-856e-25299086793d": "Software/List/Discord/Discord Bots.md",
     "ebb51eba-3d84-4a89-9566-72b1963e6c4a": "Software/List/Debian/Troubleshooting Debian.md",
     "e231d0df-f038-4611-b9b5-e05c6549b328": "Software/List/Debian/Debian Based Fresh Install.md",
@@ -3510,10 +3540,17 @@
     "4cb580de-4980-4475-9878-faba48388dd2": "Questions/list/What other some projects that scraped fandom.com?.md",
     "0f897f8f-e4b5-4e18-834f-7082f950dfb6": "Questions/list/What month was X discord guild the most active?.md",
     "2c19f286-32de-4f5e-94f0-98d6eae21492": "Questions/list/What message with an attachment from a particular author in a discord guild got the most reactions?.md",
+    "53d082f2-cdd8-443f-ab0e-527915f88f45": "Questions/list/What is the rate of new users joining the specific discord guild per month?.md",
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b": "Questions/list/What is the number of messages in each channel for a specific discord guild?.md",
+    "333a03ed-caee-4355-841a-4af914799849": "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by week?.md",
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64": "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by month?.md",
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004": "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by day?.md",
     "4ed752fe-249c-49ac-aaad-43d365c385dd": "Questions/list/What is the number of channels within a specific discord guild?.md",
     "27802970-c6dc-462e-8210-216bb1eb6a36": "Questions/list/What is the name of the most active channel in each discord guild?.md",
+    "16563015-3102-4e34-92c3-08aee5f52dd9": "Questions/list/What is the most replied to message from a specific author in a particular discord guild?.md",
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc": "Questions/list/What is the most reacted to message from a specific author in a particular discord guild?.md",
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d": "Questions/list/What is the median message count per channel in a particular Discord Guild?.md",
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02": "Questions/list/What is the longest message from a specific author in a particular discord guild?.md",
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5": "Questions/list/What is the length of the Bertopic default dataset from sklearn?.md",
     "ad60bd2d-b872-4d0b-8f13-6f4214896871": "Questions/list/What is the average message count per Channel in a particular Discord Guild?.md",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": "Questions/list/What is the average message count for most active X days of a Discord Guild?.md",
@@ -3535,8 +3572,9 @@
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": "Questions/list/What discord guild's have the most Users?.md",
     "8db17737-329a-485d-9f99-98dce3ec1462": "Questions/list/What discord channels have the most messages?.md",
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": "Questions/list/What discord channel has the longest average message length?.md",
-    "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "Questions/list/What discord channel has the longest average message length of a particular guild?.md",
+    "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "Questions/list/What discord channel has the longest average message length of a specific guild?.md",
     "02996ff2-f55e-4eae-a4b6-15d042b92896": "Questions/list/What discord author was mentioned the most?.md",
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c": "Questions/list/What discord author responds most to questions in a specific discord guild?.md",
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615": "Questions/list/What discord author has the highest spike in activity in single day from a specific discord guild?.md",
     "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": "Questions/list/What discord author got the most reactions to their messages?.md",
     "1045dbd7-8a3e-4975-8dea-fe81c3c354d1": "Questions/list/What discord author got the most distinct reactions to their messages?.md",
@@ -3552,6 +3590,8 @@
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": "Questions/list/What author posted the most in a specific discord guild?.md",
     "4212d688-8696-4f32-8813-7edab4080e1c": "Questions/list/What are the zero to hero urbit app examples with source code?.md",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": "Questions/list/What are the parts of a URL?.md",
+    "1b602ce2-6e32-482a-8d60-daf9f4997974": "Questions/list/What are the number of reactions for messages aggregated by month, week, and day?.md",
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc": "Questions/list/What are the number of mentions from other authors for a particular author in a particular discord guild?.md",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "Questions/list/What are the most popular parts of the Hoon standard library?.md",
     "45f50e6a-fb81-4f7c-87b6-70785da72633": "Questions/list/What are the most active channels in a specific discord guild?.md",
     "26b46eff-ac32-457c-b35b-cd936fa1af83": "Questions/list/What are the discord guilds are in the database?.md",
@@ -3565,22 +3605,26 @@
     "74693802-2d24-44c8-9cc4-1eea10bccf94": "Questions/list/How to write and deploy a ERC721 token using Hardhat.js.md",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "Questions/list/How to write Hello World in Hoon and Urbit?.md",
+    "faf2668b-49df-469f-a630-fca35d1c7c9d": "Questions/list/How to visualize the message count of each author in a specific channel?.md",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "Questions/list/How to visualize represent storage on a computer drive?.md",
     "fdaf9b18-a664-4861-894b-836af806393a": "Questions/list/How to view a discord message in context?.md",
     "98338dc9-0611-4650-85af-75b2b67f3207": "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": "Questions/list/How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?.md",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": "Questions/list/How to send a file form one ship to another on Urbit using Hoon?.md",
+    "3c8179a3-265d-4591-881c-d6720b8d4417": "Questions/list/How to search a specific authors messages within a specific discord guild?.md",
     "2d2582c6-bbde-4575-988a-6d236c580dbd": "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": "Questions/list/How to parse a JSON string on Hoon.md",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": "Questions/list/How to parse a CSV into Urbit using Hoon?.md",
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": "Questions/list/How to order folders by most files in each folder?.md",
+    "83d03dd6-f408-4f08-a698-6583f2668bdd": "Questions/list/How to measure peak engagement for specific sets of phrases within a specific discord guild?.md",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "Questions/list/How to list total number of files in directory recursively?.md",
     "3b702235-9c4e-4b3a-9d5c-09c4da822409": "Questions/list/How to list the number of authors within a specific discord guild?.md",
     "2afa5525-8727-4032-8742-56a176e63c82": "Questions/list/How to list the most reacted to URL's from a specific discord guild?.md",
     "dd096aae-3c6c-437b-9890-76e7355b93a0": "Questions/list/How to list Bots on a Discord Guild?.md",
     "3b73f02b-021d-41b2-b094-af347aa351da": "Questions/list/How to install OpenZepplin in Hardhat.js.md",
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": "Questions/list/How to get the message count of each channel per month for a specific discord guild?.md",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "Questions/list/How to get message count by day for a particular discord guild?.md",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": "Questions/list/How to generate a word cloud based on a discord authors messages in a particular discord guild?.md",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "Questions/list/How to find copies of the same file and images within a directory?.md",
@@ -3602,7 +3646,7 @@
     "d473e743-c32d-45f7-bfe8-9836eeff97f4": "Questions/list/How many messages per author in a specific discord guild?.md",
     "d4d9a29d-c144-4b7b-bb49-af768905cd79": "Questions/list/How many messages has a user posted in each discord channel of a particular discord guild?.md",
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": "Questions/list/How many authors posted in each specific channel of a specific discord guild?.md",
-    "3d0bc481-e27a-4076-9452-302ec5dd7ce5": "Questions/list/How many attachments of a specific file type are each channel of a specific discord guild?.md",
+    "3d0bc481-e27a-4076-9452-302ec5dd7ce5": "Questions/list/How many attachments of a separate file types are in a discord guild?.md",
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": "Questions/list/How does one store a 2 dimensional matrix in Hoon?.md",
     "f7097115-4e65-4c20-80b9-663e8d954c88": "Questions/list/How does async await work in Hoon?.md",
     "d489b5cd-9f29-47b1-af41-d6795d33792a": "Questions/list/How do you split a string by a specific character into a list of strings in Hoon?.md",
@@ -3613,9 +3657,9 @@
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "Questions/list/How do I do Hello World in Ansible?.md",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": "Questions/Sets/Random Questions for Discord Data.md",
-    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions/Sets/Questions to Answer in General Report to Compare Discord Guilds.md",
     "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions/Sets/Questions for DAO Platforms.md",
     "6f6e717a-0936-4936-a844-93a7af2c1a8e": "Questions/Sets/Questions for Community Managers.md",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions/Sets/Queries Comparing Discord Guilds.md",
     "24f446da-27ff-4625-8f2f-9a32388c377d": "Questions/Sets/Project Kickoff Questions.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "QuestionEngine/Schema 0.0.x - QE.md",
@@ -3821,9 +3865,19 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md",
     "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Roadmap - Discord Binding.md",
     "3a44d50b-0280-42f8-8fa0-6c15d4ffe161": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Queries Implemented in queries.py.md",
+    "974d677f-15f0-4cf2-813d-69fb843b9367": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord URL Specific Queries.md",
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Roles Specific Queries.md",
+    "88b3a4ff-8c43-416c-baed-f89483f9347a": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Reaction Specific Queries.md",
+    "5e079c99-f189-4078-8330-da0ca4be0a3c": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Query Backlog.md",
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Queries Aggregated by Week.md",
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Queries Aggregated by Month.md",
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Message Specific Queries.md",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Data Cypher Queries.md",
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Channel Specific Queries.md",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md",
+    "f6c57d06-6240-41fc-9174-7a6b18362030": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Author Specific Queries.md",
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Attachment Specific Queries.md",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md",
     "36bce7d0-c306-4903-873f-73fb60199312": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1 Schema.md",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": "MyProjects/Dentropy Daemon/bindings/Specific Bindings/ActivityWatch/ActivityWatch Binding.md",
@@ -4771,7 +4825,9 @@
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": "Mimetic File System",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": "How to count the number of bots on a specific discord guild?",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": "How to count the number of authors within a specific discord guild?",
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": "How many attachments of each file type are in each discord channel of a specific discord guild?",
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": "Dentropy's Tutorials",
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f": "Custom Discord Queries",
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": "Blog Posts",
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": "Blog Posts and Videos",
     "34608d94-e304-4aa4-9339-f23d3fa39359": "You took the Transhumanist Wager Now What?",
@@ -5696,6 +5752,7 @@
     "49f1b279-196d-40ef-b333-5d04748d7e96": "Basics",
     "793811ec-3199-4709-9291-c06229e022f1": "API",
     "69c74487-6f3b-4eeb-b858-bfacd5a92658": "EVM Compatible",
+    "687219ba-9009-4012-8986-f816c048a784": "Discord Queries Aggregated by Day",
     "242edfe1-c98b-45ea-856e-25299086793d": "Discord Bots",
     "ebb51eba-3d84-4a89-9566-72b1963e6c4a": "Troubleshooting Debian",
     "e231d0df-f038-4611-b9b5-e05c6549b328": "Debian Based Fresh Install",
@@ -5888,10 +5945,17 @@
     "4cb580de-4980-4475-9878-faba48388dd2": "What other some projects that scraped fandom",
     "0f897f8f-e4b5-4e18-834f-7082f950dfb6": "What month was X discord guild the most active?",
     "2c19f286-32de-4f5e-94f0-98d6eae21492": "What message with an attachment from a particular author in a discord guild got the most reactions?",
+    "53d082f2-cdd8-443f-ab0e-527915f88f45": "What is the rate of new users joining the specific discord guild per month?",
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b": "What is the number of messages in each channel for a specific discord guild?",
+    "333a03ed-caee-4355-841a-4af914799849": "What is the number of messages from a specific author from a particular discord guild aggregated by week?",
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64": "What is the number of messages from a specific author from a particular discord guild aggregated by month?",
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004": "What is the number of messages from a specific author from a particular discord guild aggregated by day?",
     "4ed752fe-249c-49ac-aaad-43d365c385dd": "What is the number of channels within a specific discord guild?",
     "27802970-c6dc-462e-8210-216bb1eb6a36": "What is the name of the most active channel in each discord guild?",
+    "16563015-3102-4e34-92c3-08aee5f52dd9": "What is the most replied to message from a specific author in a particular discord guild?",
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc": "What is the most reacted to message from a specific author in a particular discord guild?",
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d": "What is the median message count per channel in a particular Discord Guild?",
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02": "What is the longest message from a specific author in a particular discord guild?",
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5": "What is the length of the Bertopic default dataset from sklearn?",
     "ad60bd2d-b872-4d0b-8f13-6f4214896871": "What is the average message count per Channel in a particular Discord Guild?",
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": "What is the average message count for most active X days of a Discord Guild?",
@@ -5913,8 +5977,9 @@
     "a1f0f53d-327b-4999-9d06-81d2c14a5eb5": "What discord guild's have the most Users?",
     "8db17737-329a-485d-9f99-98dce3ec1462": "What discord channels have the most messages?",
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": "What discord channel has the longest average message length?",
-    "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "What discord channel has the longest average message length of a particular guild?",
+    "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": "What discord channel has the longest average message length of a specific guild?",
     "02996ff2-f55e-4eae-a4b6-15d042b92896": "What discord author was mentioned the most?",
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c": "What discord author responds most to questions in a specific discord guild?",
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615": "What discord author has the highest spike in activity in single day from a specific discord guild?",
     "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": "What discord author got the most reactions to their messages?",
     "1045dbd7-8a3e-4975-8dea-fe81c3c354d1": "What discord author got the most distinct reactions to their messages?",
@@ -5930,6 +5995,8 @@
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": "What author posted the most in a specific discord guild?",
     "4212d688-8696-4f32-8813-7edab4080e1c": "What are the zero to hero urbit app examples with source code?",
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": "What are the parts of a URL?",
+    "1b602ce2-6e32-482a-8d60-daf9f4997974": "What are the number of reactions for messages aggregated by month, week, and day?",
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc": "What are the number of mentions from other authors for a particular author in a particular discord guild?",
     "d228c0d3-4420-42e8-9932-0aab68e08350": "What are the most popular parts of the Hoon standard library?",
     "45f50e6a-fb81-4f7c-87b6-70785da72633": "What are the most active channels in a specific discord guild?",
     "26b46eff-ac32-457c-b35b-cd936fa1af83": "What are the discord guilds are in the database?",
@@ -5943,22 +6010,26 @@
     "74693802-2d24-44c8-9cc4-1eea10bccf94": "How to write and deploy a ERC721 token using Hardhat",
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": "How to write and deploy a ERC20 token using Hardhat",
     "780af269-c8c8-45df-8358-c9b2140c92cf": "How to write Hello World in Hoon and Urbit?",
+    "faf2668b-49df-469f-a630-fca35d1c7c9d": "How to visualize the message count of each author in a specific channel?",
     "f4753c78-856b-4dcb-813e-4be6a80db023": "How to visualize represent storage on a computer drive?",
     "fdaf9b18-a664-4861-894b-836af806393a": "How to view a discord message in context?",
     "98338dc9-0611-4650-85af-75b2b67f3207": "How to store data in complex data structures, like a list of messages rather than a single value",
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?",
     "334719ff-63c4-46eb-958d-8aa0ffd12841": "How to send data from ship to ship in Urbit using using Hoon?",
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": "How to send a file form one ship to another on Urbit using Hoon?",
+    "3c8179a3-265d-4591-881c-d6720b8d4417": "How to search a specific authors messages within a specific discord guild?",
     "2d2582c6-bbde-4575-988a-6d236c580dbd": "How to ping other Ubit ships to see if they are on network, or fake network?",
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": "How to parse a JSON string on Hoon",
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": "How to parse a CSV into Urbit using Hoon?",
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": "How to order folders by most files in each folder?",
+    "83d03dd6-f408-4f08-a698-6583f2668bdd": "How to measure peak engagement for specific sets of phrases within a specific discord guild?",
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": "How to make a REST API in hoon so I can use curl on my urbit ship?",
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": "How to list total number of files in directory recursively?",
     "3b702235-9c4e-4b3a-9d5c-09c4da822409": "How to list the number of authors within a specific discord guild?",
     "2afa5525-8727-4032-8742-56a176e63c82": "How to list the most reacted to URL's from a specific discord guild?",
     "dd096aae-3c6c-437b-9890-76e7355b93a0": "How to list Bots on a Discord Guild?",
     "3b73f02b-021d-41b2-b094-af347aa351da": "How to install OpenZepplin in Hardhat",
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": "How to get the message count of each channel per month for a specific discord guild?",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a particular discord guild?",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": "How to generate a word cloud based on a discord authors messages in a particular discord guild?",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?",
@@ -5980,7 +6051,7 @@
     "d473e743-c32d-45f7-bfe8-9836eeff97f4": "How many messages per author in a specific discord guild?",
     "d4d9a29d-c144-4b7b-bb49-af768905cd79": "How many messages has a user posted in each discord channel of a particular discord guild?",
     "a1e2f1f3-a636-4f25-949f-e9bec02f9830": "How many authors posted in each specific channel of a specific discord guild?",
-    "3d0bc481-e27a-4076-9452-302ec5dd7ce5": "How many attachments of a specific file type are each channel of a specific discord guild?",
+    "3d0bc481-e27a-4076-9452-302ec5dd7ce5": "How many attachments of a separate file types are in a discord guild?",
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": "How does one store a 2 dimensional matrix in Hoon?",
     "f7097115-4e65-4c20-80b9-663e8d954c88": "How does async await work in Hoon?",
     "d489b5cd-9f29-47b1-af41-d6795d33792a": "How do you split a string by a specific character into a list of strings in Hoon?",
@@ -5991,9 +6062,9 @@
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": "How do I do Hello World in Ansible?",
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": "Random Questions for Discord Data",
-    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions to Answer in General Report to Compare Discord Guilds",
     "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions for DAO Platforms",
     "6f6e717a-0936-4936-a844-93a7af2c1a8e": "Questions for Community Managers",
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Queries Comparing Discord Guilds",
     "24f446da-27ff-4625-8f2f-9a32388c377d": "Project Kickoff Questions",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": "Schema 0",
@@ -6199,9 +6270,19 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": "Email Binding",
     "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": "Roadmap - Discord Binding",
     "3a44d50b-0280-42f8-8fa0-6c15d4ffe161": "Queries Implemented in queries",
+    "974d677f-15f0-4cf2-813d-69fb843b9367": "Discord URL Specific Queries",
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf": "Discord Roles Specific Queries",
+    "88b3a4ff-8c43-416c-baed-f89483f9347a": "Discord Reaction Specific Queries",
+    "5e079c99-f189-4078-8330-da0ca4be0a3c": "Discord Query Backlog",
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147": "Discord Queries Aggregated by Week",
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed": "Discord Queries Aggregated by Month",
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605": "Discord Message Specific Queries",
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": "Discord Elasticsearch Queries",
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": "Discord Data Cypher Queries",
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": "Discord Channel Specific Queries",
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": "Discord Binding",
+    "f6c57d06-6240-41fc-9174-7a6b18362030": "Discord Author Specific Queries",
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b": "Discord Attachment Specific Queries",
     "ce890113-147e-4515-8d16-b9e0abf81cd2": "Discord Binding V1",
     "36bce7d0-c306-4903-873f-73fb60199312": "Discord Binding V1 Schema",
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": "ActivityWatch Binding",
@@ -7149,7 +7230,9 @@
     "Mimetic File System.md": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
     "How to count the number of bots on a specific discord guild?.md": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "How to count the number of authors within a specific discord guild?.md": "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
+    "How many attachments of each file type are in each discord channel of a specific discord guild?.md": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
     "Dentropy's Tutorials.md": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
+    "Custom Discord Queries.md": "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f",
     "Blog Posts.md": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "Writings/Blog Posts and Videos.md": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
     "Writings/Versioned/You took the Transhumanist Wager Now What?/You took the Transhumanist Wager Now What?.md": "34608d94-e304-4aa4-9339-f23d3fa39359",
@@ -8079,6 +8162,7 @@
     "Software/List/Elasticsearch/Examples/Basics.md": "49f1b279-196d-40ef-b333-5d04748d7e96",
     "Software/List/Elasticsearch/Examples/API.md": "793811ec-3199-4709-9291-c06229e022f1",
     "Software/List/EVM/EVM Compatible.md": "69c74487-6f3b-4eeb-b858-bfacd5a92658",
+    "Software/List/Discord/Discord Queries Aggregated by Day.md": "687219ba-9009-4012-8986-f816c048a784",
     "Software/List/Discord/Discord Bots.md": "242edfe1-c98b-45ea-856e-25299086793d",
     "Software/List/Debian/Troubleshooting Debian.md": "ebb51eba-3d84-4a89-9566-72b1963e6c4a",
     "Software/List/Debian/Debian Based Fresh Install.md": "e231d0df-f038-4611-b9b5-e05c6549b328",
@@ -8271,10 +8355,17 @@
     "Questions/list/What other some projects that scraped fandom.com?.md": "4cb580de-4980-4475-9878-faba48388dd2",
     "Questions/list/What month was X discord guild the most active?.md": "0f897f8f-e4b5-4e18-834f-7082f950dfb6",
     "Questions/list/What message with an attachment from a particular author in a discord guild got the most reactions?.md": "2c19f286-32de-4f5e-94f0-98d6eae21492",
+    "Questions/list/What is the rate of new users joining the specific discord guild per month?.md": "53d082f2-cdd8-443f-ab0e-527915f88f45",
     "Questions/list/What is the number of messages in each channel for a specific discord guild?.md": "22ff490c-f5af-4dbc-aab9-66cfa4a4697b",
+    "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by week?.md": "333a03ed-caee-4355-841a-4af914799849",
+    "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by month?.md": "9046827c-32a0-4720-92f2-ab6b7b31bd64",
+    "Questions/list/What is the number of messages from a specific author from a particular discord guild aggregated by day?.md": "d15f7093-b584-4f17-9ad0-b6e2d0f9d004",
     "Questions/list/What is the number of channels within a specific discord guild?.md": "4ed752fe-249c-49ac-aaad-43d365c385dd",
     "Questions/list/What is the name of the most active channel in each discord guild?.md": "27802970-c6dc-462e-8210-216bb1eb6a36",
+    "Questions/list/What is the most replied to message from a specific author in a particular discord guild?.md": "16563015-3102-4e34-92c3-08aee5f52dd9",
+    "Questions/list/What is the most reacted to message from a specific author in a particular discord guild?.md": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
     "Questions/list/What is the median message count per channel in a particular Discord Guild?.md": "3fbf2fad-a355-4b8d-8d2d-0133ec53773d",
+    "Questions/list/What is the longest message from a specific author in a particular discord guild?.md": "0a5d84e3-7342-474a-a6ba-5058780c2c02",
     "Questions/list/What is the length of the Bertopic default dataset from sklearn?.md": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5",
     "Questions/list/What is the average message count per Channel in a particular Discord Guild?.md": "ad60bd2d-b872-4d0b-8f13-6f4214896871",
     "Questions/list/What is the average message count for most active X days of a Discord Guild?.md": "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
@@ -8296,8 +8387,9 @@
     "Questions/list/What discord guild's have the most Users?.md": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
     "Questions/list/What discord channels have the most messages?.md": "8db17737-329a-485d-9f99-98dce3ec1462",
     "Questions/list/What discord channel has the longest average message length?.md": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
-    "Questions/list/What discord channel has the longest average message length of a particular guild?.md": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
+    "Questions/list/What discord channel has the longest average message length of a specific guild?.md": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "Questions/list/What discord author was mentioned the most?.md": "02996ff2-f55e-4eae-a4b6-15d042b92896",
+    "Questions/list/What discord author responds most to questions in a specific discord guild?.md": "9205c4af-0cdf-4ded-ac7e-e23abb15c22c",
     "Questions/list/What discord author has the highest spike in activity in single day from a specific discord guild?.md": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
     "Questions/list/What discord author got the most reactions to their messages?.md": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
     "Questions/list/What discord author got the most distinct reactions to their messages?.md": "1045dbd7-8a3e-4975-8dea-fe81c3c354d1",
@@ -8313,6 +8405,8 @@
     "Questions/list/What author posted the most in a specific discord guild?.md": "5834c212-c616-4a8e-8b6e-16d4007cea7f",
     "Questions/list/What are the zero to hero urbit app examples with source code?.md": "4212d688-8696-4f32-8813-7edab4080e1c",
     "Questions/list/What are the parts of a URL?.md": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
+    "Questions/list/What are the number of reactions for messages aggregated by month, week, and day?.md": "1b602ce2-6e32-482a-8d60-daf9f4997974",
+    "Questions/list/What are the number of mentions from other authors for a particular author in a particular discord guild?.md": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
     "Questions/list/What are the most popular parts of the Hoon standard library?.md": "d228c0d3-4420-42e8-9932-0aab68e08350",
     "Questions/list/What are the most active channels in a specific discord guild?.md": "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "Questions/list/What are the discord guilds are in the database?.md": "26b46eff-ac32-457c-b35b-cd936fa1af83",
@@ -8326,22 +8420,26 @@
     "Questions/list/How to write and deploy a ERC721 token using Hardhat.js.md": "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "Questions/list/How to write and deploy a ERC20 token using Hardhat.js.md": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "Questions/list/How to write Hello World in Hoon and Urbit?.md": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "Questions/list/How to visualize the message count of each author in a specific channel?.md": "faf2668b-49df-469f-a630-fca35d1c7c9d",
     "Questions/list/How to visualize represent storage on a computer drive?.md": "f4753c78-856b-4dcb-813e-4be6a80db023",
     "Questions/list/How to view a discord message in context?.md": "fdaf9b18-a664-4861-894b-836af806393a",
     "Questions/list/How to store data in complex data structures, like a list of messages rather than a single value.md": "98338dc9-0611-4650-85af-75b2b67f3207",
     "Questions/list/How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?.md": "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "Questions/list/How to send data from ship to ship in Urbit using using Hoon?.md": "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "Questions/list/How to send a file form one ship to another on Urbit using Hoon?.md": "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
+    "Questions/list/How to search a specific authors messages within a specific discord guild?.md": "3c8179a3-265d-4591-881c-d6720b8d4417",
     "Questions/list/How to ping other Ubit ships to see if they are on network, or fake network?.md": "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "Questions/list/How to parse a JSON string on Hoon.md": "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "Questions/list/How to parse a CSV into Urbit using Hoon?.md": "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
     "Questions/list/How to order folders by most files in each folder?.md": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
+    "Questions/list/How to measure peak engagement for specific sets of phrases within a specific discord guild?.md": "83d03dd6-f408-4f08-a698-6583f2668bdd",
     "Questions/list/How to make a REST API in hoon so I can use curl on my urbit ship?.md": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "Questions/list/How to list total number of files in directory recursively?.md": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
     "Questions/list/How to list the number of authors within a specific discord guild?.md": "3b702235-9c4e-4b3a-9d5c-09c4da822409",
     "Questions/list/How to list the most reacted to URL's from a specific discord guild?.md": "2afa5525-8727-4032-8742-56a176e63c82",
     "Questions/list/How to list Bots on a Discord Guild?.md": "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "Questions/list/How to install OpenZepplin in Hardhat.js.md": "3b73f02b-021d-41b2-b094-af347aa351da",
+    "Questions/list/How to get the message count of each channel per month for a specific discord guild?.md": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
     "Questions/list/How to get message count by day for a particular discord guild?.md": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Questions/list/How to generate a word cloud based on a discord authors messages in a particular discord guild?.md": "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "Questions/list/How to find copies of the same file and images within a directory?.md": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -8363,7 +8461,7 @@
     "Questions/list/How many messages per author in a specific discord guild?.md": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
     "Questions/list/How many messages has a user posted in each discord channel of a particular discord guild?.md": "d4d9a29d-c144-4b7b-bb49-af768905cd79",
     "Questions/list/How many authors posted in each specific channel of a specific discord guild?.md": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
-    "Questions/list/How many attachments of a specific file type are each channel of a specific discord guild?.md": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
+    "Questions/list/How many attachments of a separate file types are in a discord guild?.md": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
     "Questions/list/How does one store a 2 dimensional matrix in Hoon?.md": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
     "Questions/list/How does async await work in Hoon?.md": "f7097115-4e65-4c20-80b9-663e8d954c88",
     "Questions/list/How do you split a string by a specific character into a list of strings in Hoon?.md": "d489b5cd-9f29-47b1-af41-d6795d33792a",
@@ -8374,9 +8472,9 @@
     "Questions/list/How do I do Hello World in Ansible?.md": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "Questions/Sets/Random Questions for Discord Data.md": "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
-    "Questions/Sets/Questions to Answer in General Report to Compare Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Questions/Sets/Questions for DAO Platforms.md": "81513d3d-8329-4638-b04e-e6cb2002e439",
     "Questions/Sets/Questions for Community Managers.md": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
+    "Questions/Sets/Queries Comparing Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Questions/Sets/Project Kickoff Questions.md": "24f446da-27ff-4625-8f2f-9a32388c377d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "QuestionEngine/Schema 0.0.x - QE.md": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -8582,9 +8680,19 @@
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Email/Email Binding.md": "52116bc3-599b-4dd4-961d-21cd3426280d",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Roadmap - Discord Binding.md": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Queries Implemented in queries.py.md": "3a44d50b-0280-42f8-8fa0-6c15d4ffe161",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord URL Specific Queries.md": "974d677f-15f0-4cf2-813d-69fb843b9367",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Roles Specific Queries.md": "eebb8e38-0288-40f0-b4ad-536c365e2faf",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Reaction Specific Queries.md": "88b3a4ff-8c43-416c-baed-f89483f9347a",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Query Backlog.md": "5e079c99-f189-4078-8330-da0ca4be0a3c",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Queries Aggregated by Week.md": "60bf35c2-6e89-4046-86a8-8d0bc55d2147",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Queries Aggregated by Month.md": "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Message Specific Queries.md": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Elasticsearch Queries.md": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Data Cypher Queries.md": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Channel Specific Queries.md": "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Binding.md": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Author Specific Queries.md": "f6c57d06-6240-41fc-9174-7a6b18362030",
+    "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/Discord Attachment Specific Queries.md": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1.md": "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/Discord/V1/Discord Binding V1 Schema.md": "36bce7d0-c306-4903-873f-73fb60199312",
     "MyProjects/Dentropy Daemon/bindings/Specific Bindings/ActivityWatch/ActivityWatch Binding.md": "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -9539,7 +9647,9 @@
     "Mimetic File System": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
     "How to count the number of bots on a specific discord guild?": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "How to count the number of authors within a specific discord guild?": "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
+    "How many attachments of each file type are in each discord channel of a specific discord guild?": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
     "Dentropy's Tutorials": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
+    "Custom Discord Queries": "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f",
     "Blog Posts": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
     "Blog Posts and Videos": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
     "You took the Transhumanist Wager Now What?": "34608d94-e304-4aa4-9339-f23d3fa39359",
@@ -10451,6 +10561,7 @@
     "Basics": "01b41cd1-91f4-404e-908a-4f17dd507e44",
     "API": "793811ec-3199-4709-9291-c06229e022f1",
     "EVM Compatible": "837f477d-cb08-4ab1-8dd5-c9785dd3f40a",
+    "Discord Queries Aggregated by Day": "687219ba-9009-4012-8986-f816c048a784",
     "Discord Bots": "242edfe1-c98b-45ea-856e-25299086793d",
     "Troubleshooting Debian": "ebb51eba-3d84-4a89-9566-72b1963e6c4a",
     "Debian Based Fresh Install": "e231d0df-f038-4611-b9b5-e05c6549b328",
@@ -10636,10 +10747,17 @@
     "What other some projects that scraped fandom": "4cb580de-4980-4475-9878-faba48388dd2",
     "What month was X discord guild the most active?": "0f897f8f-e4b5-4e18-834f-7082f950dfb6",
     "What message with an attachment from a particular author in a discord guild got the most reactions?": "2c19f286-32de-4f5e-94f0-98d6eae21492",
+    "What is the rate of new users joining the specific discord guild per month?": "53d082f2-cdd8-443f-ab0e-527915f88f45",
     "What is the number of messages in each channel for a specific discord guild?": "22ff490c-f5af-4dbc-aab9-66cfa4a4697b",
+    "What is the number of messages from a specific author from a particular discord guild aggregated by week?": "333a03ed-caee-4355-841a-4af914799849",
+    "What is the number of messages from a specific author from a particular discord guild aggregated by month?": "9046827c-32a0-4720-92f2-ab6b7b31bd64",
+    "What is the number of messages from a specific author from a particular discord guild aggregated by day?": "d15f7093-b584-4f17-9ad0-b6e2d0f9d004",
     "What is the number of channels within a specific discord guild?": "4ed752fe-249c-49ac-aaad-43d365c385dd",
     "What is the name of the most active channel in each discord guild?": "27802970-c6dc-462e-8210-216bb1eb6a36",
+    "What is the most replied to message from a specific author in a particular discord guild?": "16563015-3102-4e34-92c3-08aee5f52dd9",
+    "What is the most reacted to message from a specific author in a particular discord guild?": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
     "What is the median message count per channel in a particular Discord Guild?": "3fbf2fad-a355-4b8d-8d2d-0133ec53773d",
+    "What is the longest message from a specific author in a particular discord guild?": "0a5d84e3-7342-474a-a6ba-5058780c2c02",
     "What is the length of the Bertopic default dataset from sklearn?": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5",
     "What is the average message count per Channel in a particular Discord Guild?": "ad60bd2d-b872-4d0b-8f13-6f4214896871",
     "What is the average message count for most active X days of a Discord Guild?": "9a9414ed-c3bd-433e-bb5b-4732aff405a0",
@@ -10661,8 +10779,9 @@
     "What discord guild's have the most Users?": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
     "What discord channels have the most messages?": "8db17737-329a-485d-9f99-98dce3ec1462",
     "What discord channel has the longest average message length?": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
-    "What discord channel has the longest average message length of a particular guild?": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
+    "What discord channel has the longest average message length of a specific guild?": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
     "What discord author was mentioned the most?": "02996ff2-f55e-4eae-a4b6-15d042b92896",
+    "What discord author responds most to questions in a specific discord guild?": "9205c4af-0cdf-4ded-ac7e-e23abb15c22c",
     "What discord author has the highest spike in activity in single day from a specific discord guild?": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
     "What discord author got the most reactions to their messages?": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
     "What discord author got the most distinct reactions to their messages?": "1045dbd7-8a3e-4975-8dea-fe81c3c354d1",
@@ -10678,6 +10797,8 @@
     "What author posted the most in a specific discord guild?": "5834c212-c616-4a8e-8b6e-16d4007cea7f",
     "What are the zero to hero urbit app examples with source code?": "4212d688-8696-4f32-8813-7edab4080e1c",
     "What are the parts of a URL?": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
+    "What are the number of reactions for messages aggregated by month, week, and day?": "1b602ce2-6e32-482a-8d60-daf9f4997974",
+    "What are the number of mentions from other authors for a particular author in a particular discord guild?": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
     "What are the most popular parts of the Hoon standard library?": "d228c0d3-4420-42e8-9932-0aab68e08350",
     "What are the most active channels in a specific discord guild?": "45f50e6a-fb81-4f7c-87b6-70785da72633",
     "What are the discord guilds are in the database?": "26b46eff-ac32-457c-b35b-cd936fa1af83",
@@ -10691,22 +10812,26 @@
     "How to write and deploy a ERC721 token using Hardhat": "74693802-2d24-44c8-9cc4-1eea10bccf94",
     "How to write and deploy a ERC20 token using Hardhat": "eb3f53b3-dac7-49d4-82ed-14f490b8ed25",
     "How to write Hello World in Hoon and Urbit?": "780af269-c8c8-45df-8358-c9b2140c92cf",
+    "How to visualize the message count of each author in a specific channel?": "faf2668b-49df-469f-a630-fca35d1c7c9d",
     "How to visualize represent storage on a computer drive?": "f4753c78-856b-4dcb-813e-4be6a80db023",
     "How to view a discord message in context?": "fdaf9b18-a664-4861-894b-836af806393a",
     "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207",
     "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?": "7653ea39-650c-4c3e-af9a-f322ed27f2ce",
     "How to send data from ship to ship in Urbit using using Hoon?": "334719ff-63c4-46eb-958d-8aa0ffd12841",
     "How to send a file form one ship to another on Urbit using Hoon?": "ce92dacd-4f85-4e1b-9d7e-a3546d31f319",
+    "How to search a specific authors messages within a specific discord guild?": "3c8179a3-265d-4591-881c-d6720b8d4417",
     "How to ping other Ubit ships to see if they are on network, or fake network?": "2d2582c6-bbde-4575-988a-6d236c580dbd",
     "How to parse a JSON string on Hoon": "a09c8653-0735-4e4a-8554-fdc2339c35f0",
     "How to parse a CSV into Urbit using Hoon?": "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9",
     "How to order folders by most files in each folder?": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
+    "How to measure peak engagement for specific sets of phrases within a specific discord guild?": "83d03dd6-f408-4f08-a698-6583f2668bdd",
     "How to make a REST API in hoon so I can use curl on my urbit ship?": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
     "How to list total number of files in directory recursively?": "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e",
     "How to list the number of authors within a specific discord guild?": "3b702235-9c4e-4b3a-9d5c-09c4da822409",
     "How to list the most reacted to URL's from a specific discord guild?": "2afa5525-8727-4032-8742-56a176e63c82",
     "How to list Bots on a Discord Guild?": "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "How to install OpenZepplin in Hardhat": "3b73f02b-021d-41b2-b094-af347aa351da",
+    "How to get the message count of each channel per month for a specific discord guild?": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
     "How to get message count by day for a particular discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "How to generate a word cloud based on a discord authors messages in a particular discord guild?": "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -10728,7 +10853,7 @@
     "How many messages per author in a specific discord guild?": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
     "How many messages has a user posted in each discord channel of a particular discord guild?": "d4d9a29d-c144-4b7b-bb49-af768905cd79",
     "How many authors posted in each specific channel of a specific discord guild?": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
-    "How many attachments of a specific file type are each channel of a specific discord guild?": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
+    "How many attachments of a separate file types are in a discord guild?": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
     "How does one store a 2 dimensional matrix in Hoon?": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
     "How does async await work in Hoon?": "f7097115-4e65-4c20-80b9-663e8d954c88",
     "How do you split a string by a specific character into a list of strings in Hoon?": "d489b5cd-9f29-47b1-af41-d6795d33792a",
@@ -10739,9 +10864,9 @@
     "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94",
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "Random Questions for Discord Data": "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
-    "Questions to Answer in General Report to Compare Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439",
     "Questions for Community Managers": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
+    "Queries Comparing Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Project Kickoff Questions": "24f446da-27ff-4625-8f2f-9a32388c377d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
     "Schema 0": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9",
@@ -10942,9 +11067,19 @@
     "Email Binding": "52116bc3-599b-4dd4-961d-21cd3426280d",
     "Roadmap - Discord Binding": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
     "Queries Implemented in queries": "3a44d50b-0280-42f8-8fa0-6c15d4ffe161",
+    "Discord URL Specific Queries": "974d677f-15f0-4cf2-813d-69fb843b9367",
+    "Discord Roles Specific Queries": "eebb8e38-0288-40f0-b4ad-536c365e2faf",
+    "Discord Reaction Specific Queries": "88b3a4ff-8c43-416c-baed-f89483f9347a",
+    "Discord Query Backlog": "5e079c99-f189-4078-8330-da0ca4be0a3c",
+    "Discord Queries Aggregated by Week": "60bf35c2-6e89-4046-86a8-8d0bc55d2147",
+    "Discord Queries Aggregated by Month": "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed",
+    "Discord Message Specific Queries": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
     "Discord Elasticsearch Queries": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
     "Discord Data Cypher Queries": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
+    "Discord Channel Specific Queries": "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b",
     "Discord Binding": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+    "Discord Author Specific Queries": "f6c57d06-6240-41fc-9174-7a6b18362030",
+    "Discord Attachment Specific Queries": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
     "Discord Binding V1": "ce890113-147e-4515-8d16-b9e0abf81cd2",
     "Discord Binding V1 Schema": "36bce7d0-c306-4903-873f-73fb60199312",
     "ActivityWatch Binding": "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6",
@@ -11876,10 +12011,20 @@
       "share": true,
       "title": "How to count the number of authors within a specific discord guild?"
     },
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": {
+      "uuid": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
+      "share": true,
+      "title": "How many attachments of each file type are in each discord channel of a specific discord guild?"
+    },
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": {
       "share": true,
       "uuid": "b554fe38-0be3-4e5e-a817-41077f5f6e69",
       "title": "Dentropy's Tutorials"
+    },
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f": {
+      "uuid": "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f",
+      "share": true,
+      "title": "Custom Discord Queries"
     },
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": {
       "share": true,
@@ -16501,6 +16646,11 @@
       "uuid": "69c74487-6f3b-4eeb-b858-bfacd5a92658",
       "title": "EVM Compatible"
     },
+    "687219ba-9009-4012-8986-f816c048a784": {
+      "uuid": "687219ba-9009-4012-8986-f816c048a784",
+      "share": true,
+      "title": "Discord Queries Aggregated by Day"
+    },
     "242edfe1-c98b-45ea-856e-25299086793d": {
       "share": true,
       "uuid": "242edfe1-c98b-45ea-856e-25299086793d",
@@ -17461,10 +17611,30 @@
       "share": true,
       "title": "What message with an attachment from a particular author in a discord guild got the most reactions?"
     },
+    "53d082f2-cdd8-443f-ab0e-527915f88f45": {
+      "uuid": "53d082f2-cdd8-443f-ab0e-527915f88f45",
+      "share": true,
+      "title": "What is the rate of new users joining the specific discord guild per month?"
+    },
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b": {
       "uuid": "22ff490c-f5af-4dbc-aab9-66cfa4a4697b",
       "share": true,
       "title": "What is the number of messages in each channel for a specific discord guild?"
+    },
+    "333a03ed-caee-4355-841a-4af914799849": {
+      "uuid": "333a03ed-caee-4355-841a-4af914799849",
+      "share": true,
+      "title": "What is the number of messages from a specific author from a particular discord guild aggregated by week?"
+    },
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64": {
+      "uuid": "9046827c-32a0-4720-92f2-ab6b7b31bd64",
+      "share": true,
+      "title": "What is the number of messages from a specific author from a particular discord guild aggregated by month?"
+    },
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004": {
+      "uuid": "d15f7093-b584-4f17-9ad0-b6e2d0f9d004",
+      "share": true,
+      "title": "What is the number of messages from a specific author from a particular discord guild aggregated by day?"
     },
     "4ed752fe-249c-49ac-aaad-43d365c385dd": {
       "uuid": "4ed752fe-249c-49ac-aaad-43d365c385dd",
@@ -17476,10 +17646,25 @@
       "share": true,
       "title": "What is the name of the most active channel in each discord guild?"
     },
+    "16563015-3102-4e34-92c3-08aee5f52dd9": {
+      "uuid": "16563015-3102-4e34-92c3-08aee5f52dd9",
+      "share": true,
+      "title": "What is the most replied to message from a specific author in a particular discord guild?"
+    },
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc": {
+      "uuid": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
+      "share": true,
+      "title": "What is the most reacted to message from a specific author in a particular discord guild?"
+    },
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d": {
       "uuid": "3fbf2fad-a355-4b8d-8d2d-0133ec53773d",
       "share": true,
       "title": "What is the median message count per channel in a particular Discord Guild?"
+    },
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02": {
+      "uuid": "0a5d84e3-7342-474a-a6ba-5058780c2c02",
+      "share": true,
+      "title": "What is the longest message from a specific author in a particular discord guild?"
     },
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5": {
       "uuid": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5",
@@ -17589,12 +17774,17 @@
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": {
       "uuid": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
       "share": true,
-      "title": "What discord channel has the longest average message length of a particular guild?"
+      "title": "What discord channel has the longest average message length of a specific guild?"
     },
     "02996ff2-f55e-4eae-a4b6-15d042b92896": {
       "uuid": "02996ff2-f55e-4eae-a4b6-15d042b92896",
       "share": true,
       "title": "What discord author was mentioned the most?"
+    },
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c": {
+      "uuid": "9205c4af-0cdf-4ded-ac7e-e23abb15c22c",
+      "share": true,
+      "title": "What discord author responds most to questions in a specific discord guild?"
     },
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615": {
       "uuid": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
@@ -17671,6 +17861,16 @@
       "uuid": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8",
       "title": "What are the parts of a URL?"
     },
+    "1b602ce2-6e32-482a-8d60-daf9f4997974": {
+      "uuid": "1b602ce2-6e32-482a-8d60-daf9f4997974",
+      "share": true,
+      "title": "What are the number of reactions for messages aggregated by month, week, and day?"
+    },
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc": {
+      "uuid": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
+      "share": true,
+      "title": "What are the number of mentions from other authors for a particular author in a particular discord guild?"
+    },
     "d228c0d3-4420-42e8-9932-0aab68e08350": {
       "uuid": "d228c0d3-4420-42e8-9932-0aab68e08350",
       "share": true,
@@ -17736,6 +17936,11 @@
       "share": true,
       "title": "How to write Hello World in Hoon and Urbit?"
     },
+    "faf2668b-49df-469f-a630-fca35d1c7c9d": {
+      "uuid": "faf2668b-49df-469f-a630-fca35d1c7c9d",
+      "share": true,
+      "title": "How to visualize the message count of each author in a specific channel?"
+    },
     "f4753c78-856b-4dcb-813e-4be6a80db023": {
       "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023",
       "share": true,
@@ -17766,6 +17971,11 @@
       "share": true,
       "title": "How to send a file form one ship to another on Urbit using Hoon?"
     },
+    "3c8179a3-265d-4591-881c-d6720b8d4417": {
+      "uuid": "3c8179a3-265d-4591-881c-d6720b8d4417",
+      "share": true,
+      "title": "How to search a specific authors messages within a specific discord guild?"
+    },
     "2d2582c6-bbde-4575-988a-6d236c580dbd": {
       "uuid": "2d2582c6-bbde-4575-988a-6d236c580dbd",
       "share": true,
@@ -17785,6 +17995,11 @@
       "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135",
       "share": true,
       "title": "How to order folders by most files in each folder?"
+    },
+    "83d03dd6-f408-4f08-a698-6583f2668bdd": {
+      "uuid": "83d03dd6-f408-4f08-a698-6583f2668bdd",
+      "share": true,
+      "title": "How to measure peak engagement for specific sets of phrases within a specific discord guild?"
     },
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": {
       "uuid": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b",
@@ -17815,6 +18030,11 @@
       "uuid": "3b73f02b-021d-41b2-b094-af347aa351da",
       "share": true,
       "title": "How to install OpenZepplin in Hardhat"
+    },
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": {
+      "uuid": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
+      "share": true,
+      "title": "How to get the message count of each channel per month for a specific discord guild?"
     },
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": {
       "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
@@ -17924,7 +18144,7 @@
     "3d0bc481-e27a-4076-9452-302ec5dd7ce5": {
       "uuid": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
       "share": true,
-      "title": "How many attachments of a specific file type are each channel of a specific discord guild?"
+      "title": "How many attachments of a separate file types are in a discord guild?"
     },
     "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00": {
       "uuid": "22fe8e8c-bb6e-4df5-bcca-03375c9dfd00",
@@ -17976,11 +18196,6 @@
       "share": true,
       "title": "Random Questions for Discord Data"
     },
-    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": {
-      "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
-      "share": true,
-      "title": "Questions to Answer in General Report to Compare Discord Guilds"
-    },
     "81513d3d-8329-4638-b04e-e6cb2002e439": {
       "uuid": "81513d3d-8329-4638-b04e-e6cb2002e439",
       "share": true,
@@ -17990,6 +18205,11 @@
       "uuid": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
       "share": true,
       "title": "Questions for Community Managers"
+    },
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": {
+      "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+      "share": true,
+      "title": "Queries Comparing Discord Guilds"
     },
     "24f446da-27ff-4625-8f2f-9a32388c377d": {
       "uuid": "24f446da-27ff-4625-8f2f-9a32388c377d",
@@ -19020,6 +19240,41 @@
       "share": true,
       "title": "Queries Implemented in queries"
     },
+    "974d677f-15f0-4cf2-813d-69fb843b9367": {
+      "uuid": "974d677f-15f0-4cf2-813d-69fb843b9367",
+      "share": true,
+      "title": "Discord URL Specific Queries"
+    },
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf": {
+      "uuid": "eebb8e38-0288-40f0-b4ad-536c365e2faf",
+      "share": true,
+      "title": "Discord Roles Specific Queries"
+    },
+    "88b3a4ff-8c43-416c-baed-f89483f9347a": {
+      "uuid": "88b3a4ff-8c43-416c-baed-f89483f9347a",
+      "share": true,
+      "title": "Discord Reaction Specific Queries"
+    },
+    "5e079c99-f189-4078-8330-da0ca4be0a3c": {
+      "uuid": "5e079c99-f189-4078-8330-da0ca4be0a3c",
+      "share": true,
+      "title": "Discord Query Backlog"
+    },
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147": {
+      "uuid": "60bf35c2-6e89-4046-86a8-8d0bc55d2147",
+      "share": true,
+      "title": "Discord Queries Aggregated by Week"
+    },
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed": {
+      "uuid": "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed",
+      "share": true,
+      "title": "Discord Queries Aggregated by Month"
+    },
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605": {
+      "uuid": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
+      "share": true,
+      "title": "Discord Message Specific Queries"
+    },
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": {
       "share": true,
       "uuid": "755e7c50-f7f1-42d9-a6ac-d147103acd05",
@@ -19030,10 +19285,25 @@
       "share": true,
       "title": "Discord Data Cypher Queries"
     },
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": {
+      "uuid": "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b",
+      "share": true,
+      "title": "Discord Channel Specific Queries"
+    },
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": {
       "share": true,
       "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
       "title": "Discord Binding"
+    },
+    "f6c57d06-6240-41fc-9174-7a6b18362030": {
+      "uuid": "f6c57d06-6240-41fc-9174-7a6b18362030",
+      "share": true,
+      "title": "Discord Author Specific Queries"
+    },
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b": {
+      "uuid": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
+      "share": true,
+      "title": "Discord Attachment Specific Queries"
     },
     "ce890113-147e-4515-8d16-b9e0abf81cd2": {
       "share": true,
@@ -23818,8 +24088,14 @@
     "How to count the number of authors within a specific discord guild?.md": {
       "uuid": "63d6106e-79d3-47ec-b06d-d613ab3ff71d"
     },
+    "How many attachments of each file type are in each discord channel of a specific discord guild?.md": {
+      "uuid": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b"
+    },
     "Dentropy's Tutorials.md": {
       "uuid": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
+    },
+    "Custom Discord Queries.md": {
+      "uuid": "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f"
     },
     "Blog Posts.md": {
       "uuid": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33"
@@ -26785,6 +27061,9 @@
           }
         },
         "Discord": {
+          "Discord Queries Aggregated by Day.md": {
+            "uuid": "687219ba-9009-4012-8986-f816c048a784"
+          },
           "Discord Bots.md": {
             "uuid": "242edfe1-c98b-45ea-856e-25299086793d"
           }
@@ -27438,8 +27717,20 @@
         "What message with an attachment from a particular author in a discord guild got the most reactions?.md": {
           "uuid": "2c19f286-32de-4f5e-94f0-98d6eae21492"
         },
+        "What is the rate of new users joining the specific discord guild per month?.md": {
+          "uuid": "53d082f2-cdd8-443f-ab0e-527915f88f45"
+        },
         "What is the number of messages in each channel for a specific discord guild?.md": {
           "uuid": "22ff490c-f5af-4dbc-aab9-66cfa4a4697b"
+        },
+        "What is the number of messages from a specific author from a particular discord guild aggregated by week?.md": {
+          "uuid": "333a03ed-caee-4355-841a-4af914799849"
+        },
+        "What is the number of messages from a specific author from a particular discord guild aggregated by month?.md": {
+          "uuid": "9046827c-32a0-4720-92f2-ab6b7b31bd64"
+        },
+        "What is the number of messages from a specific author from a particular discord guild aggregated by day?.md": {
+          "uuid": "d15f7093-b584-4f17-9ad0-b6e2d0f9d004"
         },
         "What is the number of channels within a specific discord guild?.md": {
           "uuid": "4ed752fe-249c-49ac-aaad-43d365c385dd"
@@ -27447,8 +27738,17 @@
         "What is the name of the most active channel in each discord guild?.md": {
           "uuid": "27802970-c6dc-462e-8210-216bb1eb6a36"
         },
+        "What is the most replied to message from a specific author in a particular discord guild?.md": {
+          "uuid": "16563015-3102-4e34-92c3-08aee5f52dd9"
+        },
+        "What is the most reacted to message from a specific author in a particular discord guild?.md": {
+          "uuid": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc"
+        },
         "What is the median message count per channel in a particular Discord Guild?.md": {
           "uuid": "3fbf2fad-a355-4b8d-8d2d-0133ec53773d"
+        },
+        "What is the longest message from a specific author in a particular discord guild?.md": {
+          "uuid": "0a5d84e3-7342-474a-a6ba-5058780c2c02"
         },
         "What is the length of the Bertopic default dataset from sklearn?.md": {
           "uuid": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5"
@@ -27513,11 +27813,14 @@
         "What discord channel has the longest average message length?.md": {
           "uuid": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1"
         },
-        "What discord channel has the longest average message length of a particular guild?.md": {
+        "What discord channel has the longest average message length of a specific guild?.md": {
           "uuid": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7"
         },
         "What discord author was mentioned the most?.md": {
           "uuid": "02996ff2-f55e-4eae-a4b6-15d042b92896"
+        },
+        "What discord author responds most to questions in a specific discord guild?.md": {
+          "uuid": "9205c4af-0cdf-4ded-ac7e-e23abb15c22c"
         },
         "What discord author has the highest spike in activity in single day from a specific discord guild?.md": {
           "uuid": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615"
@@ -27564,6 +27867,12 @@
         "What are the parts of a URL?.md": {
           "uuid": "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8"
         },
+        "What are the number of reactions for messages aggregated by month, week, and day?.md": {
+          "uuid": "1b602ce2-6e32-482a-8d60-daf9f4997974"
+        },
+        "What are the number of mentions from other authors for a particular author in a particular discord guild?.md": {
+          "uuid": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc"
+        },
         "What are the most popular parts of the Hoon standard library?.md": {
           "uuid": "d228c0d3-4420-42e8-9932-0aab68e08350"
         },
@@ -27603,6 +27912,9 @@
         "How to write Hello World in Hoon and Urbit?.md": {
           "uuid": "780af269-c8c8-45df-8358-c9b2140c92cf"
         },
+        "How to visualize the message count of each author in a specific channel?.md": {
+          "uuid": "faf2668b-49df-469f-a630-fca35d1c7c9d"
+        },
         "How to visualize represent storage on a computer drive?.md": {
           "uuid": "f4753c78-856b-4dcb-813e-4be6a80db023"
         },
@@ -27621,6 +27933,9 @@
         "How to send a file form one ship to another on Urbit using Hoon?.md": {
           "uuid": "ce92dacd-4f85-4e1b-9d7e-a3546d31f319"
         },
+        "How to search a specific authors messages within a specific discord guild?.md": {
+          "uuid": "3c8179a3-265d-4591-881c-d6720b8d4417"
+        },
         "How to ping other Ubit ships to see if they are on network, or fake network?.md": {
           "uuid": "2d2582c6-bbde-4575-988a-6d236c580dbd"
         },
@@ -27632,6 +27947,9 @@
         },
         "How to order folders by most files in each folder?.md": {
           "uuid": "dcf1ad67-afbc-4444-b037-a6d3c4938135"
+        },
+        "How to measure peak engagement for specific sets of phrases within a specific discord guild?.md": {
+          "uuid": "83d03dd6-f408-4f08-a698-6583f2668bdd"
         },
         "How to make a REST API in hoon so I can use curl on my urbit ship?.md": {
           "uuid": "77034042-9d84-4a9b-b6b0-ab93bbde1d4b"
@@ -27650,6 +27968,9 @@
         },
         "How to install OpenZepplin in Hardhat.js.md": {
           "uuid": "3b73f02b-021d-41b2-b094-af347aa351da"
+        },
+        "How to get the message count of each channel per month for a specific discord guild?.md": {
+          "uuid": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425"
         },
         "How to get message count by day for a particular discord guild?.md": {
           "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e"
@@ -27714,7 +28035,7 @@
         "How many authors posted in each specific channel of a specific discord guild?.md": {
           "uuid": "a1e2f1f3-a636-4f25-949f-e9bec02f9830"
         },
-        "How many attachments of a specific file type are each channel of a specific discord guild?.md": {
+        "How many attachments of a separate file types are in a discord guild?.md": {
           "uuid": "3d0bc481-e27a-4076-9452-302ec5dd7ce5"
         },
         "How does one store a 2 dimensional matrix in Hoon?.md": {
@@ -27749,14 +28070,14 @@
         "Random Questions for Discord Data.md": {
           "uuid": "a0e190a2-4225-4937-b81d-45fd29e0c4ce"
         },
-        "Questions to Answer in General Report to Compare Discord Guilds.md": {
-          "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
-        },
         "Questions for DAO Platforms.md": {
           "uuid": "81513d3d-8329-4638-b04e-e6cb2002e439"
         },
         "Questions for Community Managers.md": {
           "uuid": "6f6e717a-0936-4936-a844-93a7af2c1a8e"
+        },
+        "Queries Comparing Discord Guilds.md": {
+          "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
         },
         "Project Kickoff Questions.md": {
           "uuid": "24f446da-27ff-4625-8f2f-9a32388c377d"
@@ -28472,14 +28793,44 @@
               "Queries Implemented in queries.py.md": {
                 "uuid": "3a44d50b-0280-42f8-8fa0-6c15d4ffe161"
               },
+              "Discord URL Specific Queries.md": {
+                "uuid": "974d677f-15f0-4cf2-813d-69fb843b9367"
+              },
+              "Discord Roles Specific Queries.md": {
+                "uuid": "eebb8e38-0288-40f0-b4ad-536c365e2faf"
+              },
+              "Discord Reaction Specific Queries.md": {
+                "uuid": "88b3a4ff-8c43-416c-baed-f89483f9347a"
+              },
+              "Discord Query Backlog.md": {
+                "uuid": "5e079c99-f189-4078-8330-da0ca4be0a3c"
+              },
+              "Discord Queries Aggregated by Week.md": {
+                "uuid": "60bf35c2-6e89-4046-86a8-8d0bc55d2147"
+              },
+              "Discord Queries Aggregated by Month.md": {
+                "uuid": "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed"
+              },
+              "Discord Message Specific Queries.md": {
+                "uuid": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605"
+              },
               "Discord Elasticsearch Queries.md": {
                 "uuid": "755e7c50-f7f1-42d9-a6ac-d147103acd05"
               },
               "Discord Data Cypher Queries.md": {
                 "uuid": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7"
               },
+              "Discord Channel Specific Queries.md": {
+                "uuid": "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b"
+              },
               "Discord Binding.md": {
                 "uuid": "1c376bfd-75ef-4c0d-9e23-3680653de55f"
+              },
+              "Discord Author Specific Queries.md": {
+                "uuid": "f6c57d06-6240-41fc-9174-7a6b18362030"
+              },
+              "Discord Attachment Specific Queries.md": {
+                "uuid": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b"
               },
               "V1": {
                 "Discord Binding V1.md": {
@@ -31486,7 +31837,9 @@
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": [],
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": [],
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": [],
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": [],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [],
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f": [],
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [],
     "0709dea0-4a97-4596-8d8e-32a0e614f8a2": [],
     "34608d94-e304-4aa4-9339-f23d3fa39359": [],
@@ -32441,6 +32794,7 @@
     "49f1b279-196d-40ef-b333-5d04748d7e96": [],
     "793811ec-3199-4709-9291-c06229e022f1": [],
     "69c74487-6f3b-4eeb-b858-bfacd5a92658": [],
+    "687219ba-9009-4012-8986-f816c048a784": [],
     "242edfe1-c98b-45ea-856e-25299086793d": [],
     "ebb51eba-3d84-4a89-9566-72b1963e6c4a": [],
     "e231d0df-f038-4611-b9b5-e05c6549b328": [],
@@ -32643,10 +32997,17 @@
     "4cb580de-4980-4475-9878-faba48388dd2": [],
     "0f897f8f-e4b5-4e18-834f-7082f950dfb6": [],
     "2c19f286-32de-4f5e-94f0-98d6eae21492": [],
+    "53d082f2-cdd8-443f-ab0e-527915f88f45": [],
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b": [],
+    "333a03ed-caee-4355-841a-4af914799849": [],
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64": [],
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004": [],
     "4ed752fe-249c-49ac-aaad-43d365c385dd": [],
     "27802970-c6dc-462e-8210-216bb1eb6a36": [],
+    "16563015-3102-4e34-92c3-08aee5f52dd9": [],
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc": [],
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d": [],
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02": [],
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5": [],
     "ad60bd2d-b872-4d0b-8f13-6f4214896871": [],
     "9a9414ed-c3bd-433e-bb5b-4732aff405a0": [],
@@ -32670,6 +33031,7 @@
     "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1": [],
     "86ac9f2f-087d-4791-a0e0-2f01688fe0c7": [],
     "02996ff2-f55e-4eae-a4b6-15d042b92896": [],
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c": [],
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615": [],
     "31ea5eb0-424d-4bac-ac87-dcc463b5d92d": [],
     "1045dbd7-8a3e-4975-8dea-fe81c3c354d1": [],
@@ -32685,6 +33047,8 @@
     "5834c212-c616-4a8e-8b6e-16d4007cea7f": [],
     "4212d688-8696-4f32-8813-7edab4080e1c": [],
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": [],
+    "1b602ce2-6e32-482a-8d60-daf9f4997974": [],
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc": [],
     "d228c0d3-4420-42e8-9932-0aab68e08350": [],
     "45f50e6a-fb81-4f7c-87b6-70785da72633": [],
     "26b46eff-ac32-457c-b35b-cd936fa1af83": [],
@@ -32698,22 +33062,26 @@
     "74693802-2d24-44c8-9cc4-1eea10bccf94": [],
     "eb3f53b3-dac7-49d4-82ed-14f490b8ed25": [],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "faf2668b-49df-469f-a630-fca35d1c7c9d": [],
     "f4753c78-856b-4dcb-813e-4be6a80db023": [],
     "fdaf9b18-a664-4861-894b-836af806393a": [],
     "98338dc9-0611-4650-85af-75b2b67f3207": [],
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": [],
+    "3c8179a3-265d-4591-881c-d6720b8d4417": [],
     "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": [],
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": [],
     "dcf1ad67-afbc-4444-b037-a6d3c4938135": [],
+    "83d03dd6-f408-4f08-a698-6583f2668bdd": [],
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": [],
     "8c3d5832-d1d2-4564-95b4-ead1e83d5f8e": [],
     "3b702235-9c4e-4b3a-9d5c-09c4da822409": [],
     "2afa5525-8727-4032-8742-56a176e63c82": [],
     "dd096aae-3c6c-437b-9890-76e7355b93a0": [],
     "3b73f02b-021d-41b2-b094-af347aa351da": [],
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": [],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [],
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": [],
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [],
@@ -32746,9 +33114,9 @@
     "9d016f63-fdb1-400a-aa19-c84cbdc5cd94": [],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": [],
-    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
     "81513d3d-8329-4638-b04e-e6cb2002e439": [],
     "6f6e717a-0936-4936-a844-93a7af2c1a8e": [],
+    "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
     "24f446da-27ff-4625-8f2f-9a32388c377d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
     "a8d5e7ea-e112-4625-96c7-9ac3513c36c9": [
@@ -33178,8 +33546,16 @@
     "52116bc3-599b-4dd4-961d-21cd3426280d": [],
     "dc6a1ac7-60f0-452d-9536-9fed6d92bc51": [],
     "3a44d50b-0280-42f8-8fa0-6c15d4ffe161": [],
+    "974d677f-15f0-4cf2-813d-69fb843b9367": [],
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf": [],
+    "88b3a4ff-8c43-416c-baed-f89483f9347a": [],
+    "5e079c99-f189-4078-8330-da0ca4be0a3c": [],
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147": [],
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed": [],
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605": [],
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": [],
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": [],
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": [],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
         "link": "a976ba89-4013-4831-ab31-b5d59a7ae971",
@@ -33191,6 +33567,8 @@
         "heading": ""
       }
     ],
+    "f6c57d06-6240-41fc-9174-7a6b18362030": [],
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b": [],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [],
     "36bce7d0-c306-4903-873f-73fb60199312": [],
     "cd1a8b02-1c1d-4cef-ae6a-050f9d7ffdc6": [],
@@ -34422,6 +34800,12 @@
         "text": "How to list the number of authors within a specific discord guild?"
       }
     ],
+    "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": [
+      {
+        "link": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
+        "text": "How many attachments of a separate file types are in a discord guild?"
+      }
+    ],
     "b554fe38-0be3-4e5e-a817-41077f5f6e69": [
       {
         "link": "10708552-def9-4391-9126-8a4f53cb5e00",
@@ -34551,6 +34935,12 @@
       {
         "link": "406a13ea-5f64-440a-b454-6b43afe9e0d5",
         "text": "Dentropy's Ideal DevSecOps Stack"
+      }
+    ],
+    "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f": [
+      {
+        "link": "83d03dd6-f408-4f08-a698-6583f2668bdd",
+        "text": "How to measure peak engagement for specific sets of phrases within a specific discord guild?"
       }
     ],
     "3d59d5cc-de9f-42d3-96fd-e4bb02710a33": [
@@ -35279,6 +35669,9 @@
         "text": "llamafile"
       },
       {
+        "text": "SuperDuperDB"
+      },
+      {
         "link": "0177b9c7-9a60-491c-8ebb-c71e724e5786",
         "text": "oobabooga text-generation-webui"
       },
@@ -35353,6 +35746,9 @@
       {
         "link": "43a10b26-0269-4ebe-9fe9-468654b529f5",
         "text": "TopicGPT"
+      },
+      {
+        "text": "SuperDuperDB"
       },
       {
         "link": "9097a030-8dfa-4e53-8ba9-65be7d582e6a",
@@ -38518,6 +38914,7 @@
         "text": "swarmio.Swarmio Research.BFT Protocols.Binance Smart Chain(BNB|[BNB|[BNB|[BNB|[BNB|[BNB|[BNB|[BNB|[BNB|[BNB)"
       }
     ],
+    "687219ba-9009-4012-8986-f816c048a784": [],
     "242edfe1-c98b-45ea-856e-25299086793d": [
       {
         "text": "https://discord.com/developers/docs/topics/oauth2#bots"
@@ -40489,6 +40886,7 @@
     ],
     "46abc67b-bbe7-4800-82f5-f08d4c457ef0": [
       {
+        "link": "83d03dd6-f408-4f08-a698-6583f2668bdd",
         "text": "How to measure peak engagement for specific sets of phrases within a specific discord guild?"
       },
       {
@@ -40545,10 +40943,15 @@
         "text": "What are the most active channels in a specific discord guild?"
       },
       {
+        "link": "9205c4af-0cdf-4ded-ac7e-e23abb15c22c",
         "text": "What discord author responds most to questions in a specific discord guild?"
       },
       {
         "text": "Queries Implemented in queries.py"
+      },
+      {
+        "link": "5e079c99-f189-4078-8330-da0ca4be0a3c",
+        "text": "Discord Query Backlog"
       },
       {
         "link": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
@@ -40559,37 +40962,66 @@
         "text": "How do we get to know individuals in Discord DAO Guilds?"
       },
       {
+        "text": "Query Requests"
+      },
+      {
+        "link": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
+        "text": "Discord Data Cypher Queries"
+      },
+      {
+        "text": "Core NLP Queries"
+      },
+      {
         "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
-        "text": "Questions to Answer in General Report to Compare Discord Guilds"
+        "text": "Queries Comparing Discord Guilds"
       },
       {
         "link": "a41f63f6-9eaf-41bb-8e62-e47ffa29cb92",
         "text": "Discord Guild Specific Report"
       },
       {
+        "link": "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b",
         "text": "Discord Channel Specific Queries"
       },
       {
+        "link": "f6c57d06-6240-41fc-9174-7a6b18362030",
         "text": "Discord Author Specific Queries"
       },
       {
+        "link": "eebb8e38-0288-40f0-b4ad-536c365e2faf",
         "text": "Discord Roles Specific Queries"
       },
       {
+        "link": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
         "text": "Discord Attachment Specific Queries"
       },
       {
+        "link": "88b3a4ff-8c43-416c-baed-f89483f9347a",
         "text": "Discord Reaction Specific Queries"
       },
       {
+        "link": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
+        "text": "Discord Message Specific Queries"
+      },
+      {
+        "link": "974d677f-15f0-4cf2-813d-69fb843b9367",
         "text": "Discord URL Specific Queries"
       },
       {
-        "text": "Query Requests"
+        "link": "e6a11823-9bc7-43d8-9a1e-6fbd2e28c99f",
+        "text": "Custom Discord Queries"
       },
       {
-        "link": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
-        "text": "Discord Data Cypher Queries"
+        "link": "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed",
+        "text": "Discord Queries Aggregated by Month"
+      },
+      {
+        "link": "60bf35c2-6e89-4046-86a8-8d0bc55d2147",
+        "text": "Discord Queries Aggregated by Week"
+      },
+      {
+        "link": "687219ba-9009-4012-8986-f816c048a784",
+        "text": "Discord Queries Aggregated by Day"
       },
       {
         "link": "1151704f-92c1-4273-9a2a-af361dfb88be",
@@ -40760,12 +41192,25 @@
         "text": "Who sent the most attachments in a specific discord guild?"
       }
     ],
+    "53d082f2-cdd8-443f-ab0e-527915f88f45": [],
     "22ff490c-f5af-4dbc-aab9-66cfa4a4697b": [
       {
         "link": "320d56d6-d028-425b-a1de-10d80b6d8669",
         "text": "How many messages per channel in a specific discord guild?"
       }
     ],
+    "333a03ed-caee-4355-841a-4af914799849": [],
+    "9046827c-32a0-4720-92f2-ab6b7b31bd64": [
+      {
+        "link": "efcd6f7d-b36e-4032-b89b-0fe9fd5a0da9",
+        "text": "How much activity for a specific discord guild per month?"
+      },
+      {
+        "link": "53d082f2-cdd8-443f-ab0e-527915f88f45",
+        "text": "What is the rate of new users joining the specific discord guild per month?"
+      }
+    ],
+    "d15f7093-b584-4f17-9ad0-b6e2d0f9d004": [],
     "4ed752fe-249c-49ac-aaad-43d365c385dd": [
       {
         "link": "a0219c15-6f5c-41b6-888f-41698790b9d2",
@@ -40773,7 +41218,10 @@
       }
     ],
     "27802970-c6dc-462e-8210-216bb1eb6a36": [],
+    "16563015-3102-4e34-92c3-08aee5f52dd9": [],
+    "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc": [],
     "3fbf2fad-a355-4b8d-8d2d-0133ec53773d": [],
+    "0a5d84e3-7342-474a-a6ba-5058780c2c02": [],
     "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5": [
       {
         "text": "BERTopic"
@@ -40927,6 +41375,12 @@
       }
     ],
     "02996ff2-f55e-4eae-a4b6-15d042b92896": [],
+    "9205c4af-0cdf-4ded-ac7e-e23abb15c22c": [
+      {
+        "link": "c102ef60-4b8c-423e-8102-69578c1ec330",
+        "text": "What authors asked the most questions within a specific discord guild?"
+      }
+    ],
     "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615": [
       {
         "link": "dba668aa-bb99-46d5-9942-9f41bed27766",
@@ -40975,6 +41429,13 @@
     ],
     "4212d688-8696-4f32-8813-7edab4080e1c": [],
     "df89b2c3-e8b8-4bb2-8233-6aedd8c3e1c8": [],
+    "1b602ce2-6e32-482a-8d60-daf9f4997974": [],
+    "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc": [
+      {
+        "link": "35fb0306-f973-4de1-805c-7a027ed7c9a7",
+        "text": "What channel was a discord author mentioned the most in within a particular discord guild?"
+      }
+    ],
     "d228c0d3-4420-42e8-9932-0aab68e08350": [],
     "45f50e6a-fb81-4f7c-87b6-70785da72633": [
       {
@@ -41132,6 +41593,12 @@
       }
     ],
     "780af269-c8c8-45df-8358-c9b2140c92cf": [],
+    "faf2668b-49df-469f-a630-fca35d1c7c9d": [
+      {
+        "link": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
+        "text": "How many messages per author in a specific discord guild?"
+      }
+    ],
     "f4753c78-856b-4dcb-813e-4be6a80db023": [
       {
         "link": "f56d9b82-f0b2-471c-ad70-4bbf5889dd2a",
@@ -41146,6 +41613,7 @@
     "7653ea39-650c-4c3e-af9a-f322ed27f2ce": [],
     "334719ff-63c4-46eb-958d-8aa0ffd12841": [],
     "ce92dacd-4f85-4e1b-9d7e-a3546d31f319": [],
+    "3c8179a3-265d-4591-881c-d6720b8d4417": [],
     "2d2582c6-bbde-4575-988a-6d236c580dbd": [],
     "a09c8653-0735-4e4a-8554-fdc2339c35f0": [],
     "74c8c93f-a638-4e20-aa4d-4fe5ba437fd9": [],
@@ -41153,6 +41621,12 @@
       {
         "link": "51b24c5c-afc0-4196-ad38-02c3679710b4",
         "text": "bash"
+      }
+    ],
+    "83d03dd6-f408-4f08-a698-6583f2668bdd": [
+      {
+        "link": "edb39918-b02f-4ee7-b2b2-d902c8370412",
+        "text": "What is the activity per month of each discord guild measured in messages per month?"
       }
     ],
     "77034042-9d84-4a9b-b6b0-ab93bbde1d4b": [],
@@ -41178,6 +41652,12 @@
       {
         "link": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c",
         "text": "Hardhat"
+      }
+    ],
+    "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": [
+      {
+        "link": "edb39918-b02f-4ee7-b2b2-d902c8370412",
+        "text": "What is the activity per month of each discord guild measured in messages per month?"
       }
     ],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [
@@ -41211,7 +41691,12 @@
     ],
     "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23": [],
     "7164edc9-2cb5-4505-b30f-bb1664a6fe2f": [],
-    "637757e1-13bf-4560-94c5-92052bf389e5": [],
+    "637757e1-13bf-4560-94c5-92052bf389e5": [
+      {
+        "link": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
+        "text": "How many messages per author in a specific discord guild?"
+      }
+    ],
     "320d56d6-d028-425b-a1de-10d80b6d8669": [
       {
         "text": "How many messages for each channel within Discord Guild?"
@@ -41249,6 +41734,77 @@
     ],
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": [],
+    "81513d3d-8329-4638-b04e-e6cb2002e439": [
+      {
+        "link": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696",
+        "text": "List of DAO Platforms"
+      }
+    ],
+    "6f6e717a-0936-4936-a844-93a7af2c1a8e": [
+      {
+        "text": "What queries for discord binding do people value the most?"
+      },
+      {
+        "text": "How did you discover the community you now manage?"
+      },
+      {
+        "text": "What are the characteristics of a community you want to manage?"
+      },
+      {
+        "text": "How do you research communities you are responsible for?"
+      },
+      {
+        "text": "What topics are you interested in?"
+      },
+      {
+        "text": "What kind of diligence could my tool, discord-binding, be used for?"
+      },
+      {
+        "text": "Do you have heuristics for discerning value adding engagement?"
+      },
+      {
+        "text": "How do you decern value destroying engagement?"
+      },
+      {
+        "text": "How do you tell when a community is dying but not dead?"
+      },
+      {
+        "text": "What signal do individuals you want to work with give off?"
+      },
+      {
+        "text": "What signal do individuals you DO NOT want to work with give off?"
+      },
+      {
+        "text": "What problems does x product solve?"
+      },
+      {
+        "text": "Can you give me an example of disagreement that occurred within your community, how you found out about it, and how you resolved it?"
+      },
+      {
+        "text": "What tools or platforms do you find most effective for community engagement and why?"
+      },
+      {
+        "text": "What steps do you take to grow and expand the community while maintaining its core values and identity?"
+      },
+      {
+        "text": "Can you describe a particularly challenging situation you've faced as a Community Manager and how you addressed it?"
+      },
+      {
+        "text": "How do you ensure inclusivity and diversity within your community?"
+      },
+      {
+        "text": "What methods do you use to encourage user-generated content and contributions from community members?"
+      },
+      {
+        "text": "How do you measure the ROI (Return on Investment) of community initiatives or activities?"
+      },
+      {
+        "text": "Could you walk me through your process for identifying and recruiting community influencers or advocates? How do you leverage their support?"
+      },
+      {
+        "text": "What methods do you use to encourage collaboration and knowledge-sharing among community members?"
+      }
+    ],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [
       {
         "link": "26b46eff-ac32-457c-b35b-cd936fa1af83",
@@ -41324,80 +41880,6 @@
       {
         "link": "34592fa9-bd8d-4237-bdff-36cb58fdc21e",
         "text": "What authors posted the most in each discord guild?"
-      },
-      {
-        "text": "What is the rate of new users joining the discord guild?"
-      }
-    ],
-    "81513d3d-8329-4638-b04e-e6cb2002e439": [
-      {
-        "link": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696",
-        "text": "List of DAO Platforms"
-      }
-    ],
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": [
-      {
-        "text": "What queries for discord binding do people value the most?"
-      },
-      {
-        "text": "How did you discover the community you now manage?"
-      },
-      {
-        "text": "What are the characteristics of a community you want to manage?"
-      },
-      {
-        "text": "How do you research communities you are responsible for?"
-      },
-      {
-        "text": "What topics are you interested in?"
-      },
-      {
-        "text": "What kind of diligence could my tool, discord-binding, be used for?"
-      },
-      {
-        "text": "Do you have heuristics for discerning value adding engagement?"
-      },
-      {
-        "text": "How do you decern value destroying engagement?"
-      },
-      {
-        "text": "How do you tell when a community is dying but not dead?"
-      },
-      {
-        "text": "What signal do individuals you want to work with give off?"
-      },
-      {
-        "text": "What signal do individuals you DO NOT want to work with give off?"
-      },
-      {
-        "text": "What problems does x product solve?"
-      },
-      {
-        "text": "Can you give me an example of disagreement that occurred within your community, how you found out about it, and how you resolved it?"
-      },
-      {
-        "text": "What tools or platforms do you find most effective for community engagement and why?"
-      },
-      {
-        "text": "What steps do you take to grow and expand the community while maintaining its core values and identity?"
-      },
-      {
-        "text": "Can you describe a particularly challenging situation you've faced as a Community Manager and how you addressed it?"
-      },
-      {
-        "text": "How do you ensure inclusivity and diversity within your community?"
-      },
-      {
-        "text": "What methods do you use to encourage user-generated content and contributions from community members?"
-      },
-      {
-        "text": "How do you measure the ROI (Return on Investment) of community initiatives or activities?"
-      },
-      {
-        "text": "Could you walk me through your process for identifying and recruiting community influencers or advocates? How do you leverage their support?"
-      },
-      {
-        "text": "What methods do you use to encourage collaboration and knowledge-sharing among community members?"
       }
     ],
     "24f446da-27ff-4625-8f2f-9a32388c377d": [
@@ -43554,7 +44036,7 @@
       },
       {
         "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
-        "text": "Questions to Answer in General Report to Compare Discord Guilds"
+        "text": "Queries Comparing Discord Guilds"
       },
       {
         "text": "plotly"
@@ -44001,6 +44483,10 @@
         "text": "What is the age of the oldest message in each channel of a specific discord guild?"
       },
       {
+        "link": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
+        "text": "Discord Message Specific Queries"
+      },
+      {
         "link": "320d56d6-d028-425b-a1de-10d80b6d8669",
         "text": "How many messages per channel in a specific discord guild?"
       },
@@ -44013,16 +44499,24 @@
         "text": "How many users have posted more than 100 messages in a particular discord guild?"
       },
       {
+        "link": "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605",
+        "text": "Discord Message Specific Queries"
+      },
+      {
         "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
         "text": "What discord user has the longest average message length in a particular guild?"
       },
       {
         "link": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
-        "text": "What discord channel has the longest average message length of a particular guild?"
+        "text": "What discord channel has the longest average message length of a specific guild?"
+      },
+      {
+        "link": "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b",
+        "text": "Discord Attachment Specific Queries"
       },
       {
         "link": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
-        "text": "How many attachments of a specific file type are each channel of a specific discord guild?"
+        "text": "How many attachments of a separate file types are in a discord guild?"
       },
       {
         "link": "bb1fc99d-24cc-4ea2-9110-3bf7d695ac03",
@@ -44031,6 +44525,10 @@
       {
         "link": "0ddac7dd-a016-4971-b163-b4f890232e50",
         "text": "What discord attachment message has the most reactions?"
+      },
+      {
+        "link": "88b3a4ff-8c43-416c-baed-f89483f9347a",
+        "text": "Discord Reaction Specific Queries"
       },
       {
         "link": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
@@ -44055,6 +44553,10 @@
       {
         "link": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
         "text": "What discord author has the highest spike in activity in single day from a specific discord guild?"
+      },
+      {
+        "link": "974d677f-15f0-4cf2-813d-69fb843b9367",
+        "text": "Discord URL Specific Queries"
       },
       {
         "link": "7164edc9-2cb5-4505-b30f-bb1664a6fe2f",
@@ -44725,6 +45227,10 @@
         "text": "Roadmap - Discord Binding"
       },
       {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
         "text": "2023-12-02"
       },
       {
@@ -44852,6 +45358,10 @@
         "text": "What percentage of days actually have messages for a specific discord guild?"
       },
       {
+        "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+        "text": "What discord channel has the longest average message length?"
+      },
+      {
         "link": "a1f0f53d-327b-4999-9d06-81d2c14a5eb5",
         "text": "What discord guild's have the most Users?"
       },
@@ -44903,6 +45413,87 @@
         "text": "What is the average half life of top x% active users?"
       }
     ],
+    "974d677f-15f0-4cf2-813d-69fb843b9367": [
+      {
+        "link": "7164edc9-2cb5-4505-b30f-bb1664a6fe2f",
+        "text": "How many times was each domain name mentioned in a specific discord guild?"
+      },
+      {
+        "link": "2afa5525-8727-4032-8742-56a176e63c82",
+        "text": "How to list the most reacted to URL's from a specific discord guild?"
+      }
+    ],
+    "eebb8e38-0288-40f0-b4ad-536c365e2faf": [],
+    "88b3a4ff-8c43-416c-baed-f89483f9347a": [
+      {
+        "link": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+        "text": "What discord author got the most reactions to their messages?"
+      },
+      {
+        "link": "1045dbd7-8a3e-4975-8dea-fe81c3c354d1",
+        "text": "What discord author got the most distinct reactions to their messages?"
+      }
+    ],
+    "5e079c99-f189-4078-8330-da0ca4be0a3c": [
+      {
+        "link": "83d03dd6-f408-4f08-a698-6583f2668bdd",
+        "text": "How to measure peak engagement for specific sets of phrases within a specific discord guild?"
+      },
+      {
+        "link": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
+        "text": "What are the number of mentions from other authors for a particular author in a particular discord guild?"
+      },
+      {
+        "link": "1b602ce2-6e32-482a-8d60-daf9f4997974",
+        "text": "What are the number of reactions for messages aggregated by month, week, and day?"
+      },
+      {
+        "link": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
+        "text": "What is the most reacted to message from a specific author in a particular discord guild?"
+      },
+      {
+        "link": "16563015-3102-4e34-92c3-08aee5f52dd9",
+        "text": "What is the most replied to message from a specific author in a particular discord guild?"
+      },
+      {
+        "link": "0a5d84e3-7342-474a-a6ba-5058780c2c02",
+        "text": "What is the longest message from a specific author in a particular discord guild?"
+      },
+      {
+        "text": "What is the longest message from a specific author on discord in context?"
+      },
+      {
+        "link": "3c8179a3-265d-4591-881c-d6720b8d4417",
+        "text": "How to search a specific authors messages within a specific discord guild?"
+      }
+    ],
+    "60bf35c2-6e89-4046-86a8-8d0bc55d2147": [],
+    "8b09a0b5-0e6f-4ffc-8a2f-6453673f86ed": [],
+    "542a3f37-d2a4-49ea-ba5f-2ca14e8a4605": [
+      {
+        "link": "4f6addae-7bb7-4743-8249-5bfd1ac4a6cc",
+        "text": "What is the most reacted to message from a specific author in a particular discord guild?"
+      },
+      {
+        "link": "16563015-3102-4e34-92c3-08aee5f52dd9",
+        "text": "What is the most replied to message from a specific author in a particular discord guild?"
+      },
+      {
+        "link": "0a5d84e3-7342-474a-a6ba-5058780c2c02",
+        "text": "What is the longest message from a specific author in a particular discord guild?"
+      },
+      {
+        "text": "What is the longest message from a specific author on discord in context?"
+      },
+      {
+        "link": "3c8179a3-265d-4591-881c-d6720b8d4417",
+        "text": "How to search a specific authors messages within a specific discord guild?"
+      },
+      {
+        "link": "0ddac7dd-a016-4971-b163-b4f890232e50",
+        "text": "What discord attachment message has the most reactions?"
+      }
+    ],
     "755e7c50-f7f1-42d9-a6ac-d147103acd05": [
       {
         "text": "Discord Schema"
@@ -44915,6 +45506,44 @@
       }
     ],
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": [],
+    "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": [
+      {
+        "link": "8db17737-329a-485d-9f99-98dce3ec1462",
+        "text": "What discord channels have the most messages?"
+      },
+      {
+        "link": "320d56d6-d028-425b-a1de-10d80b6d8669",
+        "text": "How many messages per channel in a specific discord guild?"
+      },
+      {
+        "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+        "text": "What discord channel has the longest average message length?"
+      },
+      {
+        "link": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
+        "text": "What discord channel has the longest average message length of a specific guild?"
+      },
+      {
+        "link": "faf2668b-49df-469f-a630-fca35d1c7c9d",
+        "text": "How to visualize the message count of each author in a specific channel?"
+      },
+      {
+        "link": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
+        "text": "How to get the message count of each channel per month for a specific discord guild?"
+      },
+      {
+        "link": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
+        "text": "How many attachments of each file type are in each discord channel of a specific discord guild?"
+      },
+      {
+        "link": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
+        "text": "How many authors posted in each specific channel of a specific discord guild?"
+      },
+      {
+        "link": "86ac9f2f-087d-4791-a0e0-2f01688fe0c7",
+        "text": "What discord channel has the longest average message length of a specific guild?"
+      }
+    ],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
       {
         "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
@@ -44994,6 +45623,117 @@
       },
       {
         "text": "Discord Datapipeline"
+      }
+    ],
+    "f6c57d06-6240-41fc-9174-7a6b18362030": [
+      {
+        "link": "315a04ff-5358-4d9f-840e-09c7ab7ea1a2",
+        "text": "Who is worth getting to know on Discord DAO Guilds?"
+      },
+      {
+        "link": "d9749f38-2694-405a-a5af-4ef357f29d9c",
+        "text": "How do we get to know individuals in Discord DAO Guilds?"
+      },
+      {
+        "link": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+        "text": "What discord user has the longest average message length?"
+      },
+      {
+        "text": "Which authors posted in more than on guild?"
+      },
+      {
+        "link": "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
+        "text": "How to count the number of authors within a specific discord guild?"
+      },
+      {
+        "link": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
+        "text": "How many messages per author in a specific discord guild?"
+      },
+      {
+        "link": "faf2668b-49df-469f-a630-fca35d1c7c9d",
+        "text": "How to visualize the message count of each author in a specific channel?"
+      },
+      {
+        "link": "31ea5eb0-424d-4bac-ac87-dcc463b5d92d",
+        "text": "What discord author got the most reactions to their messages?"
+      },
+      {
+        "link": "1045dbd7-8a3e-4975-8dea-fe81c3c354d1",
+        "text": "What discord author got the most distinct reactions to their messages?"
+      },
+      {
+        "link": "0c868cc8-6f4b-4f8c-9f50-ef2e1bf31615",
+        "text": "What discord author has the highest spike in activity in single day from a specific discord guild?"
+      },
+      {
+        "link": "80a2d7fc-3d80-420a-ba6b-d9bd41206606",
+        "text": "What discord author edits the highest percentage of their messages within a particular discord guild?"
+      },
+      {
+        "link": "a1e2f1f3-a636-4f25-949f-e9bec02f9830",
+        "text": "How many authors posted in each specific channel of a specific discord guild?"
+      },
+      {
+        "link": "02996ff2-f55e-4eae-a4b6-15d042b92896",
+        "text": "What discord author was mentioned the most?"
+      },
+      {
+        "link": "d473e743-c32d-45f7-bfe8-9836eeff97f4",
+        "text": "How many messages per author in a specific discord guild?"
+      },
+      {
+        "link": "edc06a13-7305-4b5f-8eb6-9e8eb1b4df23",
+        "text": "How many users have posted more than 100 messages in a particular discord guild?"
+      },
+      {
+        "link": "c102ef60-4b8c-423e-8102-69578c1ec330",
+        "text": "What authors asked the most questions within a specific discord guild?"
+      },
+      {
+        "link": "2f4fd09e-24a3-4359-81b2-049742a03610",
+        "text": "What discord user has the longest average message length in a particular guild?"
+      },
+      {
+        "link": "53d082f2-cdd8-443f-ab0e-527915f88f45",
+        "text": "What is the rate of new users joining the specific discord guild per month?"
+      },
+      {
+        "link": "9046827c-32a0-4720-92f2-ab6b7b31bd64",
+        "text": "What is the number of messages from a specific author from a particular discord guild aggregated by month?"
+      },
+      {
+        "link": "333a03ed-caee-4355-841a-4af914799849",
+        "text": "What is the number of messages from a specific author from a particular discord guild aggregated by week?"
+      },
+      {
+        "link": "d15f7093-b584-4f17-9ad0-b6e2d0f9d004",
+        "text": "What is the number of messages from a specific author from a particular discord guild aggregated by day?"
+      },
+      {
+        "link": "2b0b3244-b23a-4bac-a5aa-2eb853f42ecc",
+        "text": "What are the number of mentions from other authors for a particular author in a particular discord guild?"
+      },
+      {
+        "link": "1b602ce2-6e32-482a-8d60-daf9f4997974",
+        "text": "What are the number of reactions for messages aggregated by month, week, and day?"
+      }
+    ],
+    "22a67f4a-9b9d-45c8-a731-ab493e0a8b7b": [
+      {
+        "link": "0ddac7dd-a016-4971-b163-b4f890232e50",
+        "text": "What discord attachment message has the most reactions?"
+      },
+      {
+        "link": "3d0bc481-e27a-4076-9452-302ec5dd7ce5",
+        "text": "How many attachments of a separate file types are in a discord guild?"
+      },
+      {
+        "link": "bb1fc99d-24cc-4ea2-9110-3bf7d695ac03",
+        "text": "Who sent the most attachments in a specific discord guild?"
+      },
+      {
+        "link": "0ddac7dd-a016-4971-b163-b4f890232e50",
+        "text": "What discord attachment message has the most reactions?"
       }
     ],
     "ce890113-147e-4515-8d16-b9e0abf81cd2": [
