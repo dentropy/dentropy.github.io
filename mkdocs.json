@@ -4193,6 +4193,12 @@
             "ETL to QE, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036"
           },
           {
+            "ETL to QE, Update 18, Long Time No See": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc"
+          },
+          {
+            "ETL to QE, Update 17, Readjusting Goal Posts": "d14bd990-0628-4152-9bea-0c588dc707e8"
+          },
+          {
             "ETL to QE, Update 15, Attended Hackathon and Project Management": "9949cc79-681a-4ec8-a963-538958be3ec1"
           },
           {
@@ -4833,6 +4839,9 @@
           },
           {
             "Hyperion Cantos": "5e1088f4-7428-487f-9300-86f478f05dca"
+          },
+          {
+            "Human Forever": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0"
           },
           {
             "How to talk about books you haven t read": "2786846d-80d6-499a-8e39-b4a899b3b099"
@@ -6249,6 +6258,9 @@
             "Puppy Dog Training": "e98ebc35-4e0b-4e61-a167-2b5058233ee9"
           },
           {
+            "Psyop Interrogation Software": "bc513a43-335b-45b6-b323-46c78a688bc8"
+          },
+          {
             "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
           },
           {
@@ -6256,6 +6268,9 @@
           },
           {
             "Project Proposal": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb"
+          },
+          {
+            "Project Manager": "7a9d1420-cd19-47eb-b1cf-622b9a5caa42"
           },
           {
             "Project Management": "0e4562be-8998-4d6f-be4a-fa1264495d21"
@@ -6589,6 +6604,9 @@
           },
           {
             "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
+          },
+          {
+            "Graph Database": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7"
           },
           {
             "Government": "3dc06628-1344-4d36-b4b1-1c02c60fb362"
@@ -7590,6 +7608,9 @@
             "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a"
           },
           {
+            "What are some examples of Psyops?": "3dff5411-294f-45ef-92ed-645e35540ae0"
+          },
+          {
             "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7"
           },
           {
@@ -7672,6 +7693,9 @@
           },
           {
             "How to get the message count of each channel per month for a specific discord guild?": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425"
+          },
+          {
+            "How to get number of files recursively for each folder in directory?": "3d91e1f3-475d-4294-8694-a9839585db9f"
           },
           {
             "How to get message count by day for a particular discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e"
@@ -8124,6 +8148,13 @@
     ]
   },
   {
+    "Events": [
+      {
+        "2023 Blockhack": "cc7eee66-0ac7-4e06-973b-5300c238ad55"
+      }
+    ]
+  },
+  {
     "Dents": [
       {
         "Thoughts on Dead Internet Theory and how DID's Can Help": "14ea7327-eb57-46e9-b4d6-40e810b8dda1"
@@ -8265,10 +8296,16 @@
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
   },
   {
+    "SuperDuperDB": "a8600283-5cab-4cc9-b252-960ec69457f1"
+  },
+  {
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
   },
   {
     "Mimetic File System": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7"
+  },
+  {
+    "LLama Index": "f1ca703a-5e61-4fe3-9951-61f7c5f50223"
   },
   {
     "How to count the number of bots on a specific discord guild?": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db"

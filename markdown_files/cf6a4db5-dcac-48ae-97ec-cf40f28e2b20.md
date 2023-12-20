@@ -8,7 +8,7 @@ title: Favorite Media
 
 * [Homo Deus](/2055ffd4-310b-4f0f-b7f8-61d91402650c)
 * [The Singularity Is Near](/051e7911-5b2a-43e8-89be-899447d13e80)
-* [Human Forever](/undefined)
+* [Human Forever](/00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0)
 * [12 Rules For Life](/550c359a-b6b9-45f7-87f0-3325be73cf59)
 
 ## [Fiction Books](/undefined)

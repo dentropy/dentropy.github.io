@@ -1375,6 +1375,8 @@ nav:
         - "ETL to QE, Update 4, Code Refactor and TrueNAS S3": d59dbed7-08bd-462e-8f87-24a80c791f46
         - "ETL to QE, Update 3, Progress on first Report to be Published": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
         - "ETL to QE, Update 2, S3 and PostGraphile": 01d14af7-0d89-4c3a-90a8-12696e01e036
+        - "ETL to QE, Update 18, Long Time No See": 07184fda-87ef-4fa9-9c6e-1c4382f6fabc
+        - "ETL to QE, Update 17, Readjusting Goal Posts": d14bd990-0628-4152-9bea-0c588dc707e8
         - "ETL to QE, Update 15, Attended Hackathon and Project Management": 9949cc79-681a-4ec8-a963-538958be3ec1
         - "ETL to QE, Update 14, Topic Modeling": a7099c90-7fb1-4230-9c47-874fd85e8837
         - "ETL to QE, Update 13, Redefining Project Scope": 0857e406-5e14-4b45-9e8c-3ae712a2f00a
@@ -1582,6 +1584,7 @@ nav:
         - Inception: c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26
         - IBM and the Holocaust: 52328777-f484-47b0-99a4-7343fb40bc0a
         - Hyperion Cantos: 5e1088f4-7428-487f-9300-86f478f05dca
+        - Human Forever: 00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0
         - How to talk about books you haven t read: 2786846d-80d6-499a-8e39-b4a899b3b099
         - How to be sad: 0688ef0d-7a2b-43a6-bd79-1c1ffff22d98
         - How to Integrate Your Shadow - The Dark Side is Unrealized Potential: 32480141-833f-40b8-826b-fe80b74f4783
@@ -2037,9 +2040,11 @@ nav:
         - QED: d9af5ab3-d19a-4c6b-a7c6-81967a147653
         - Purple Team: a3a2ab8b-1491-4d08-ae6b-0c53c064e246
         - Puppy Dog Training: e98ebc35-4e0b-4e61-a167-2b5058233ee9
+        - Psyop Interrogation Software: bc513a43-335b-45b6-b323-46c78a688bc8
         - Psyche: 972a0bc0-8e54-40a4-8678-3dad78e1a73f
         - Prople have ideas and ideas have people: 76261f75-3052-4d74-b15e-2468789911b6
         - Project Proposal: cc1a3330-f1a0-416f-9338-4bc875a0b9eb
+        - Project Manager: 7a9d1420-cd19-47eb-b1cf-622b9a5caa42
         - Project Management: 0e4562be-8998-4d6f-be4a-fa1264495d21
         - Project Management vs Design Management: 74bf6161-4a39-46fd-aa10-a8625697e665
         - Privateer: 94e2bf44-c23e-463e-b1a2-b368a14070b8
@@ -2151,6 +2156,7 @@ nav:
         - Hegelian dialectic: a3acbd1e-0cda-4243-902e-7e188b1db442
         - HTTP Basic Auth: 627cbfea-af5a-4dbf-b92a-b760c2d98d37
         - HPI: dfda1180-e79f-4f05-880a-91f26f7c906c
+        - Graph Database: 1b1e0abb-d59d-4f98-8065-6fa7e7343de7
         - Government: 3dc06628-1344-4d36-b4b1-1c02c60fb362
         - Google: 2ee4e1cf-6028-4a69-bfae-e1defce11b7f
         - God: 41b53b6c-7073-4f0e-9549-575943f0ac66
@@ -2474,6 +2480,7 @@ nav:
         - What are the discord guilds are in the database?: 26b46eff-ac32-457c-b35b-cd936fa1af83
         - What are the channels of a particular discord guild?: a0219c15-6f5c-41b6-888f-41698790b9d2
         - What are the basics of Hoon?: d501e972-f005-4aba-a7bf-3404b735c27a
+        - What are some examples of Psyops?: 3dff5411-294f-45ef-92ed-645e35540ae0
         - What are some bulk file renaming tools?: e9a110df-b751-4795-84d6-2ce0893d3fe7
         - Order discord Guild's by the oldest message?: f87ebf9c-0d6e-4224-9418-badaa496ce2f
         - Learn to Code Questions: 86917ba0-a64e-464a-bdb7-2e2fddd36ea4
@@ -2502,6 +2509,7 @@ nav:
         - How to list Bots on a Discord Guild?: dd096aae-3c6c-437b-9890-76e7355b93a0
         - How to install OpenZepplin in Hardhat.js: 3b73f02b-021d-41b2-b094-af347aa351da
         - How to get the message count of each channel per month for a specific discord guild?: 32d87a4b-c8ba-44c2-9fc2-f04d7e141425
+        - How to get number of files recursively for each folder in directory?: 3d91e1f3-475d-4294-8694-a9839585db9f
         - How to get message count by day for a particular discord guild?: fe3d485e-3f96-4cbd-8a63-2feda6021e8e
         - How to generate a word cloud based on a discord authors messages in a particular discord guild?: af9ab3a8-c2bd-4241-b8ed-0cfba608070c
         - How to find copies of the same file and images within a directory?: 2ce63d39-0b1a-4dbe-85a4-fcc67acabda6
@@ -2644,6 +2652,8 @@ nav:
     - White Paper and Project Outlines: 3ebc2356-8b1a-42a2-8136-9e693039c00f
 - Ideas:
     - Functional Programming applied to memes: 1bcf09cd-6a42-4d1f-8bb7-09ac5262396a
+- Events:
+    - 2023 Blockhack: cc7eee66-0ac7-4e06-973b-5300c238ad55
 - Dents:
     - Thoughts on Dead Internet Theory and how DID's Can Help: 14ea7327-eb57-46e9-b4d6-40e810b8dda1
     - Edgy Blockchain Problems: 209d819c-37d7-499a-83de-845fd67f0345
@@ -2690,8 +2700,10 @@ nav:
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - What is the Social Media Singularity?: 689ab726-0af1-4fc8-826d-216ff577c30f
 - Tutorials and Learning Pathways: 5ba9b0de-6aad-48fa-ab60-ae39c62a027a
+- SuperDuperDB: a8600283-5cab-4cc9-b252-960ec69457f1
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Mimetic File System: b93b6058-c6a0-488e-a4b1-13bfe452b1c7
+- LLama Index: f1ca703a-5e61-4fe3-9951-61f7c5f50223
 - How to count the number of bots on a specific discord guild?: d1c748eb-cb64-4a67-9e19-20cceb9fc1db
 - How to count the number of authors within a specific discord guild?: 63d6106e-79d3-47ec-b06d-d613ab3ff71d
 - How many attachments of each file type are in each discord channel of a specific discord guild?: eeeb2990-0ac3-4d26-a11f-4ba86713a06b

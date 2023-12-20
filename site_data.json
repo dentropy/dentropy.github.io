@@ -3,8 +3,10 @@
     "146656b4-573a-4e42-8f00-239ab29eac3b",
     "689ab726-0af1-4fc8-826d-216ff577c30f",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
+    "a8600283-5cab-4cc9-b252-960ec69457f1",
     "e76c8ac9-69f3-477f-8015-556e83738432",
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
     "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
@@ -1189,6 +1191,7 @@
     "26b46eff-ac32-457c-b35b-cd936fa1af83",
     "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "3dff5411-294f-45ef-92ed-645e35540ae0",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
@@ -1217,6 +1220,7 @@
     "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "3b73f02b-021d-41b2-b094-af347aa351da",
     "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
+    "3d91e1f3-475d-4294-8694-a9839585db9f",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -1403,6 +1407,8 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc",
+    "d14bd990-0628-4152-9bea-0c588dc707e8",
     "9949cc79-681a-4ec8-a963-538958be3ec1",
     "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
@@ -1757,6 +1763,7 @@
     "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26",
     "52328777-f484-47b0-99a4-7343fb40bc0a",
     "5e1088f4-7428-487f-9300-86f478f05dca",
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
     "2786846d-80d6-499a-8e39-b4a899b3b099",
     "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98",
     "32480141-833f-40b8-826b-fe80b74f4783",
@@ -1919,6 +1926,7 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "2781f257-2980-4661-bc02-635e6cc59112",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55",
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1",
     "209d819c-37d7-499a-83de-845fd67f0345",
     "974f7445-a807-4edc-bf61-4155c155ffe5",
@@ -2093,9 +2101,11 @@
     "d9af5ab3-d19a-4c6b-a7c6-81967a147653",
     "a3a2ab8b-1491-4d08-ae6b-0c53c064e246",
     "e98ebc35-4e0b-4e61-a167-2b5058233ee9",
+    "bc513a43-335b-45b6-b323-46c78a688bc8",
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f",
     "76261f75-3052-4d74-b15e-2468789911b6",
     "cc1a3330-f1a0-416f-9338-4bc875a0b9eb",
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42",
     "0e4562be-8998-4d6f-be4a-fa1264495d21",
     "74bf6161-4a39-46fd-aa10-a8625697e665",
     "94e2bf44-c23e-463e-b1a2-b368a14070b8",
@@ -2207,6 +2217,7 @@
     "a3acbd1e-0cda-4243-902e-7e188b1db442",
     "627cbfea-af5a-4dbf-b92a-b760c2d98d37",
     "dfda1180-e79f-4f05-880a-91f26f7c906c",
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7",
     "3dc06628-1344-4d36-b4b1-1c02c60fb362",
     "2ee4e1cf-6028-4a69-bfae-e1defce11b7f",
     "41b53b6c-7073-4f0e-9549-575943f0ac66",
@@ -2416,8 +2427,10 @@
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
     "689ab726-0af1-4fc8-826d-216ff577c30f": "What is the Social Media Singularity?.md",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways.md",
+    "a8600283-5cab-4cc9-b252-960ec69457f1": "SuperDuperDB.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects.md",
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": "Mimetic File System.md",
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223": "LLama Index.md",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": "How to count the number of bots on a specific discord guild?.md",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": "How to count the number of authors within a specific discord guild?.md",
     "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": "How many attachments of each file type are in each discord channel of a specific discord guild?.md",
@@ -3597,6 +3610,7 @@
     "26b46eff-ac32-457c-b35b-cd936fa1af83": "Questions/list/What are the discord guilds are in the database?.md",
     "a0219c15-6f5c-41b6-888f-41698790b9d2": "Questions/list/What are the channels of a particular discord guild?.md",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "Questions/list/What are the basics of Hoon?.md",
+    "3dff5411-294f-45ef-92ed-645e35540ae0": "Questions/list/What are some examples of Psyops?.md",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": "Questions/list/What are some bulk file renaming tools?.md",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Questions/list/Order discord Guild's by the oldest message?.md",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Questions/list/Learn to Code Questions.md",
@@ -3625,6 +3639,7 @@
     "dd096aae-3c6c-437b-9890-76e7355b93a0": "Questions/list/How to list Bots on a Discord Guild?.md",
     "3b73f02b-021d-41b2-b094-af347aa351da": "Questions/list/How to install OpenZepplin in Hardhat.js.md",
     "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": "Questions/list/How to get the message count of each channel per month for a specific discord guild?.md",
+    "3d91e1f3-475d-4294-8694-a9839585db9f": "Questions/list/How to get number of files recursively for each folder in directory?.md",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "Questions/list/How to get message count by day for a particular discord guild?.md",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": "Questions/list/How to generate a word cloud based on a discord authors messages in a particular discord guild?.md",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "Questions/list/How to find copies of the same file and images within a directory?.md",
@@ -3811,6 +3826,8 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": "MyProjects/ETL to QE/ETL to QE, Update 4, Code Refactor and TrueNAS S3.md",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "MyProjects/ETL to QE/ETL to QE, Update 3, Progress on first Report to be Published.md",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "MyProjects/ETL to QE/ETL to QE, Update 2, S3 and PostGraphile.md",
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc": "MyProjects/ETL to QE/ETL to QE, Update 18, Long Time No See.md",
+    "d14bd990-0628-4152-9bea-0c588dc707e8": "MyProjects/ETL to QE/ETL to QE, Update 17, Readjusting Goal Posts.md",
     "9949cc79-681a-4ec8-a963-538958be3ec1": "MyProjects/ETL to QE/ETL to QE, Update 15, Attended Hackathon and Project Management.md",
     "a7099c90-7fb1-4230-9c47-874fd85e8837": "MyProjects/ETL to QE/ETL to QE, Update 14, Topic Modeling.md",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": "MyProjects/ETL to QE/ETL to QE, Update 13, Redefining Project Scope.md",
@@ -4164,6 +4181,7 @@
     "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26": "Media/List/Inception.md",
     "52328777-f484-47b0-99a4-7343fb40bc0a": "Media/List/IBM and the Holocaust.md",
     "5e1088f4-7428-487f-9300-86f478f05dca": "Media/List/Hyperion Cantos.md",
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0": "Media/List/Human Forever.md",
     "2786846d-80d6-499a-8e39-b4a899b3b099": "Media/List/How to talk about books you haven t read.md",
     "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98": "Media/List/How to be sad.md",
     "32480141-833f-40b8-826b-fe80b74f4783": "Media/List/How to Integrate Your Shadow - The Dark Side is Unrealized Potential.md",
@@ -4325,6 +4343,7 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "Heuristics/Conversation/36 Questions To Fall In Love.md",
     "2781f257-2980-4661-bc02-635e6cc59112": "Heuristics/Axioms/Cosmic Sociology.md",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "Heuristics/Axioms/20 Axioms of Sociology.md",
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55": "Events/2023 Blockhack.md",
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1": "Dents/Thoughts on Dead Internet Theory and how DID's Can Help.md",
     "209d819c-37d7-499a-83de-845fd67f0345": "Dents/Edgy Blockchain Problems.md",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "Courses/HU - Hustler's University.md",
@@ -4499,9 +4518,11 @@
     "d9af5ab3-d19a-4c6b-a7c6-81967a147653": "Concepts/List/QED.md",
     "a3a2ab8b-1491-4d08-ae6b-0c53c064e246": "Concepts/List/Purple Team.md",
     "e98ebc35-4e0b-4e61-a167-2b5058233ee9": "Concepts/List/Puppy Dog Training.md",
+    "bc513a43-335b-45b6-b323-46c78a688bc8": "Concepts/List/Psyop Interrogation Software.md",
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f": "Concepts/List/Psyche.md",
     "76261f75-3052-4d74-b15e-2468789911b6": "Concepts/List/Prople have ideas and ideas have people.md",
     "cc1a3330-f1a0-416f-9338-4bc875a0b9eb": "Concepts/List/Project Proposal.md",
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42": "Concepts/List/Project Manager.md",
     "0e4562be-8998-4d6f-be4a-fa1264495d21": "Concepts/List/Project Management.md",
     "74bf6161-4a39-46fd-aa10-a8625697e665": "Concepts/List/Project Management vs Design Management.md",
     "94e2bf44-c23e-463e-b1a2-b368a14070b8": "Concepts/List/Privateer.md",
@@ -4612,6 +4633,7 @@
     "a3acbd1e-0cda-4243-902e-7e188b1db442": "Concepts/List/Hegelian dialectic.md",
     "627cbfea-af5a-4dbf-b92a-b760c2d98d37": "Concepts/List/HTTP Basic Auth.md",
     "dfda1180-e79f-4f05-880a-91f26f7c906c": "Concepts/List/HPI.md",
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7": "Concepts/List/Graph Database.md",
     "3dc06628-1344-4d36-b4b1-1c02c60fb362": "Concepts/List/Government.md",
     "2ee4e1cf-6028-4a69-bfae-e1defce11b7f": "Concepts/List/Google.md",
     "41b53b6c-7073-4f0e-9549-575943f0ac66": "Concepts/List/God.md",
@@ -4821,8 +4843,10 @@
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
     "689ab726-0af1-4fc8-826d-216ff577c30f": "What is the Social Media Singularity?",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways",
+    "a8600283-5cab-4cc9-b252-960ec69457f1": "SuperDuperDB",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects",
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": "Mimetic File System",
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223": "LLama Index",
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": "How to count the number of bots on a specific discord guild?",
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": "How to count the number of authors within a specific discord guild?",
     "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": "How many attachments of each file type are in each discord channel of a specific discord guild?",
@@ -6002,6 +6026,7 @@
     "26b46eff-ac32-457c-b35b-cd936fa1af83": "What are the discord guilds are in the database?",
     "a0219c15-6f5c-41b6-888f-41698790b9d2": "What are the channels of a particular discord guild?",
     "d501e972-f005-4aba-a7bf-3404b735c27a": "What are the basics of Hoon?",
+    "3dff5411-294f-45ef-92ed-645e35540ae0": "What are some examples of Psyops?",
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": "What are some bulk file renaming tools?",
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": "Order discord Guild's by the oldest message?",
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": "Learn to Code Questions",
@@ -6030,6 +6055,7 @@
     "dd096aae-3c6c-437b-9890-76e7355b93a0": "How to list Bots on a Discord Guild?",
     "3b73f02b-021d-41b2-b094-af347aa351da": "How to install OpenZepplin in Hardhat",
     "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": "How to get the message count of each channel per month for a specific discord guild?",
+    "3d91e1f3-475d-4294-8694-a9839585db9f": "How to get number of files recursively for each folder in directory?",
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": "How to get message count by day for a particular discord guild?",
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": "How to generate a word cloud based on a discord authors messages in a particular discord guild?",
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": "How to find copies of the same file and images within a directory?",
@@ -6216,6 +6242,8 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": "ETL to QE, Update 4, Code Refactor and TrueNAS S3",
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": "ETL to QE, Update 3, Progress on first Report to be Published",
     "01d14af7-0d89-4c3a-90a8-12696e01e036": "ETL to QE, Update 2, S3 and PostGraphile",
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc": "ETL to QE, Update 18, Long Time No See",
+    "d14bd990-0628-4152-9bea-0c588dc707e8": "ETL to QE, Update 17, Readjusting Goal Posts",
     "9949cc79-681a-4ec8-a963-538958be3ec1": "ETL to QE, Update 15, Attended Hackathon and Project Management",
     "a7099c90-7fb1-4230-9c47-874fd85e8837": "ETL to QE, Update 14, Topic Modeling",
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": "ETL to QE, Update 13, Redefining Project Scope",
@@ -6569,6 +6597,7 @@
     "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26": "Inception",
     "52328777-f484-47b0-99a4-7343fb40bc0a": "IBM and the Holocaust",
     "5e1088f4-7428-487f-9300-86f478f05dca": "Hyperion Cantos",
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0": "Human Forever",
     "2786846d-80d6-499a-8e39-b4a899b3b099": "How to talk about books you haven t read",
     "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98": "How to be sad",
     "32480141-833f-40b8-826b-fe80b74f4783": "How to Integrate Your Shadow - The Dark Side is Unrealized Potential",
@@ -6730,6 +6759,7 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": "36 Questions To Fall In Love",
     "2781f257-2980-4661-bc02-635e6cc59112": "Cosmic Sociology",
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": "20 Axioms of Sociology",
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55": "2023 Blockhack",
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1": "Thoughts on Dead Internet Theory and how DID's Can Help",
     "209d819c-37d7-499a-83de-845fd67f0345": "Edgy Blockchain Problems",
     "974f7445-a807-4edc-bf61-4155c155ffe5": "HU - Hustler's University",
@@ -6904,9 +6934,11 @@
     "d9af5ab3-d19a-4c6b-a7c6-81967a147653": "QED",
     "a3a2ab8b-1491-4d08-ae6b-0c53c064e246": "Purple Team",
     "e98ebc35-4e0b-4e61-a167-2b5058233ee9": "Puppy Dog Training",
+    "bc513a43-335b-45b6-b323-46c78a688bc8": "Psyop Interrogation Software",
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f": "Psyche",
     "76261f75-3052-4d74-b15e-2468789911b6": "Prople have ideas and ideas have people",
     "cc1a3330-f1a0-416f-9338-4bc875a0b9eb": "Project Proposal",
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42": "Project Manager",
     "0e4562be-8998-4d6f-be4a-fa1264495d21": "Project Management",
     "74bf6161-4a39-46fd-aa10-a8625697e665": "Project Management vs Design Management",
     "94e2bf44-c23e-463e-b1a2-b368a14070b8": "Privateer",
@@ -7017,6 +7049,7 @@
     "a3acbd1e-0cda-4243-902e-7e188b1db442": "Hegelian dialectic",
     "627cbfea-af5a-4dbf-b92a-b760c2d98d37": "HTTP Basic Auth",
     "dfda1180-e79f-4f05-880a-91f26f7c906c": "HPI",
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7": "Graph Database",
     "3dc06628-1344-4d36-b4b1-1c02c60fb362": "Government",
     "2ee4e1cf-6028-4a69-bfae-e1defce11b7f": "Google",
     "41b53b6c-7073-4f0e-9549-575943f0ac66": "God",
@@ -7226,8 +7259,10 @@
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
     "What is the Social Media Singularity?.md": "689ab726-0af1-4fc8-826d-216ff577c30f",
     "Tutorials and Learning Pathways.md": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
+    "SuperDuperDB.md": "a8600283-5cab-4cc9-b252-960ec69457f1",
     "My Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Mimetic File System.md": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
+    "LLama Index.md": "f1ca703a-5e61-4fe3-9951-61f7c5f50223",
     "How to count the number of bots on a specific discord guild?.md": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "How to count the number of authors within a specific discord guild?.md": "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
     "How many attachments of each file type are in each discord channel of a specific discord guild?.md": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
@@ -8412,6 +8447,7 @@
     "Questions/list/What are the discord guilds are in the database?.md": "26b46eff-ac32-457c-b35b-cd936fa1af83",
     "Questions/list/What are the channels of a particular discord guild?.md": "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "Questions/list/What are the basics of Hoon?.md": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "Questions/list/What are some examples of Psyops?.md": "3dff5411-294f-45ef-92ed-645e35540ae0",
     "Questions/list/What are some bulk file renaming tools?.md": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "Questions/list/Order discord Guild's by the oldest message?.md": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "Questions/list/Learn to Code Questions.md": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
@@ -8440,6 +8476,7 @@
     "Questions/list/How to list Bots on a Discord Guild?.md": "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "Questions/list/How to install OpenZepplin in Hardhat.js.md": "3b73f02b-021d-41b2-b094-af347aa351da",
     "Questions/list/How to get the message count of each channel per month for a specific discord guild?.md": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
+    "Questions/list/How to get number of files recursively for each folder in directory?.md": "3d91e1f3-475d-4294-8694-a9839585db9f",
     "Questions/list/How to get message count by day for a particular discord guild?.md": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "Questions/list/How to generate a word cloud based on a discord authors messages in a particular discord guild?.md": "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "Questions/list/How to find copies of the same file and images within a directory?.md": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -8626,6 +8663,8 @@
     "MyProjects/ETL to QE/ETL to QE, Update 4, Code Refactor and TrueNAS S3.md": "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "MyProjects/ETL to QE/ETL to QE, Update 3, Progress on first Report to be Published.md": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "MyProjects/ETL to QE/ETL to QE, Update 2, S3 and PostGraphile.md": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "MyProjects/ETL to QE/ETL to QE, Update 18, Long Time No See.md": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc",
+    "MyProjects/ETL to QE/ETL to QE, Update 17, Readjusting Goal Posts.md": "d14bd990-0628-4152-9bea-0c588dc707e8",
     "MyProjects/ETL to QE/ETL to QE, Update 15, Attended Hackathon and Project Management.md": "9949cc79-681a-4ec8-a963-538958be3ec1",
     "MyProjects/ETL to QE/ETL to QE, Update 14, Topic Modeling.md": "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "MyProjects/ETL to QE/ETL to QE, Update 13, Redefining Project Scope.md": "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
@@ -8980,6 +9019,7 @@
     "Media/List/Inception.md": "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26",
     "Media/List/IBM and the Holocaust.md": "52328777-f484-47b0-99a4-7343fb40bc0a",
     "Media/List/Hyperion Cantos.md": "5e1088f4-7428-487f-9300-86f478f05dca",
+    "Media/List/Human Forever.md": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
     "Media/List/How to talk about books you haven t read.md": "2786846d-80d6-499a-8e39-b4a899b3b099",
     "Media/List/How to be sad.md": "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98",
     "Media/List/How to Integrate Your Shadow - The Dark Side is Unrealized Potential.md": "32480141-833f-40b8-826b-fe80b74f4783",
@@ -9142,6 +9182,7 @@
     "Heuristics/Conversation/36 Questions To Fall In Love.md": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Heuristics/Axioms/Cosmic Sociology.md": "2781f257-2980-4661-bc02-635e6cc59112",
     "Heuristics/Axioms/20 Axioms of Sociology.md": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "Events/2023 Blockhack.md": "cc7eee66-0ac7-4e06-973b-5300c238ad55",
     "Dents/Thoughts on Dead Internet Theory and how DID's Can Help.md": "14ea7327-eb57-46e9-b4d6-40e810b8dda1",
     "Dents/Edgy Blockchain Problems.md": "209d819c-37d7-499a-83de-845fd67f0345",
     "Courses/HU - Hustler's University.md": "974f7445-a807-4edc-bf61-4155c155ffe5",
@@ -9316,9 +9357,11 @@
     "Concepts/List/QED.md": "d9af5ab3-d19a-4c6b-a7c6-81967a147653",
     "Concepts/List/Purple Team.md": "a3a2ab8b-1491-4d08-ae6b-0c53c064e246",
     "Concepts/List/Puppy Dog Training.md": "e98ebc35-4e0b-4e61-a167-2b5058233ee9",
+    "Concepts/List/Psyop Interrogation Software.md": "bc513a43-335b-45b6-b323-46c78a688bc8",
     "Concepts/List/Psyche.md": "972a0bc0-8e54-40a4-8678-3dad78e1a73f",
     "Concepts/List/Prople have ideas and ideas have people.md": "76261f75-3052-4d74-b15e-2468789911b6",
     "Concepts/List/Project Proposal.md": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb",
+    "Concepts/List/Project Manager.md": "7a9d1420-cd19-47eb-b1cf-622b9a5caa42",
     "Concepts/List/Project Management.md": "0e4562be-8998-4d6f-be4a-fa1264495d21",
     "Concepts/List/Project Management vs Design Management.md": "74bf6161-4a39-46fd-aa10-a8625697e665",
     "Concepts/List/Privateer.md": "94e2bf44-c23e-463e-b1a2-b368a14070b8",
@@ -9430,6 +9473,7 @@
     "Concepts/List/Hegelian dialectic.md": "a3acbd1e-0cda-4243-902e-7e188b1db442",
     "Concepts/List/HTTP Basic Auth.md": "627cbfea-af5a-4dbf-b92a-b760c2d98d37",
     "Concepts/List/HPI.md": "dfda1180-e79f-4f05-880a-91f26f7c906c",
+    "Concepts/List/Graph Database.md": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7",
     "Concepts/List/Government.md": "3dc06628-1344-4d36-b4b1-1c02c60fb362",
     "Concepts/List/Google.md": "2ee4e1cf-6028-4a69-bfae-e1defce11b7f",
     "Concepts/List/God.md": "41b53b6c-7073-4f0e-9549-575943f0ac66",
@@ -9643,8 +9687,10 @@
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
     "What is the Social Media Singularity?": "689ab726-0af1-4fc8-826d-216ff577c30f",
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
+    "SuperDuperDB": "a8600283-5cab-4cc9-b252-960ec69457f1",
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
     "Mimetic File System": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
+    "LLama Index": "f1ca703a-5e61-4fe3-9951-61f7c5f50223",
     "How to count the number of bots on a specific discord guild?": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
     "How to count the number of authors within a specific discord guild?": "63d6106e-79d3-47ec-b06d-d613ab3ff71d",
     "How many attachments of each file type are in each discord channel of a specific discord guild?": "eeeb2990-0ac3-4d26-a11f-4ba86713a06b",
@@ -10804,6 +10850,7 @@
     "What are the discord guilds are in the database?": "26b46eff-ac32-457c-b35b-cd936fa1af83",
     "What are the channels of a particular discord guild?": "a0219c15-6f5c-41b6-888f-41698790b9d2",
     "What are the basics of Hoon?": "d501e972-f005-4aba-a7bf-3404b735c27a",
+    "What are some examples of Psyops?": "3dff5411-294f-45ef-92ed-645e35540ae0",
     "What are some bulk file renaming tools?": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
     "Order discord Guild's by the oldest message?": "f87ebf9c-0d6e-4224-9418-badaa496ce2f",
     "Learn to Code Questions": "86917ba0-a64e-464a-bdb7-2e2fddd36ea4",
@@ -10832,6 +10879,7 @@
     "How to list Bots on a Discord Guild?": "dd096aae-3c6c-437b-9890-76e7355b93a0",
     "How to install OpenZepplin in Hardhat": "3b73f02b-021d-41b2-b094-af347aa351da",
     "How to get the message count of each channel per month for a specific discord guild?": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
+    "How to get number of files recursively for each folder in directory?": "3d91e1f3-475d-4294-8694-a9839585db9f",
     "How to get message count by day for a particular discord guild?": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
     "How to generate a word cloud based on a discord authors messages in a particular discord guild?": "af9ab3a8-c2bd-4241-b8ed-0cfba608070c",
     "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6",
@@ -11017,6 +11065,8 @@
     "ETL to QE, Update 4, Code Refactor and TrueNAS S3": "d59dbed7-08bd-462e-8f87-24a80c791f46",
     "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37",
     "ETL to QE, Update 2, S3 and PostGraphile": "01d14af7-0d89-4c3a-90a8-12696e01e036",
+    "ETL to QE, Update 18, Long Time No See": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc",
+    "ETL to QE, Update 17, Readjusting Goal Posts": "d14bd990-0628-4152-9bea-0c588dc707e8",
     "ETL to QE, Update 15, Attended Hackathon and Project Management": "9949cc79-681a-4ec8-a963-538958be3ec1",
     "ETL to QE, Update 14, Topic Modeling": "a7099c90-7fb1-4230-9c47-874fd85e8837",
     "ETL to QE, Update 13, Redefining Project Scope": "0857e406-5e14-4b45-9e8c-3ae712a2f00a",
@@ -11337,6 +11387,7 @@
     "Inception": "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26",
     "IBM and the Holocaust": "52328777-f484-47b0-99a4-7343fb40bc0a",
     "Hyperion Cantos": "5e1088f4-7428-487f-9300-86f478f05dca",
+    "Human Forever": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
     "How to talk about books you haven t read": "2786846d-80d6-499a-8e39-b4a899b3b099",
     "How to be sad": "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98",
     "How to Integrate Your Shadow - The Dark Side is Unrealized Potential": "32480141-833f-40b8-826b-fe80b74f4783",
@@ -11498,6 +11549,7 @@
     "36 Questions To Fall In Love": "4b4921f5-3d0d-4698-ad55-434e6c117943",
     "Cosmic Sociology": "2781f257-2980-4661-bc02-635e6cc59112",
     "20 Axioms of Sociology": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
+    "2023 Blockhack": "cc7eee66-0ac7-4e06-973b-5300c238ad55",
     "Thoughts on Dead Internet Theory and how DID's Can Help": "14ea7327-eb57-46e9-b4d6-40e810b8dda1",
     "Edgy Blockchain Problems": "209d819c-37d7-499a-83de-845fd67f0345",
     "HU - Hustler's University": "974f7445-a807-4edc-bf61-4155c155ffe5",
@@ -11664,9 +11716,11 @@
     "QED": "d9af5ab3-d19a-4c6b-a7c6-81967a147653",
     "Purple Team": "a3a2ab8b-1491-4d08-ae6b-0c53c064e246",
     "Puppy Dog Training": "e98ebc35-4e0b-4e61-a167-2b5058233ee9",
+    "Psyop Interrogation Software": "bc513a43-335b-45b6-b323-46c78a688bc8",
     "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f",
     "Prople have ideas and ideas have people": "76261f75-3052-4d74-b15e-2468789911b6",
     "Project Proposal": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb",
+    "Project Manager": "7a9d1420-cd19-47eb-b1cf-622b9a5caa42",
     "Project Management": "0e4562be-8998-4d6f-be4a-fa1264495d21",
     "Project Management vs Design Management": "74bf6161-4a39-46fd-aa10-a8625697e665",
     "Private Torrent Trackers": "f13c1b64-dcb4-4e33-9ce5-de4930771974",
@@ -11777,6 +11831,7 @@
     "Hegelian dialectic": "a3acbd1e-0cda-4243-902e-7e188b1db442",
     "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37",
     "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c",
+    "Graph Database": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7",
     "Government": "3dc06628-1344-4d36-b4b1-1c02c60fb362",
     "Google": "2ee4e1cf-6028-4a69-bfae-e1defce11b7f",
     "God": "41b53b6c-7073-4f0e-9549-575943f0ac66",
@@ -11991,6 +12046,11 @@
       "share": true,
       "title": "Tutorials and Learning Pathways"
     },
+    "a8600283-5cab-4cc9-b252-960ec69457f1": {
+      "uuid": "a8600283-5cab-4cc9-b252-960ec69457f1",
+      "share": true,
+      "title": "SuperDuperDB"
+    },
     "e76c8ac9-69f3-477f-8015-556e83738432": {
       "share": true,
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -12000,6 +12060,11 @@
       "uuid": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7",
       "share": true,
       "title": "Mimetic File System"
+    },
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223": {
+      "uuid": "f1ca703a-5e61-4fe3-9951-61f7c5f50223",
+      "share": true,
+      "title": "LLama Index"
     },
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": {
       "uuid": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db",
@@ -17896,6 +17961,11 @@
       "share": true,
       "title": "What are the basics of Hoon?"
     },
+    "3dff5411-294f-45ef-92ed-645e35540ae0": {
+      "uuid": "3dff5411-294f-45ef-92ed-645e35540ae0",
+      "share": true,
+      "title": "What are some examples of Psyops?"
+    },
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": {
       "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7",
       "share": true,
@@ -18035,6 +18105,11 @@
       "uuid": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425",
       "share": true,
       "title": "How to get the message count of each channel per month for a specific discord guild?"
+    },
+    "3d91e1f3-475d-4294-8694-a9839585db9f": {
+      "uuid": "3d91e1f3-475d-4294-8694-a9839585db9f",
+      "share": true,
+      "title": "How to get number of files recursively for each folder in directory?"
     },
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": {
       "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e",
@@ -18968,6 +19043,16 @@
       "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036",
       "share": true,
       "title": "ETL to QE, Update 2, S3 and PostGraphile"
+    },
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc": {
+      "uuid": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc",
+      "share": true,
+      "title": "ETL to QE, Update 18, Long Time No See"
+    },
+    "d14bd990-0628-4152-9bea-0c588dc707e8": {
+      "uuid": "d14bd990-0628-4152-9bea-0c588dc707e8",
+      "share": true,
+      "title": "ETL to QE, Update 17, Readjusting Goal Posts"
     },
     "9949cc79-681a-4ec8-a963-538958be3ec1": {
       "uuid": "9949cc79-681a-4ec8-a963-538958be3ec1",
@@ -20735,6 +20820,11 @@
       "uuid": "5e1088f4-7428-487f-9300-86f478f05dca",
       "title": "Hyperion Cantos"
     },
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0": {
+      "uuid": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
+      "share": true,
+      "title": "Human Forever"
+    },
     "2786846d-80d6-499a-8e39-b4a899b3b099": {
       "share": true,
       "uuid": "2786846d-80d6-499a-8e39-b4a899b3b099",
@@ -21539,6 +21629,11 @@
       "share": true,
       "uuid": "1db708e2-6a7b-4ba6-8d28-b891508f3c45",
       "title": "20 Axioms of Sociology"
+    },
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55": {
+      "uuid": "cc7eee66-0ac7-4e06-973b-5300c238ad55",
+      "share": true,
+      "title": "2023 Blockhack"
     },
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1": {
       "uuid": "14ea7327-eb57-46e9-b4d6-40e810b8dda1",
@@ -22410,6 +22505,11 @@
       "uuid": "e98ebc35-4e0b-4e61-a167-2b5058233ee9",
       "title": "Puppy Dog Training"
     },
+    "bc513a43-335b-45b6-b323-46c78a688bc8": {
+      "uuid": "bc513a43-335b-45b6-b323-46c78a688bc8",
+      "share": true,
+      "title": "Psyop Interrogation Software"
+    },
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f": {
       "share": true,
       "uuid": "972a0bc0-8e54-40a4-8678-3dad78e1a73f",
@@ -22424,6 +22524,11 @@
       "share": true,
       "uuid": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb",
       "title": "Project Proposal"
+    },
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42": {
+      "uuid": "7a9d1420-cd19-47eb-b1cf-622b9a5caa42",
+      "share": true,
+      "title": "Project Manager"
     },
     "0e4562be-8998-4d6f-be4a-fa1264495d21": {
       "share": true,
@@ -22974,6 +23079,11 @@
       "share": true,
       "uuid": "dfda1180-e79f-4f05-880a-91f26f7c906c",
       "title": "HPI"
+    },
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7": {
+      "uuid": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7",
+      "share": true,
+      "title": "Graph Database"
     },
     "3dc06628-1344-4d36-b4b1-1c02c60fb362": {
       "share": true,
@@ -24076,11 +24186,17 @@
     "Tutorials and Learning Pathways.md": {
       "uuid": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
     },
+    "SuperDuperDB.md": {
+      "uuid": "a8600283-5cab-4cc9-b252-960ec69457f1"
+    },
     "My Projects.md": {
       "uuid": "e76c8ac9-69f3-477f-8015-556e83738432"
     },
     "Mimetic File System.md": {
       "uuid": "b93b6058-c6a0-488e-a4b1-13bfe452b1c7"
+    },
+    "LLama Index.md": {
+      "uuid": "f1ca703a-5e61-4fe3-9951-61f7c5f50223"
     },
     "How to count the number of bots on a specific discord guild?.md": {
       "uuid": "d1c748eb-cb64-4a67-9e19-20cceb9fc1db"
@@ -27888,6 +28004,9 @@
         "What are the basics of Hoon?.md": {
           "uuid": "d501e972-f005-4aba-a7bf-3404b735c27a"
         },
+        "What are some examples of Psyops?.md": {
+          "uuid": "3dff5411-294f-45ef-92ed-645e35540ae0"
+        },
         "What are some bulk file renaming tools?.md": {
           "uuid": "e9a110df-b751-4795-84d6-2ce0893d3fe7"
         },
@@ -27971,6 +28090,9 @@
         },
         "How to get the message count of each channel per month for a specific discord guild?.md": {
           "uuid": "32d87a4b-c8ba-44c2-9fc2-f04d7e141425"
+        },
+        "How to get number of files recursively for each folder in directory?.md": {
+          "uuid": "3d91e1f3-475d-4294-8694-a9839585db9f"
         },
         "How to get message count by day for a particular discord guild?.md": {
           "uuid": "fe3d485e-3f96-4cbd-8a63-2feda6021e8e"
@@ -28599,6 +28721,12 @@
         },
         "ETL to QE, Update 2, S3 and PostGraphile.md": {
           "uuid": "01d14af7-0d89-4c3a-90a8-12696e01e036"
+        },
+        "ETL to QE, Update 18, Long Time No See.md": {
+          "uuid": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc"
+        },
+        "ETL to QE, Update 17, Readjusting Goal Posts.md": {
+          "uuid": "d14bd990-0628-4152-9bea-0c588dc707e8"
         },
         "ETL to QE, Update 15, Attended Hackathon and Project Management.md": {
           "uuid": "9949cc79-681a-4ec8-a963-538958be3ec1"
@@ -29758,6 +29886,9 @@
         "Hyperion Cantos.md": {
           "uuid": "5e1088f4-7428-487f-9300-86f478f05dca"
         },
+        "Human Forever.md": {
+          "uuid": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0"
+        },
         "How to talk about books you haven t read.md": {
           "uuid": "2786846d-80d6-499a-8e39-b4a899b3b099"
         },
@@ -30302,6 +30433,11 @@
         }
       }
     },
+    "Events": {
+      "2023 Blockhack.md": {
+        "uuid": "cc7eee66-0ac7-4e06-973b-5300c238ad55"
+      }
+    },
     "Dents": {
       "Thoughts on Dead Internet Theory and how DID's Can Help.md": {
         "uuid": "14ea7327-eb57-46e9-b4d6-40e810b8dda1"
@@ -30838,6 +30974,9 @@
         "Puppy Dog Training.md": {
           "uuid": "e98ebc35-4e0b-4e61-a167-2b5058233ee9"
         },
+        "Psyop Interrogation Software.md": {
+          "uuid": "bc513a43-335b-45b6-b323-46c78a688bc8"
+        },
         "Psyche.md": {
           "uuid": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
         },
@@ -30846,6 +30985,9 @@
         },
         "Project Proposal.md": {
           "uuid": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb"
+        },
+        "Project Manager.md": {
+          "uuid": "7a9d1420-cd19-47eb-b1cf-622b9a5caa42"
         },
         "Project Management.md": {
           "uuid": "0e4562be-8998-4d6f-be4a-fa1264495d21"
@@ -31179,6 +31321,9 @@
         },
         "HPI.md": {
           "uuid": "dfda1180-e79f-4f05-880a-91f26f7c906c"
+        },
+        "Graph Database.md": {
+          "uuid": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7"
         },
         "Government.md": {
           "uuid": "3dc06628-1344-4d36-b4b1-1c02c60fb362"
@@ -31833,8 +31978,10 @@
     "146656b4-573a-4e42-8f00-239ab29eac3b": [],
     "689ab726-0af1-4fc8-826d-216ff577c30f": [],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [],
+    "a8600283-5cab-4cc9-b252-960ec69457f1": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
     "b93b6058-c6a0-488e-a4b1-13bfe452b1c7": [],
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223": [],
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": [],
     "63d6106e-79d3-47ec-b06d-d613ab3ff71d": [],
     "eeeb2990-0ac3-4d26-a11f-4ba86713a06b": [],
@@ -33054,6 +33201,7 @@
     "26b46eff-ac32-457c-b35b-cd936fa1af83": [],
     "a0219c15-6f5c-41b6-888f-41698790b9d2": [],
     "d501e972-f005-4aba-a7bf-3404b735c27a": [],
+    "3dff5411-294f-45ef-92ed-645e35540ae0": [],
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": [],
     "f87ebf9c-0d6e-4224-9418-badaa496ce2f": [],
     "86917ba0-a64e-464a-bdb7-2e2fddd36ea4": [],
@@ -33082,6 +33230,7 @@
     "dd096aae-3c6c-437b-9890-76e7355b93a0": [],
     "3b73f02b-021d-41b2-b094-af347aa351da": [],
     "32d87a4b-c8ba-44c2-9fc2-f04d7e141425": [],
+    "3d91e1f3-475d-4294-8694-a9839585db9f": [],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [],
     "af9ab3a8-c2bd-4241-b8ed-0cfba608070c": [],
     "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6": [],
@@ -33487,6 +33636,8 @@
     "d59dbed7-08bd-462e-8f87-24a80c791f46": [],
     "a4afe3e7-e3ae-44ae-a1dc-e22754900e37": [],
     "01d14af7-0d89-4c3a-90a8-12696e01e036": [],
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc": [],
+    "d14bd990-0628-4152-9bea-0c588dc707e8": [],
     "9949cc79-681a-4ec8-a963-538958be3ec1": [],
     "a7099c90-7fb1-4230-9c47-874fd85e8837": [],
     "0857e406-5e14-4b45-9e8c-3ae712a2f00a": [],
@@ -33557,11 +33708,6 @@
     "75f91c17-64d4-4aa6-a84f-40c2613a7ab7": [],
     "eb155f2b-ae94-4602-a9a8-1aa1a40f4b1b": [],
     "1c376bfd-75ef-4c0d-9e23-3680653de55f": [
-      {
-        "link": "a976ba89-4013-4831-ab31-b5d59a7ae971",
-        "text": "Discord Binding User Stories",
-        "heading": ""
-      },
       {
         "text": "Discord Binding Data Flow Diagram.png",
         "heading": ""
@@ -33874,6 +34020,7 @@
     "c6ccc7d8-2245-4e07-a5ce-5d9c9abebc26": [],
     "52328777-f484-47b0-99a4-7343fb40bc0a": [],
     "5e1088f4-7428-487f-9300-86f478f05dca": [],
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0": [],
     "2786846d-80d6-499a-8e39-b4a899b3b099": [],
     "0688ef0d-7a2b-43a6-bd79-1c1ffff22d98": [],
     "32480141-833f-40b8-826b-fe80b74f4783": [],
@@ -34035,6 +34182,7 @@
     "4b4921f5-3d0d-4698-ad55-434e6c117943": [],
     "2781f257-2980-4661-bc02-635e6cc59112": [],
     "1db708e2-6a7b-4ba6-8d28-b891508f3c45": [],
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55": [],
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1": [],
     "209d819c-37d7-499a-83de-845fd67f0345": [],
     "974f7445-a807-4edc-bf61-4155c155ffe5": [],
@@ -34245,9 +34393,11 @@
     "d9af5ab3-d19a-4c6b-a7c6-81967a147653": [],
     "a3a2ab8b-1491-4d08-ae6b-0c53c064e246": [],
     "e98ebc35-4e0b-4e61-a167-2b5058233ee9": [],
+    "bc513a43-335b-45b6-b323-46c78a688bc8": [],
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f": [],
     "76261f75-3052-4d74-b15e-2468789911b6": [],
     "cc1a3330-f1a0-416f-9338-4bc875a0b9eb": [],
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42": [],
     "0e4562be-8998-4d6f-be4a-fa1264495d21": [],
     "74bf6161-4a39-46fd-aa10-a8625697e665": [],
     "94e2bf44-c23e-463e-b1a2-b368a14070b8": [],
@@ -34358,6 +34508,7 @@
     "a3acbd1e-0cda-4243-902e-7e188b1db442": [],
     "627cbfea-af5a-4dbf-b92a-b760c2d98d37": [],
     "dfda1180-e79f-4f05-880a-91f26f7c906c": [],
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7": [],
     "3dc06628-1344-4d36-b4b1-1c02c60fb362": [],
     "2ee4e1cf-6028-4a69-bfae-e1defce11b7f": [],
     "41b53b6c-7073-4f0e-9549-575943f0ac66": [],
@@ -34616,20 +34767,28 @@
   "note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [
       {
+        "link": "4c45797f-8d43-4277-a5c1-de8df9aa7876",
+        "text": "Project Update Posts"
+      },
+      {
+        "link": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+        "text": "Blog Posts"
+      },
+      {
+        "link": "b6611f4f-b019-4676-902e-8ea82840d740",
+        "text": "Videos and Their Scripts"
+      },
+      {
+        "link": "e76c8ac9-69f3-477f-8015-556e83738432",
+        "text": "My Projects"
+      },
+      {
         "link": "15c66694-3dc9-4115-afb8-887a6e52ffea",
         "text": "Dentropy Daemon"
       },
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
-      },
-      {
-        "link": "0709dea0-4a97-4596-8d8e-32a0e614f8a2",
-        "text": "Blog Posts and Videos"
-      },
-      {
-        "link": "e76c8ac9-69f3-477f-8015-556e83738432",
-        "text": "My Projects"
       },
       {
         "link": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
@@ -34688,6 +34847,9 @@
         "text": "Get list of all wikipedia articles"
       },
       {
+        "text": "How to do Product Research?"
+      },
+      {
         "link": "83ffe54f-3356-44ae-9d1a-878ef448fb57",
         "text": "Web Scraping Tutorial"
       },
@@ -34696,6 +34858,7 @@
         "text": "Learning Pathways"
       }
     ],
+    "a8600283-5cab-4cc9-b252-960ec69457f1": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [
       {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
@@ -34784,6 +34947,7 @@
         "text": "Mimetic File System - MFS"
       }
     ],
+    "f1ca703a-5e61-4fe3-9951-61f7c5f50223": [],
     "d1c748eb-cb64-4a67-9e19-20cceb9fc1db": [
       {
         "link": "dd096aae-3c6c-437b-9890-76e7355b93a0",
@@ -35645,14 +35809,6 @@
         "text": "infranodus"
       },
       {
-        "link": "fb09a999-1293-4309-98dc-8f1bfa157f82",
-        "text": "Langflow"
-      },
-      {
-        "link": "06e73bbb-c33f-4c93-90e1-a8e3e294f3fb",
-        "text": "ConfyUI"
-      },
-      {
         "link": "c9fc823a-baf0-4e39-9056-3f2b39550378",
         "text": "Danswer"
       },
@@ -35669,7 +35825,12 @@
         "text": "llamafile"
       },
       {
+        "link": "a8600283-5cab-4cc9-b252-960ec69457f1",
         "text": "SuperDuperDB"
+      },
+      {
+        "link": "f1ca703a-5e61-4fe3-9951-61f7c5f50223",
+        "text": "LLama Index"
       },
       {
         "link": "0177b9c7-9a60-491c-8ebb-c71e724e5786",
@@ -35736,6 +35897,17 @@
         "text": "Multi On"
       },
       {
+        "link": "fb09a999-1293-4309-98dc-8f1bfa157f82",
+        "text": "Langflow"
+      },
+      {
+        "text": "Flow wise"
+      },
+      {
+        "link": "06e73bbb-c33f-4c93-90e1-a8e3e294f3fb",
+        "text": "ConfyUI"
+      },
+      {
         "link": "36f46138-ae35-4afb-8df4-9d2be12423d1",
         "text": "spacy-llm"
       },
@@ -35748,6 +35920,7 @@
         "text": "TopicGPT"
       },
       {
+        "link": "a8600283-5cab-4cc9-b252-960ec69457f1",
         "text": "SuperDuperDB"
       },
       {
@@ -39535,10 +39708,12 @@
     ],
     "085a6af7-b44d-403f-8905-3c79b195fdb7": [
       {
-        "text": "Software.List.Pleroma"
+        "link": "36bc54ab-c3af-49dc-bdaf-77a8f76b3685",
+        "text": "Pleroma"
       },
       {
-        "text": "Software.List.Mastadon"
+        "link": "fe6202ed-b5d6-4652-9e0f-637fd725327f",
+        "text": "Mastodon"
       }
     ],
     "170db47c-8855-4491-9c3a-6f2283e41eb3": [],
@@ -40736,6 +40911,7 @@
         "text": "What are some bulk file renaming tools?"
       },
       {
+        "link": "3d91e1f3-475d-4294-8694-a9839585db9f",
         "text": "How to get number of files recursively for each folder in directory?"
       },
       {
@@ -41450,6 +41626,7 @@
         "text": "How do Variables work in Hoon?"
       }
     ],
+    "3dff5411-294f-45ef-92ed-645e35540ae0": [],
     "e9a110df-b751-4795-84d6-2ce0893d3fe7": [
       {
         "link": "5a82c311-3cf0-425c-8122-1b2c53ab155f",
@@ -41660,6 +41837,7 @@
         "text": "What is the activity per month of each discord guild measured in messages per month?"
       }
     ],
+    "3d91e1f3-475d-4294-8694-a9839585db9f": [],
     "fe3d485e-3f96-4cbd-8a63-2feda6021e8e": [
       {
         "link": "7cd7bef3-c7ca-4d80-b02b-ba6552b6087c",
@@ -41741,6 +41919,9 @@
       }
     ],
     "6f6e717a-0936-4936-a844-93a7af2c1a8e": [
+      {
+        "text": "Z and Oat Alyna"
+      },
       {
         "text": "What queries for discord binding do people value the most?"
       },
@@ -41882,18 +42063,7 @@
         "text": "What authors posted the most in each discord guild?"
       }
     ],
-    "24f446da-27ff-4625-8f2f-9a32388c377d": [
-      {
-        "link": "edc84150-2be7-4533-8a4b-768eeff624af",
-        "text": "Heilmeier Catechism"
-      },
-      {
-        "text": "New or Existing Codebase?"
-      },
-      {
-        "text": "How many people worked on this code base before?"
-      }
-    ],
+    "24f446da-27ff-4625-8f2f-9a32388c377d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [
       {
         "text": "Permissions on Question Engine"
@@ -42790,7 +42960,12 @@
         "text": "ETL to QE, GPU accelerated Topic Modelling"
       },
       {
+        "link": "d14bd990-0628-4152-9bea-0c588dc707e8",
         "text": "ETL to QE, Update 17, Readjusting Goal Posts"
+      },
+      {
+        "link": "07184fda-87ef-4fa9-9c6e-1c4382f6fabc",
+        "text": "ETL to QE, Update 18, Long Time No See"
       },
       {
         "link": "a6649a28-5862-4820-8797-1cfaf2ba1713",
@@ -44120,6 +44295,164 @@
         "text": "Decide on ETL procedure and document it - ETLtoQE"
       }
     ],
+    "07184fda-87ef-4fa9-9c6e-1c4382f6fabc": [
+      {
+        "text": "2023-12-20"
+      },
+      {
+        "link": "5453bdde-1d90-4ae8-8b82-62ce1936bb53",
+        "text": "neo4j"
+      },
+      {
+        "link": "1b1e0abb-d59d-4f98-8065-6fa7e7343de7",
+        "text": "Graph Database"
+      },
+      {
+        "text": "Why did I dump the discord data into Neo4J?"
+      },
+      {
+        "link": "75f91c17-64d4-4aa6-a84f-40c2613a7ab7",
+        "text": "Discord Data Cypher Queries"
+      },
+      {
+        "link": "a04a75b2-d970-44fc-8e09-53b3aeca6f2f",
+        "text": "ETL to QE, Update 11, Posted Results on Discord"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "link": "281aeb90-8a3a-4a12-ac70-4f0f56efa762",
+        "text": "pip"
+      },
+      {
+        "text": "plotly"
+      },
+      {
+        "link": "14b19809-58b0-44c8-a719-c50badebb08c",
+        "text": "jupyter"
+      },
+      {
+        "link": "03e5fa8e-39f5-481b-a040-178350596d13",
+        "text": "Django"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
+      },
+      {
+        "link": "5453bdde-1d90-4ae8-8b82-62ce1936bb53",
+        "text": "neo4j"
+      },
+      {
+        "text": "urlextract"
+      },
+      {
+        "link": "974d677f-15f0-4cf2-813d-69fb843b9367",
+        "text": "Discord URL Specific Queries"
+      },
+      {
+        "text": "Discord Binding Interviews"
+      },
+      {
+        "link": "15c66694-3dc9-4115-afb8-887a6e52ffea",
+        "text": "Dentropy Daemon"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
+        "text": "Roadmap - Discord Binding"
+      },
+      {
+        "text": "pgvector"
+      },
+      {
+        "link": "0e4562be-8998-4d6f-be4a-fa1264495d21",
+        "text": "Project Management"
+      }
+    ],
+    "d14bd990-0628-4152-9bea-0c588dc707e8": [
+      {
+        "text": "2023-10-29"
+      },
+      {
+        "text": "Backlog - Writing"
+      },
+      {
+        "link": "3d59d5cc-de9f-42d3-96fd-e4bb02710a33",
+        "text": "Blog Posts"
+      },
+      {
+        "link": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5",
+        "text": "Keybase Binding"
+      },
+      {
+        "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
+        "text": "Questions for Discord Data"
+      },
+      {
+        "link": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
+        "text": "Queries Comparing Discord Guilds"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "Discord Binding"
+      },
+      {
+        "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
+        "text": "Discord Binding"
+      },
+      {
+        "text": "Which DAOs are worth caring about?"
+      },
+      {
+        "text": "Where does one begin when they want to engage with a DAO?"
+      },
+      {
+        "text": "Which DAO's actually have a product to offer?"
+      },
+      {
+        "text": "What does social work look like in a DAO context?"
+      },
+      {
+        "text": "What key individuals were responsible for the success of each DAO?"
+      },
+      {
+        "link": "766d2aac-bcb3-4b91-a029-537e834f2816",
+        "text": "Questions for DAO's"
+      },
+      {
+        "link": "97862aeb-dad1-4e01-bfe7-46210ddfc50c",
+        "text": "Topic Modelling"
+      },
+      {
+        "link": "c71bada1-ae88-4a99-bfec-84efafe8fed9",
+        "text": "What discord user has the longest average message length?"
+      },
+      {
+        "link": "0d4f2aaf-e9b8-47c6-a312-7212fc51f9d1",
+        "text": "What discord channel has the longest average message length?"
+      },
+      {
+        "text": "What does every DAO want?"
+      },
+      {
+        "text": "Where is the DAO wiki?"
+      },
+      {
+        "text": "Blockchain Wiki Software"
+      },
+      {
+        "text": "Maker DAO Community"
+      },
+      {
+        "text": "Mimetic Supply Chain"
+      }
+    ],
     "9949cc79-681a-4ec8-a963-538958be3ec1": [
       {
         "text": "2023-10-23"
@@ -44127,6 +44460,27 @@
       {
         "link": "d19fd243-11ec-4e85-b653-52a9b4607d9f",
         "text": "Blockhack"
+      },
+      {
+        "link": "acea1c18-e502-4a7c-bee7-76fac0c03bd0",
+        "text": "Ethereum Classic"
+      },
+      {
+        "text": "Scroll L2 Blockchain"
+      },
+      {
+        "text": "CUDA"
+      },
+      {
+        "link": "cc7eee66-0ac7-4e06-973b-5300c238ad55",
+        "text": "2023 Blockhack"
+      },
+      {
+        "link": "acea1c18-e502-4a7c-bee7-76fac0c03bd0",
+        "text": "Ethereum Classic"
+      },
+      {
+        "text": "Scroll L2 Blockchain"
       },
       {
         "text": "Linus Sebastian"
@@ -44737,6 +45091,9 @@
         "text": "Roadmap - Discord Binding"
       },
       {
+        "text": "Build the Daemon"
+      },
+      {
         "link": "e26135b0-01e6-4ffd-b515-1478fdb2a1b5",
         "text": "Logs - Context Feed"
       },
@@ -44778,6 +45135,9 @@
       {
         "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
         "text": "Roadmap - Discord Binding"
+      },
+      {
+        "text": "Discord Binding Interviews"
       },
       {
         "text": "DDaemon needs a terminology page"
@@ -45141,11 +45501,30 @@
         "text": "DAO Auditing via Discord - Brainstorming - Private"
       },
       {
+        "text": "Develop Basic Design Document for Discord Binding - Quesiton Engine - Tulpa Manager - Dentropy Daemon - Meme Map"
+      },
+      {
+        "text": "Discord Binding Interviews"
+      },
+      {
         "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
         "text": "Questions for Discord Data"
       },
       {
         "text": "Discord Binding Interviews"
+      },
+      {
+        "link": "dc6a1ac7-60f0-452d-9536-9fed6d92bc51",
+        "text": "Roadmap - Discord Binding"
+      },
+      {
+        "text": "Come up with Cypher Queries for Discord Binding"
+      },
+      {
+        "text": "Index SQL discord binding queries into a python module"
+      },
+      {
+        "text": "Insert URL's into Databases for Discord Binding"
       },
       {
         "text": "Make a video recording ddaemon discord binding what I got so far"
@@ -45555,6 +45934,16 @@
       {
         "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
         "text": "Postgres"
+      },
+      {
+        "link": "a976ba89-4013-4831-ab31-b5d59a7ae971",
+        "text": "Discord Binding User Stories"
+      },
+      {
+        "text": "Questions Discord Binding is trying to answer?"
+      },
+      {
+        "text": "What people am I targeting with the Discord Binding project?"
       },
       {
         "link": "46abc67b-bbe7-4800-82f5-f08d4c457ef0",
@@ -47576,6 +47965,7 @@
         "text": "Darwin and the Machines"
       },
       {
+        "link": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
         "text": "Human Forever"
       },
       {
@@ -48296,6 +48686,22 @@
         "text": "Thomas Ray"
       }
     ],
+    "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0": [
+      {
+        "text": "James Poulos"
+      },
+      {
+        "text": "Ergo Proxy"
+      },
+      {
+        "link": "a3a80e28-c537-4091-a06f-3d20f44ec6a2",
+        "text": "books"
+      },
+      {
+        "link": "90d2da70-b13d-49c9-adba-5eedf3ec08f9",
+        "text": "Human Instrumentality"
+      }
+    ],
     "2786846d-80d6-499a-8e39-b4a899b3b099": [
       {
         "link": "a3a80e28-c537-4091-a06f-3d20f44ec6a2",
@@ -48412,6 +48818,7 @@
         "text": "The Singularity Is Near"
       },
       {
+        "link": "00842fe9-7cc5-4eb3-b7a3-ad4bef5abce0",
         "text": "Human Forever"
       },
       {
@@ -49060,6 +49467,14 @@
       {
         "link": "4ca766d9-10c8-45c0-bf2c-db54930cb94d",
         "text": "wiki.concepts.list.humor"
+      }
+    ],
+    "cc7eee66-0ac7-4e06-973b-5300c238ad55": [
+      {
+        "text": "ERC-6551"
+      },
+      {
+        "text": "What are some Web Apps to deploy ERC20 Tokens?"
       }
     ],
     "14ea7327-eb57-46e9-b4d6-40e810b8dda1": [
@@ -49852,6 +50267,21 @@
       }
     ],
     "e98ebc35-4e0b-4e61-a167-2b5058233ee9": [],
+    "bc513a43-335b-45b6-b323-46c78a688bc8": [
+      {
+        "text": "What is a Psyop?"
+      },
+      {
+        "link": "3dff5411-294f-45ef-92ed-645e35540ae0",
+        "text": "What are some examples of Psyops?"
+      },
+      {
+        "text": "What are examples of PsyOps that have been performed on Social Media?"
+      },
+      {
+        "text": "What is your favourite psyop?"
+      }
+    ],
     "972a0bc0-8e54-40a4-8678-3dad78e1a73f": [
       {
         "text": "Carl Jung"
@@ -49859,17 +50289,33 @@
     ],
     "76261f75-3052-4d74-b15e-2468789911b6": [],
     "cc1a3330-f1a0-416f-9338-4bc875a0b9eb": [],
+    "7a9d1420-cd19-47eb-b1cf-622b9a5caa42": [],
     "0e4562be-8998-4d6f-be4a-fa1264495d21": [
+      {
+        "link": "edc84150-2be7-4533-8a4b-768eeff624af",
+        "text": "Heilmeier Catechism"
+      },
       {
         "link": "24f446da-27ff-4625-8f2f-9a32388c377d",
         "text": "Project Kickoff Questions"
       },
       {
-        "link": "b9cd3e8b-1727-4a22-9332-90b42b5a7ffb",
-        "text": "wiki.Project Management.Denropy Daemon TODO"
+        "text": "New or Existing Codebase?"
       },
       {
-        "text": "wiki.concepts.list.Project Management"
+        "text": "How many people worked on this code base before?"
+      },
+      {
+        "text": "Product Questions to Ask Yourself"
+      },
+      {
+        "text": "Product Interview Questions"
+      },
+      {
+        "text": "Product Interrogation Questions"
+      },
+      {
+        "text": "Agile Project Management"
       }
     ],
     "74bf6161-4a39-46fd-aa10-a8625697e665": [
@@ -50002,7 +50448,26 @@
     "311a2b60-2e25-46ff-8d4f-dbd43551f3b1": [],
     "1ea4d752-e783-45f8-a355-98b52d0ca391": [
       {
-        "text": "wiki.concepts.list.Morphogenetic field"
+        "link": "311a2b60-2e25-46ff-8d4f-dbd43551f3b1",
+        "text": "Morphogenetic field"
+      },
+      {
+        "text": "What is Morphic Resonance?"
+      },
+      {
+        "text": "What is a morphic field?"
+      },
+      {
+        "text": "Where does the term morphic come from and what does it mean?"
+      },
+      {
+        "text": "What papers are prove Morphic Resonance?"
+      },
+      {
+        "text": "Flynn Effect"
+      },
+      {
+        "text": "Pavlovian Conditioning"
       }
     ],
     "dbf784bd-14d9-4f2a-84c4-9f34e448dbe9": [
@@ -50285,6 +50750,24 @@
         "text": "Human Instrumentality"
       }
     ],
+    "1b1e0abb-d59d-4f98-8065-6fa7e7343de7": [
+      {
+        "link": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
+        "text": "SQL"
+      },
+      {
+        "link": "5453bdde-1d90-4ae8-8b82-62ce1936bb53",
+        "text": "neo4j"
+      },
+      {
+        "link": "6cae1c13-b46d-40a2-9f7d-91bfef18bdff",
+        "text": "cypher"
+      },
+      {
+        "link": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892",
+        "text": "SQL"
+      }
+    ],
     "3dc06628-1344-4d36-b4b1-1c02c60fb362": [],
     "2ee4e1cf-6028-4a69-bfae-e1defce11b7f": [],
     "41b53b6c-7073-4f0e-9549-575943f0ac66": [],
@@ -50440,6 +50923,15 @@
     "d5d2e50b-6665-4d7a-8ddb-aac6ed24e293": [],
     "15c66694-3dc9-4115-afb8-887a6e52ffea": [
       {
+        "text": "Recompile the internet with context and meaning"
+      },
+      {
+        "text": "Develop a tool to think through rather than speak through"
+      },
+      {
+        "text": "Use algorithms to enhance human agency while building infrastructure cypherpunks would admire."
+      },
+      {
         "link": "cc5cc49d-f554-4f29-b31a-b8789688e6a3",
         "text": "Question Engine"
       },
@@ -50490,6 +50982,10 @@
       },
       {
         "text": "Memex"
+      },
+      {
+        "link": "0e4562be-8998-4d6f-be4a-fa1264495d21",
+        "text": "Project Management"
       },
       {
         "link": "488cb22c-91d3-4d1e-bd47-b1588e3fb899",

@@ -14,5 +14,6 @@ title: Tutorials and Learning Pathways
 	* [Upgrading history on Unix Systems](/c01c8156-996f-4a53-97f5-1f287e28f1d6)
 	* [Get list of all wikipedia articles](/dd0e7670-af04-4eb0-8af5-5a85af115360)
 * Tutorials in Progress
+	* [How to do Product Research?](/undefined)
 	* [Web Scraping Tutorial](/83ffe54f-3356-44ae-9d1a-878ef448fb57)
 * [Learning Pathways](/10708552-def9-4391-9126-8a4f53cb5e00)
