@@ -420,6 +420,7 @@ nav:
         - pip federation: 65d81d72-2796-4787-8b2e-ab775d546dbc
         - pigallary2: dc309c6e-dbd5-4a7a-9272-5dc1cb377320
         - photoview: 84ceb26a-13ee-438e-80ad-3dd9d4aabfbd
+        - pgvector: 3029ac33-c2ec-4824-80a6-77dbd0c779a0
         - pgp: 5df9b58c-313a-42ac-a127-c48bcb1d8bcb
         - pgloader: 3e68e86b-999f-48fa-9ae8-116b40062c78
         - paperless-ngx: 19725a3e-8636-4c91-99c5-4dbb01c9ccaf
@@ -1365,7 +1366,7 @@ nav:
         - obsidian-publish + hugo: 55f88f15-e0a1-48eb-a9b4-3bf370ede0f1
         - Let's Learn Web Scraping: 3dc8dff3-226e-4315-a126-df63912c5265
     - ETL to QE:
-        - The 4 Step plan for Question Engine v0.0.1: 9dfba51c-8092-411d-859b-9acf356ec385
+        - The 4 Step plan for Question Engine: 9dfba51c-8092-411d-859b-9acf356ec385
         - Tasks for ETL to Question Engine: a6649a28-5862-4820-8797-1cfaf2ba1713
         - "ETL to QE, Update 9, Wrote an ETL Class": c307374d-a751-437a-8eb4-ff3dc7808499
         - "ETL to QE, Update 8, Wrote Analytics Class": 4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8
@@ -2544,7 +2545,6 @@ nav:
     - Sets:
         - Random Questions for Discord Data: a0e190a2-4225-4937-b81d-45fd29e0c4ce
         - Questions for DAO Platforms: 81513d3d-8329-4638-b04e-e6cb2002e439
-        - Questions for Community Managers: 6f6e717a-0936-4936-a844-93a7af2c1a8e
         - Queries Comparing Discord Guilds: 0c4bbdac-febf-4e8e-861f-c36ef88a71c9
         - Project Kickoff Questions: 24f446da-27ff-4625-8f2f-9a32388c377d
     - Questions for Question Engine: a739aa8a-2a04-4f01-bd2e-0434d47d96bd
@@ -2699,6 +2699,7 @@ nav:
     - AAA: f695942a-96ad-4a1f-9f10-cced4ae7bf97
 - index: 146656b4-573a-4e42-8f00-239ab29eac3b
 - What is the Social Media Singularity?: 689ab726-0af1-4fc8-826d-216ff577c30f
+- What are embeddings?: 87e4fadc-bba6-4eef-85a3-828a53fd0b10
 - Tutorials and Learning Pathways: 5ba9b0de-6aad-48fa-ab60-ae39c62a027a
 - SuperDuperDB: a8600283-5cab-4cc9-b252-960ec69457f1
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432

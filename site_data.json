@@ -2,6 +2,7 @@
   "uuid_list": [
     "146656b4-573a-4e42-8f00-239ab29eac3b",
     "689ab726-0af1-4fc8-826d-216ff577c30f",
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "a8600283-5cab-4cc9-b252-960ec69457f1",
     "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -184,6 +185,7 @@
     "65d81d72-2796-4787-8b2e-ab775d546dbc",
     "dc309c6e-dbd5-4a7a-9272-5dc1cb377320",
     "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd",
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb",
     "3e68e86b-999f-48fa-9ae8-116b40062c78",
     "19725a3e-8636-4c91-99c5-4dbb01c9ccaf",
@@ -1254,7 +1256,6 @@
     "c62c2add-e005-4a80-b6f9-370612abc42d",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
     "81513d3d-8329-4638-b04e-e6cb2002e439",
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "24f446da-27ff-4625-8f2f-9a32388c377d",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -2426,6 +2427,7 @@
   "uuid_filepath": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index.md",
     "689ab726-0af1-4fc8-826d-216ff577c30f": "What is the Social Media Singularity?.md",
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10": "What are embeddings?.md",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways.md",
     "a8600283-5cab-4cc9-b252-960ec69457f1": "SuperDuperDB.md",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects.md",
@@ -2608,6 +2610,7 @@
     "65d81d72-2796-4787-8b2e-ab775d546dbc": "Software/List/pip federation.md",
     "dc309c6e-dbd5-4a7a-9272-5dc1cb377320": "Software/List/pigallary2.md",
     "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd": "Software/List/photoview.md",
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0": "Software/List/pgvector.md",
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb": "Software/List/pgp.md",
     "3e68e86b-999f-48fa-9ae8-116b40062c78": "Software/List/pgloader.md",
     "19725a3e-8636-4c91-99c5-4dbb01c9ccaf": "Software/List/paperless-ngx.md",
@@ -3673,7 +3676,6 @@
     "c62c2add-e005-4a80-b6f9-370612abc42d": "Questions/list/How do I become who I am?.md",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": "Questions/Sets/Random Questions for Discord Data.md",
     "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions/Sets/Questions for DAO Platforms.md",
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": "Questions/Sets/Questions for Community Managers.md",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Questions/Sets/Queries Comparing Discord Guilds.md",
     "24f446da-27ff-4625-8f2f-9a32388c377d": "Questions/Sets/Project Kickoff Questions.md",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "QuestionEngine/User Stories - QE.md",
@@ -3816,7 +3818,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "MyProjects/Junk Projects/obsidian-publish + hugo.md",
     "3dc8dff3-226e-4315-a126-df63912c5265": "MyProjects/Junk Projects/Let's Learn Web Scraping.md",
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md",
-    "9dfba51c-8092-411d-859b-9acf356ec385": "MyProjects/ETL to QE/The 4 Step plan for Question Engine v0.0.1.md",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "MyProjects/ETL to QE/The 4 Step plan for Question Engine.md",
     "a6649a28-5862-4820-8797-1cfaf2ba1713": "MyProjects/ETL to QE/Tasks for ETL to Question Engine.md",
     "c307374d-a751-437a-8eb4-ff3dc7808499": "MyProjects/ETL to QE/ETL to QE, Update 9, Wrote an ETL Class.md",
     "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8": "MyProjects/ETL to QE/ETL to QE, Update 8, Wrote Analytics Class.md",
@@ -4842,6 +4844,7 @@
   "uuid_filename": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": "index",
     "689ab726-0af1-4fc8-826d-216ff577c30f": "What is the Social Media Singularity?",
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10": "What are embeddings?",
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": "Tutorials and Learning Pathways",
     "a8600283-5cab-4cc9-b252-960ec69457f1": "SuperDuperDB",
     "e76c8ac9-69f3-477f-8015-556e83738432": "My Projects",
@@ -5024,6 +5027,7 @@
     "65d81d72-2796-4787-8b2e-ab775d546dbc": "pip federation",
     "dc309c6e-dbd5-4a7a-9272-5dc1cb377320": "pigallary2",
     "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd": "photoview",
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0": "pgvector",
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb": "pgp",
     "3e68e86b-999f-48fa-9ae8-116b40062c78": "pgloader",
     "19725a3e-8636-4c91-99c5-4dbb01c9ccaf": "paperless-ngx",
@@ -6089,7 +6093,6 @@
     "c62c2add-e005-4a80-b6f9-370612abc42d": "How do I become who I am?",
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": "Random Questions for Discord Data",
     "81513d3d-8329-4638-b04e-e6cb2002e439": "Questions for DAO Platforms",
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": "Questions for Community Managers",
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": "Queries Comparing Discord Guilds",
     "24f446da-27ff-4625-8f2f-9a32388c377d": "Project Kickoff Questions",
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": "User Stories - QE",
@@ -6232,7 +6235,7 @@
     "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1": "obsidian-publish + hugo",
     "3dc8dff3-226e-4315-a126-df63912c5265": "Let's Learn Web Scraping",
     "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f": "Redefining Human Instrumentality White Paper v0",
-    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine v0",
+    "9dfba51c-8092-411d-859b-9acf356ec385": "The 4 Step plan for Question Engine",
     "a6649a28-5862-4820-8797-1cfaf2ba1713": "Tasks for ETL to Question Engine",
     "c307374d-a751-437a-8eb4-ff3dc7808499": "ETL to QE, Update 9, Wrote an ETL Class",
     "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8": "ETL to QE, Update 8, Wrote Analytics Class",
@@ -7258,6 +7261,7 @@
   "filepath_uuid": {
     "index.md": "146656b4-573a-4e42-8f00-239ab29eac3b",
     "What is the Social Media Singularity?.md": "689ab726-0af1-4fc8-826d-216ff577c30f",
+    "What are embeddings?.md": "87e4fadc-bba6-4eef-85a3-828a53fd0b10",
     "Tutorials and Learning Pathways.md": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "SuperDuperDB.md": "a8600283-5cab-4cc9-b252-960ec69457f1",
     "My Projects.md": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -7440,6 +7444,7 @@
     "Software/List/pip federation.md": "65d81d72-2796-4787-8b2e-ab775d546dbc",
     "Software/List/pigallary2.md": "dc309c6e-dbd5-4a7a-9272-5dc1cb377320",
     "Software/List/photoview.md": "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd",
+    "Software/List/pgvector.md": "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
     "Software/List/pgp.md": "5df9b58c-313a-42ac-a127-c48bcb1d8bcb",
     "Software/List/pgloader.md": "3e68e86b-999f-48fa-9ae8-116b40062c78",
     "Software/List/paperless-ngx.md": "19725a3e-8636-4c91-99c5-4dbb01c9ccaf",
@@ -8510,7 +8515,6 @@
     "Questions/list/How do I become who I am?.md": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "Questions/Sets/Random Questions for Discord Data.md": "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
     "Questions/Sets/Questions for DAO Platforms.md": "81513d3d-8329-4638-b04e-e6cb2002e439",
-    "Questions/Sets/Questions for Community Managers.md": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
     "Questions/Sets/Queries Comparing Discord Guilds.md": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Questions/Sets/Project Kickoff Questions.md": "24f446da-27ff-4625-8f2f-9a32388c377d",
     "QuestionEngine/User Stories - QE.md": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -8653,7 +8657,7 @@
     "MyProjects/Junk Projects/obsidian-publish + hugo.md": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "MyProjects/Junk Projects/Let's Learn Web Scraping.md": "3dc8dff3-226e-4315-a126-df63912c5265",
     "MyProjects/Holium/Holium White Paper/Redefining Human Instrumentality White Paper v0.0.2.md": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
-    "MyProjects/ETL to QE/The 4 Step plan for Question Engine v0.0.1.md": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "MyProjects/ETL to QE/The 4 Step plan for Question Engine.md": "9dfba51c-8092-411d-859b-9acf356ec385",
     "MyProjects/ETL to QE/Tasks for ETL to Question Engine.md": "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "MyProjects/ETL to QE/ETL to QE, Update 9, Wrote an ETL Class.md": "c307374d-a751-437a-8eb4-ff3dc7808499",
     "MyProjects/ETL to QE/ETL to QE, Update 8, Wrote Analytics Class.md": "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8",
@@ -9686,6 +9690,7 @@
     "1984": "8d27c0e2-820e-48cf-909e-fb0034b8ccaa",
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b",
     "What is the Social Media Singularity?": "689ab726-0af1-4fc8-826d-216ff577c30f",
+    "What are embeddings?": "87e4fadc-bba6-4eef-85a3-828a53fd0b10",
     "Tutorials and Learning Pathways": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
     "SuperDuperDB": "a8600283-5cab-4cc9-b252-960ec69457f1",
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432",
@@ -9867,6 +9872,7 @@
     "pip federation": "65d81d72-2796-4787-8b2e-ab775d546dbc",
     "pigallary2": "dc309c6e-dbd5-4a7a-9272-5dc1cb377320",
     "photoview": "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd",
+    "pgvector": "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
     "pgp": "5df9b58c-313a-42ac-a127-c48bcb1d8bcb",
     "pgloader": "3e68e86b-999f-48fa-9ae8-116b40062c78",
     "paperless-ngx": "19725a3e-8636-4c91-99c5-4dbb01c9ccaf",
@@ -10913,7 +10919,6 @@
     "How do I become who I am?": "c62c2add-e005-4a80-b6f9-370612abc42d",
     "Random Questions for Discord Data": "a0e190a2-4225-4937-b81d-45fd29e0c4ce",
     "Questions for DAO Platforms": "81513d3d-8329-4638-b04e-e6cb2002e439",
-    "Questions for Community Managers": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
     "Queries Comparing Discord Guilds": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
     "Project Kickoff Questions": "24f446da-27ff-4625-8f2f-9a32388c377d",
     "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9",
@@ -11055,7 +11060,7 @@
     "obsidian-publish + hugo": "55f88f15-e0a1-48eb-a9b4-3bf370ede0f1",
     "Let's Learn Web Scraping": "3dc8dff3-226e-4315-a126-df63912c5265",
     "Redefining Human Instrumentality White Paper v0": "9b72d1b1-55ef-4c24-b41c-eaa3ff9c206f",
-    "The 4 Step plan for Question Engine v0": "9dfba51c-8092-411d-859b-9acf356ec385",
+    "The 4 Step plan for Question Engine": "9dfba51c-8092-411d-859b-9acf356ec385",
     "Tasks for ETL to Question Engine": "a6649a28-5862-4820-8797-1cfaf2ba1713",
     "ETL to QE, Update 9, Wrote an ETL Class": "c307374d-a751-437a-8eb4-ff3dc7808499",
     "ETL to QE, Update 8, Wrote Analytics Class": "4bf73c7e-2bf6-415f-80b3-f3a3b6a370a8",
@@ -12041,6 +12046,11 @@
       "share": true,
       "title": "What is the Social Media Singularity?"
     },
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10": {
+      "uuid": "87e4fadc-bba6-4eef-85a3-828a53fd0b10",
+      "share": true,
+      "title": "What are embeddings?"
+    },
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": {
       "uuid": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a",
       "share": true,
@@ -12950,6 +12960,11 @@
       "share": true,
       "uuid": "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd",
       "title": "photoview"
+    },
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0": {
+      "uuid": "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
+      "share": true,
+      "title": "pgvector"
     },
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb": {
       "share": true,
@@ -18276,11 +18291,6 @@
       "share": true,
       "title": "Questions for DAO Platforms"
     },
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": {
-      "uuid": "6f6e717a-0936-4936-a844-93a7af2c1a8e",
-      "share": true,
-      "title": "Questions for Community Managers"
-    },
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": {
       "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9",
       "share": true,
@@ -18997,7 +19007,7 @@
     "9dfba51c-8092-411d-859b-9acf356ec385": {
       "uuid": "9dfba51c-8092-411d-859b-9acf356ec385",
       "share": true,
-      "title": "The 4 Step plan for Question Engine v0"
+      "title": "The 4 Step plan for Question Engine"
     },
     "a6649a28-5862-4820-8797-1cfaf2ba1713": {
       "uuid": "a6649a28-5862-4820-8797-1cfaf2ba1713",
@@ -24183,6 +24193,9 @@
     "What is the Social Media Singularity?.md": {
       "uuid": "689ab726-0af1-4fc8-826d-216ff577c30f"
     },
+    "What are embeddings?.md": {
+      "uuid": "87e4fadc-bba6-4eef-85a3-828a53fd0b10"
+    },
     "Tutorials and Learning Pathways.md": {
       "uuid": "5ba9b0de-6aad-48fa-ab60-ae39c62a027a"
     },
@@ -24774,6 +24787,9 @@
         },
         "photoview.md": {
           "uuid": "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd"
+        },
+        "pgvector.md": {
+          "uuid": "3029ac33-c2ec-4824-80a6-77dbd0c779a0"
         },
         "pgp.md": {
           "uuid": "5df9b58c-313a-42ac-a127-c48bcb1d8bcb"
@@ -28195,9 +28211,6 @@
         "Questions for DAO Platforms.md": {
           "uuid": "81513d3d-8329-4638-b04e-e6cb2002e439"
         },
-        "Questions for Community Managers.md": {
-          "uuid": "6f6e717a-0936-4936-a844-93a7af2c1a8e"
-        },
         "Queries Comparing Discord Guilds.md": {
           "uuid": "0c4bbdac-febf-4e8e-861f-c36ef88a71c9"
         },
@@ -28692,7 +28705,7 @@
         }
       },
       "ETL to QE": {
-        "The 4 Step plan for Question Engine v0.0.1.md": {
+        "The 4 Step plan for Question Engine.md": {
           "uuid": "9dfba51c-8092-411d-859b-9acf356ec385"
         },
         "Tasks for ETL to Question Engine.md": {
@@ -31977,6 +31990,7 @@
   "embedded_note_links": {
     "146656b4-573a-4e42-8f00-239ab29eac3b": [],
     "689ab726-0af1-4fc8-826d-216ff577c30f": [],
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10": [],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [],
     "a8600283-5cab-4cc9-b252-960ec69457f1": [],
     "e76c8ac9-69f3-477f-8015-556e83738432": [],
@@ -32169,6 +32183,7 @@
     "65d81d72-2796-4787-8b2e-ab775d546dbc": [],
     "dc309c6e-dbd5-4a7a-9272-5dc1cb377320": [],
     "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd": [],
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0": [],
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb": [],
     "3e68e86b-999f-48fa-9ae8-116b40062c78": [],
     "19725a3e-8636-4c91-99c5-4dbb01c9ccaf": [],
@@ -33264,7 +33279,6 @@
     "c62c2add-e005-4a80-b6f9-370612abc42d": [],
     "a0e190a2-4225-4937-b81d-45fd29e0c4ce": [],
     "81513d3d-8329-4638-b04e-e6cb2002e439": [],
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": [],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [],
     "24f446da-27ff-4625-8f2f-9a32388c377d": [],
     "f137b314-579f-42ab-8be5-1c72bf9ebcd9": [],
@@ -34809,6 +34823,7 @@
         "text": "Social Media Singularity"
       }
     ],
+    "87e4fadc-bba6-4eef-85a3-828a53fd0b10": [],
     "5ba9b0de-6aad-48fa-ab60-ae39c62a027a": [
       {
         "link": "b1112011-a44d-4764-bff7-21b74dc2e57c",
@@ -36631,6 +36646,7 @@
     "65d81d72-2796-4787-8b2e-ab775d546dbc": [],
     "dc309c6e-dbd5-4a7a-9272-5dc1cb377320": [],
     "84ceb26a-13ee-438e-80ad-3dd9d4aabfbd": [],
+    "3029ac33-c2ec-4824-80a6-77dbd0c779a0": [],
     "5df9b58c-313a-42ac-a127-c48bcb1d8bcb": [],
     "3e68e86b-999f-48fa-9ae8-116b40062c78": [
       {
@@ -37306,6 +37322,7 @@
         "text": "How to use psql on Raw Postgres Install?"
       },
       {
+        "link": "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
         "text": "pgvector"
       },
       {
@@ -41918,74 +41935,6 @@
         "text": "List of DAO Platforms"
       }
     ],
-    "6f6e717a-0936-4936-a844-93a7af2c1a8e": [
-      {
-        "text": "Z and Oat Alyna"
-      },
-      {
-        "text": "What queries for discord binding do people value the most?"
-      },
-      {
-        "text": "How did you discover the community you now manage?"
-      },
-      {
-        "text": "What are the characteristics of a community you want to manage?"
-      },
-      {
-        "text": "How do you research communities you are responsible for?"
-      },
-      {
-        "text": "What topics are you interested in?"
-      },
-      {
-        "text": "What kind of diligence could my tool, discord-binding, be used for?"
-      },
-      {
-        "text": "Do you have heuristics for discerning value adding engagement?"
-      },
-      {
-        "text": "How do you decern value destroying engagement?"
-      },
-      {
-        "text": "How do you tell when a community is dying but not dead?"
-      },
-      {
-        "text": "What signal do individuals you want to work with give off?"
-      },
-      {
-        "text": "What signal do individuals you DO NOT want to work with give off?"
-      },
-      {
-        "text": "What problems does x product solve?"
-      },
-      {
-        "text": "Can you give me an example of disagreement that occurred within your community, how you found out about it, and how you resolved it?"
-      },
-      {
-        "text": "What tools or platforms do you find most effective for community engagement and why?"
-      },
-      {
-        "text": "What steps do you take to grow and expand the community while maintaining its core values and identity?"
-      },
-      {
-        "text": "Can you describe a particularly challenging situation you've faced as a Community Manager and how you addressed it?"
-      },
-      {
-        "text": "How do you ensure inclusivity and diversity within your community?"
-      },
-      {
-        "text": "What methods do you use to encourage user-generated content and contributions from community members?"
-      },
-      {
-        "text": "How do you measure the ROI (Return on Investment) of community initiatives or activities?"
-      },
-      {
-        "text": "Could you walk me through your process for identifying and recruiting community influencers or advocates? How do you leverage their support?"
-      },
-      {
-        "text": "What methods do you use to encourage collaboration and knowledge-sharing among community members?"
-      }
-    ],
     "0c4bbdac-febf-4e8e-861f-c36ef88a71c9": [
       {
         "link": "26b46eff-ac32-457c-b35b-cd936fa1af83",
@@ -43959,9 +43908,6 @@
     ],
     "9dfba51c-8092-411d-859b-9acf356ec385": [
       {
-        "text": "cohesive concept of being an illusion."
-      },
-      {
         "link": "1c376bfd-75ef-4c0d-9e23-3680653de55f",
         "text": "Discord Binding"
       },
@@ -44368,11 +44314,24 @@
         "text": "Roadmap - Discord Binding"
       },
       {
+        "link": "87e4fadc-bba6-4eef-85a3-828a53fd0b10",
+        "text": "What are embeddings?"
+      },
+      {
+        "link": "3029ac33-c2ec-4824-80a6-77dbd0c779a0",
         "text": "pgvector"
+      },
+      {
+        "link": "5d70cd64-3134-4b62-8879-12f1f8bb4afe",
+        "text": "Postgres"
       },
       {
         "link": "0e4562be-8998-4d6f-be4a-fa1264495d21",
         "text": "Project Management"
+      },
+      {
+        "link": "9dfba51c-8092-411d-859b-9acf356ec385",
+        "text": "The 4 Step plan for Question Engine"
       }
     ],
     "d14bd990-0628-4152-9bea-0c588dc707e8": [
@@ -50296,6 +50255,15 @@
         "text": "Heilmeier Catechism"
       },
       {
+        "text": "Product Questions to Ask Yourself"
+      },
+      {
+        "text": "Product Interview Questions"
+      },
+      {
+        "text": "Product Interrogation Questions"
+      },
+      {
         "link": "24f446da-27ff-4625-8f2f-9a32388c377d",
         "text": "Project Kickoff Questions"
       },
@@ -50304,15 +50272,6 @@
       },
       {
         "text": "How many people worked on this code base before?"
-      },
-      {
-        "text": "Product Questions to Ask Yourself"
-      },
-      {
-        "text": "Product Interview Questions"
-      },
-      {
-        "text": "Product Interrogation Questions"
       },
       {
         "text": "Agile Project Management"
