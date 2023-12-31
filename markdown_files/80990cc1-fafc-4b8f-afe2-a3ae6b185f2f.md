@@ -5,7 +5,7 @@ title: Code Server
 ---
 ## Install
 
-[wiki.software.list.vscode.Extensions](/undefined)
+[wiki.software.list.vscode.Extensions](/VS Code Extensions)
 
 ## THE ONE IMMEDIATELY BELOW WORKS
 

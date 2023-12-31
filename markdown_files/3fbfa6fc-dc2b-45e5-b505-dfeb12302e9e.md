@@ -17,7 +17,7 @@ dir_list    = os.listdir(path)
 
 * [Python - List Files in a Directory - GeeksforGeeks](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
 * [How to Check If a File Exists in Python](https://www.pythontutorial.net/python-basics/python-check-if-file-exists/)
-* [https://www.guru99.com/python-check-if-file-exists.html#2](/undefined)
+* [https://www.guru99.com/python-check-if-file-exists.html](/https://www.guru99.com/python-check-if-file-exists.html)
 
 ## Create a directory
 
@@ -28,7 +28,7 @@ dir_list    = os.listdir(path)
 
 ## glob
 
-* [wiki.software.Programming Language.python.glob](/undefined)
+* [wiki.software.Programming Language.python.glob](/dentropydaemon-wiki/Software/Programming Language/python/glob)
 
 ## Read first n lines in python
 

@@ -1,7 +1,7 @@
 ---
 share: true
 uuid: edef3bf5-37bd-407d-bf2b-8cce7d95305b
-title: dentropycloud
+title: dentropycloud.overflow.presentation-notes
 ---
 # Dentropy Cloud Presentation Notes
 

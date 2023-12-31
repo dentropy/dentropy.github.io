@@ -5,6 +5,6 @@ title: Chinese Room
 ---
 ## Sources
 
-* [The Chinese Room Argument (Stanford Encyclopedia of Philosophy|[Stanford Encyclopedia of Philosophy)](/undefined)]]))))))
+* [The Chinese Room Argument (Stanford Encyclopedia of Philosophy|[Stanford Encyclopedia of Philosophy)](/Stanford Encyclopedia of Philosophy)]]))))))
 * [Chinese room - Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
 * [The Chinese Room | Philosophy](https://philosophy.tamucc.edu/notes/chinese-room)

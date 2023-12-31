@@ -12,5 +12,5 @@ title: MFS - Thoughts
 	* Memex Design
 		* Rename Concepts as Memes
 		* DESCRIBE WHY EACH PART OF THE DIRECTORY EXISTS
-	* [Privacy](/undefined)
+	* [Privacy](/Privacy)
 	* Make Bounties for People

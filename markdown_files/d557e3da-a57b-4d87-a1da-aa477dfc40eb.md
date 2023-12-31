@@ -3,7 +3,7 @@ share: true
 uuid: d557e3da-a57b-4d87-a1da-aa477dfc40eb
 title: Research Template
 ---
-#Research [dentropydaemon-wiki/Tutorials/How To Do Research](/undefined)
+#Research [dentropydaemon-wiki/Tutorials/How To Do Research](/dentropydaemon-wiki/Tutorials/How To Do Research)
 ### Goal
 
 STATE YOUR RESEARCH GOAL HERE

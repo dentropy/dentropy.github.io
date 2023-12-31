@@ -17,7 +17,7 @@ Humans are all unique creatures trying to survive in the same environment. We ar
 
 ## Links
 
-* [dentropydaemon-wiki/Wiki/Concepts/List/Neon Genesis Evangelion](/undefined)
+* [dentropydaemon-wiki/Wiki/Concepts/List/Neon Genesis Evangelion](/dentropydaemon-wiki/Wiki/Concepts/List/Neon Genesis Evangelion)
 
 ## Sources
 
@@ -25,5 +25,5 @@ Humans are all unique creatures trying to survive in the same environment. We ar
 * [Human Instrumentality Project | The Evil Wiki | Fandom](https://evil.fandom.com/wiki/Human_Instrumentality_Project)
 * [neon genesis evangelion - What is the purpose of the Human Instrumentality Project? - Anime & Manga Stack Exchange](https://anime.stackexchange.com/questions/454/what-is-the-purpose-of-the-human-instrumentality-project)
 * [Instrumentality of Mankind - Wikipedia](https://en.wikipedia.org/wiki/Instrumentality_of_Mankind)
-	* [dentropydaemon-wiki/Media/List/Serial Experiments Lain](/undefined)
+	* [dentropydaemon-wiki/Media/List/Serial Experiments Lain](/dentropydaemon-wiki/Media/List/Serial Experiments Lain)
 * [neon genesis evangelion - What is the purpose of the Human Instrumentality Project? - Anime & Manga Stack Exchange](https://anime.stackexchange.com/questions/454/what-is-the-purpose-of-the-human-instrumentality-project)

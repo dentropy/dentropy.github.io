@@ -3,7 +3,7 @@ share: true
 uuid: cb00ccdb-74d3-4dbf-a9fb-f7024c87cda4
 title: docs
 ---
-* [ddaemon.monorepo.datapipelines](/undefined)
+* [ddaemon.monorepo.datapipelines](/Datapipelines)
 
 ## Adding a data visualization
 

@@ -3,8 +3,8 @@ share: true
 uuid: cd81d896-ac0c-4fe4-a5a6-f449cca19abf
 title: Netflix Binding
 ---
-[Trackt.tv](/undefined)
-[dentropydaemon-wiki/Software/List/Netflix](/undefined)
+[Trackt.tv](/c68b3429-9e36-4ec7-9381-1b94b880c1a9)
+[dentropydaemon-wiki/Software/List/Netflix](/dentropydaemon-wiki/Software/List/Netflix)
 
 Netflix History Converter
 
@@ -30,6 +30,6 @@ Uses the second apraoch I was going to use, Selenium
 
 [Navp788/Visualize-Netflix-data-using-Python](https://github.com/Navp788/Visualize-Netflix-data-using-Python.)
 
-[siddharth271101/Netflix: Exploratory Data Analysis(EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA) and Visualization of movies and shows in Netflix.](/undefined) and Visualization of movies and shows in Netflix.]] and Visualization of movies and shows in Netflix.](EDA) and Visualization of movies and shows in Netflix.](EDA) and Visualization of movies and shows in Netflix.]]%20and%20Visualization%20of%20movies%20and%20shows%20in%20Netflix.)
+[siddharth271101/Netflix: Exploratory Data Analysis(EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA|[EDA) and Visualization of movies and shows in Netflix.](/EDA) and Visualization of movies and shows in Netflix.]] and Visualization of movies and shows in Netflix.](EDA) and Visualization of movies and shows in Netflix.](EDA) and Visualization of movies and shows in Netflix.]]%20and%20Visualization%20of%20movies%20and%20shows%20in%20Netflix.)
 
-[adeet1/hc-node: Repo of data science projects I completed in HackCville's Node course (fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018)](/undefined)]]](fall%202018)](fall%202018)]])
+[adeet1/hc-node: Repo of data science projects I completed in HackCville's Node course (fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018|[fall 2018)](/fall 2018)]]](fall%202018)](fall%202018)]])
