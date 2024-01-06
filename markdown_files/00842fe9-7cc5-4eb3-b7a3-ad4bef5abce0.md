@@ -6,7 +6,7 @@ title: Human Forever
 ---
 share: true
 ---
-By: [James Poulos](/James Poulos)
+By: [James Poulos](/undefined)
 
 ## Second Read Through
 
@@ -18,7 +18,7 @@ By: [James Poulos](/James Poulos)
 	* Technology took away our ability to clearly articulate our dreams.
 	* What is this Digital Swarm?
 	* America is being destroyed by the machines that were supposed to perfect it?
-	* What was the perfected vision of America supposed to be, something [Ergo Proxy](/Ergo Proxy)
+	* What was the perfected vision of America supposed to be, something [Ergo Proxy](/undefined)
 	* Why does this book remind me of Ergo Proxy?
 		* I feel like the universe we live in is like one of the domed cities, wow my study of alternative cosmologies has really got me thinking different
 		* As above so below, just like in Dune

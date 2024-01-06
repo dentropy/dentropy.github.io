@@ -7,7 +7,7 @@ Just spit balling here, don't take this too serious
 
 When I hired a dating coach I was learning how to be empathetic when I realized that "Don't rape" is an Axiom for society. Don't rape is something that can be communicated and understood with little to no language.
 
-Another axiom is "One can barter with the future by sacrificing in the present". In the seventh rule of [media.list.12 Rules For Life](/dentropydaemon-wiki/Heuristics/Rules/12 Rules For Life) is "Pursue what is meaningful not what is expedient". In this chapter [Relationships.People.Jordan Peterson](/Relationships.People.Jordan Peterson) starts of simple. For example, sharing one's Mammoth meat in the present with other hunters will share with you when you can't catch something to eat was a concept built into us though natural selection.
+Another axiom is "One can barter with the future by sacrificing in the present". In the seventh rule of [media.list.12 Rules For Life](/undefined) is "Pursue what is meaningful not what is expedient". In this chapter [Relationships.People.Jordan Peterson](/undefined) starts of simple. For example, sharing one's Mammoth meat in the present with other hunters will share with you when you can't catch something to eat was a concept built into us though natural selection.
   
 ## Heuristics of Sociology List
 
@@ -29,4 +29,4 @@ Another axiom is "One can barter with the future by sacrificing in the present".
 
 ## Links
 
-* [wiki.heuristics.Axioms.20 Axioms of Sociology](/dentropydaemon-wiki/Heuristics/Axioms/20 Axioms of Sociology)
+* [wiki.heuristics.Axioms.20 Axioms of Sociology](/undefined)

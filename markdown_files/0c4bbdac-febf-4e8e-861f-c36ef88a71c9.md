@@ -20,5 +20,5 @@ title: Queries Comparing Discord Guilds
 	1. [How to get message count by day for a particular discord guild?](/fe3d485e-3f96-4cbd-8a63-2feda6021e8e)
 12. [What percentage of days actually have messages for a specific discord guild?](/3fb84a3c-742b-423a-a881-d5b46fd82a28)
 13. [What is the average half life of top x% active users?](/4f6a01a0-6799-43a6-b36a-38edd59d36fc)
-14. [What are the sum of messages in each discord guild?](/What are the sum of messages in each discord guild?)
+14. [What are the sum of messages in each discord guild?](/undefined)
 17. [What authors posted the most in each discord guild?](/34592fa9-bd8d-4237-bdff-36cb58fdc21e)

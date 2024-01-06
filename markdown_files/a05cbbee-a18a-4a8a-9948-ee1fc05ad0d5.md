@@ -12,4 +12,4 @@ title: Inmon s Corporate Information Factory
   * Could be accessed by end-users if needed
   * Data marts dimensionally modeled & unlike Kimball’s dimensional models, they are mostly aggregated
 
-![/assets/images/2022-02-09-08-30-47.png](//assets/images/2022-02-09-08-30-47.png)
+No Meme File Found

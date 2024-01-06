@@ -62,7 +62,7 @@ Youtube Videos and Channel's
 Other
 -----
 
-*   [Banned Discovery Channel Documentary\](/[https://youtu.be/AY-F5JoHoho)](mathematics|mathematics|https://en.wikipedia.org/wiki/Harmonic\_series\_(mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)]]]]))
+*   [Banned Discovery Channel Documentary\](/undefined)](mathematics|mathematics|https://en.wikipedia.org/wiki/Harmonic\_series\_(mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics|[mathematics)]]]]))
     
 *   5th Dimensional Aliens
     

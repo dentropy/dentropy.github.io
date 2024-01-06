@@ -10,6 +10,7 @@ I like to work on projects, consume media that makes you think, and attempting t
 ## Blog Posts and Videos
 
 * [Project Update Posts](/4c45797f-8d43-4277-a5c1-de8df9aa7876)
+* [Daily Learnings](/4271e403-0a66-46c8-8bcc-af847888e548)
 * [Blog Posts](/3d59d5cc-de9f-42d3-96fd-e4bb02710a33)
 * [Videos and Their Scripts](/b6611f4f-b019-4676-902e-8ea82840d740)
 
