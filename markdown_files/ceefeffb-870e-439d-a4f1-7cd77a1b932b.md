@@ -9,3 +9,7 @@ title: LLM Token Tests
 * [Stable Diffusion Benchmarks: 45 Nvidia, AMD, and Intel GPUs Compared | Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/stable-diffusion-benchmarks)
 * [RtAnnCQxaVJNYgA4LbBhuJ.png (1921×1441)](https://cdn.mos.cms.futurecdn.net/RtAnnCQxaVJNYgA4LbBhuJ.png)
 * [Magic-AI-Wiki/Wiki/Budget-AI-Workstation-Build.md at main · magiccodingman/Magic-AI-Wiki](https://github.com/magiccodingman/Magic-AI-Wiki/blob/main/Wiki/Budget-AI-Workstation-Build.md)
+
+#### Backlinks
+
+* [Notable AI tools](/1f16e3ec-47c6-4f57-97a6-4ab3bbec3237)

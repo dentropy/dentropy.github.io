@@ -5,7 +5,7 @@ title: Code Server
 ---
 ## Install
 
-[wiki.software.list.vscode.Extensions](/undefined)
+[wiki.software.list.vscode.Extensions](/VS Code Extensions)
 
 ## THE ONE IMMEDIATELY BELOW WORKS
 
@@ -82,3 +82,7 @@ cat ~/.config/code-server/config.yaml
 # Change port
 code-server --disable-telemetry --cert --bind-addr 0.0.0.0:8082
 ```
+
+#### Backlinks
+
+* [Debian Based Fresh Install](/e231d0df-f038-4611-b9b5-e05c6549b328)

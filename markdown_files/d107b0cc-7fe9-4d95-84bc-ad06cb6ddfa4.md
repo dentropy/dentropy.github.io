@@ -12,5 +12,9 @@ title: MFS - Thoughts
 	* Memex Design
 		* Rename Concepts as Memes
 		* DESCRIBE WHY EACH PART OF THE DIRECTORY EXISTS
-	* [Privacy](/undefined)
+	* [Privacy](/Privacy)
 	* Make Bounties for People
+
+#### Backlinks
+
+* [Mimetic File System - MFS](/174ec832-c137-4d44-b581-3e552e0c047e)

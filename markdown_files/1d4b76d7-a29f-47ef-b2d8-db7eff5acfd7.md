@@ -179,3 +179,9 @@ If users could pay for a service in the cloud that was as easy to install apps o
 *   Launch a DAO using Aragon or better alternative
 *   Research the best arbitration systems
 *   Create gitcoin with blackjack and hookers
+
+
+#### Backlinks
+
+* [Design Doc - DentropyCloud](/6c1ccc56-5584-4ec8-9208-34fcdd2a97a5)
+* [Backlog - DentropyCloud](/4e71511d-083c-4683-adb1-617be0f9f5be)

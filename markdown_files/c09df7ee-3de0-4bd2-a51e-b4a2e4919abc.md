@@ -9,3 +9,7 @@ A person with an interest in encryption and privacy.
 ## Sources
 * [cypherpunk - Wiktionary](https://en.wiktionary.org/wiki/cypherpunk)
 * [Cypherpunk - Wikipedia](https://en.wikipedia.org/wiki/Cypherpunk)
+
+#### Backlinks
+
+* [Mission Statement - DDaemon](/49651cdb-2917-4c0e-b237-0ef9db099384)

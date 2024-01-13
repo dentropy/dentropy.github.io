@@ -10,7 +10,7 @@ title: Data Visualization
 * [JSCharting](https://jscharting.com/examples/chart-types/)
   * Licencing issues
   * [jscharting-react](https://github.com/jscharting/jscharting-react)
-* [plotly](/undefined)
+* [plotly](/plotly)
   * [react-plotly.js](https://plotly.com/javascript/react/)
 * [Chart.js](https://www.chartjs.org/docs/latest/samples/bar/vertical.html)
   * [react-chartjs-2: unofficial](https://github.com/reactchartjs/react-chartjs-2)
@@ -27,3 +27,10 @@ title: Data Visualization
 ## Lists
 
 * [22 Best JavaScript charting libraries as of 2021 - Slant](https://www.slant.co/topics/3890/~best-javascript-charting-libraries)
+
+#### Backlinks
+
+* [Obsidian](/f76a085e-f2c8-43bd-a852-47760f01e401)
+* [ETL to QE, Update 3, Progress on first Report to be Published](/a4afe3e7-e3ae-44ae-a1dc-e22754900e37)
+* [KMS Analysis](/ea7bef36-42df-455b-8fb6-c8bdb458b6e5)
+* [Analysis Queries](/92a22ef8-5137-47e9-a48a-ece9720f6169)

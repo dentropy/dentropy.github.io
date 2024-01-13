@@ -17,4 +17,8 @@ title: Meme Permissions
 * Theoretical Permissions
 	* X_DEGREE
 		* DEGREE_VALUE = NUM
-	* X_PEOPLE - show a specific
+	* X_PEOPLE - show a specific 
+
+#### Backlinks
+
+* [User Stories - QE](/f137b314-579f-42ab-8be5-1c72bf9ebcd9)

@@ -3,7 +3,7 @@ share: true
 uuid: 627cbfea-af5a-4dbf-b92a-b760c2d98d37
 title: HTTP Basic Auth
 ---
-* [dentropydaemon-wiki/Software/List/Traefik](/undefined)
+* [dentropydaemon-wiki/Software/List/Traefik](/dentropydaemon-wiki/Software/List/Traefik)
 	* [Traefik BasicAuth Documentation - Traefik](https://doc.traefik.io/traefik/middlewares/http/basicauth/)
 
 
@@ -18,3 +18,7 @@ title: HTTP Basic Auth
 labels:
   - "traefik.http.middlewares.test-auth.basicauth.users=test:$$apr1$$H6uskkkW$$IgXLP6ewTrSuBkTrqE8wj/,test2:$$apr1$$d9hr9HBB$$4HxwgUir3HP4EsggP/QNo0"
 ```
+
+#### Backlinks
+
+* [Supported App List - DentropyCloud](/f738f680-95a2-46e5-bb4c-57b67687e36a)

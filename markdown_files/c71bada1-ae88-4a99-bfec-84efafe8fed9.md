@@ -78,3 +78,9 @@ join authors_t
 on authors_t.id = avg_content_length_t.author_id
 order by avg_content_length_t.content_length desc;
 ```
+
+#### Backlinks
+
+* [What discord user has the longest average message length in a particular guild?](/2f4fd09e-24a3-4359-81b2-049742a03610)
+* [ETL to QE, Update 17, Readjusting Goal Posts](/d14bd990-0628-4152-9bea-0c588dc707e8)
+* [Discord Author Specific Queries](/f6c57d06-6240-41fc-9174-7a6b18362030)

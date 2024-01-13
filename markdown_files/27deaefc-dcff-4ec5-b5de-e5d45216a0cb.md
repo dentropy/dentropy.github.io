@@ -7,3 +7,7 @@ title: Continuous Integration and Continuous Development
 * Jenkins
 * CircleCI
 * Github Actions
+
+#### Backlinks
+
+* [Dentropy's Ideal DevSecOps Stack](/406a13ea-5f64-440a-b454-6b43afe9e0d5)

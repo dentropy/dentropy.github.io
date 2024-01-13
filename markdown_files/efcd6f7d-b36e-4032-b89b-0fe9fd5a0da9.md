@@ -41,3 +41,12 @@ join guilds_t on month_messages_t.guild_id = guilds_t.id
 order by guilds_t.id, month_timestamp;
 
 ```
+
+#### Backlinks
+
+* [What is the number of messages from a specific author from a particular discord guild aggregated by month?](/9046827c-32a0-4720-92f2-ab6b7b31bd64)
+* [What is the messages per month of a specific discord guild?](/d40934f0-2831-4a55-b0ed-ec1e560db607)
+* [What is the activity per month of each discord guild measured in messages per month?](/edb39918-b02f-4ee7-b2b2-d902c8370412)
+* [Questions for Discord Data](/46abc67b-bbe7-4800-82f5-f08d4c457ef0)
+* [Questions for Discord Data](/46abc67b-bbe7-4800-82f5-f08d4c457ef0)
+* [Queries Implemented in queries.py](/3a44d50b-0280-42f8-8fa0-6c15d4ffe161)

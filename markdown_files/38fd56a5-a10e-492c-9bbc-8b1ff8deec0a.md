@@ -42,3 +42,8 @@ title: Catechism - DentropyCloud
 ## Sources
 
 * [Catechism](/474cf7d6-0c55-489d-90d0-cf4edce33b3a)
+
+#### Backlinks
+
+* [Design Doc - DentropyCloud](/6c1ccc56-5584-4ec8-9208-34fcdd2a97a5)
+* [Backlog - DentropyCloud](/4e71511d-083c-4683-adb1-617be0f9f5be)

@@ -1,7 +1,6 @@
 ---
 share: true
 uuid: 146656b4-573a-4e42-8f00-239ab29eac3b
-title: index
 ---
 Dentropy's Personal Wiki,
 
@@ -22,3 +21,4 @@ I like to work on projects, consume media that makes you think, and attempting t
 * [Tutorials and Learning Pathways](/b554fe38-0be3-4e5e-a817-41077f5f6e69)
 * [Favorite Software](/6a24cf3e-5693-4b99-b620-c3766a02a6c9)
 * [Favorite Media](/cf6a4db5-dcac-48ae-97ec-cf40f28e2b20)
+
