@@ -11,3 +11,7 @@ Competition, Users, Circumstances, Environment, Goals, and Strategy
 * Environment
 * Goals
 * Strategy
+
+#### Backlinks
+
+* [Situation Scan](/4fa64133-37cd-4614-8705-06d296965ddb)

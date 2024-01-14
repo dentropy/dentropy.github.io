@@ -2,8 +2,6 @@
 share: true
 uuid: 146656b4-573a-4e42-8f00-239ab29eac3b
 ---
-Dentropy's Personal Wiki,
-
 I like to work on projects, consume media that makes you think, and attempting to deconstruct big ideas.
 
 ## Blog Posts and Videos
@@ -17,7 +15,11 @@ I like to work on projects, consume media that makes you think, and attempting t
 
 * [My Projects](/e76c8ac9-69f3-477f-8015-556e83738432)
 	* [Dentropy Daemon](/15c66694-3dc9-4115-afb8-887a6e52ffea)
+	* [Keybase Binding](/3ff1df10-10b8-4206-b9b2-3bbad4b748d5)
 	* [Discord Binding](/1c376bfd-75ef-4c0d-9e23-3680653de55f)
+	* [dentropys-obsidian-publisher](/f43d858e-c32e-4d15-bfc4-456bb7f56ceb)
+	* [DentropyCloud - dc](/53b4819a-70af-4a7d-be7f-c79d3b1fa40a)
+	* [ENS Indexing](/28740a43-67c5-4930-8b5c-41c06e659c6a)
 * [Tutorials and Learning Pathways](/b554fe38-0be3-4e5e-a817-41077f5f6e69)
 * [Favorite Software](/6a24cf3e-5693-4b99-b620-c3766a02a6c9)
 * [Favorite Media](/cf6a4db5-dcac-48ae-97ec-cf40f28e2b20)

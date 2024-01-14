@@ -28,7 +28,6 @@ Humans are all unique creatures trying to survive in the same environment. We ar
 	* [dentropydaemon-wiki/Media/List/Serial Experiments Lain](/dentropydaemon-wiki/Media/List/Serial Experiments Lain)
 * [neon genesis evangelion - What is the purpose of the Human Instrumentality Project? - Anime & Manga Stack Exchange](https://anime.stackexchange.com/questions/454/what-is-the-purpose-of-the-human-instrumentality-project)
 
-
 #### Backlinks
 
 * [What is the Mimetic File System?](/d6bc0e0e-54f2-4389-a143-3bb60f8daa61)

@@ -7,7 +7,6 @@ title: IDEO
 
 [IDEO - Wikipedia](https://en.wikipedia.org/wiki/IDEO)
 
-
 #### Backlinks
 
 * [Design Heuristics](/5e01e1ef-4aa4-491d-8ac3-8f0343201a97)
