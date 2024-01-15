@@ -1780,6 +1780,9 @@
             "MLC LLM": "fcef104b-96c7-4188-9c4f-d69f2c0058d0"
           },
           {
+            "MPV - Software": "300acaaf-ac0b-4ad3-9b7a-599f9c4a5043"
+          },
+          {
             "MacOS": "12fa0fb4-9d90-4403-9778-533a5a3d7e91"
           },
           {
@@ -1985,6 +1988,9 @@
           },
           {
             "Opensearch": "4cf4d838-1c65-43c5-8b4f-936c99b48350"
+          },
+          {
+            "OrbitDB": "36e8ce81-5c50-479f-a9bd-2eff92802abf"
           },
           {
             "OrgMode": "30f4e9ec-5312-4f11-b78f-1f7f54624f74"
@@ -2248,6 +2254,9 @@
             "Snowflake DB": "f688c35d-90fd-4647-8c29-a145c50aed85"
           },
           {
+            "Sobol.io": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
+          },
+          {
             "Solid Protocol": "f04c21f5-fcca-4a30-9cf4-5686a95bb0c4"
           },
           {
@@ -2417,6 +2426,9 @@
           },
           {
             "Unraid": "98d27b77-5c46-46c6-bc0a-0a58ec5cd72b"
+          },
+          {
+            "Urbit - Azimuth": "e874871a-8b41-4376-b1e1-3335444b00b8"
           },
           {
             "Veilid": "70565ff6-d3ef-4e93-b9bb-f72117b0c4f4"
@@ -4611,6 +4623,9 @@
         "DDaemon - Tech Breakdown": "457c6a22-361f-4b4b-9867-809c7c6d0316"
       },
       {
+        "DDaemon - Thoughts": "edc2124b-c88b-4aaf-8d15-4dfb8ca8397b"
+      },
+      {
         "DDaemon - Two Root Problems": "38fcd810-80ab-4de0-8ad4-9c66da369de3"
       },
       {
@@ -4890,7 +4905,7 @@
             "Boogiebop": "1ecf81f3-9aaa-441a-b810-99960e9e3429"
           },
           {
-            "Brave New WOrld": "64965a4a-a58a-470f-b3b9-66f52a209b0b"
+            "Brave New World": "64965a4a-a58a-470f-b3b9-66f52a209b0b"
           },
           {
             "Breath of the Wild": "843c6cd4-2b19-40d2-a439-3f67bed403cf"
@@ -5643,6 +5658,9 @@
             "Awesome": "ba19bb66-a8e9-4287-8eac-f854aacf899c"
           },
           {
+            "Axial Age": "5cf89aea-e7fd-4462-8589-c027a026ec66"
+          },
+          {
             "BERTopic": "921f783a-f1bd-4317-b45f-493fe41651da"
           },
           {
@@ -5734,9 +5752,6 @@
           },
           {
             "CRM - Customer Relationship Management": "8bdaa2dd-6098-4dc2-a049-e286f9968e9a"
-          },
-          {
-            "CUDA": "12a0653d-c01e-47fb-a4f4-2ec3dcfce564"
           },
           {
             "Canada's gender identity rights Bill C-16 An Act to amend the Canadian Human Rights Act and the Criminal Code": "5c32d3c4-7b2b-435e-ab08-b33a20561670"
@@ -6172,9 +6187,6 @@
           },
           {
             "Grift": "e28f0852-fc68-4b01-bd05-fceecd5c9d9d"
-          },
-          {
-            "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
           },
           {
             "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37"
@@ -6717,9 +6729,6 @@
             "QED": "d9af5ab3-d19a-4c6b-a7c6-81967a147653"
           },
           {
-            "QPS": "e700d36f-a803-44e9-863e-c5cd4f98e877"
-          },
-          {
             "Qualia": "3ef6214a-27ae-42f3-8060-1febd27f3fc0"
           },
           {
@@ -6835,9 +6844,6 @@
           },
           {
             "Sniff test": "5cdf1be1-3c3c-4e76-8c8a-756e0c65262e"
-          },
-          {
-            "Sobol.io": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
           },
           {
             "Social Annotation": "644dd14f-7a90-472a-9475-1596ce8cb4de"
@@ -7029,9 +7035,6 @@
             "Unicode": "80a36e22-b72e-4c08-972e-8ec5ed904e62"
           },
           {
-            "Urbit - Azimuth": "e874871a-8b41-4376-b1e1-3335444b00b8"
-          },
-          {
             "User Flow Diagrams": "985139c2-5368-4e47-816e-aab0639d882e"
           },
           {
@@ -7093,6 +7096,9 @@
           },
           {
             "Whim Hoff Method": "3ca89414-a4d7-47e6-a078-c3a4392e6542"
+          },
+          {
+            "Whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
           },
           {
             "Will to Power": "2fc34bc0-efad-466c-ab71-e1a69c4b9aa4"
@@ -7275,6 +7281,9 @@
             "meme economy": "db21b657-5544-467d-bece-f32593640a1a"
           },
           {
+            "meme map": "593c302e-4349-4915-8705-c9fe8509f024"
+          },
+          {
             "meme virility test": "634068f7-a7d2-442f-9703-e02c6786e3b9"
           },
           {
@@ -7392,9 +7401,6 @@
             "we-are-already-cyborgs": "823657d2-c064-4a83-934f-d59a9bcd5caa"
           },
           {
-            "whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
-          },
-          {
             "wiki": "20d2f9d7-0b7d-4172-b924-15ad0ec67c09"
           },
           {
@@ -7476,7 +7482,7 @@
             "Law of One": "cc5a9d05-6d7d-405e-8bf0-829d5705d923"
           },
           {
-            "Parkinson s": "360131de-7c59-49a8-9645-e17dec3b3f3e"
+            "Parkinson's Law": "360131de-7c59-49a8-9645-e17dec3b3f3e"
           },
           {
             "Sobol s": "8b1c2ce8-4de9-4d22-9d5b-d542b6cc8657"
@@ -8505,43 +8511,41 @@
         ]
       },
       {
-        "Contextualizing Azimuth": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6"
-      },
-      {
-        "DDaemon - Thoughts": "edc2124b-c88b-4aaf-8d15-4dfb8ca8397b"
-      },
-      {
-        "Decentralized Storage": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7"
-      },
-      {
-        "Event Organization Platforms": "94dfc14e-03c4-4a11-9b16-51e82db2351d"
-      },
-      {
-        "Network Hardware": "4620935a-64c8-45de-9da7-5878621236a5"
-      },
-      {
-        "Remote Development Research": "aaf6e73f-24f2-491a-b465-6c90b1dd6813"
-      },
-      {
-        "Research Chaos": "60608327-5472-4577-a8c9-80372f61a9ef"
+        "Topics": [
+          {
+            "Research Decentralized Storage": "4eeba131-6a6e-4d85-9acc-38cf68f7c9d7"
+          },
+          {
+            "Research Event Organization Platforms": "94dfc14e-03c4-4a11-9b16-51e82db2351d"
+          },
+          {
+            "Research Network Hardware": "4620935a-64c8-45de-9da7-5878621236a5"
+          },
+          {
+            "Research Reddit Export Tooling": "2ddae3c6-92e8-454e-8eee-5ebb62930fff"
+          },
+          {
+            "Research Remote Development Tooling": "aaf6e73f-24f2-491a-b465-6c90b1dd6813"
+          },
+          {
+            "Research Software Platforms and Mind Map Tools": "9906999b-d592-41a7-8088-3220b010cf2c"
+          },
+          {
+            "Research Urbit Azimuth": "b11a89f3-29d0-4a6f-a0a7-6e34675b52e6"
+          },
+          {
+            "Research White Paper and Project Outlines": "3ebc2356-8b1a-42a2-8136-9e693039c00f"
+          },
+          {
+            "Research White Paper and Project Summaries": "4edd1389-1223-4dfa-b004-7fd601c714ad"
+          },
+          {
+            "Research Y Combinator Advice": "a46e4a28-dc99-49df-962f-aedf03959566"
+          }
+        ]
       },
       {
         "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
-      },
-      {
-        "Research Y Combinator Advice": "a46e4a28-dc99-49df-962f-aedf03959566"
-      },
-      {
-        "Software Research": "9906999b-d592-41a7-8088-3220b010cf2c"
-      },
-      {
-        "White Paper and Project Outlines": "3ebc2356-8b1a-42a2-8136-9e693039c00f"
-      },
-      {
-        "White Paper and Project Summaries": "4edd1389-1223-4dfa-b004-7fd601c714ad"
-      },
-      {
-        "reddit export": "2ddae3c6-92e8-454e-8eee-5ebb62930fff"
       }
     ]
   },
@@ -9187,6 +9191,9 @@
         "CUCEGS": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4"
       },
       {
+        "CUDA": "12a0653d-c01e-47fb-a4f4-2ec3dcfce564"
+      },
+      {
         "DAG": "5c845e58-c017-4660-9de7-1146168f3e83"
       },
       {
@@ -9227,6 +9234,9 @@
       },
       {
         "GUCCES": "2df77633-f7af-45bb-9351-1a7e6c17d162"
+      },
+      {
+        "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
       },
       {
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
@@ -9272,6 +9282,9 @@
       },
       {
         "QE": "96fab60c-c9db-4d51-8388-5b51a595d302"
+      },
+      {
+        "QPS": "e700d36f-a803-44e9-863e-c5cd4f98e877"
       },
       {
         "RBAC": "c2a97a91-e9a0-4b83-9b91-acae4ec52e73"
@@ -9356,9 +9369,6 @@
         "Logs - Robotics": "665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1"
       }
     ]
-  },
-  {
-    "ConceptsListmeme map2": "593c302e-4349-4915-8705-c9fe8509f024"
   },
   {
     "Daily Learnings": "4271e403-0a66-46c8-8bcc-af847888e548"

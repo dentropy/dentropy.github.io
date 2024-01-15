@@ -600,6 +600,7 @@ nav:
         - Lychee: a1448bf7-b307-4329-8d3b-6046c922c936
         - MKDocs: 2023c4df-936d-4d08-98ac-f97c4b63c632
         - MLC LLM: fcef104b-96c7-4188-9c4f-d69f2c0058d0
+        - MPV - Software: 300acaaf-ac0b-4ad3-9b7a-599f9c4a5043
         - MacOS: 12fa0fb4-9d90-4403-9778-533a5a3d7e91
         - Manjaro: 60a614f7-3813-4ad8-bc23-1980c1d850bd
         - Mantle Blockchain: bfdb39ab-3c5a-4fda-b498-6e2fbbc88a4e
@@ -669,6 +670,7 @@ nav:
         - OpenWRT: aaa6f541-e5eb-4f8c-997b-2d185fcccf06
         - OpenZeppelin: bc5c9f7c-7676-42cc-a070-971d9400cea1
         - Opensearch: 4cf4d838-1c65-43c5-8b4f-936c99b48350
+        - OrbitDB: 36e8ce81-5c50-479f-a9bd-2eff92802abf
         - OrgMode: 30f4e9ec-5312-4f11-b78f-1f7f54624f74
         - Overwolf: 9f080095-553c-41c1-a522-30e65763e234
         - PGP: 5df9b58c-313a-42ac-a127-c48bcb1d8bcb
@@ -756,6 +758,7 @@ nav:
         - Sniped App: c9b72788-7ef6-462b-b8ef-fcf28badcc38
         - Snippit Highlighter: 1276387d-bbbe-4a5c-aeb7-113504fdeff5
         - Snowflake DB: f688c35d-90fd-4647-8c29-a145c50aed85
+        - Sobol.io: 4d2a9441-0c44-4723-a392-2c8d2ad6601c
         - Solid Protocol: f04c21f5-fcca-4a30-9cf4-5686a95bb0c4
         - Solidity: 4b2540c5-d8c0-4ede-9a01-4f3208a9d61b
         - Spacedrive: 8333f0ed-caa1-4c8a-bdde-c94b78020db1
@@ -813,6 +816,7 @@ nav:
         - Ubuntu: a55f9e87-3627-4503-ad12-9e0748b12a50
         - Umbrel: 60722662-eccc-443d-af35-af0ee02d1c9c
         - Unraid: 98d27b77-5c46-46c6-bc0a-0a58ec5cd72b
+        - Urbit - Azimuth: e874871a-8b41-4376-b1e1-3335444b00b8
         - Veilid: 70565ff6-d3ef-4e93-b9bb-f72117b0c4f4
         - Ventoy: d227457f-a973-4c91-846e-54a39bc6be87
         - VideoAnt: 670263f7-f539-444c-9e62-f37c243e9ee8
@@ -1521,6 +1525,7 @@ nav:
     - User Journeys:
         - Community Meme Context Generation User Journey: 7505fb07-cf5f-4c28-957b-2fc4b4453a32
     - DDaemon - Tech Breakdown: 457c6a22-361f-4b4b-9867-809c7c6d0316
+    - DDaemon - Thoughts: edc2124b-c88b-4aaf-8d15-4dfb8ca8397b
     - DDaemon - Two Root Problems: 38fcd810-80ab-4de0-8ad4-9c66da369de3
     - DDaemon - Types and Datasets: 34c12519-617b-4ab2-995d-6cf7f8f4f691
     - DDaemon Dashboard Research: 5a448eab-2246-424e-bd1f-fff5cfd692e1
@@ -1609,7 +1614,7 @@ nav:
         - Bobiverse: 09ce892b-bf33-4374-9a2f-39179043c96e
         - Bold: 192d6f4b-fd13-4733-a829-dde384db7e20
         - Boogiebop: 1ecf81f3-9aaa-441a-b810-99960e9e3429
-        - Brave New WOrld: 64965a4a-a58a-470f-b3b9-66f52a209b0b
+        - Brave New World: 64965a4a-a58a-470f-b3b9-66f52a209b0b
         - Breath of the Wild: 843c6cd4-2b19-40d2-a439-3f67bed403cf
         - Bronze Age Mindset: 9856bc0a-73fc-45f4-93a8-799be07576e7
         - Building The Meta Model on Numerai: 52f35f2b-465c-43b5-9f5e-274460b3f687
@@ -1855,6 +1860,7 @@ nav:
         - Autophenomenology: 3ebbb692-9961-40b2-a99b-256d7ffa1cb6
         - Average path length: 962b5f3f-1b8f-4314-9dc4-ac71a5a41fcf
         - Awesome: ba19bb66-a8e9-4287-8eac-f854aacf899c
+        - Axial Age: 5cf89aea-e7fd-4462-8589-c027a026ec66
         - BERTopic: 921f783a-f1bd-4317-b45f-493fe41651da
         - BFT Protocol: fc164921-dd59-411b-987a-2984b5603be7
         - BGP Border Gateway Protocol: 975bfcf5-013b-45ac-bcf2-52ef78528b0e
@@ -1886,7 +1892,6 @@ nav:
         - CBC Casper: 13238467-be41-4d6b-9769-0bb8ca16fdd4
         - CBT - Cognitive behavioral therapy: 8a502d04-6d32-4607-8772-6c7a784604be
         - CRM - Customer Relationship Management: 8bdaa2dd-6098-4dc2-a049-e286f9968e9a
-        - CUDA: 12a0653d-c01e-47fb-a4f4-2ec3dcfce564
         - Canada's gender identity rights Bill C-16 An Act to amend the Canadian Human Rights Act and the Criminal Code: 5c32d3c4-7b2b-435e-ab08-b33a20561670
         - Cardano ADA: 9e1589e4-691e-4050-9b4a-5f8058f70fae
         - Carl Jung Shaddow: 34a6f91b-b091-475f-8ca3-e30f13fccb70
@@ -2032,7 +2037,6 @@ nav:
         - Graph Database: 1b1e0abb-d59d-4f98-8065-6fa7e7343de7
         - Greatness is Other People: 23a54a6c-2648-4c43-aafb-c4dd66b1a9d7
         - Grift: e28f0852-fc68-4b01-bd05-fceecd5c9d9d
-        - HPI: dfda1180-e79f-4f05-880a-91f26f7c906c
         - HTTP Basic Auth: 627cbfea-af5a-4dbf-b92a-b760c2d98d37
         - Hegelian dialectic: a3acbd1e-0cda-4243-902e-7e188b1db442
         - Hero's Journey: 9d46661c-c6a7-4df3-9945-d17f14a37979
@@ -2213,7 +2217,6 @@ nav:
         - Puppy Dog Training: e98ebc35-4e0b-4e61-a167-2b5058233ee9
         - Purple Team: a3a2ab8b-1491-4d08-ae6b-0c53c064e246
         - QED: d9af5ab3-d19a-4c6b-a7c6-81967a147653
-        - QPS: e700d36f-a803-44e9-863e-c5cd4f98e877
         - Qualia: 3ef6214a-27ae-42f3-8060-1febd27f3fc0
         - Quest: fbf58632-0593-4291-8dca-a0b2e6841750
         - Question Engine: 7d2a0ebd-d4d1-4d2f-83ea-d256dc589625
@@ -2253,7 +2256,6 @@ nav:
         - Sleep BCI Headbank: 7cd45fcd-49f5-4eeb-a410-15102ee28832
         - Smart Contract: 7f9d9842-5d16-4933-b896-e3567d964168
         - Sniff test: 5cdf1be1-3c3c-4e76-8c8a-756e0c65262e
-        - Sobol.io: 4d2a9441-0c44-4723-a392-2c8d2ad6601c
         - Social Annotation: 644dd14f-7a90-472a-9475-1596ce8cb4de
         - Social Change Agents: cd32f0e6-d80d-4d4e-9137-268793180b7f
         - Social Fractals: fa7cf452-4de4-459b-b93d-64f451909626
@@ -2317,7 +2319,6 @@ nav:
         - Uncle Ted: 7014fc53-a08a-4d83-8c81-c47549157ddc
         - Understanding: 986fad60-5848-41be-9d3f-9279cae44eb5
         - Unicode: 80a36e22-b72e-4c08-972e-8ec5ed904e62
-        - Urbit - Azimuth: e874871a-8b41-4376-b1e1-3335444b00b8
         - User Flow Diagrams: 985139c2-5368-4e47-816e-aab0639d882e
         - User Stories: 44c10f20-28ae-489d-bc46-0547c7997242
         - VTuber: 1b2df9c7-c855-4d46-9d57-b1c0c8c95e26
@@ -2339,6 +2340,7 @@ nav:
         - What is it like to be a bat: 85201c82-74ef-4fb7-b505-b01d6bf994f3
         - What is the Self?: b922b3dc-2194-4c7d-bb5a-360c501c57b2
         - Whim Hoff Method: 3ca89414-a4d7-47e6-a078-c3a4392e6542
+        - Whitepaper: 6b8bed79-2b9b-47cc-83b1-f612998b35d5
         - Will to Power: 2fc34bc0-efad-466c-ab71-e1a69c4b9aa4
         - Window of Tolerance: 1110db89-aac5-4d7e-9b98-2cf7bd935a09
         - Working Memory: 31d2d731-bcd0-427e-b184-005b51c68766
@@ -2399,6 +2401,7 @@ nav:
         - market maker: 3fd2ea50-e9bb-4c8c-a6c4-8489cf5cc5db
         - maslow s hierarchy of needs: 4ba6fb77-1bf7-4636-8319-216b896daeb3
         - meme economy: db21b657-5544-467d-bece-f32593640a1a
+        - meme map: 593c302e-4349-4915-8705-c9fe8509f024
         - meme virility test: 634068f7-a7d2-442f-9703-e02c6786e3b9
         - mirror for princes: 06d2c85c-c8fd-4248-b7fe-19ba825c7b47
         - mnemonic: 12d95a7f-52e7-4d21-8284-85a8049b9398
@@ -2438,7 +2441,6 @@ nav:
         - vesting: 07c46a92-c6ab-4e52-807d-25af35e8c95e
         - vps: be804dcd-1a4e-4a3f-a17e-b56d1fdd40d6
         - we-are-already-cyborgs: 823657d2-c064-4a83-934f-d59a9bcd5caa
-        - whitepaper: 6b8bed79-2b9b-47cc-83b1-f612998b35d5
         - wiki: 20d2f9d7-0b7d-4172-b924-15ad0ec67c09
         - wikidata: 42c54d72-bdd0-468d-a07c-43b0883c9e18
         - yield farming: 6a0d37b9-bf8d-44a1-b236-4c16af4e1924
@@ -2464,7 +2466,7 @@ nav:
         - Hofstadter s: a00a3183-b561-4683-a87e-5c057e99ad11
         - Istvan s 3 Laws of Transhumanisim: 9650146a-1cc9-41b2-8dfe-f360ea702710
         - Law of One: cc5a9d05-6d7d-405e-8bf0-829d5705d923
-        - Parkinson s: 360131de-7c59-49a8-9645-e17dec3b3f3e
+        - Parkinson's Law: 360131de-7c59-49a8-9645-e17dec3b3f3e
         - Sobol s: 8b1c2ce8-4de9-4d22-9d5b-d542b6cc8657
     - Principals:
         - Hermetic:
@@ -2785,19 +2787,18 @@ nav:
         - Blockchain Sniff Test: 9c289005-e2e3-41fe-93c8-3ab0acabae3f
         - DAO Incubators: a7402f58-2c31-407a-a435-d98834d6a5d9
         - DAO Interrorgation: d2e34182-88c3-4e81-b926-07650ad30ee6
-    - Contextualizing Azimuth: b11a89f3-29d0-4a6f-a0a7-6e34675b52e6
-    - DDaemon - Thoughts: edc2124b-c88b-4aaf-8d15-4dfb8ca8397b
-    - Decentralized Storage: 4eeba131-6a6e-4d85-9acc-38cf68f7c9d7
-    - Event Organization Platforms: 94dfc14e-03c4-4a11-9b16-51e82db2351d
-    - Network Hardware: 4620935a-64c8-45de-9da7-5878621236a5
-    - Remote Development Research: aaf6e73f-24f2-491a-b465-6c90b1dd6813
-    - Research Chaos: 60608327-5472-4577-a8c9-80372f61a9ef
+    - Topics:
+        - Research Decentralized Storage: 4eeba131-6a6e-4d85-9acc-38cf68f7c9d7
+        - Research Event Organization Platforms: 94dfc14e-03c4-4a11-9b16-51e82db2351d
+        - Research Network Hardware: 4620935a-64c8-45de-9da7-5878621236a5
+        - Research Reddit Export Tooling: 2ddae3c6-92e8-454e-8eee-5ebb62930fff
+        - Research Remote Development Tooling: aaf6e73f-24f2-491a-b465-6c90b1dd6813
+        - Research Software Platforms and Mind Map Tools: 9906999b-d592-41a7-8088-3220b010cf2c
+        - Research Urbit Azimuth: b11a89f3-29d0-4a6f-a0a7-6e34675b52e6
+        - Research White Paper and Project Outlines: 3ebc2356-8b1a-42a2-8136-9e693039c00f
+        - Research White Paper and Project Summaries: 4edd1389-1223-4dfa-b004-7fd601c714ad
+        - Research Y Combinator Advice: a46e4a28-dc99-49df-962f-aedf03959566
     - Research Template: d557e3da-a57b-4d87-a1da-aa477dfc40eb
-    - Research Y Combinator Advice: a46e4a28-dc99-49df-962f-aedf03959566
-    - Software Research: 9906999b-d592-41a7-8088-3220b010cf2c
-    - White Paper and Project Outlines: 3ebc2356-8b1a-42a2-8136-9e693039c00f
-    - White Paper and Project Summaries: 4edd1389-1223-4dfa-b004-7fd601c714ad
-    - reddit export: 2ddae3c6-92e8-454e-8eee-5ebb62930fff
 - Questions:
     - Sets:
         - Project Kickoff Questions: 24f446da-27ff-4625-8f2f-9a32388c377d
@@ -3010,6 +3011,7 @@ nav:
     - CORS: 29b9c0f8-506f-450a-b959-c357e2eaa6d4
     - CRM: 7d9fa0af-e0be-4674-8fc2-380b641f2564
     - CUCEGS: a24a6b3d-b8f2-435d-91cc-ed636dddaee4
+    - CUDA: 12a0653d-c01e-47fb-a4f4-2ec3dcfce564
     - DAG: 5c845e58-c017-4660-9de7-1146168f3e83
     - DBMS: f96023ea-65ec-4ad1-9b06-a80c436b854d
     - DDL: a2026d45-81b5-4b47-b9a4-c86d10df5424
@@ -3024,6 +3026,7 @@ nav:
     - FTP: c5fb2dbb-77df-44d5-a51d-ed9ef6743535
     - GIS: fb164f5f-a98f-4241-be55-2b0b31e9ca43
     - GUCCES: 2df77633-f7af-45bb-9351-1a7e6c17d162
+    - HPI: dfda1180-e79f-4f05-880a-91f26f7c906c
     - IAS: cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98
     - IRL: 0bd9f89b-1a65-4247-bff5-8148fab73b05
     - KOL: bae8309a-b4a2-46de-8be6-d944d615977e
@@ -3039,6 +3042,7 @@ nav:
     - PKM: 10e57c0e-9c54-41fb-82d0-f36f3165c4ac
     - PKMS: ea5dd34b-8140-436d-9106-1bea26a2b5d9
     - QE: 96fab60c-c9db-4d51-8388-5b51a595d302
+    - QPS: e700d36f-a803-44e9-863e-c5cd4f98e877
     - RBAC: c2a97a91-e9a0-4b83-9b91-acae4ec52e73
     - RDF: b3c447eb-3500-4a1f-b6f3-d4139e1dd993
     - REPL: a821f5d6-b82b-428c-8e4c-d160bd900a33
@@ -3066,7 +3070,6 @@ nav:
     - Logs - ENS Indexing: 3bbb81b1-154a-494f-acdf-781ad8ff35cf
     - Logs - KMS Analysis: b9ca9c26-5838-498b-9081-2ca3a77ce22f
     - Logs - Robotics: 665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1
-- ConceptsListmeme map2: 593c302e-4349-4915-8705-c9fe8509f024
 - Daily Learnings: 4271e403-0a66-46c8-8bcc-af847888e548
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432
 - Tutorials and Learning Pathways: b554fe38-0be3-4e5e-a817-41077f5f6e69
