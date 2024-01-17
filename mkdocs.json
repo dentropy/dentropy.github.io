@@ -1108,7 +1108,7 @@
             "ArchiveBox": "405b67dc-be60-4211-ad64-9d65188fbef8"
           },
           {
-            "Archiveweb.page": "3d0e13b7-f764-4b8d-8be0-10e79054d2bf"
+            "ArchiveWeb.page": "3d0e13b7-f764-4b8d-8be0-10e79054d2bf"
           },
           {
             "Archivy": "43eb9af8-f292-48c5-9489-078adc3bc9f1"
@@ -1168,6 +1168,9 @@
             "Blockscout": "cefe77de-ab0b-47e6-9629-86fae2ff36f0"
           },
           {
+            "Blogstack": "4df6d3a2-c7e8-4f95-9013-6dd574e10383"
+          },
+          {
             "Bluesky Software": "64f66322-df98-4288-9bef-455da3c3610d"
           },
           {
@@ -1213,7 +1216,7 @@
             "Casandra DB": "94ac4626-d679-4739-a52b-c670de343604"
           },
           {
-            "CeramicDOTNetwork": "f17aad08-7db3-4f8c-a089-50de55a4085e"
+            "Ceramic.Network": "f17aad08-7db3-4f8c-a089-50de55a4085e"
           },
           {
             "Chapterhouse Dune": "909d55bd-60e7-4fbc-8217-7c4949f1dc2a"
@@ -1247,6 +1250,9 @@
           },
           {
             "CodexOS": "c1e5d216-a0fa-4d76-b0c6-03e637098787"
+          },
+          {
+            "Collabland": "a0189b82-8636-4d2a-b762-ffeb94720dc7"
           },
           {
             "ComposeDB": "d032418e-7c27-4e08-b566-b3852936be11"
@@ -1474,6 +1480,9 @@
             "Forge": "00f5fa48-4e40-48da-88a8-15111953d001"
           },
           {
+            "Formstr": "539e1f6e-2985-4f1c-8418-d8e98cb1e212"
+          },
+          {
             "Franz": "0d047e48-b1c9-4c0d-a972-bb850946eddd"
           },
           {
@@ -1534,6 +1543,9 @@
             "Gorilla": "9097a030-8dfa-4e53-8ba9-65be7d582e6a"
           },
           {
+            "Govrn": "7b14b15e-d2b9-40d9-a0a0-eb0bb00e23b5"
+          },
+          {
             "Grafana": "d7db97da-e8c8-41eb-ab57-7a17f5e60367"
           },
           {
@@ -1553,6 +1565,12 @@
           },
           {
             "HTML": "272babbb-b019-4290-941a-01ae25d07fe1"
+          },
+          {
+            "Habla": "1a2196b5-f360-4146-93a1-5d793300012f"
+          },
+          {
+            "Hacker News": "1d3b71d2-9f64-4c65-be3e-17f4318041e0"
           },
           {
             "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
@@ -1577,6 +1595,12 @@
           },
           {
             "Heptabase": "9bbe63ce-8f8f-44e4-8bb5-72cc1be20fc3"
+          },
+          {
+            "Heya": "b8fc4637-0014-4977-a8c5-e55c4d4dd21c"
+          },
+          {
+            "Highlighter.com": "264edd2e-40e1-43a1-ba82-9b626b374af9"
           },
           {
             "Hishtory": "531fb9de-0cc7-4453-8ba7-ae1cbf6dc214"
@@ -1726,6 +1750,9 @@
             "Ledger Live": "a68e7ddb-710a-42fb-901d-eeeac286b2d8"
           },
           {
+            "Legacy.com": "544959bf-8267-43e6-a8d3-2d9c01d3b076"
+          },
+          {
             "Lemmy": "945ad1f4-08fd-45b6-af08-6aa8394d385d"
           },
           {
@@ -1813,7 +1840,7 @@
             "Material for MkDocs": "93ed80aa-f057-4121-aa8d-881c968419ec"
           },
           {
-            "Matrix": "2ee75330-e978-4eec-ae45-7df5576815e6"
+            "Matrix Protocol": "2ee75330-e978-4eec-ae45-7df5576815e6"
           },
           {
             "Matterbridge": "1a1a3029-430e-40dc-bfb3-bae8e825cd9c"
@@ -1894,7 +1921,16 @@
             "Noosphere Software": "4379ad45-7dd3-42ae-aa3a-8521a3101f9a"
           },
           {
+            "Nostr Badges": "e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0"
+          },
+          {
             "Nostr": "78abfe73-37cb-4f3b-9e08-faad85669fb7"
+          },
+          {
+            "NostrBounties": "fe023658-904c-4112-97f6-c5546b5c83b4"
+          },
+          {
+            "Nostrends": "d4d6c015-4ef0-4e86-9b1a-5df082c44222"
           },
           {
             "NotesAlong": "16317e4b-3bc6-41f5-8a07-46f96f24501c"
@@ -1963,6 +1999,9 @@
             "Open Library": "4ead51de-4419-4950-8466-92ee3780437d"
           },
           {
+            "Open Whisper": "c617873e-4469-45e8-90fc-3fc280207ae5"
+          },
+          {
             "OpenAPI": "cd588826-d68a-41f7-b6f0-d4be31deadb9"
           },
           {
@@ -1994,6 +2033,9 @@
           },
           {
             "OrgMode": "30f4e9ec-5312-4f11-b78f-1f7f54624f74"
+          },
+          {
+            "Ostrich.Work": "7049a4b4-94fd-4819-aa90-25774dbd1339"
           },
           {
             "Overwolf": "9f080095-553c-41c1-a522-30e65763e234"
@@ -2045,6 +2087,9 @@
           },
           {
             "Pinboard": "b83d7b7a-e9ad-4a5e-b9f8-63884a119e6b"
+          },
+          {
+            "Pinstr": "679205ab-d3e5-4085-8a12-4a6aaf2b4a04"
           },
           {
             "Piwigo": "5d58a0e6-375d-4717-a3f6-a0ac7daf4e15"
@@ -2149,7 +2194,7 @@
             "Rabby": "2ca74e2e-066a-42ef-b7f5-b95c3b23475b"
           },
           {
-            "Raindropio": "053d3ec8-825f-40bd-b187-926273159b09"
+            "Raindrop.io": "053d3ec8-825f-40bd-b187-926273159b09"
           },
           {
             "Rancher": "ab6d69d4-008f-4263-869e-3e2c27181fda"
@@ -2165,6 +2210,9 @@
           },
           {
             "Realm": "c181e631-20c0-4b54-83c7-d9bc41bc96bf"
+          },
+          {
+            "Reddit": "c7b0b5e1-52e9-45e9-b17f-8377b7883aa5"
           },
           {
             "Redis": "6aac98d8-87a2-4af7-a983-40c7d24d843e"
@@ -2263,6 +2311,9 @@
             "Solidity": "4b2540c5-d8c0-4ede-9a01-4f3208a9d61b"
           },
           {
+            "Soundcloud": "80c17642-752d-419d-9f79-e28790b3b856"
+          },
+          {
             "Spacedrive": "8333f0ed-caa1-4c8a-bdde-c94b78020db1"
           },
           {
@@ -2311,6 +2362,9 @@
             "Supernotes": "c7ac95ac-1752-4754-bca8-258981a4233f"
           },
           {
+            "Superset": "621042e2-70cd-407c-958b-2faf05afd64a"
+          },
+          {
             "SurrealDB": "11721298-79ca-4457-a4dd-47059c35a940"
           },
           {
@@ -2333,6 +2387,9 @@
           },
           {
             "TMDB": "8d3dbe79-fafe-4d12-811e-ed8f137f5549"
+          },
+          {
+            "TOR": "c7838894-8f9f-4bd1-9b5f-d2916bbbcc92"
           },
           {
             "Tailscale": "e5313453-5758-4531-85f4-6f8d2aa3dd13"
@@ -2380,10 +2437,10 @@
             "Tiddly Wiki": "2195a706-03d5-4d97-af0f-f9d7f220f30a"
           },
           {
-            "TopicGPT": "43a10b26-0269-4ebe-9fe9-468654b529f5"
+            "TikTok": "ae86ca23-5c89-4852-ae91-f7f46d4494cf"
           },
           {
-            "Tor": "c7838894-8f9f-4bd1-9b5f-d2916bbbcc92"
+            "TopicGPT": "43a10b26-0269-4ebe-9fe9-468654b529f5"
           },
           {
             "Tox": "dc867e5b-6aee-4e82-8140-3ce94047e0e3"
@@ -2413,6 +2470,9 @@
             "Truffle": "eadbf05c-0e11-47f4-8928-6233301c6aab"
           },
           {
+            "Twitch": "ed2b9dc7-f4b3-447d-aa1c-6adadc2e523a"
+          },
+          {
             "Twitter": "335d3083-0670-4fc8-aa73-62e970123289"
           },
           {
@@ -2428,7 +2488,13 @@
             "Unraid": "98d27b77-5c46-46c6-bc0a-0a58ec5cd72b"
           },
           {
+            "Upwork": "6647e7ea-14ae-4e14-b536-f7d952d70d26"
+          },
+          {
             "Urbit - Azimuth": "e874871a-8b41-4376-b1e1-3335444b00b8"
+          },
+          {
+            "Urbit": "c88039ab-e567-4305-9e36-8cfa6440a5bd"
           },
           {
             "Veilid": "70565ff6-d3ef-4e93-b9bb-f72117b0c4f4"
@@ -2506,6 +2572,9 @@
             "Windows": "eed08874-c882-4c0a-bca7-fc8339338b79"
           },
           {
+            "Windscribe": "b60530ee-d23a-4895-8e53-1d1a56490ad1"
+          },
+          {
             "Wireflow": "25d282c6-9137-4a69-b0b3-8853059d719e"
           },
           {
@@ -2528,6 +2597,12 @@
           },
           {
             "ZIMply": "1089bf75-07db-4d63-9cae-c3c322542834"
+          },
+          {
+            "Zapddit": "2ca383f3-6725-40c4-870e-b0a0882008b5"
+          },
+          {
+            "Zaplife.lol": "5eb57a2b-db39-436e-9705-59650cdfacf4"
           },
           {
             "Zim File": "c5b40f81-61d3-4f4b-8178-edc8298be793"
@@ -2656,6 +2731,9 @@
             "ethersjs": "d833138c-b1fc-488b-81a1-195e6298178e"
           },
           {
+            "farmOS": "b2682c56-db6e-4464-ab19-5bed20a8d416"
+          },
+          {
             "fdupes": "e46310f5-03a9-4730-b9df-ea32ccd6abb8"
           },
           {
@@ -2675,6 +2753,12 @@
           },
           {
             "find": "8681f918-3944-4630-b302-4af075bf39d8"
+          },
+          {
+            "flycat": "0d444306-204d-4d8b-95aa-90b9bb5e2c88"
+          },
+          {
+            "friend.tech": "6d931c93-a20b-4641-96cc-03a5cc222502"
           },
           {
             "fstab": "3546a49d-ee60-4156-8a76-b36b555279ca"
@@ -2827,6 +2911,9 @@
             "linux": "92dd5bac-e9a3-40b5-9b4d-d776c3bfc784"
           },
           {
+            "listr.lol": "8983f80e-c517-4bd1-8bb0-e9e59554e5ba"
+          },
+          {
             "llamafile": "1e5f29d1-1e9f-4fc9-ad64-0cf8dd8dfacc"
           },
           {
@@ -2936,6 +3023,12 @@
           },
           {
             "nodejs": "94377dc4-14fb-44cd-9892-4cf3cff78726"
+          },
+          {
+            "nostr.cooking": "8310fda2-698c-4659-9d84-564eeb5f2662"
+          },
+          {
+            "nostr.kiwi": "68d08579-9988-4648-bbba-3a333b9c063f"
           },
           {
             "npm": "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b"
@@ -3052,9 +3145,6 @@
             "reclipped": "3b4a812a-525c-46a2-b776-a5ca4286fe35"
           },
           {
-            "reddit": "c7b0b5e1-52e9-45e9-b17f-8377b7883aa5"
-          },
-          {
             "regex": "e75996a6-c8d2-4eaf-b565-ea10b36f8303"
           },
           {
@@ -3139,10 +3229,16 @@
             "sshuttle": "1875407f-4688-4c67-abc6-0fe751e9f34c"
           },
           {
+            "stacker.news": "f1092271-60c1-44dd-b1f0-fc749f665621"
+          },
+          {
             "star": "dfe11c13-be4f-47f4-a59f-86243888dd29"
           },
           {
             "stat": "99289459-4274-48b5-83f0-35bdf0f707f6"
+          },
+          {
+            "stemstr.app": "65356d5a-e57c-44d1-ad8c-1197ac41af7d"
           },
           {
             "syslog-ng": "76882170-483f-4fb6-8f7c-08a37d07109f"
@@ -3182,9 +3278,6 @@
           },
           {
             "ungoogled-chromium": "9aa76e89-28cc-40f0-9094-1e6b18c0b6d1"
-          },
-          {
-            "urbit": "c88039ab-e567-4305-9e36-8cfa6440a5bd"
           },
           {
             "urlextract": "1a425c29-ff46-4e68-bda1-dc4f32023936"
@@ -3248,6 +3341,9 @@
           },
           {
             "yacht": "b5608c53-23ce-4b6e-b2b8-b765bef39638"
+          },
+          {
+            "yakihonne": "ab4c5678-9565-4867-9e3e-e19394f76619"
           },
           {
             "yay": "827e0f6c-eaa7-4f4a-a768-b25a29ea186c"
@@ -3472,9 +3568,6 @@
           },
           {
             "Browsing History": "373a492f-0c09-41e4-a7d2-34179a3b704c"
-          },
-          {
-            "CLI": "9b23ae27-ea5d-4cce-a7f5-f16a47705fdd"
           },
           {
             "Calendar": "6e70b530-f84f-435d-a647-fe85065ba418"
@@ -3772,6 +3865,9 @@
         "Best Community Wiki Platforms": "eb0a4ed0-c2cb-4492-8c69-0036e6823a9e"
       },
       {
+        "Best Nostr Web Client": "31929d00-01d5-4afb-9887-553d2eb8efc6"
+      },
+      {
         "Blockchain Wiki Software": "d1132272-5297-4769-b543-7cae74d12272"
       },
       {
@@ -3805,16 +3901,22 @@
         "Favorite Development Apps": "bf3ee171-7713-4243-b94b-6647d482cdad"
       },
       {
-        "Favorite Software": "6a24cf3e-5693-4b99-b620-c3766a02a6c9"
+        "Favorite Everyday Apps": "444ff7c7-77b4-483c-b801-3955d2daeb0a"
       },
       {
-        "Favourite Everyday Apps": "444ff7c7-77b4-483c-b801-3955d2daeb0a"
+        "Favorite Software": "6a24cf3e-5693-4b99-b620-c3766a02a6c9"
       },
       {
         "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
       },
       {
+        "Nostr Client Reviews": "60856d0a-a8eb-49dd-ab2b-dd33d16ea527"
+      },
+      {
         "Notable AI tools": "1f16e3ec-47c6-4f57-97a6-4ab3bbec3237"
+      },
+      {
+        "Notable Nostr Apps": "f5a7d558-219b-4d37-9e18-28f749488612"
       },
       {
         "Open Source Google Analytics": "d500cc46-c9d0-4392-88bb-25a797ba3600"
@@ -3950,9 +4052,6 @@
               },
               {
                 "Dentropy Daemon Design": "de520619-5c6f-4275-a5ec-3154b2ca86bd"
-              },
-              {
-                "Roadmap": "2ffcf8b7-75d5-4f99-bf20-10826df12580"
               },
               {
                 "Social Media Bindings": "6bc689f8-26a9-4b6f-98fe-4a2d0f3ee37a"
@@ -4598,10 +4697,10 @@
             "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
           },
           {
-            "Schema 0.0.x - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
+            "Question Engine User Stories": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
           },
           {
-            "User Stories - QE": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
+            "Schema 0.0.x - QE": "a8d5e7ea-e112-4625-96c7-9ac3513c36c9"
           }
         ]
       },
@@ -4636,6 +4735,9 @@
       },
       {
         "DDaemon Master Plan": "58fef7f0-c9dc-44b3-949f-1c034bc24cf2"
+      },
+      {
+        "DDaemon User Stories": "e39d643d-abe6-4105-93ba-da45711e7956"
       },
       {
         "Dentropy Cloud Reference Designs": "890c1069-453d-4b96-80b0-6d153cfbbe9f"
@@ -5586,7 +5688,10 @@
             "Active Interference": "4c7376a5-788e-4890-b0f5-c23a344b470c"
           },
           {
-            "Activity Pub": "c1a79e55-46b3-4070-9271-4cbee6a61fec"
+            "Activity Values": "322f9709-043f-4c8e-8e94-c9d2f01a33c4"
+          },
+          {
+            "ActivityPub": "c1a79e55-46b3-4070-9271-4cbee6a61fec"
           },
           {
             "Additional Social Media Bindings": "f7bb0565-90b9-4595-8154-8e5b20f853ca"
@@ -5997,6 +6102,9 @@
             "Division of Labour": "805c5a5c-6d6d-45e1-8677-dd920eb61c97"
           },
           {
+            "Do not hide unwanted things in the fog.": "2a55123b-c22f-4309-a12f-8bcc98608a86"
+          },
+          {
             "Do-ocracy": "c90f0fbc-fe9d-4182-8582-19c5c105c848"
           },
           {
@@ -6300,6 +6408,9 @@
             "Index of all the worlds information": "5db3ecd5-3b0b-4381-9cbc-c0c6a21065a2"
           },
           {
+            "Indigogo": "fa83a590-898e-40b1-a6b2-533d6aef9079"
+          },
+          {
             "Influence Networks": "b8194cfe-0d02-43a2-a47b-0b3f8e1a3cac"
           },
           {
@@ -6325,6 +6436,9 @@
           },
           {
             "Internet Archive": "33d7fe86-a712-4430-be91-9b7ff1738e65"
+          },
+          {
+            "Kickstarter": "b38e4fa0-1a9e-4bad-9f7e-c4d307dc0bff"
           },
           {
             "Knowledge Graph": "9a4cdfe2-80b9-4ba8-84db-c7b29e46ff2f"
@@ -6570,6 +6684,9 @@
             "Numbers Everyone Should Know": "20330ab6-8754-4c22-8b97-93b1faf5eae8"
           },
           {
+            "Numerai": "eb9416eb-49c9-4b2d-b541-fe6cf904d0f1"
+          },
+          {
             "Nutrition": "9ab71fe7-4896-4647-b240-0561435e5e97"
           },
           {
@@ -6600,10 +6717,19 @@
             "Ontological Design": "b6786924-6c41-45c0-a50a-7859afe4c30c"
           },
           {
+            "OpenAI": "9d30a309-f722-4b46-9ca1-bdb8ef6b386c"
+          },
+          {
             "Optimistic Nihalisim": "0d1b55b3-90c8-4eac-91fd-754187ac3c9c"
           },
           {
+            "Organelle": "c8bf6452-f399-4b22-bb2c-a163a0be3db6"
+          },
+          {
             "Overton Window": "7ec7e9c4-f1de-43cd-8ae2-15124c80a787"
+          },
+          {
+            "Overweb": "659e9fe4-043c-4751-984c-f960fae56cff"
           },
           {
             "P verses NP": "16166cae-c4d6-4263-970c-4bf63b502a13"
@@ -6639,6 +6765,9 @@
             "Peafowl": "b5376a11-140c-4854-87e9-3bfe1b117512"
           },
           {
+            "People are Blockchains": "d4eecf2d-b918-4726-a647-6c15cdf3e8a3"
+          },
+          {
             "Persona": "bfcd7f97-8a77-4bc7-beef-829bb2a512cc"
           },
           {
@@ -6658,6 +6787,9 @@
           },
           {
             "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541"
+          },
+          {
+            "Plan All the Way to the End": "ebe3cd81-45ee-45d4-a655-daac5cd14a2b"
           },
           {
             "Platform Profile": "6099a912-7ef3-43c8-bd8c-7781aec357fd"
@@ -6691,6 +6823,9 @@
           },
           {
             "Produce Conversational Value": "d1ca561a-133d-4788-8315-94a65ce74e32"
+          },
+          {
+            "Product description": "4d459746-fc39-4d72-8474-983e3b9d654f"
           },
           {
             "Project Management vs Design Management": "74bf6161-4a39-46fd-aa10-a8625697e665"
@@ -6789,6 +6924,9 @@
             "SAO Game Seed": "f59c2d75-4642-49d2-b90d-fa62b0594a63"
           },
           {
+            "SEELE": "a22e1129-493b-41f7-87c0-70c41d956d83"
+          },
+          {
             "SEGMENT AND PROMPT": "0ddb6672-8614-4c06-922d-37aa925666e0"
           },
           {
@@ -6876,6 +7014,9 @@
             "Solana SOL": "a7fe5a35-f8e0-476a-8d63-8e5f432da064"
           },
           {
+            "Sousveillance": "b58ea122-6274-4617-b61d-a789d56c901d"
+          },
+          {
             "Stable coins": "a8d6dc1a-5a14-498b-8ba0-f97c6f36ec98"
           },
           {
@@ -6927,6 +7068,9 @@
             "The Devil": "1d90b262-8145-445f-a666-8e750d7925ff"
           },
           {
+            "The Human Screenome Project": "6adab435-7aa1-4bb0-b8b4-a077d847bfd9"
+          },
+          {
             "The Leviathan": "88b66c50-d998-4036-8b0c-7cb4ff5f0651"
           },
           {
@@ -6970,6 +7114,9 @@
           },
           {
             "The medium is the message": "112002ce-a9e0-4067-90b5-ababb31c2d55"
+          },
+          {
+            "The only way you can make money is by solving problems for other people": "001a0ead-0969-4c47-a600-bcf7778269c9"
           },
           {
             "Theory of Everything": "e2917bd7-f3db-456e-bd8d-23cb0429bdbb"
@@ -7036,6 +7183,9 @@
           },
           {
             "User Flow Diagrams": "985139c2-5368-4e47-816e-aab0639d882e"
+          },
+          {
+            "User Journeys": "8d38ccde-e851-4f77-aeae-82924e55728b"
           },
           {
             "User Stories": "44c10f20-28ae-489d-bc46-0547c7997242"
@@ -7117,6 +7267,9 @@
           },
           {
             "Yoga": "067f5fa1-1cb5-4f87-bf2c-536e63df4bdf"
+          },
+          {
+            "You need to have a relationship with your Data": "4227e36b-1587-4306-be9e-9dbbf8c94ca5"
           },
           {
             "Zeno's paradoxes": "a0064fb4-5c59-4a60-bd22-3caf820aded6"
@@ -7431,6 +7584,9 @@
         "Concept": "8d880e48-83ef-4152-826c-da2acbc8fadf"
       },
       {
+        "Memelets": "6b66b19c-139f-4c68-a9e7-2f9b2077d2e1"
+      },
+      {
         "Stoic": "ea8e7ea2-9596-4968-8848-561554809e11"
       }
     ]
@@ -7441,13 +7597,6 @@
         "Laws": [
           {
             "48 Laws Of Power": [
-              {
-                "29": [
-                  {
-                    "Plan All the Way to the End": "ebe3cd81-45ee-45d4-a655-daac5cd14a2b"
-                  }
-                ]
-              },
               {
                 "40": [
                   {
@@ -7629,7 +7778,7 @@
         "Moralistic therapeutic deism": "58bbf01a-7817-4cf2-9f3c-af051dd5e4a9"
       },
       {
-        "Occam s razor": "4aa5c3a4-320b-4024-89b9-9f0a5e0a4ece"
+        "Occam's razor": "4aa5c3a4-320b-4024-89b9-9f0a5e0a4ece"
       },
       {
         "Principals": "0caff160-6675-436f-b75a-468699e73a9e"
@@ -7820,9 +7969,6 @@
           },
           {
             "Design Doc - DentropyCloud": "6c1ccc56-5584-4ec8-9208-34fcdd2a97a5"
-          },
-          {
-            "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
           },
           {
             "Supported App List - DentropyCloud": "f738f680-95a2-46e5-bb4c-57b67687e36a"
@@ -9024,6 +9170,12 @@
           },
           {
             "Why are there multiple desks for Arvo, how do they get used?": "ce0fd799-e5af-4215-89da-e20d53c344b3"
+          },
+          {
+            "Why would someone want to use Question Engine?": "e189e074-79c9-4ffe-95cc-61c68d5d43d8"
+          },
+          {
+            "Why would someone want to use question engine over something else?": "11dfc34a-889a-404d-be43-06fb18c3ab8d"
           }
         ]
       }
@@ -9033,6 +9185,9 @@
     "Tutorials": [
       {
         "Backlog - Tutorials": [
+          {
+            "Biscuit Tutorial": "c36199f2-04fd-4a39-a6ea-4ffcdb0465c0"
+          },
           {
             "Docker MySQL and MariaDB with Backup and Restore": "065d3a41-1745-4c38-8950-4939f0d0b606"
           },
@@ -9121,6 +9276,9 @@
         "Mastering SQL": "fa961bbf-f992-45c2-99d4-8ff4d5a1d4a1"
       },
       {
+        "Nostr Client Tutorial": "d0d2eb3c-a491-462a-ba23-bcc03246f837"
+      },
+      {
         "Searching Through Files Tutorial": "21c0a45b-3f65-446a-bcae-89242cc63469"
       },
       {
@@ -9164,6 +9322,9 @@
         "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd"
       },
       {
+        "BTC": "05101a51-4068-4034-923a-42167f5ccea0"
+      },
+      {
         "CAP": "09bfd7f9-3f84-4f97-bca2-c60f4444dd44"
       },
       {
@@ -9177,6 +9338,9 @@
       },
       {
         "CIF": "3937032a-3f05-4be5-bcc0-a0730c674d3c"
+      },
+      {
+        "CLI": "9b23ae27-ea5d-4cce-a7f5-f16a47705fdd"
       },
       {
         "CLV": "5051ab00-856e-4c32-b137-c5a9a1fb4db8"
@@ -9212,6 +9376,9 @@
         "DWH": "9ac583fa-1c5e-4989-9642-67d5e45bb81c"
       },
       {
+        "E2EE": "817a16c2-2d14-4abc-9054-1a3a71b118d9"
+      },
+      {
         "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
       },
       {
@@ -9242,10 +9409,16 @@
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
       },
       {
+        "IFS": "6d04ca02-e54a-4654-aba5-cc984788a711"
+      },
+      {
         "IRL": "0bd9f89b-1a65-4247-bff5-8148fab73b05"
       },
       {
         "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
+      },
+      {
+        "LLM": "8098d812-cde1-4a26-ac6f-793f02067948"
       },
       {
         "LLaMA": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e"
@@ -9272,7 +9445,13 @@
         "OLTP": "bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3"
       },
       {
+        "OODA": "2040ddee-0202-4465-85db-ea0739f84fbf"
+      },
+      {
         "ORM": "fe6d5adf-ced3-425a-88eb-a5645db9ced4"
+      },
+      {
+        "P2P": "eb562da3-447f-489a-a715-3cfcca10e8ec"
       },
       {
         "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
@@ -9299,6 +9478,9 @@
         "ROI": "a5903d8a-5e4c-403e-87c8-59cf5c78b51b"
       },
       {
+        "ROS": "0cf1f864-a4c0-4db0-9364-0de898fb12f1"
+      },
+      {
         "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
       },
       {
@@ -9315,6 +9497,9 @@
       },
       {
         "WAGMI": "99dc23d5-ebf9-4bba-b259-bb34c491a44b"
+      },
+      {
+        "WASM": "af3c2f6a-2d4f-4eb9-ab21-d3d64c59d431"
       },
       {
         "Z2D": "eb40b443-3aa8-42e4-b68d-dbd4af49534b"
@@ -9367,6 +9552,12 @@
       },
       {
         "Logs - Robotics": "665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1"
+      },
+      {
+        "Roadmap - DDaemon Monorepo": "2ffcf8b7-75d5-4f99-bf20-10826df12580"
+      },
+      {
+        "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
       }
     ]
   },
