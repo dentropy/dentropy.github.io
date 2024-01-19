@@ -1576,6 +1576,9 @@
             "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
           },
           {
+            "Hardbin": "5a6b53c8-3fd5-4ae6-9dc5-925a0dcad4ca"
+          },
+          {
             "Hardhat": "2ca7d8ef-95bc-4f40-94fb-2054b0717c3c"
           },
           {
@@ -1765,6 +1768,9 @@
             "LetterboxD": "b112a0f2-a5c4-49e8-a59e-b75179d3fca6"
           },
           {
+            "Link Aggregators": "eab4d9c9-d988-4d1e-8b31-ddef8133b10f"
+          },
+          {
             "Linkedin": "e256abb9-76ce-4856-9697-97ecd9993170"
           },
           {
@@ -1862,6 +1868,9 @@
           },
           {
             "Miniflux RSS": "0cf0803d-1a0f-4c50-9128-9ebbd8878757"
+          },
+          {
+            "Mintter": "92d347a2-b197-4c23-b247-e10bf6052ea7"
           },
           {
             "Miro": "cabea7f1-4452-4de5-b843-7107c5b04b32"
@@ -2054,6 +2063,9 @@
           },
           {
             "Passky": "7fa8de8e-e71d-4524-8c3b-455ae03e5500"
+          },
+          {
+            "PeerGos": "ae681009-35f1-44ee-8830-408df0c5a2f8"
           },
           {
             "PeerTube": "08d9e404-f112-4b56-9f95-05a2cd05800c"
@@ -2326,6 +2338,9 @@
             "Spotify": "63b21d4c-9111-4340-ba04-f6978dbed263"
           },
           {
+            "Spring Security": "f9e6ccf9-e567-4e32-847e-bd12efa1c388"
+          },
+          {
             "Sqlite in nodejs": "8de02b07-3f06-42dd-ab2b-216d03487a06"
           },
           {
@@ -2561,6 +2576,9 @@
           },
           {
             "Wikiwand": "b830a5f1-b10d-4728-941b-b3adfef36ff2"
+          },
+          {
+            "Willow Protocol": "819604a5-b804-44b5-85fb-85c79469032e"
           },
           {
             "WinDirStat": "f56d9b82-f0b2-471c-ad70-4bbf5889dd2a"
@@ -2839,6 +2857,9 @@
             "infranodus": "e8ca78e3-422e-4f21-9607-88c20a61048e"
           },
           {
+            "ipfs-social-proof": "96fd16b6-f52e-4a5a-9c58-bdb471205715"
+          },
+          {
             "iptables": "d96e4299-927f-4fd5-ac86-07473ad7b8ad"
           },
           {
@@ -2903,6 +2924,9 @@
           },
           {
             "languagetool": "c0261b8e-ce72-4d26-aadb-29b7159c42f2"
+          },
+          {
+            "libp2p": "e257272f-7f6f-497e-a678-0649148b9458"
           },
           {
             "librephotos": "12d4ab7b-2fcd-468a-a04e-4fb4168f9e88"
@@ -3032,6 +3056,9 @@
           },
           {
             "npm": "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b"
+          },
+          {
+            "nsc": "72f898fd-cf08-4fba-9474-96fb46b6f1b4"
           },
           {
             "nvm": "d631fbd2-3680-49fb-8bf0-b009d6c43210"
@@ -4697,6 +4724,9 @@
             "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
           },
           {
+            "Question Engine QE User Journeys": "8e4dcccd-5b90-4ce7-b487-d0d7459f7eef"
+          },
+          {
             "Question Engine User Stories": "f137b314-579f-42ab-8be5-1c72bf9ebcd9"
           },
           {
@@ -4705,7 +4735,17 @@
         ]
       },
       {
-        "Unorganized": [
+        "Brand Elements": [
+          {
+            "DDaemon - Two Root Problems": "38fcd810-80ab-4de0-8ad4-9c66da369de3"
+          }
+        ]
+      },
+      {
+        "Chaos": [
+          {
+            "DentropyCloud Software": "db82f3a7-04a5-4403-b16a-057177b2ae10"
+          },
           {
             "KMS Analysis": "ea7bef36-42df-455b-8fb6-c8bdb458b6e5"
           }
@@ -4714,7 +4754,13 @@
       {
         "User Journeys": [
           {
+            "Community (DAO) Interrogation User Journey": "a8ffb459-7da7-45bb-a67c-38b03dc63f92"
+          },
+          {
             "Community Meme Context Generation User Journey": "7505fb07-cf5f-4c28-957b-2fc4b4453a32"
+          },
+          {
+            "Publishing PKMS on Question Engine User Journey": "dc2b4dc8-37f7-4da0-acab-98ce0ee7088e"
           }
         ]
       },
@@ -4725,13 +4771,7 @@
         "DDaemon - Thoughts": "edc2124b-c88b-4aaf-8d15-4dfb8ca8397b"
       },
       {
-        "DDaemon - Two Root Problems": "38fcd810-80ab-4de0-8ad4-9c66da369de3"
-      },
-      {
         "DDaemon - Types and Datasets": "34c12519-617b-4ab2-995d-6cf7f8f4f691"
-      },
-      {
-        "DDaemon Dashboard Research": "5a448eab-2246-424e-bd1f-fff5cfd692e1"
       },
       {
         "DDaemon Master Plan": "58fef7f0-c9dc-44b3-949f-1c034bc24cf2"
@@ -4746,7 +4786,7 @@
         "Dentropy Daemon - Home": "488cb22c-91d3-4d1e-bd47-b1588e3fb899"
       },
       {
-        "DentropyCloud Software": "db82f3a7-04a5-4403-b16a-057177b2ae10"
+        "Epic User Journeys": "c81f0da9-8d82-4176-8458-cfb3d06924c4"
       },
       {
         "IPLD User Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
@@ -5724,6 +5764,9 @@
             "Animal": "2af1b93a-e652-4809-b2e5-4607eb8ae5a1"
           },
           {
+            "Animated vision of the future": "f5f130bd-59db-4589-8951-d05796340790"
+          },
+          {
             "ApeCoin": "c9163e10-bf2a-43c1-96e1-c8844a77d37f"
           },
           {
@@ -5806,6 +5849,9 @@
           },
           {
             "Bitcoin": "661f0e89-294a-4700-b640-2b11b5ed1f19"
+          },
+          {
+            "Blockchain LDAP": "ee468efe-fad0-4f61-8dea-3f96fdb0c5d0"
           },
           {
             "Blockchain Naming Services": "6ba83b5b-6a74-4876-aff8-d0981e41a3ba"
@@ -5905,6 +5951,9 @@
           },
           {
             "Cognitive Dissonance": "8c198cdd-4b8e-4784-ac8e-4c02cf113f49"
+          },
+          {
+            "Cognitive Load": "da8f06a8-e9d2-48ce-8c84-5cf98d6a4ae2"
           },
           {
             "Cognitive computing": "25dfbe49-f75d-4c8c-bc1d-d1f65718daf1"
@@ -6030,6 +6079,9 @@
             "Dataisim": "97563997-6ace-427e-8132-c68377b9b78a"
           },
           {
+            "Decentralized Cryptography LDAP": "ddb95613-96e0-4e9f-94f9-3ef4c40f7354"
+          },
+          {
             "Decision Sieve": "293e4694-14ed-45ab-8fd5-7c84fee0a2b6"
           },
           {
@@ -6051,7 +6103,7 @@
             "Dentropy Cloud": "4b98c736-45b5-4151-80b5-7ab0c746f1ea"
           },
           {
-            "Dentropy Daemon": "15c66694-3dc9-4115-afb8-887a6e52ffea"
+            "Dentropy Daemon Listicle": "15c66694-3dc9-4115-afb8-887a6e52ffea"
           },
           {
             "Description": "d5d2e50b-6665-4d7a-8ddb-aac6ed24e293"
@@ -6172,6 +6224,9 @@
           },
           {
             "Eternal September": "616da5df-ef96-427b-80a0-6690355c2116"
+          },
+          {
+            "Ethereum ETH": "1e839bd9-8e58-4a04-836c-72ddd1589f3f"
           },
           {
             "Ethernal September": "7e0d9c51-011a-4bff-982a-02b18ebf37a4"
@@ -6402,6 +6457,15 @@
             "Ideology": "d77c97e5-e532-4912-8a5b-7d52641254c9"
           },
           {
+            "Imagine being able to control exactly what personal data each web app can see": "e58d54a0-075c-4c92-acbe-67e4a0a048f7"
+          },
+          {
+            "Imagine never having to log in to an app ever again": "a2fb89b1-fec9-418e-8356-c7c80bf6bda6"
+          },
+          {
+            "Imagine web apps being secure by default and unable to track you": "ce149e84-d5bc-46a6-a9a3-bd68316809f0"
+          },
+          {
             "Incompleteness Theorem": "9cae8201-679e-4cdd-a768-1fd83231afb8"
           },
           {
@@ -6436,6 +6500,9 @@
           },
           {
             "Internet Archive": "33d7fe86-a712-4430-be91-9b7ff1738e65"
+          },
+          {
+            "JSON Web Token": "f7619f8b-09c3-42ed-afed-a5dd2acac315"
           },
           {
             "Kickstarter": "b38e4fa0-1a9e-4bad-9f7e-c4d307dc0bff"
@@ -6484,6 +6551,9 @@
           },
           {
             "List of DAO Platforms": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696"
+          },
+          {
+            "Listicles": "2597cf0d-55d0-43e1-bb2b-7e0bf78ad141"
           },
           {
             "MEME Dag": "f6fac773-efe2-4a89-abd0-d65ecc028871"
@@ -6768,6 +6838,9 @@
             "People are Blockchains": "d4eecf2d-b918-4726-a647-6c15cdf3e8a3"
           },
           {
+            "People, Places, and Things": "73c7627a-0f37-48d8-812b-bec2fe39ecdf"
+          },
+          {
             "Persona": "bfcd7f97-8a77-4bc7-beef-829bb2a512cc"
           },
           {
@@ -7017,6 +7090,9 @@
             "Sousveillance": "b58ea122-6274-4617-b61d-a789d56c901d"
           },
           {
+            "Souveillance": "96d3f410-4487-423d-a16f-2c5e9bb5e14e"
+          },
+          {
             "Stable coins": "a8d6dc1a-5a14-498b-8ba0-f97c6f36ec98"
           },
           {
@@ -7042,6 +7118,9 @@
           },
           {
             "System Diagram": "349406a8-720c-4504-8eed-1000830e3266"
+          },
+          {
+            "TLS certificates": "d92b98f2-54c8-4243-8a3c-8962c04a712f"
           },
           {
             "TTRPG": "cb50fd3f-3585-4d1e-b0a6-9b041406394e"
@@ -7101,6 +7180,9 @@
             "The Social Contract": "8dcaafc1-8ecb-4618-85b8-6f12b5d4a75d"
           },
           {
+            "The Things you own end up owning you": "76750266-8c40-4969-8b69-795ee3f2e872"
+          },
+          {
             "The Transparent Society": "2d51ba0a-5a58-4f62-817f-378d1bfb934b"
           },
           {
@@ -7153,6 +7235,9 @@
           },
           {
             "Tulpa": "07b300d6-954f-4c14-9b4d-c60419b1d4e5"
+          },
+          {
+            "Tulpas": "b2785ce5-bff0-4c41-baf9-7d9dffe3fabb"
           },
           {
             "Tupla": "5f93456c-532e-434d-94ce-bd39edae06ea"
@@ -7270,6 +7355,9 @@
           },
           {
             "You need to have a relationship with your Data": "4227e36b-1587-4306-be9e-9dbbf8c94ca5"
+          },
+          {
+            "You own your data and decide where it is stored and who can see it": "bce2defb-19fb-400c-8f4e-8f205af6c364"
           },
           {
             "Zeno's paradoxes": "a0064fb4-5c59-4a60-bd22-3caf820aded6"
@@ -8691,6 +8779,9 @@
         ]
       },
       {
+        "Research - DDaemon Dashboard": "5a448eab-2246-424e-bd1f-fff5cfd692e1"
+      },
+      {
         "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
       }
     ]
@@ -9079,6 +9170,9 @@
             "What is the date of their latest tweet?": "dad75ab3-22a0-4bd2-bf53-4c0c774ce8c8"
           },
           {
+            "What is the first thing someone should do on Question Engine?": "97a88056-f839-4ca7-913a-be9b97710a9e"
+          },
+          {
             "What is the length of the Bertopic default dataset from sklearn?": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5"
           },
           {
@@ -9116,6 +9210,9 @@
           },
           {
             "What is the rate of new users joining the specific discord guild per month?": "53d082f2-cdd8-443f-ab0e-527915f88f45"
+          },
+          {
+            "What is the second thing someone should do on Question Engine?": "c69d5896-cb91-43da-b454-a396447a3d7e"
           },
           {
             "What message with an attachment from a particular author in a discord guild got the most reactions?": "2c19f286-32de-4f5e-94f0-98d6eae21492"
@@ -9276,7 +9373,10 @@
         "Mastering SQL": "fa961bbf-f992-45c2-99d4-8ff4d5a1d4a1"
       },
       {
-        "Nostr Client Tutorial": "d0d2eb3c-a491-462a-ba23-bcc03246f837"
+        "Nostr Relay Tutorial": "c7866777-9a38-45b0-9cb6-2bf757879e17"
+      },
+      {
+        "Nostr Tutorial": "d0d2eb3c-a491-462a-ba23-bcc03246f837"
       },
       {
         "Searching Through Files Tutorial": "21c0a45b-3f65-446a-bcae-89242cc63469"
@@ -9382,6 +9482,9 @@
         "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
       },
       {
+        "ELI5": "13d066d8-56a6-4273-890d-695214da4dad"
+      },
+      {
         "ELT": "04d9c099-c626-46d7-aa94-1a33117e1d90"
       },
       {
@@ -9406,6 +9509,9 @@
         "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
       },
       {
+        "I2P": "5433eba4-db14-4f9c-9726-37e15b94420c"
+      },
+      {
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
       },
       {
@@ -9415,7 +9521,13 @@
         "IRL": "0bd9f89b-1a65-4247-bff5-8148fab73b05"
       },
       {
+        "KISS": "8412af19-c492-44c7-8e39-7fad1b85155e"
+      },
+      {
         "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
+      },
+      {
+        "LDIF": "7598f2d5-f5a1-4dac-afb2-e7394b8c8938"
       },
       {
         "LLM": "8098d812-cde1-4a26-ac6f-793f02067948"
@@ -9484,10 +9596,16 @@
         "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
       },
       {
+        "STER": "62229267-8ee7-4c11-9b74-9cdb95c335fb"
+      },
+      {
         "TED": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0"
       },
       {
         "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc"
+      },
+      {
+        "TLS": "017fa480-0484-452c-9144-3b34b3ad6c37"
       },
       {
         "TZM": "b39a1e1f-e391-4451-bccb-b3e6052de91d"
@@ -9569,6 +9687,12 @@
   },
   {
     "Tutorials and Learning Pathways": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
+  },
+  {
+    "What is the fourth thing someone should do on Question Engine?": "1fde4324-449a-4ec6-b0d9-a83e3b882670"
+  },
+  {
+    "What is the third thing someone should do on Question Engine?": "63adbd84-8206-4907-8085-683b478e845d"
   },
   {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"

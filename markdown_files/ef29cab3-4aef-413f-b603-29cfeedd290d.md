@@ -32,5 +32,5 @@ title: Data Visualization
 
 * [Obsidian](/f76a085e-f2c8-43bd-a852-47760f01e401)
 * [ETL to QE, Update 3, Progress on first Report to be Published](/a4afe3e7-e3ae-44ae-a1dc-e22754900e37)
-* [KMS Analysis](/ea7bef36-42df-455b-8fb6-c8bdb458b6e5)
 * [Analysis Queries](/92a22ef8-5137-47e9-a48a-ece9720f6169)
+* [KMS Analysis](/ea7bef36-42df-455b-8fb6-c8bdb458b6e5)

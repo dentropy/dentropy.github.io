@@ -13,7 +13,7 @@ I like to work on projects, consume media that makes you think, and attempting t
 
 ## Site Directory
 
-* [Dentropy Daemon](/15c66694-3dc9-4115-afb8-887a6e52ffea) Projects
+* [Dentropy Daemon - Home](/488cb22c-91d3-4d1e-bd47-b1588e3fb899) Projects
 	* [Keybase Binding](/3ff1df10-10b8-4206-b9b2-3bbad4b748d5)
 	* [Discord Binding](/1c376bfd-75ef-4c0d-9e23-3680653de55f)
 	* [dentropys-obsidian-publisher](/f43d858e-c32e-4d15-bfc4-456bb7f56ceb)
