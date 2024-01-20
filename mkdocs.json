@@ -2638,6 +2638,9 @@
             "awk": "73406c16-a549-43f8-8be8-28acafa8d685"
           },
           {
+            "awscli": "733ff9fd-455e-42cc-be0e-32714d0c3557"
+          },
+          {
             "axios": "7066b6a7-0bcd-4314-b5bd-54abb42d61ed"
           },
           {
@@ -2855,6 +2858,9 @@
           },
           {
             "infranodus": "e8ca78e3-422e-4f21-9607-88c20a61048e"
+          },
+          {
+            "ipfs-car": "a5f00d8b-caf0-48f5-82cc-383380c59a14"
           },
           {
             "ipfs-social-proof": "96fd16b6-f52e-4a5a-9c58-bdb471205715"
@@ -5992,6 +5998,9 @@
             "Conway s Law": "0607d553-fe1e-4b0d-9329-ce54d7913e4b"
           },
           {
+            "Corporate Capture": "2d6edcda-a7df-42d0-bfed-eccbb79dfcac"
+          },
+          {
             "Corporations": "86653701-e0a0-4650-a202-4a5cca00b49b"
           },
           {
@@ -6353,6 +6362,9 @@
           },
           {
             "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37"
+          },
+          {
+            "Hedonic Treadmill": "f049101e-d018-4ad2-9fbe-f1fe0bc51f12"
           },
           {
             "Hegelian dialectic": "a3acbd1e-0cda-4243-902e-7e188b1db442"
@@ -6781,6 +6793,9 @@
             "Omen": "43e53b22-128d-471b-9fd3-817c561d2785"
           },
           {
+            "One LLM per child": "bfddc27b-f345-41ee-890f-3fdcd6783a43"
+          },
+          {
             "One must insist on their right to exist": "37d44e68-0614-4072-8667-3d76e9236649"
           },
           {
@@ -6950,6 +6965,9 @@
           },
           {
             "Quests": "20e73a51-3cf8-492e-ba90-b9ff7d625372"
+          },
+          {
+            "QuickNode": "ed529a6d-1d8b-47d6-8728-cea0266d70a2"
           },
           {
             "README": "d8c7020b-fa33-4a44-b3b2-b9daab505ff6"
@@ -7352,6 +7370,9 @@
           },
           {
             "Yoga": "067f5fa1-1cb5-4f87-bf2c-536e63df4bdf"
+          },
+          {
+            "You have to force people to be free": "92c693e2-f67b-4d6a-9d18-8d127bfe7f67"
           },
           {
             "You need to have a relationship with your Data": "4227e36b-1587-4306-be9e-9dbbf8c94ca5"
@@ -8082,7 +8103,7 @@
           {
             "Letters to the Community": [
               {
-                "Humman Accelerator - Trying to Define A Problem": "5b7b6673-14a6-4823-a5c8-44439156f2ad"
+                "Human Accelerator - Trying to Define A Problem": "5b7b6673-14a6-4823-a5c8-44439156f2ad"
               }
             ]
           }
@@ -9585,6 +9606,9 @@
       },
       {
         "REPL": "a821f5d6-b82b-428c-8e4c-d160bd900a33"
+      },
+      {
+        "RLHF": "46897e09-c4c6-47c8-a75c-d9294e5dc65e"
       },
       {
         "ROI": "a5903d8a-5e4c-403e-87c8-59cf5c78b51b"

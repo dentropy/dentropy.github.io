@@ -8,3 +8,4 @@ Law 29 from the [48 Laws Of Power](/bea1021f-e039-4807-8410-34b5d4bd3aec)
 #### Backlinks
 
 * [48 Laws Of Power](/bea1021f-e039-4807-8410-34b5d4bd3aec)
+* [Backlog - DDaemon](/b9cd3e8b-1727-4a22-9332-90b42b5a7ffb)
