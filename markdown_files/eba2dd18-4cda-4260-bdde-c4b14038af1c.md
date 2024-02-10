@@ -5,11 +5,12 @@ title: twitter-scraper
 ---
 #### TO Test
 
-* [twitter-api-client](/35341725-9479-4657-988c-e14a766cc7a2)
+* [twitter-api-client](../35341725-9479-4657-988c-e14a766cc7a2)
+* [FixTweet/FxTwitter: Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others](https://github.com/FixTweet/FxTwitter)
 
 ## WORKS vladkens/twscrape
 
-* [twscrape](/157d789b-d138-4499-a60a-d719cc6b4e65)
+* [twscrape](../157d789b-d138-4499-a60a-d719cc6b4e65)
 ## FAIL mahrtayyab/tweety
 
 * Code: [mahrtayyab/tweety: Twitter Scraper](https://github.com/mahrtayyab/tweety)

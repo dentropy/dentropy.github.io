@@ -12,7 +12,7 @@ title: MFS - Thoughts
 	* Memex Design
 		* Rename Concepts as Memes
 		* DESCRIBE WHY EACH PART OF THE DIRECTORY EXISTS
-	* [Privacy](/Privacy)
+	* [Privacy](../Privacy)
 	* Make Bounties for People
 
 #### Backlinks

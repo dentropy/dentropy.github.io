@@ -5,7 +5,7 @@ title: react-force-graph
 ---
 ## Links
 
-* [org-mode](/c62c8cf0-9f46-48fd-a24e-e6af99f5417d) Roam
+* [org-mode](../c62c8cf0-9f46-48fd-a24e-e6af99f5417d) Roam
 
 ## Sources
 

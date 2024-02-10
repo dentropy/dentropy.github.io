@@ -7,4 +7,5 @@ title: JSON Web Token
 
 #### Backlinks
 
+* [JWT](/614bd6f4-4326-491b-89e9-400a93810de9)
 * [DDaemon - Tech Breakdown](/457c6a22-361f-4b4b-9867-809c7c6d0316)

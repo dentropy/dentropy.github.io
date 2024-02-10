@@ -3,7 +3,7 @@ share: true
 uuid: 81ec9a0e-dccd-43fe-acd2-1a23cf88b627
 title: Introduction To Internal Family Systems Model
 ---
-[books](/a3a80e28-c537-4091-a06f-3d20f44ec6a2)
+[books](../a3a80e28-c537-4091-a06f-3d20f44ec6a2)
 
 “If we become angry at our anger, we will have two angers at the same time.”
 

@@ -5,7 +5,7 @@ title: Blockchain LDAP
 ---
 #### Links
 
-* [LDAP](/91dcc396-4854-454a-af93-12b19f08b4de)
+* [LDAP](../91dcc396-4854-454a-af93-12b19f08b4de)
 
 #### Backlinks
 

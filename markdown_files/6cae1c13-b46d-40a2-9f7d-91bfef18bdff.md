@@ -3,7 +3,7 @@ share: true
 uuid: 6cae1c13-b46d-40a2-9f7d-91bfef18bdff
 title: cypher
 ---
-[Language - Query](/dde6bcd9-3c39-46d3-946e-4e1613c2c3d5)
+[Language - Query](../dde6bcd9-3c39-46d3-946e-4e1613c2c3d5)
 
 ## TODO
 
@@ -40,9 +40,9 @@ title: cypher
 
 ## Cypher Examples
 
-* [Basic Cypher Queries](/458b1549-c829-487a-ac99-433f356b1c65)
-* [Cypher Queries](/59430e1c-f2a6-4e81-aafd-9b5777c4408c)
-* [Movie Graph Example](/67def507-3b83-4123-aed6-77b782ea4a50)
+* [Basic Cypher Queries](../458b1549-c829-487a-ac99-433f356b1c65)
+* [Cypher Queries](../59430e1c-f2a6-4e81-aafd-9b5777c4408c)
+* [Movie Graph Example](../67def507-3b83-4123-aed6-77b782ea4a50)
 
 ## Running Scripts
 

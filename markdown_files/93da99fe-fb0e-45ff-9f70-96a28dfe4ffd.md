@@ -7,7 +7,7 @@ title: Startup Applications Gnome
 
 ## Links
 
-* [Gnome](/eb67c211-8651-42cc-b512-1ff655f7a537)
+* [Gnome](../eb67c211-8651-42cc-b512-1ff655f7a537)
 
 #### Backlinks
 

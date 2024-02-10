@@ -33,7 +33,7 @@ join messages_t on reply_count_t.reply_to_message_id = messages_t.reply_to_messa
 
 ## Similar Queries
 
-* [What authors asked the most questions within a specific discord guild?](/c102ef60-4b8c-423e-8102-69578c1ec330)
+* [What authors asked the most questions within a specific discord guild?](../c102ef60-4b8c-423e-8102-69578c1ec330)
 
 #### Backlinks
 

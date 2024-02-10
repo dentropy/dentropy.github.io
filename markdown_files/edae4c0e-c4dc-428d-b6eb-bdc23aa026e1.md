@@ -7,7 +7,7 @@ title: python-scraperlib
 
 ## Links
 
-* [Zim File](/c5b40f81-61d3-4f4b-8178-edc8298be793)
+* [Zim File](../c5b40f81-61d3-4f4b-8178-edc8298be793)
 
 #### Backlinks
 

@@ -3,7 +3,7 @@ share: true
 uuid: 83e2137b-fbfd-4cad-b7e9-270fb4eaee75
 title: Beyond-The-Boundry
 ---
-[wiki.media.type.anime](/a0b15bdd-022a-4893-b12a-db25bfb5e041)
+[wiki.media.type.anime](../a0b15bdd-022a-4893-b12a-db25bfb5e041)
 
 From File MediaConsumption.Anime.Notes.BeyondTheBoundry.org
 -----------------------------------------------------------

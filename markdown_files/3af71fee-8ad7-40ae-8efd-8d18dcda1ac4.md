@@ -5,7 +5,7 @@ title: nodejs glob
 ---
 ## Links
 
-* [python glob](/0492f7e1-1174-46ba-82ea-f3ef4d7c5421)
+* [python glob](../0492f7e1-1174-46ba-82ea-f3ef4d7c5421)
 
 ## Sources
 

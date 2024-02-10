@@ -310,7 +310,7 @@
                 "Aggregations": "cc28f42c-a0b5-4222-a43b-023f8ee032c7"
               },
               {
-                "Curl": "dac0670a-1828-496e-88a5-bee3f585c6b3"
+                "Curl with Elasticsearch": "dac0670a-1828-496e-88a5-bee3f585c6b3"
               },
               {
                 "EQL": "040de8fd-637b-40f8-b469-f8068c6db402"
@@ -424,9 +424,6 @@
               },
               {
                 "Contract Factory": "48e11601-45a6-4c17-905e-e15781375c75"
-              },
-              {
-                "ERC": "d5ab86a4-ae4e-400f-acaa-7ea03b7db0e0"
               },
               {
                 "Minting Tokens": "96c77155-73e3-4b22-acff-84a47f3de7e2"
@@ -672,9 +669,6 @@
               },
               {
                 "nodejs json": "9c1ee2b4-3130-4b07-886e-6c27df47b098"
-              },
-              {
-                "npm": "3a178917-c084-4b87-b308-1953859378b0"
               },
               {
                 "questions": "18fba34d-e658-4f06-afe4-d95ab44e361c"
@@ -1036,13 +1030,13 @@
             "Age software": "fb4bc5ab-ea80-4856-a0ba-f2396175a226"
           },
           {
+            "Agregore Hypermedia": "780a4155-a3ad-4184-b425-55fd92de3a32"
+          },
+          {
             "Airflow": "496477c7-b5a5-4498-bc02-9e9ca5f473d1"
           },
           {
             "Airtable": "b41b6d77-6dc8-4050-9986-e046eb8d4cfa"
-          },
-          {
-            "Ajv": "368549f6-ade2-4205-b763-8915c962e113"
           },
           {
             "Algorand": "41ceec84-6c55-40a4-a454-920c38027c7c"
@@ -1132,6 +1126,9 @@
             "Authelia": "351b5ef8-761e-4e55-b00f-053170071ab7"
           },
           {
+            "AutoGPT": "494282ee-3cf9-44cd-b1dd-e9fb4e1b23c2"
+          },
+          {
             "BERT": "6d64407b-22ff-4b5a-a930-1d5c20edeeec"
           },
           {
@@ -1172,6 +1169,9 @@
           },
           {
             "Bluesky Software": "64f66322-df98-4288-9bef-455da3c3610d"
+          },
+          {
+            "Bomgar": "c80db87e-b0d0-4069-8af3-3d59cd9e3489"
           },
           {
             "BookStack": "3067e6fb-ba0f-4123-8878-82e0fb0451e4"
@@ -1267,6 +1267,9 @@
             "Coqui TTS": "dac58659-e71f-4eea-b6d2-465508a922ee"
           },
           {
+            "Coracle": "becb58a7-a502-4c7a-9de9-9579a8fee62a"
+          },
+          {
             "Cosmos": "5eb716bc-57bd-461d-86eb-faf04f3fa7ec"
           },
           {
@@ -1282,6 +1285,9 @@
             "Cyph": "3286d183-7abd-4768-a96b-008ccb955ac7"
           },
           {
+            "Cytoscape": "7959eac3-09b5-42df-b702-a7c65458052e"
+          },
+          {
             "Czkawka": "080fac3a-0f70-4f57-bce6-129eb4d0efba"
           },
           {
@@ -1292,6 +1298,9 @@
           },
           {
             "DAOmehaus": "6086aa85-9683-4fb9-a5da-f9d23b3182ea"
+          },
+          {
+            "DB Beaver": "4839cc5b-06f9-4d68-b95e-e3bef18b0d5c"
           },
           {
             "DGraph": "980869eb-e907-4e49-888b-0b7d839b7505"
@@ -1325,6 +1334,12 @@
           },
           {
             "Debian": "e5892695-48a8-4b08-b405-d70790407a4a"
+          },
+          {
+            "DeepPavlov Dream": "7100feb5-7726-4eab-b4ce-7d783fb73c01"
+          },
+          {
+            "Diagrams.net": "82704218-d05a-4a8a-bcba-e913efbb481a"
           },
           {
             "Discord  STATBOT": "b244b987-ecd4-4c15-b74a-da0081c9810a"
@@ -1363,6 +1378,9 @@
             "DuckDB": "55b2a855-9919-4dfd-a3cd-8cd5542f6a64"
           },
           {
+            "DuckDuckGo": "c5a453b2-ee8f-4f82-80bc-79de21837f1b"
+          },
+          {
             "ENS  Ethereum Name Service": "c434e5c1-840e-4850-9efc-eb079902c9f4"
           },
           {
@@ -1370,6 +1388,9 @@
           },
           {
             "ESP Home": "56b8fc16-b823-4c35-b477-a91e0410ddc3"
+          },
+          {
+            "ESP32": "3cf359ac-b4b7-4a2d-8884-f60d259afac3"
           },
           {
             "EVM": "c8f3d2e4-2f03-496a-b59c-f0111fc8075c"
@@ -1450,6 +1471,12 @@
             "Firebase": "00fcdda9-df5b-4ed2-a0a6-e3483912745e"
           },
           {
+            "Firefox": "ad59b7e4-6f57-4b6e-b654-e982ebc765c4"
+          },
+          {
+            "Firstblood": "c5bab707-4b5d-412f-a18d-00e3e93f9943"
+          },
+          {
             "Fission Software": "a39c1acd-86f7-4d11-8490-525428679774"
           },
           {
@@ -1492,6 +1519,9 @@
             "FunctionLand": "82dbe3dc-bdf0-488b-80a9-85562a3689e4"
           },
           {
+            "Fuse MacOS": "95be856e-d3dd-4259-8ba4-d236a63b373a"
+          },
+          {
             "GPT for All": "d80422a0-621c-4784-a273-284c1c8e5520"
           },
           {
@@ -1501,13 +1531,19 @@
             "Garage S3": "2d104915-33d6-44cb-8256-0bcba1347d58"
           },
           {
+            "Gather.town": "13cd6141-3ced-4c7f-8ee1-9c2bc14f42da"
+          },
+          {
+            "Gatsby": "cdfa7290-4a02-45b3-b682-ef6648866916"
+          },
+          {
             "Git": "10bfb6e2-0087-495e-a93e-60861dd6de76"
           },
           {
-            "GitTea": "c889fb5d-7389-4c3f-a476-2dba4ec57030"
+            "Gitbook": "59c38d91-969e-4e03-b135-c2a42b61a3c6"
           },
           {
-            "Gitbook": "59c38d91-969e-4e03-b135-c2a42b61a3c6"
+            "Github": "9ac51630-f09f-4f23-8ad8-63def6efcce2"
           },
           {
             "Gnome": "eb67c211-8651-42cc-b512-1ff655f7a537"
@@ -1537,7 +1573,13 @@
             "Google Docs": "27b9ed36-0be3-452d-a583-2c850f101989"
           },
           {
+            "Google Drive": "a23f4407-385f-4e98-88fd-8e3d1530a418"
+          },
+          {
             "Google Play": "87b29a54-0bb9-4c65-92b2-9a82e960228c"
+          },
+          {
+            "Google Plus": "790e02e8-fc81-49b8-a6a5-d063d8dddcab"
           },
           {
             "Gorilla": "9097a030-8dfa-4e53-8ba9-65be7d582e6a"
@@ -1639,6 +1681,9 @@
             "Hume": "1bf9acd0-5f73-4152-b608-977dd1964892"
           },
           {
+            "HustleGPT": "ac6d0ce9-a73e-4d77-9402-c80f35a38fbf"
+          },
+          {
             "Hypothes.is": "dedecb5f-c142-402e-84d4-126b3e6cda9f"
           },
           {
@@ -1649,6 +1694,9 @@
           },
           {
             "IPFS Desktop": "ed217f94-8cfa-4c56-9dc8-8e2169d59398"
+          },
+          {
+            "IPFS Peer Identity": "f1be0323-ea8b-476d-ae4b-ede73ae2adf4"
           },
           {
             "IPFS": "e1636216-dee3-430e-949c-3b2c24c36701"
@@ -1675,16 +1723,28 @@
             "Invoice Ninja": "d5fca6b8-c3bf-41f0-b7d3-d29143b11c56"
           },
           {
+            "Iroh.computer": "90204062-fccb-43eb-b585-2674d9203d7a"
+          },
+          {
             "JDK": "23146ebd-212c-4add-8191-d09db7298182"
+          },
+          {
+            "JSON in Polars": "9f9210d3-a902-4505-a9aa-677f17a80939"
           },
           {
             "JSON-DAG": "f1e793b7-c2c7-4855-9280-544e4f2bed4a"
           },
           {
+            "JSONSchema": "ae47732c-10e8-4d3b-b365-9c3902febdfa"
+          },
+          {
             "JSX": "e490447b-df91-493a-a2c0-3ac87586d9b9"
           },
           {
-            "Javascript": "e4f5fb54-c63f-4567-851b-e61a4a58037d"
+            "JWT": "614bd6f4-4326-491b-89e9-400a93810de9"
+          },
+          {
+            "JavaScript": "e4f5fb54-c63f-4567-851b-e61a4a58037d"
           },
           {
             "Jekyll": "bbdd5162-2ad6-45b8-b228-ba5d6f250f58"
@@ -1768,16 +1828,25 @@
             "LetterboxD": "b112a0f2-a5c4-49e8-a59e-b75179d3fca6"
           },
           {
+            "LevelDB": "d2b82b35-1969-4924-938c-f80733b7099b"
+          },
+          {
             "Link Aggregators": "eab4d9c9-d988-4d1e-8b31-ddef8133b10f"
           },
           {
             "Linkedin": "e256abb9-76ce-4856-9697-97ecd9993170"
           },
           {
+            "Linktree": "4a61f251-7cb8-45f7-bc3d-f8ee13d133fc"
+          },
+          {
             "LinuxFest Northwest 2018 Perkeep": "a20b5a3e-f5ed-4f10-8b70-c96b9f052020"
           },
           {
             "Lisp": "35ba03ec-2762-4d0d-b397-948ae32d6ede"
+          },
+          {
+            "LlamaIndex": "aa928bfc-8bca-4c01-a1d1-1dc47ebae83d"
           },
           {
             "LoLLMS Web UI": "edace957-36da-4bd7-b7bd-170c152688d1"
@@ -1852,6 +1921,9 @@
             "Matterbridge": "1a1a3029-430e-40dc-bfb3-bae8e825cd9c"
           },
           {
+            "Mattermost": "f3a6ba74-0607-47a0-9394-a3cb82b65981"
+          },
+          {
             "Mediawiki": "dbc5424b-471d-4841-8bcd-136c70ad9ff2"
           },
           {
@@ -1859,6 +1931,9 @@
           },
           {
             "Memgraph": "01d240b4-d5cf-4717-a10e-3dede64d5ced"
+          },
+          {
+            "MetaGPT": "d68b265b-aff7-4804-a4b3-6fed329b5fd8"
           },
           {
             "MetaMask": "037fca47-315e-46e3-a9f0-fc5dbc3ca4ef"
@@ -1900,7 +1975,16 @@
             "NATS": "6ecbaee4-8c95-44e7-a242-9a084d89074e"
           },
           {
+            "NIP-07": "8d015c0e-3b3b-4346-b04b-ae60b1d31769"
+          },
+          {
             "NIX OS": "827f3235-a73a-426e-941e-59f25625f426"
+          },
+          {
+            "NRC-20": "5056b28a-f1ad-4a50-95e3-6643c5db6dda"
+          },
+          {
+            "Near NEAR": "afa36bfc-1f70-4960-939e-ffb618bad95d"
           },
           {
             "Nebula": "c289ac73-367b-44ca-9327-3178fd5fede5"
@@ -1925,6 +2009,9 @@
           },
           {
             "Node Exporter": "406c7719-eb7a-401d-8523-577db3708562"
+          },
+          {
+            "Noonet": "bcaac6fd-9ce7-48cf-9972-d48fb645fa32"
           },
           {
             "Noosphere Software": "4379ad45-7dd3-42ae-aa3a-8521a3101f9a"
@@ -1954,10 +2041,19 @@
             "O365": "b45f3ebd-b805-4483-b29b-e4d882888116"
           },
           {
+            "OBS Virtual Camera": "f7b0cb6d-30d3-487b-9036-f08d3b307632"
+          },
+          {
             "OBS": "a0a9bb26-180a-4800-84fd-bd72fe04f7f6"
           },
           {
             "OK Cupid": "85eda353-9816-4f81-8959-65382bf93698"
+          },
+          {
+            "OLLAMA": "0a74265c-1db8-4150-93d8-735a4cfc8619"
+          },
+          {
+            "Object Storage": "df517f00-8730-4892-ac94-e45d1f29e6dd"
           },
           {
             "Obsidian Plugin - obsidian-timestamper": "5e6d6346-927b-4e06-bb74-a90b0bff4d9d"
@@ -1999,6 +2095,9 @@
             "Odysee": "85398c36-8236-46c3-b394-645d98486142"
           },
           {
+            "Office 365": "2fd9d3ea-eff5-4518-aa25-12433c56343c"
+          },
+          {
             "Okular PDF": "78d09f5d-ae01-4c06-9b35-e7db91c2abf7"
           },
           {
@@ -2008,10 +2107,19 @@
             "Open Library": "4ead51de-4419-4950-8466-92ee3780437d"
           },
           {
+            "Open Phone": "844dd08e-4812-4cf5-9e2d-02f1f0aa0686"
+          },
+          {
+            "Open Project": "3bd73010-d088-4093-9927-548f39d1c882"
+          },
+          {
             "Open Whisper": "c617873e-4469-45e8-90fc-3fc280207ae5"
           },
           {
             "OpenAPI": "cd588826-d68a-41f7-b6f0-d4be31deadb9"
+          },
+          {
+            "OpenID": "098e5355-d303-48af-9972-9b10f2903fb3"
           },
           {
             "OpenIO": "880ea735-9151-4847-b4c7-1d9b047fa853"
@@ -2026,7 +2134,7 @@
             "OpenTelemetry": "7143797c-3f69-4f82-8165-8056f17a7bac"
           },
           {
-            "OpenVPN": "b73a5e7e-9373-472b-993f-72c992f84327"
+            "OpenVPN": "ef53b631-4f1c-4f89-8a40-673142076c5b"
           },
           {
             "OpenWRT": "aaa6f541-e5eb-4f8c-997b-2d185fcccf06"
@@ -2051,6 +2159,9 @@
           },
           {
             "PGP": "5df9b58c-313a-42ac-a127-c48bcb1d8bcb"
+          },
+          {
+            "PRQL": "cce82b1d-c9ad-44f0-a748-c17c0ab69b3d"
           },
           {
             "Packet Tracer": "63db2418-6be9-4d07-8667-d70d0fa730e5"
@@ -2098,10 +2209,16 @@
             "Pidgin": "58b8d719-f9a1-4856-bce8-dc672df11fa2"
           },
           {
+            "Pihole": "4944e684-ff75-45a5-841f-bddd2c8ea34d"
+          },
+          {
             "Pinboard": "b83d7b7a-e9ad-4a5e-b9f8-63884a119e6b"
           },
           {
             "Pinstr": "679205ab-d3e5-4085-8a12-4a6aaf2b4a04"
+          },
+          {
+            "Pinterest": "729548a0-941f-492f-b5ec-2abbd8cab89a"
           },
           {
             "Piwigo": "5d58a0e6-375d-4717-a3f6-a0ac7daf4e15"
@@ -2117,6 +2234,9 @@
           },
           {
             "Pleroma": "36bc54ab-c3af-49dc-bdaf-77a8f76b3685"
+          },
+          {
+            "Plex": "57bd0109-8d3e-4864-a62b-0dc694273e0e"
           },
           {
             "Plume": "3072cd98-8861-459e-aa9c-579333d2364c"
@@ -2194,6 +2314,9 @@
             "Quivr": "5f6823db-9bc8-422a-be89-b7bbe75bdb79"
           },
           {
+            "Quora": "d30cf424-13dd-4f0a-8820-019b17e325ae"
+          },
+          {
             "RClone": "253c9f0b-fdaf-41e4-ae0b-584e2bc15cee"
           },
           {
@@ -2206,7 +2329,7 @@
             "Rabby": "2ca74e2e-066a-42ef-b7f5-b95c3b23475b"
           },
           {
-            "Raindrop.io": "053d3ec8-825f-40bd-b187-926273159b09"
+            "Raindrop.io": "10a39cee-adc7-43fc-bd29-28256e1a6144"
           },
           {
             "Rancher": "ab6d69d4-008f-4263-869e-3e2c27181fda"
@@ -2260,10 +2383,16 @@
             "SOPS": "b0184386-24ec-4ca7-a059-61eabe00bd69"
           },
           {
+            "SPEC-93": "af6ada8d-f0fa-4249-a4fd-f53ceed3256a"
+          },
+          {
             "SQL": "9bf437f1-b997-4df7-9cb5-d1dcb65fb892"
           },
           {
             "SQLAlchemy": "3d3db79a-ae22-4620-8516-5cec289c31c3"
+          },
+          {
+            "SWARM protocol": "58bc9aff-7fa8-484a-80d0-af74ab146b76"
           },
           {
             "Saddle": "8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d"
@@ -2284,6 +2413,9 @@
             "Scrintal": "b6d7c4d7-0454-4be2-a49e-ad22c2c1da38"
           },
           {
+            "Scuttlebutt": "ae7b2122-d7fe-4071-ae08-991233ab2524"
+          },
+          {
             "Searx": "83df7227-4614-446f-9e70-f77c4030ddad"
           },
           {
@@ -2291,6 +2423,9 @@
           },
           {
             "Selenium": "56e3cca8-c586-4d84-8e61-4ceb272580d1"
+          },
+          {
+            "Sharedrop": "41f593d5-5536-474f-b3ad-bf43d03746a4"
           },
           {
             "Sharepoint": "5c7cb257-9ea7-4dcf-9c76-62a9f903c6df"
@@ -2303,6 +2438,9 @@
           },
           {
             "Skilltreeplatofrm": "b61bc26e-70e3-456a-ab0a-8b99cff6eacd"
+          },
+          {
+            "Slack": "f509ed53-d79a-4030-8984-9a02088a04ef"
           },
           {
             "Sniped App": "c9b72788-7ef6-462b-b8ef-fcf28badcc38"
@@ -2467,6 +2605,9 @@
             "Traefik": "3ef4b413-5629-48d7-802c-fb13ee5f5b24"
           },
           {
+            "Trailmarks.co": "de1c899c-acc3-4b4f-a879-7e8142af5b21"
+          },
+          {
             "Trilium Notes": "ac895e08-776c-4f91-86a6-5108e7634d3d"
           },
           {
@@ -2548,6 +2689,9 @@
             "Web Highlights": "1cc8d41c-4f37-4054-8176-8d4440ee643e"
           },
           {
+            "WebFinger": "6128bd66-61c4-4855-89a6-84885e91c505"
+          },
+          {
             "What agents are supported by Telegraf?": "1c84db6e-b0f4-4de0-b7c7-686965662cec"
           },
           {
@@ -2584,6 +2728,9 @@
             "WinDirStat": "f56d9b82-f0b2-471c-ad70-4bbf5889dd2a"
           },
           {
+            "Windows 10 Amerilated Edition": "4d4647e9-4734-46e9-89e6-8044c0cf0f53"
+          },
+          {
             "Windows 10": "4645362f-8f5b-4b47-b1bc-caa97ad4e3bc"
           },
           {
@@ -2605,6 +2752,9 @@
             "Write Freely": "52cc940b-cfb1-4ee8-8707-61ab6d304ce8"
           },
           {
+            "XKeyscore": "72758d0b-a14b-4afe-a512-5484219cd49d"
+          },
+          {
             "XMPP": "a6395eb5-9ac1-4f0d-9cd8-d0ff093c91a3"
           },
           {
@@ -2612,6 +2762,9 @@
           },
           {
             "Yacy": "9d1ac409-eef4-4b7d-b04d-8929a382e2a7"
+          },
+          {
+            "Yandex": "dfb5c5db-3783-4e29-b8e7-f07029435929"
           },
           {
             "ZIMply": "1089bf75-07db-4d63-9cae-c3c322542834"
@@ -2627,6 +2780,12 @@
           },
           {
             "Zotero": "226c25ff-7753-4e2b-a5db-09b732f0bd50"
+          },
+          {
+            "Zulip": "0a129b23-c38a-4bd3-8802-f5c1b7ca1b09"
+          },
+          {
+            "ajv": "368549f6-ade2-4205-b763-8915c962e113"
           },
           {
             "apt": "46bf620d-4d5f-45ba-b5b4-c3142845fb68"
@@ -2663,6 +2822,9 @@
           },
           {
             "ceph": "a85c2a12-44ee-4015-b459-28e56b3e5c45"
+          },
+          {
+            "check-jsonschema": "4ed22770-406f-4a2f-8c49-7c1433095f8f"
           },
           {
             "codium": "edb5213d-c56f-451e-812f-fed0c9f4376b"
@@ -2704,6 +2866,9 @@
             "db browser for sqlite": "ea2c387b-0305-4b78-a376-b081b9f75e70"
           },
           {
+            "ddaemon core": "c8cf6166-c81b-45f9-9df0-2e165c3a2089"
+          },
+          {
             "ddclient": "ef2ee0c3-ed2e-4065-ac16-666f22d9f32a"
           },
           {
@@ -2740,6 +2905,9 @@
             "epal": "08b83aac-cc39-4fcb-b9f8-1f18893aa46c"
           },
           {
+            "eralchemy2": "1ad7685f-69bf-4412-a9fa-628315242c08"
+          },
+          {
             "espial": "ea411ad3-3dc5-43d1-898e-175ae4fe3288"
           },
           {
@@ -2750,6 +2918,9 @@
           },
           {
             "ethersjs": "d833138c-b1fc-488b-81a1-195e6298178e"
+          },
+          {
+            "fakerjs": "ad41f4fc-fed4-41de-9963-7b0f6db567ff"
           },
           {
             "farmOS": "b2682c56-db6e-4464-ab19-5bed20a8d416"
@@ -2809,7 +2980,7 @@
             "git-remote-gcrypt": "7f22c466-275b-4dcd-a65c-47c6602335fe"
           },
           {
-            "gitea": "5128289e-f3fa-409a-88df-6e40863e8bcb"
+            "gitea": "c889fb5d-7389-4c3f-a476-2dba4ec57030"
           },
           {
             "github pages": "3aaca4d4-de77-4fe5-be80-b04ee76c23b9"
@@ -2831,6 +3002,9 @@
           },
           {
             "gphotos-sync": "775550c5-64cb-4cb3-a342-d5cd9ed5c145"
+          },
+          {
+            "graphviz": "dd1ac33f-5ee0-4b14-ae9c-c7b987687b63"
           },
           {
             "grep": "ea41d9f8-0ac2-4415-9351-e7ace878508a"
@@ -2866,10 +3040,16 @@
             "ipfs-social-proof": "96fd16b6-f52e-4a5a-9c58-bdb471205715"
           },
           {
+            "ipns-link": "c3f033cf-c2d6-416a-ae8c-3f061d597e05"
+          },
+          {
             "iptables": "d96e4299-927f-4fd5-ac86-07473ad7b8ad"
           },
           {
             "irchiver": "4bf832ee-c913-41d1-86c5-cf82550d16e4"
+          },
+          {
+            "journalctl": "45e80be0-f479-49ef-992b-493aecce88ab"
           },
           {
             "jpegoptim": "ccb2e810-649a-41ea-9a3c-a8b89b151b6e"
@@ -2879,6 +3059,9 @@
           },
           {
             "js-dag-json": "e49d6b61-507e-46de-9f61-74d5c670f01b"
+          },
+          {
+            "js-ipns": "e1366737-ea33-4da7-bbb5-1911c74bf9d6"
           },
           {
             "js-multiformats": "afe316e6-63a9-4007-b1b3-1f7b7ad6660a"
@@ -2893,7 +3076,7 @@
             "jsonschema - rust": "1b649a7a-071c-4b14-9282-c0c8994b61a7"
           },
           {
-            "jsonschema": "ae47732c-10e8-4d3b-b365-9c3902febdfa"
+            "jsonschema npm package": "94f8f5d2-7ff3-47a6-ba83-df44ee8374e7"
           },
           {
             "jupyter": "14b19809-58b0-44c8-a719-c50badebb08c"
@@ -2992,6 +3175,9 @@
             "memex.garden": "c6cc57b2-ed86-4f69-b656-c534988f6673"
           },
           {
+            "mentimeter": "b7abcd91-48bb-446a-ac60-2461d68f7bda"
+          },
+          {
             "mergestat": "43e5059a-e7e2-4961-a684-657640084cd3"
           },
           {
@@ -3055,13 +3241,16 @@
             "nodejs": "94377dc4-14fb-44cd-9892-4cf3cff78726"
           },
           {
+            "nostr-rs-relay": "cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750"
+          },
+          {
             "nostr.cooking": "8310fda2-698c-4659-9d84-564eeb5f2662"
           },
           {
             "nostr.kiwi": "68d08579-9988-4648-bbba-3a333b9c063f"
           },
           {
-            "npm": "03a841ee-4ce7-4d6f-ae64-9cfa7776f92b"
+            "npm": "3a178917-c084-4b87-b308-1953859378b0"
           },
           {
             "nsc": "72f898fd-cf08-4fba-9474-96fb46b6f1b4"
@@ -3074,9 +3263,6 @@
           },
           {
             "ollama-webui": "7763a75c-c576-4819-96cd-489f9ee5f0e8"
-          },
-          {
-            "ollama": "0a74265c-1db8-4150-93d8-735a4cfc8619"
           },
           {
             "omnivore": "0f9c35d3-301b-415b-b2e2-86aaa99aca16"
@@ -3110,6 +3296,9 @@
           },
           {
             "pigallary2": "dc309c6e-dbd5-4a7a-9272-5dc1cb377320"
+          },
+          {
+            "ping": "f120e959-8240-4856-b1e4-7dcbe08183b1"
           },
           {
             "pip federation": "65d81d72-2796-4787-8b2e-ab775d546dbc"
@@ -3283,6 +3472,9 @@
             "tar": "d2272d3a-0619-4303-b230-f8c6ae73d436"
           },
           {
+            "tiddlywiki": "0616d5be-c9a1-4854-bfd1-a7e4614d1500"
+          },
+          {
             "timedatectl": "e6cd348f-765f-49ce-8edd-c81d9f93448b"
           },
           {
@@ -3389,6 +3581,9 @@
           },
           {
             "yq": "b686f50a-90fc-4893-b355-05142debfe04"
+          },
+          {
+            "zap.stream": "719c727b-6343-4660-84e2-7d1fa4d77b95"
           },
           {
             "zim-tools": "2ec9419c-e434-460a-b66e-1d62631adb8e"
@@ -3723,6 +3918,9 @@
             "Social Media Platforms": "5e30f762-9b65-479a-9d72-e84a5d9e12da"
           },
           {
+            "Static Site Generators": "d6998d71-a15a-49cf-adf3-302e02a783e3"
+          },
+          {
             "Sysadmin": "17052d9a-3a4d-4f2d-a415-14d066897c8e"
           },
           {
@@ -3928,6 +4126,9 @@
         "Encrypted Git Backup": "80fd8a43-b643-4eb9-9b8c-b9bc6d4a2d03"
       },
       {
+        "Event or Hotel Booking Management Software": "85469fed-d2e6-4cca-8e9d-680e29d353fb"
+      },
+      {
         "Favorite Booking Software": "3289147a-8fb8-405a-b0cb-e3ad6754964b"
       },
       {
@@ -3943,6 +4144,30 @@
         "Favourite Homelab Software": "21b9d9f0-fde9-4189-83b6-72102becce04"
       },
       {
+        "Gantt Chart": "e4cec0b3-d3ef-4474-8c06-aba09e81e3d2"
+      },
+      {
+        "Hyper Media Protocols": "ce656af2-551a-4aae-ae59-03aab2dba83c"
+      },
+      {
+        "Inventory Management Software": "32aa3c5d-e978-4dad-9c30-93e9f70382d4"
+      },
+      {
+        "Issue Tracker": "6fa82807-8208-4439-85b5-81424067c4b3"
+      },
+      {
+        "Kan Board": "21e152ea-802c-4101-9910-90ca9a0b4a23"
+      },
+      {
+        "MacOS Fresh Install": "656dc143-6511-423c-8ce1-c6cda77b8f2f"
+      },
+      {
+        "Media Streaming Platform": "d4c5cf77-f71e-4448-a116-308cac04c414"
+      },
+      {
+        "Merkle Tree Libraries": "d8f32f54-369c-4fb3-9609-603311cc8e24"
+      },
+      {
         "Nostr Client Reviews": "60856d0a-a8eb-49dd-ab2b-dd33d16ea527"
       },
       {
@@ -3956,6 +4181,12 @@
       },
       {
         "Pastebin Software": "8fd99fbd-efd5-4549-b944-a8120c71f3d2"
+      },
+      {
+        "Self Hosted Platforms": "69c72ebe-ae25-4212-acb1-fb0c32f0e070"
+      },
+      {
+        "Social Media Protocols": "37e87601-6401-4560-95ba-13e732de1ce4"
       },
       {
         "Software Languages": "09d86337-622e-4709-9f61-c6d5587704f6"
@@ -4715,6 +4946,9 @@
             "API - Question Engine": "5fd78387-a5c4-4163-a464-861316fe4ba1"
           },
           {
+            "CGFS Meme Model": "88bdf6a2-d788-4352-bb46-373a72542d71"
+          },
+          {
             "Context Feed": "645edce8-3a74-423c-a889-6fec0c1beaa9"
           },
           {
@@ -4728,6 +4962,9 @@
           },
           {
             "Pages Screens - QE": "a27724cd-21c5-4d8d-ae24-97fc746fe09d"
+          },
+          {
+            "QE - Token Specification": "a90fdbdd-c630-4c92-b79a-6dd2d68055b0"
           },
           {
             "Question Engine QE User Journeys": "8e4dcccd-5b90-4ce7-b487-d0d7459f7eef"
@@ -4760,15 +4997,58 @@
       {
         "User Journeys": [
           {
+            "Annotate the Munk Debate User Journey": "8bc62680-edce-427a-bf74-8b5aafa1537e"
+          },
+          {
             "Community (DAO) Interrogation User Journey": "a8ffb459-7da7-45bb-a67c-38b03dc63f92"
           },
           {
             "Community Meme Context Generation User Journey": "7505fb07-cf5f-4c28-957b-2fc4b4453a32"
           },
           {
+            "Have a meaningful conversation via Question Engine": "67df9fae-ef38-4b31-9017-76d3d7d13581"
+          },
+          {
             "Publishing PKMS on Question Engine User Journey": "dc2b4dc8-37f7-4da0-acab-98ce0ee7088e"
+          },
+          {
+            "QE Clients can cache Nostr Events using DAG-JSON": "f239fe02-d763-439c-9b51-8159e4f5308e"
+          },
+          {
+            "Questioning Tulpa's User Journey": "78fa2b89-4310-4e9c-96dd-d8b60c06d8fd"
+          },
+          {
+            "Review Tutorials and Documentation User Journey": "1e6a2c9a-1e82-4865-8736-b2c2129770bf"
+          },
+          {
+            "The Day in the Life of a Daemon User": "6167cfef-4965-4884-92b6-2efee4d6e3c5"
+          },
+          {
+            "Token Gate Discord Analytics Dashboard": "68901c93-d344-408a-b9b7-c729bf66e9ed"
           }
         ]
+      },
+      {
+        "User Stories": [
+          {
+            "Fuck You Start a Blog": "6af1a3ca-27bf-4695-8c57-5b1118ba2e9c"
+          },
+          {
+            "Load Discord Data into CGFS then into a Cypher or SQL database": "e018ce04-bcee-44bb-849a-7646e5b4f9ce"
+          },
+          {
+            "QE Demo for Friends at Get Together": "ec5b995d-f5ce-4183-ae17-11efb114aef8"
+          },
+          {
+            "Query my close friends and family for a good coffee maker they have bought": "49563aed-e972-4cf8-8e80-929ba40e2171"
+          }
+        ]
+      },
+      {
+        "CGFS Personal Persona Data Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
+      },
+      {
+        "CGFS Specification": "8a7e9ee4-c32a-47af-8e79-8c1c85a85f12"
       },
       {
         "DDaemon - Tech Breakdown": "457c6a22-361f-4b4b-9867-809c7c6d0316"
@@ -4795,7 +5075,7 @@
         "Epic User Journeys": "c81f0da9-8d82-4176-8458-cfb3d06924c4"
       },
       {
-        "IPLD User Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
+        "QE Meme Schema": "f940cb98-0af6-42ad-b116-e4094c350d29"
       }
     ]
   },
@@ -5452,7 +5732,7 @@
             "We by Yevgeny Zamyatin": "3a268c07-a5e3-4594-b20c-264e50c48d93"
           },
           {
-            "Westworld": "03515a8a-a40a-48fd-9304-1565acfd1ce2"
+            "WestWorld": "03515a8a-a40a-48fd-9304-1565acfd1ce2"
           },
           {
             "What s Your Raashee": "a87b3f8e-73d2-4d59-9c11-5fccbe422210"
@@ -5722,6 +6002,9 @@
             "80 20 Rule": "4eb7dd15-c29a-4378-875e-c17b424c507a"
           },
           {
+            "A data structure for conversation": "bcb5424f-2899-40ba-abad-fe2dcc812450"
+          },
+          {
             "AAVE": "aa020246-2816-4ce5-ba7e-e6c42b746cd0"
           },
           {
@@ -5747,6 +6030,9 @@
           },
           {
             "Agile Project Management": "faf79891-64a4-414c-9e33-a9d2ce87e914"
+          },
+          {
+            "Agregore": "9f43d530-dab4-4471-9a4c-e4a586b07ee5"
           },
           {
             "Airsoft": "73df030c-cbeb-49e3-937d-2b438821389f"
@@ -5795,6 +6081,15 @@
           },
           {
             "Ascetic Ideal": "34ed3679-99eb-4f8f-a4a1-92441ddfda61"
+          },
+          {
+            "Authenticity": "0b0f22f4-b3f2-4bd0-a8e6-47a46491c041"
+          },
+          {
+            "Author of Temple at the Center of Time": "a449c23d-a5a8-4b86-95e3-4cf938b11b38"
+          },
+          {
+            "AutoGPT Leaderboard": "a2998d01-dee1-4519-9917-d58d01d3c522"
           },
           {
             "Autocracy": "90be24f5-9d7f-4f87-acb6-b14ef0f188df"
@@ -5869,6 +6164,9 @@
             "Blockchain Token Bridge": "fa7d08c2-5e1e-49fa-93c2-05449eb4ac4a"
           },
           {
+            "Blog": "d05c7c3f-cefd-401d-8756-a4391c339063"
+          },
+          {
             "Blooms Taxonomy": "906ffbbd-443b-4298-9a3a-de12e6bc19a8"
           },
           {
@@ -5908,10 +6206,16 @@
             "CBT - Cognitive behavioral therapy": "8a502d04-6d32-4607-8772-6c7a784604be"
           },
           {
+            "CNAME Record": "5191c3c4-6264-4070-b4ca-c8bc1bb81884"
+          },
+          {
             "CRM - Customer Relationship Management": "8bdaa2dd-6098-4dc2-a049-e286f9968e9a"
           },
           {
             "Canada's gender identity rights Bill C-16 An Act to amend the Canadian Human Rights Act and the Criminal Code": "5c32d3c4-7b2b-435e-ab08-b33a20561670"
+          },
+          {
+            "Captcha": "71bfc74a-694b-4631-82a5-5391c3c80cd3"
           },
           {
             "Cardano ADA": "9e1589e4-691e-4050-9b4a-5f8058f70fae"
@@ -5930,6 +6234,12 @@
           },
           {
             "Chaotic Game": "11e7d782-8dab-44f4-afeb-90918a7097d6"
+          },
+          {
+            "Checkers": "f5d038d5-bf62-43c2-99cd-7580e61fea4d"
+          },
+          {
+            "Chess": "f6b49326-7271-4523-87eb-1efab2e66d82"
           },
           {
             "Chinese Room": "e1aed0af-98ef-4514-9a7e-8e6eaaac2f1d"
@@ -5962,6 +6272,9 @@
             "Cognitive Load": "da8f06a8-e9d2-48ce-8c84-5cf98d6a4ae2"
           },
           {
+            "Cognitive Masturbation": "c6b60ec8-5b61-4849-a8b8-fa529043a58d"
+          },
+          {
             "Cognitive computing": "25dfbe49-f75d-4c8c-bc1d-d1f65718daf1"
           },
           {
@@ -5977,7 +6290,13 @@
             "Comedy": "062c6b95-d165-4bdd-9a34-1dc958e77307"
           },
           {
+            "Commodify Context": "8ba4036e-345d-4f66-81ec-007d7a4631b1"
+          },
+          {
             "Commoditize Context": "6c1a104f-51d8-40ac-bb23-c5768cdbfb16"
+          },
+          {
+            "Community Grant Outline": "68481ccd-72ea-4139-b59b-42f39bc90865"
           },
           {
             "Complex vs Complicated": "39796bb2-7b24-4d55-95fb-a05ef1a0cc30"
@@ -5986,13 +6305,25 @@
             "Compound Defi Token": "33d97491-44c1-4686-8a21-0d6eecca1a34"
           },
           {
+            "Consensys": "26e15e9a-ef8f-464b-a161-4aba07cd380b"
+          },
+          {
+            "Consistency": "3b69fa97-06cb-4803-9372-5cd2b99e2fdf"
+          },
+          {
             "Constrained verses Open Vision": "200b7baa-0a75-4abf-a66d-b912ec8e88ee"
+          },
+          {
+            "Constraints Create Value": "72783bde-bc75-4d4d-8ebb-f60be6d62002"
           },
           {
             "Containerization": "2b328daa-25f6-48a6-846c-bc8be17fb3ee"
           },
           {
             "Context Graph File System": "54d596b2-12c5-485f-a2c9-e816e112e349"
+          },
+          {
+            "Control": "5c2668ec-b6b3-4b95-8788-fc92bb0e94dc"
           },
           {
             "Conway s Law": "0607d553-fe1e-4b0d-9329-ce54d7913e4b"
@@ -6022,6 +6353,9 @@
             "Crypto": "983045b6-6cab-489c-8344-2f6c2b76f7ff"
           },
           {
+            "Cryptographic Identity Solutions": "f5eee849-3ed2-4fb6-a006-522bdcb233fe"
+          },
+          {
             "Cryptography": "391ab4bd-43fd-44fc-9813-82da7807e0df"
           },
           {
@@ -6040,7 +6374,13 @@
             "Cypherpunk": "c09df7ee-3de0-4bd2-a51e-b4a2e4919abc"
           },
           {
+            "DAG-CBOR": "fa043837-1b3a-4ef1-b532-26dc6c53eadf"
+          },
+          {
             "DAO Auditing": "420c045b-391f-457c-868f-d5454ab88a3c"
+          },
+          {
+            "DAO Tooling": "2c670bd5-fab3-45bd-b79f-03d24f49512f"
           },
           {
             "DAO": "26725b10-b472-41ee-ba3b-4e9bc851f174"
@@ -6079,7 +6419,13 @@
             "Data Priest": "c3d797fd-63a9-4c16-9426-eb10892b698a"
           },
           {
+            "Data Quality and Governance": "0b51b953-c13c-46e6-9cd3-e0cf45b3946d"
+          },
+          {
             "Data Warehouse": "364036ef-b313-432b-a855-83b637de52e7"
+          },
+          {
+            "Data is precious thing and will last longer than the systems themselves.": "badd5461-cacf-48d5-a8a2-ac1eea6130ed"
           },
           {
             "Database": "a120b519-3cc5-4883-a60b-8d971d7697db"
@@ -6092,6 +6438,9 @@
           },
           {
             "Decision Sieve": "293e4694-14ed-45ab-8fd5-7c84fee0a2b6"
+          },
+          {
+            "Decisiveness": "f0903336-f4bd-4064-9862-9ddc0840bd9b"
           },
           {
             "Deep Work": "fcfb7a16-5a8a-41e1-9f11-1bc5d2f5ff00"
@@ -6154,6 +6503,9 @@
             "Digital Immortality": "a47c8a35-8cb1-4e0f-b0dc-a6e02eefe5a7"
           },
           {
+            "DigitalCPR": "169091c0-f7aa-4fe6-90e2-5914603d1761"
+          },
+          {
             "Dimension Tables": "453185ef-6fb9-4d11-bdeb-681ac5c4a259"
           },
           {
@@ -6175,6 +6527,9 @@
             "Double Spend Problem": "5359177b-3774-4312-b8c3-3d2e99876d09"
           },
           {
+            "Dream State": "6e61cc07-483f-4bee-ae47-39233535725f"
+          },
+          {
             "Dualisim": "b9f3d0a1-4752-432b-a8e2-d44084fa6487"
           },
           {
@@ -6193,6 +6548,9 @@
             "EVM": "034ecb2f-4d2b-448a-aa58-04082769c63b"
           },
           {
+            "Ed25519": "f4a2bcb6-51c5-42ba-9f95-b08a0e5a4730"
+          },
+          {
             "Effective Accelerationism": "ef09f823-0d0d-4d76-a1bd-5d80e597c9cd"
           },
           {
@@ -6209,6 +6567,9 @@
           },
           {
             "Emotional Intelligence": "40a2f6e3-ef05-4045-9659-757a150dbf7b"
+          },
+          {
+            "Encapsulate the human experience": "35b49943-7105-4331-b4bf-0ac2f23583af"
           },
           {
             "Encrypted Linux Partition": "32a35eff-5ce5-4473-9f5f-04083c5dc5da"
@@ -6244,6 +6605,12 @@
             "Eventual Consistency": "57a74be4-4fda-4b0e-8729-587a870bcb07"
           },
           {
+            "Evolutionary Analysis": "125102ff-b44c-452d-a6b6-13814b0607ac"
+          },
+          {
+            "Example Grant Applictions": "cf7fd56b-2613-490a-a7e3-80f1ef473727"
+          },
+          {
             "Example Problems": "9441bb6b-fe69-470d-bd95-f0f0d6dc7e4c"
           },
           {
@@ -6251,6 +6618,9 @@
           },
           {
             "Examples of Knowledge Management": "8d91554a-4bd1-4a29-a287-4979fa7d9da4"
+          },
+          {
+            "Executive Dysfunction": "3c4d568a-fb57-4676-8b38-3b4e311ba781"
           },
           {
             "Extended Mind Thesis": "7d2aa71b-8979-4452-a1b3-bfd02a27848c"
@@ -6280,6 +6650,9 @@
             "Fear of God": "c6d670e9-a57c-4a40-bec4-59591b859306"
           },
           {
+            "Fidelity": "e5d40c42-39d7-4581-a446-a43c13087a28"
+          },
+          {
             "Field Marshal": "779804b7-a1ff-4ed2-99be-fbcdf82a0124"
           },
           {
@@ -6301,6 +6674,9 @@
             "Flynn Effect": "fc27a3c1-688e-4f91-bf6e-dca32a322463"
           },
           {
+            "Founder Effect": "d364661e-060c-47ba-9e41-f48c8fab3dfa"
+          },
+          {
             "Free Energy Principal": "77d20571-affa-4190-9ac9-07c1c45c48b1"
           },
           {
@@ -6308,6 +6684,9 @@
           },
           {
             "Functional Programming": "2b0bbe87-d9dc-4f14-82bd-a2b428fc5866"
+          },
+          {
+            "Fuzzy String Matching": "cd1f4a9e-f691-42d5-94bc-9445baaa4a6f"
           },
           {
             "Gaia": "acae29ae-731b-4949-b22f-60b9b55171d1"
@@ -6319,7 +6698,16 @@
             "Gamer Girl Manifesto": "32743aff-2183-417b-931a-d1319267e66b"
           },
           {
+            "Gantt Chart": "43dc82ba-08fd-4dc9-9762-e7003eb14c84"
+          },
+          {
+            "Gargoyles": "b743b4b0-4a54-4ee0-8bc2-ad5a7d52f24e"
+          },
+          {
             "Gell-Mann Amnesia": "9f7b5274-98ef-48af-9f8b-24816ab699f5"
+          },
+          {
+            "Genuine": "794de3fe-7ec7-4a92-9d76-271b7c01b8fd"
           },
           {
             "Giggachad YES": "3df07fd6-ac8d-4123-a912-09e243bfe364"
@@ -6346,6 +6734,9 @@
             "Google Colab": "a08c6865-0c6e-4709-8698-c07e465464c7"
           },
           {
+            "Google Plus Circles": "2d73d2c2-cfb8-4fdf-9660-b642f6668645"
+          },
+          {
             "Google": "2ee4e1cf-6028-4a69-bfae-e1defce11b7f"
           },
           {
@@ -6364,6 +6755,12 @@
             "HTTP Basic Auth": "627cbfea-af5a-4dbf-b92a-b760c2d98d37"
           },
           {
+            "Hard Work": "b6dcbd10-9259-4271-96be-30c71ca2d218"
+          },
+          {
+            "Health Care Records": "35b24754-563e-46da-bb0f-fb0cd9ba3d92"
+          },
+          {
             "Hedonic Treadmill": "f049101e-d018-4ad2-9fbe-f1fe0bc51f12"
           },
           {
@@ -6371,6 +6768,9 @@
           },
           {
             "Hero's Journey": "9d46661c-c6a7-4df3-9945-d17f14a37979"
+          },
+          {
+            "Heroes Journey": "e316a391-020a-49d1-99b4-49b6281bfea2"
           },
           {
             "Heterophenomenology": "3213d6c4-e618-4a42-847d-060edfcf6959"
@@ -6385,10 +6785,16 @@
             "Homelab": "596226d9-9379-401a-a131-20902c02f99d"
           },
           {
+            "Homelessness": "30b6e35b-89db-4144-bc6b-17217ac3897d"
+          },
+          {
             "Homo Sapians": "73b4f635-d2cd-4482-a13f-ec65bb12f255"
           },
           {
             "How to add a Bot to a Discord Server": "6ef0a049-c66a-4481-b3cf-f58461d836c1"
+          },
+          {
+            "Huggingface": "e9b2b8c1-2751-4e37-a2a8-49e972d60552"
           },
           {
             "Human Condition": "f9839ecb-58ec-472f-bebb-b8d8cc0008dd"
@@ -6412,6 +6818,12 @@
             "Hyper Reading": "86c3e240-9464-461d-90ee-4f7b209367cd"
           },
           {
+            "Hypermedia Projects": "17c98fae-689f-45d3-a2ee-6b1d29525f99"
+          },
+          {
+            "Hyperstition": "1b3b1210-b3ac-4976-a299-6419a5ea9372"
+          },
+          {
             "Hypervisor": "d8de751b-0b11-4076-b9e5-a020a31038a3"
           },
           {
@@ -6422,6 +6834,12 @@
           },
           {
             "I Am What I Think You Think I Am": "fec3962a-b57c-44c8-a5ac-5d7511b4e5e2"
+          },
+          {
+            "I am thou... Thou art I...": "fcdb6d4e-792d-4dcd-8a9f-9d8b13ed4633"
+          },
+          {
+            "ICO Yourself": "a3fa8523-515a-475f-8aaa-a76d10bd16cb"
           },
           {
             "IDEO - Create Insight Statements": "8a4c56c5-286f-42ca-ac62-94c93a884caa"
@@ -6499,13 +6917,16 @@
             "Infrastructure as Code - IAC": "18a9ad29-6aa9-40a6-be0a-ab3883d5d7df"
           },
           {
+            "Inspiration an Anti Virtue": "5ee838f6-068e-4f19-9b60-77a94bde97d4"
+          },
+          {
             "Installing Pip": "36f157a0-97c3-4aaa-b412-cd82eb555653"
           },
           {
             "Intel SGX": "fc368796-e391-45fd-a982-7608f6c74bb6"
           },
           {
-            "Intelligence": "5fcb81ab-5ba2-4a24-9826-e891be8e0132"
+            "Intelligence 1": "5fcb81ab-5ba2-4a24-9826-e891be8e0132"
           },
           {
             "Interference theory": "0679bd5d-395d-43da-9973-60a1c6604234"
@@ -6514,7 +6935,13 @@
             "Internet Archive": "33d7fe86-a712-4430-be91-9b7ff1738e65"
           },
           {
+            "Internet of Things": "48fe8904-225b-4aea-9663-804ce3520455"
+          },
+          {
             "JSON Web Token": "f7619f8b-09c3-42ed-afed-a5dd2acac315"
+          },
+          {
+            "Kanban Board": "a3ccfd4c-afc4-434f-b845-6c3f7c482106"
           },
           {
             "Kickstarter": "b38e4fa0-1a9e-4bad-9f7e-c4d307dc0bff"
@@ -6538,7 +6965,13 @@
             "LLM Frontends": "ab0590ad-5869-4cfd-a080-85a22db30c81"
           },
           {
+            "LLM SQL Schema": "bbe5a0dd-bf4a-47e0-8a69-2c03bb31387c"
+          },
+          {
             "LLM Token Tests": "ceefeffb-870e-439d-a4f1-7cd77a1b932b"
+          },
+          {
+            "Leadership": "cdafff32-3bcf-4e56-acfd-db51f0412355"
           },
           {
             "Lean Canvas": "0aa6a47f-90da-4483-b7ed-3db45a099686"
@@ -6556,16 +6989,28 @@
             "Life Coach": "d0c9710d-8a10-418c-8616-d1323eb66ab7"
           },
           {
+            "Life Rulebook": "c47fdeac-f0b6-48f4-92fc-50caea743491"
+          },
+          {
             "Linux Kernel Mailing List": "beb5f5f3-3f42-41ef-aa14-09b8bb81a5d4"
           },
           {
             "Lions Tigers and Bears": "a732396b-42e4-469d-9734-cec11a9c5949"
           },
           {
+            "Liquidity": "49b5f8b4-83d3-41cb-8d81-632f8d84fc1b"
+          },
+          {
             "List of DAO Platforms": "d41ecdc9-4b6e-4ee7-a402-e8f8592cd696"
           },
           {
             "Listicles": "2597cf0d-55d0-43e1-bb2b-7e0bf78ad141"
+          },
+          {
+            "Love": "c2eeead1-8399-46ca-bc71-a05a483bc154"
+          },
+          {
+            "Loyalty": "fc8ab473-488a-4ecd-8238-060e11381beb"
           },
           {
             "MEME Dag": "f6fac773-efe2-4a89-abd0-d65ecc028871"
@@ -6607,6 +7052,9 @@
             "Marriam-Webster": "6b55ab1d-0279-4e65-bfd9-27a1ad9dabfe"
           },
           {
+            "Masculine vs Feminine Archetypes": "7e9d3b56-69a0-44fb-a255-a4c336428999"
+          },
+          {
             "Mastodon Accounts": "b4b234e2-5261-4815-954b-892f6350d66b"
           },
           {
@@ -6637,10 +7085,22 @@
             "Meisner technique": "37bf3abd-b019-4ee3-aaee-2dbbbca4597b"
           },
           {
+            "Melange": "5e6d3c48-e2c1-46fe-b8e2-3862b512f0e9"
+          },
+          {
             "Meme Vectors": "26a548de-5839-42ba-be53-f047c273d046"
           },
           {
             "Memex": "b43623d8-d7ea-4c27-ae16-89fdfc58c638"
+          },
+          {
+            "Mentat": "2ef7da65-1b17-41e4-868a-24ded10b170c"
+          },
+          {
+            "Merkle Tree": "7c574108-7671-4457-8f02-170d273cdbb6"
+          },
+          {
+            "Message and Annotation Features": "6552b8a8-8811-4f7d-b9ea-79973bb7babd"
           },
           {
             "Metaverse": "7403b88e-ec0a-4307-a766-d37c364aa2f1"
@@ -6653,6 +7113,9 @@
           },
           {
             "Microsoft MVP": "6b3bddf5-aeaa-4adf-955d-9826d6b3e062"
+          },
+          {
+            "Microsoft": "62adea81-07b4-4cb8-9782-8d7314d6f1af"
           },
           {
             "Midwit": "f5b79406-16d4-4779-82d7-0dcac95d5ccb"
@@ -6682,7 +7145,13 @@
             "Mission vs Vision Statements": "7c585bdb-a859-45c2-809f-8b19eb719521"
           },
           {
+            "Mixtral 8x7B": "ba321663-1620-4def-bc3a-efee44cd0d3e"
+          },
+          {
             "Money": "5abf56a4-c2be-4aa9-8438-c3f785539ca1"
+          },
+          {
+            "Monopoly": "3675053a-e62c-4cc3-825d-c9a19db93c2e"
           },
           {
             "Monorepos": "75c3d76c-7cca-4ce2-becd-6e87855b0f2d"
@@ -6703,7 +7172,13 @@
             "Morphogenetic field": "311a2b60-2e25-46ff-8d4f-dbd43551f3b1"
           },
           {
+            "Motivation Autonomy, Mastery, and Purpose": "b0d4699c-d129-4eb3-884c-09c82d02eccc"
+          },
+          {
             "Muse Headband": "d20e1fb4-ae2c-4d07-a40d-f30810447a3d"
+          },
+          {
+            "Mutable File System": "2ec3ff8d-d30f-4ccb-9d11-2713a25c277b"
           },
           {
             "Myers Briggs Test": "87f5e219-4345-4014-9154-923cfdc1355b"
@@ -6811,6 +7286,9 @@
             "Organelle": "c8bf6452-f399-4b22-bb2c-a163a0be3db6"
           },
           {
+            "Ousters": "af487b67-6de6-4b3d-8c57-736f23234426"
+          },
+          {
             "Overton Window": "7ec7e9c4-f1de-43cd-8ae2-15124c80a787"
           },
           {
@@ -6853,7 +7331,13 @@
             "People are Blockchains": "d4eecf2d-b918-4726-a647-6c15cdf3e8a3"
           },
           {
+            "People don't know what they want until you show it to them.": "4b344d20-ea74-49c1-b93d-50002abb00f6"
+          },
+          {
             "People, Places, and Things": "73c7627a-0f37-48d8-812b-bec2fe39ecdf"
+          },
+          {
+            "Perfectionist": "71e11b08-50a0-4c23-9f50-8a939b355334"
           },
           {
             "Persona": "bfcd7f97-8a77-4bc7-beef-829bb2a512cc"
@@ -6883,10 +7367,16 @@
             "Platform Profile": "6099a912-7ef3-43c8-bd8c-7781aec357fd"
           },
           {
+            "Plato's Cave": "f6ba6f77-bcce-4d1c-8094-ca97c37608a9"
+          },
+          {
             "Plato's forms": "30ad88dd-75b7-40e0-922e-48ef923ae691"
           },
           {
             "Play to Earn": "a7f513df-63a1-48d3-9da4-d79c7ebd0cd2"
+          },
+          {
+            "Please describe your proposed solution": "b2bc341b-c1e5-45dc-98da-c8be8c66fe0b"
           },
           {
             "Political Science": "00f61098-d176-4725-9f93-1f6c18c33f36"
@@ -6910,10 +7400,19 @@
             "Privateer": "94e2bf44-c23e-463e-b1a2-b368a14070b8"
           },
           {
+            "Problem Statement": "3081860f-c48c-4016-bb88-07e32ce957b3"
+          },
+          {
             "Produce Conversational Value": "d1ca561a-133d-4788-8315-94a65ce74e32"
           },
           {
             "Product description": "4d459746-fc39-4d72-8474-983e3b9d654f"
+          },
+          {
+            "Project Catalyst Grant Outline": "6be63567-f82a-4cd3-86be-ff43bc0453ec"
+          },
+          {
+            "Project Catalyst": "65df63dd-90a1-466e-ad0f-30570c1b1499"
           },
           {
             "Project Management vs Design Management": "74bf6161-4a39-46fd-aa10-a8625697e665"
@@ -6928,7 +7427,13 @@
             "Project Proposal": "cc1a3330-f1a0-416f-9338-4bc875a0b9eb"
           },
           {
+            "Proof of Meme": "54aec5a1-5f9d-4998-9d19-cab96d81119c"
+          },
+          {
             "Prople have ideas and ideas have people": "76261f75-3052-4d74-b15e-2468789911b6"
+          },
+          {
+            "Proposal Title": "74808b2e-2f7e-47ae-ac2e-35b501021a7d"
           },
           {
             "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
@@ -6958,6 +7463,9 @@
             "Quest": "fbf58632-0593-4291-8dca-a0b2e6841750"
           },
           {
+            "Question Engine is like twitter, reddit, and github had a federated encrypted baby with more gate keeping": "2423216e-93b9-497c-a5b1-6c318453cdc3"
+          },
+          {
             "Question Engine": "7d2a0ebd-d4d1-4d2f-83ea-d256dc589625"
           },
           {
@@ -6973,6 +7481,9 @@
             "README": "d8c7020b-fa33-4a44-b3b2-b9daab505ff6"
           },
           {
+            "Ractor": "21f6031d-e0a8-43a2-8af7-bf02889f025d"
+          },
+          {
             "Raid 5": "22a514a9-2379-4f50-a388-401e8286ad13"
           },
           {
@@ -6983,6 +7494,9 @@
           },
           {
             "Red Team": "f14a4d51-7ccb-41fd-bbf0-1a2e6ba9a7ab"
+          },
+          {
+            "Regime of Attention": "c114de69-8e48-4688-8e93-d3c8a50028cf"
           },
           {
             "Relational Database": "f7ad145d-acaf-417c-a73c-34f110e88c1d"
@@ -6997,16 +7511,28 @@
             "Replicate.com": "3e059b70-740a-4c81-8fd9-559910c8038c"
           },
           {
+            "Requested funds in USD": "a8beb074-5973-4344-a764-2ec57f54ade3"
+          },
+          {
             "Respect": "6ba6607e-8e72-4801-922d-9f02e5920dc7"
           },
           {
             "Reverse Engineering the Human Soul": "dc1588aa-289a-4bd2-89d1-faf06ba1c28f"
           },
           {
+            "Risk": "314ce565-3cda-42a0-8752-1323b1fe08c9"
+          },
+          {
             "Roku s Basalask": "c3c24b28-951c-4569-b09e-fe4531853674"
           },
           {
+            "Roller Coaster Tycoon": "237ef0f2-1188-4eb0-823d-8c415a192950"
+          },
+          {
             "Rubber Hand Illusion": "95eaa7b6-77b1-424c-9f30-5824ad1d040e"
+          },
+          {
+            "Russell's Paradox": "68c27f8c-8bd0-4186-990d-0a238e84a264"
           },
           {
             "Rust": "e682f7ff-917c-4ccd-93c5-ce370ce164ec"
@@ -7060,6 +7586,9 @@
             "Sense Making Apparatus": "5fbf7baa-a842-4ca1-ab0a-36ae66b7a808"
           },
           {
+            "Settlers of Catan": "f0974830-b8af-40c9-88a5-883b610cefb3"
+          },
+          {
             "Situation Scan": "4fa64133-37cd-4614-8705-06d296965ddb"
           },
           {
@@ -7070,6 +7599,12 @@
           },
           {
             "Smart Contract": "7f9d9842-5d16-4933-b896-e3567d964168"
+          },
+          {
+            "Smokey Mirror": "b7643b91-aa92-4656-93a1-359c443db72c"
+          },
+          {
+            "Snakes and Ladders": "8fc4ab23-04bf-4338-8c53-001fe3a08e67"
           },
           {
             "Sniff test": "5cdf1be1-3c3c-4e76-8c8a-756e0c65262e"
@@ -7093,6 +7628,9 @@
             "Social Landscape": "2191f52c-a547-4ff7-be3c-74ce920d5b1d"
           },
           {
+            "Social Media Message Format": "ea6dd9c4-c148-4631-af5f-63ffe73fceb3"
+          },
+          {
             "Social Media Singularity": "a774c0a5-5e5e-48f9-8ab5-a91eb358c5f4"
           },
           {
@@ -7111,7 +7649,13 @@
             "Souveillance": "96d3f410-4487-423d-a16f-2c5e9bb5e14e"
           },
           {
+            "Souveils": "26a0d433-66a1-4ed0-b353-41939b48acfa"
+          },
+          {
             "Stable coins": "a8d6dc1a-5a14-498b-8ba0-f97c6f36ec98"
+          },
+          {
+            "Stated vs Revealed Preferences": "fac354c1-4585-401a-b69c-b38ef8b6ad61"
           },
           {
             "Stoicisim": "ddc479cf-bb65-4db1-a95e-8fe41c91208d"
@@ -7120,10 +7664,19 @@
             "Storage Options": "de30fa46-a6e6-4818-b9f8-e0e29bac4b30"
           },
           {
+            "Sublime Object of Ideology": "b49f4bfd-26a2-4e0a-ac36-088313f49e1d"
+          },
+          {
             "Sublime Object": "99563fc9-d67c-411e-9908-85afbb58c40f"
           },
           {
             "Subversiveness": "d7144055-196e-4144-aa0b-ce2430d6378a"
+          },
+          {
+            "Summarize your relevant expertise": "f371d634-4ceb-4ccc-b6b8-6cbb8424c47d"
+          },
+          {
+            "Summarize your solution to the problem": "7ac99258-9b91-4e31-984b-84ea8654e8bc"
           },
           {
             "Summary": "56b29914-7463-46c4-8b1f-28caaf6dc220"
@@ -7157,6 +7710,12 @@
           },
           {
             "The Art of Asking Questions": "9e32f26c-0a34-46e7-8e85-93fff9b366a8"
+          },
+          {
+            "The Behavior of People": "2d22a0d4-3d8f-45e9-adff-52fe32f7ee2b"
+          },
+          {
+            "The Bible": "ba69667b-f58b-4307-acf6-c8f351d22dea"
           },
           {
             "The Daemon": "e767a83e-fa93-4435-8e11-eea2f47cc36c"
@@ -7213,6 +7772,12 @@
             "The Zeitgeist Movement": "4e962984-9d46-443d-85c8-0646f7d74dc8"
           },
           {
+            "The algorithm got me at a time of weakness": "4f2782e6-3496-4a80-aded-4861b3d02759"
+          },
+          {
+            "The events that take place in the biosphere": "75eb3db1-0ae5-40e3-80fb-1c2d587ea5c0"
+          },
+          {
             "The medium is the message": "112002ce-a9e0-4067-90b5-ababb31c2d55"
           },
           {
@@ -7240,6 +7805,9 @@
             "Time Magazine": "7b79ee31-9fb0-4863-a25f-b36ba093bd05"
           },
           {
+            "Token Velocity": "e5b614d7-6367-44c4-a3f2-dce7c74d7e0f"
+          },
+          {
             "Topic Modelling": "97862aeb-dad1-4e01-bfe7-46210ddfc50c"
           },
           {
@@ -7247,6 +7815,9 @@
           },
           {
             "Trigger Action Plans": "be457de2-4c92-4aa4-8d86-a1a8e5292d66"
+          },
+          {
+            "Truth": "06c531b9-d431-4434-a310-6487288f2fcb"
           },
           {
             "Tulpa Manager": "e851f5ad-51f5-4c68-b844-88e27c5d07f6"
@@ -7270,6 +7841,9 @@
             "UTxO": "453e41cb-de0e-40a5-85d3-8df0bcf7036f"
           },
           {
+            "Ubermensch": "d21f4fe7-d970-42f1-9eb2-9198f9e9b766"
+          },
+          {
             "Unabomber": "68b44843-081c-4fde-9c75-f64cd99228c0"
           },
           {
@@ -7283,6 +7857,9 @@
           },
           {
             "Unicode": "80a36e22-b72e-4c08-972e-8ec5ed904e62"
+          },
+          {
+            "University of Waterloo": "78baf637-938e-4368-a0ef-e037790c0f58"
           },
           {
             "User Flow Diagrams": "985139c2-5368-4e47-816e-aab0639d882e"
@@ -7309,6 +7886,9 @@
             "Virtue": "b5438c4a-fc92-41e0-b2ae-dfb863c07aa1"
           },
           {
+            "Vision of the Future": "570cc184-8d24-4cb5-9768-c2eb582a0788"
+          },
+          {
             "Vision": "a3735b61-cc59-4014-960c-2b29e5f708c5"
           },
           {
@@ -7333,7 +7913,10 @@
             "Weeb": "af446f8f-ee71-4e7a-b5b5-b659994e03a0"
           },
           {
-            "Westworld IRL": "6278d290-44a8-4500-a98f-1c30170167d9"
+            "WestWorld IRL": "6278d290-44a8-4500-a98f-1c30170167d9"
+          },
+          {
+            "What MOVES us... requires power.": "b1c06b19-58e7-4284-8776-5fb7d0314b2a"
           },
           {
             "What are we going to do with all these digital humunculuses after the people they are based on are long dead and gone?": "f6583d81-36ec-44a8-ae1f-192e0c97d64b"
@@ -7354,13 +7937,25 @@
             "Whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
           },
           {
+            "Wield a persona and articulate who you are": "fa44aa1e-1c2d-4504-a663-7381b694c638"
+          },
+          {
             "Will to Power": "2fc34bc0-efad-466c-ab71-e1a69c4b9aa4"
           },
           {
             "Window of Tolerance": "1110db89-aac5-4d7e-9b98-2cf7bd935a09"
           },
           {
+            "Wordcel": "50d853c5-e404-4527-844c-38285d1ee8d1"
+          },
+          {
             "Working Memory": "31d2d731-bcd0-427e-b184-005b51c68766"
+          },
+          {
+            "X.509 Certificates": "4658e32f-99b6-4cee-9a77-e8b2cdafb2b1"
+          },
+          {
+            "Y Combinator": "bd0a47d3-208f-4189-8c4f-b383324999ee"
           },
           {
             "YTW": "ebdd3060-bc28-4a4e-b1da-ca1474213e9d"
@@ -7379,6 +7974,9 @@
           },
           {
             "You own your data and decide where it is stored and who can see it": "bce2defb-19fb-400c-8f4e-8f205af6c364"
+          },
+          {
+            "Your Life Has Value": "81c22b3f-8382-445c-8654-8bec4fcf5fa4"
           },
           {
             "Zeno's paradoxes": "a0064fb4-5c59-4a60-bd22-3caf820aded6"
@@ -7429,6 +8027,9 @@
             "daemon": "68931db0-bff0-4263-a326-59a535128eef"
           },
           {
+            "dapp": "3bba72c1-82ab-4f94-8380-18f9b6f12cd4"
+          },
+          {
             "datagram": "3f1a8a37-88db-4a2c-ba6d-629ff07e6b30"
           },
           {
@@ -7436,6 +8037,9 @@
           },
           {
             "ddaemon": "cffd944f-bd35-4af4-862b-c889057776ae"
+          },
+          {
+            "dentropy": "afcfbf44-6a9d-44cc-b9ce-bdf2c9d8b346"
           },
           {
             "dissociation": "2884e45d-0ba4-48f6-b8e0-1e0e8e7267cc"
@@ -7495,6 +8099,9 @@
             "humor": "4ca766d9-10c8-45c0-bf2c-db54930cb94d"
           },
           {
+            "hygiene": "5d001e98-c1b5-47a4-aa34-f57a5d01d1fe"
+          },
+          {
             "iBoost Incubator": "9c0be323-fef1-4ee3-b3e1-48c7063a1647"
           },
           {
@@ -7525,9 +8132,6 @@
             "liquidity provider": "590a8b6f-22d3-4183-85b8-f03c63c1bd12"
           },
           {
-            "liquidity": "49b5f8b4-83d3-41cb-8d81-632f8d84fc1b"
-          },
-          {
             "loving AI meme": "cfbfafa3-6a11-47ab-8b56-6ba9be6e43b9"
           },
           {
@@ -7547,6 +8151,9 @@
           },
           {
             "meme virility test": "634068f7-a7d2-442f-9703-e02c6786e3b9"
+          },
+          {
+            "memelet": "11d118e1-bccd-46e7-8218-5fd3e113a577"
           },
           {
             "mirror for princes": "06d2c85c-c8fd-4248-b7fe-19ba825c7b47"
@@ -7606,10 +8213,10 @@
             "red pill": "e5eab156-af05-4daf-8f10-bf5bb8ae1393"
           },
           {
-            "regime of attention": "c114de69-8e48-4688-8e93-d3c8a50028cf"
+            "research": "bb2cc052-fe4b-4e14-9402-517766d5c379"
           },
           {
-            "research": "bb2cc052-fe4b-4e14-9402-517766d5c379"
+            "roadmap.sh": "4eaccaa6-ed98-4372-bbb5-ff118ff30425"
           },
           {
             "scapegoat": "39930543-f5e4-4aa7-81f0-8c3251360055"
@@ -7622,6 +8229,12 @@
           },
           {
             "second-brain": "3ce09588-25bc-49a2-9d55-0d71210aef2e"
+          },
+          {
+            "secp256k": "44797aa4-1dba-4a8d-a950-e54d3cf8f2e3"
+          },
+          {
+            "secp256k1": "1a437e92-1bcb-47d0-9475-5bd61d86f59b"
           },
           {
             "self awareness": "b40296fc-58e1-4bc2-aab4-b8b0767fa643"
@@ -7646,9 +8259,6 @@
           },
           {
             "technium": "f71a251e-e8cc-48e9-a598-12f6ee35dae0"
-          },
-          {
-            "ubermensch": "d21f4fe7-d970-42f1-9eb2-9198f9e9b766"
           },
           {
             "valence": "61d052f2-088c-48a2-bb0f-49c24d218dd1"
@@ -7682,7 +8292,7 @@
       {
         "Categories": [
           {
-            "economics": "08698f06-5b23-4072-97e5-86acad2031c0"
+            "Economics": "08698f06-5b23-4072-97e5-86acad2031c0"
           }
         ]
       },
@@ -7690,7 +8300,13 @@
         "12 step program": "c3f31c7f-8163-4ec3-a557-428b6f09827c"
       },
       {
+        "Ceramic.Network DIDs": "a6adad92-90cd-40a9-bd97-9fed63887989"
+      },
+      {
         "Concept": "8d880e48-83ef-4152-826c-da2acbc8fadf"
+      },
+      {
+        "Life Playbook": "d0d47458-5848-4c75-9a65-96b2e6bf10bb"
       },
       {
         "Memelets": "6b66b19c-139f-4c68-a9e7-2f9b2077d2e1"
@@ -7890,6 +8506,9 @@
         "Occam's razor": "4aa5c3a4-320b-4024-89b9-9f0a5e0a4ece"
       },
       {
+        "PKMS Linking Standard": "d13c5ee2-c4f7-4a5f-9ae6-15feda37da13"
+      },
+      {
         "Principals": "0caff160-6675-436f-b75a-468699e73a9e"
       },
       {
@@ -7903,6 +8522,9 @@
       },
       {
         "Specific Aims": "5a73b29e-e4d3-4150-a48a-6db2c929d231"
+      },
+      {
+        "The Marcus Aurelius Evening Routine": "ed11626b-dfd4-4552-a321-441201fc11b4"
       },
       {
         "The Professional Data Science Manifesto": "f4c6bce3-f2f9-481a-8a2b-a79498be4047"
@@ -8193,9 +8815,6 @@
       {
         "ETL to QE": [
           {
-            "Dentropy Daemon Roadmap": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
-          },
-          {
             "ETL to QE, GPU accelerated Topic Modelling": "0a62e9d5-68ae-41a5-8bdb-7773b59abc1f"
           },
           {
@@ -8233,6 +8852,15 @@
           },
           {
             "ETL to QE, Update 21, There are Correct Moves": "d6c6d932-5842-4fbc-a67d-1759c2c2bb02"
+          },
+          {
+            "ETL to QE, Update 22, Tutorial Your Way To Victory": "72b60152-c15c-4243-8329-67cd13e78ba6"
+          },
+          {
+            "ETL to QE, Update 23, Designing and Checking my Premises": "2bd9365f-daba-418c-bbe8-3aed2804909d"
+          },
+          {
+            "ETL to QE, Update 25, Research is one thing a usable product is quite another": "0688a5f2-87e0-4754-b09b-88b09b92ebd8"
           },
           {
             "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
@@ -8323,10 +8951,16 @@
         "DIY Keylogger": "03ce87b5-898b-4e7a-9c47-6694c8d652fe"
       },
       {
-        "DentropyCloud - dc": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
+        "DentropyCloud": "53b4819a-70af-4a7d-be7f-c79d3b1fa40a"
       },
       {
         "Docker VPN Router": "aeb2a3d9-c371-404a-ae82-f9c70253e0e2"
+      },
+      {
+        "Filling self described SQL models via LLM Heilmer Catechism": "c1f5a29f-e664-480a-86c3-67efed75ff0b"
+      },
+      {
+        "Filling self described SQL models via LLM": "e4fc5bd8-2c30-4f24-81e7-53fd8c6ef977"
       },
       {
         "Keybase Binding": "3ff1df10-10b8-4206-b9b2-3bbad4b748d5"
@@ -8803,6 +9437,9 @@
         "Research - DDaemon Dashboard": "5a448eab-2246-424e-bd1f-fff5cfd692e1"
       },
       {
+        "Research - Format of messages from different messaging apps": "6af8ae27-bf2e-4228-aaba-d28f82f4e329"
+      },
+      {
         "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
       }
     ]
@@ -8811,6 +9448,9 @@
     "Questions": [
       {
         "Sets": [
+          {
+            "Conversational Questions": "0625ee2d-6a91-4105-8550-7d80d89e1968"
+          },
           {
             "Project Kickoff Questions": "24f446da-27ff-4625-8f2f-9a32388c377d"
           },
@@ -8827,17 +9467,29 @@
             "Questions for Discord Data": "46abc67b-bbe7-4800-82f5-f08d4c457ef0"
           },
           {
+            "Questions for Idols": "e7d19812-5fef-4eeb-9331-8abfd0687a04"
+          },
+          {
             "Questions for Question Engine": "a739aa8a-2a04-4f01-bd2e-0434d47d96bd"
           },
           {
             "Random Questions for Discord Data": "a0e190a2-4225-4937-b81d-45fd29e0c4ce"
+          },
+          {
+            "Things to ask LLMs to create a SQL Schema for": "cc8ed6c1-04f5-4b44-88b6-f6bc56ab0b8f"
           }
         ]
       },
       {
         "list": [
           {
+            "Does IPNS support a key value pair system?": "b4f62974-9320-4267-bc18-117975102d5d"
+          },
+          {
             "How To Do Research?": "de8df389-b5c2-41b9-baad-63582d46c832"
+          },
+          {
+            "How are meme's supposed to be linked to one another so they don't get lost?": "005c9c9a-3115-4a8d-86bc-6858b7794820"
           },
           {
             "How do I audit all the archives of data I have?": "c1b2973d-c991-446f-b1d1-d71ff62503b2"
@@ -8847,6 +9499,9 @@
           },
           {
             "How do I do Hello World in Ansible?": "9d016f63-fdb1-400a-aa19-c84cbdc5cd94"
+          },
+          {
+            "How do I have a conversation with ChatGPT via API?": "cf1f9556-d96a-4e0e-a7c8-8ce6cceb6b23"
           },
           {
             "How do I launch a fake planet for development?": "f4c5f595-1a48-4515-9e70-412e94a3ae4f"
@@ -8913,6 +9568,9 @@
           },
           {
             "How to check if file or directory exists using python3?": "301a1a37-47e3-4dc4-8d1c-1f16bf9338b5"
+          },
+          {
+            "How to clear up storage on Linux": "8e763366-4c9a-4546-9a28-f80420dbddfc"
           },
           {
             "How to conduct user research through surveys?": "8845c35b-1532-4efc-af8f-6ec7c97d91bc"
@@ -9002,10 +9660,16 @@
             "How to send data from ship to ship in Urbit using using Hoon?": "334719ff-63c4-46eb-958d-8aa0ffd12841"
           },
           {
+            "How to setup a Nostr Relay (Node)?": "e8ff8c66-53ec-424f-aa7d-3714a3017dcc"
+          },
+          {
             "How to solve RClone S3 Storage is not working as expected bug when backing up Discord Data?": "7653ea39-650c-4c3e-af9a-f322ed27f2ce"
           },
           {
             "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207"
+          },
+          {
+            "How to use Firebase to host IPFS static site?": "b6b253e7-c265-44b4-8436-2594a1f7e139"
           },
           {
             "How to view a discord message in context?": "fdaf9b18-a664-4861-894b-836af806393a"
@@ -9039,6 +9703,9 @@
           },
           {
             "Order discord Guild's by the oldest message?": "f87ebf9c-0d6e-4224-9418-badaa496ce2f"
+          },
+          {
+            "Please provide a detailed plan, including timeline and key milestones for delivering your proposal": "9aa92356-95d8-43a1-b0ab-86c2b0843fed"
           },
           {
             "What are embeddings?": "87e4fadc-bba6-4eef-85a3-828a53fd0b10"
@@ -9155,7 +9822,13 @@
             "What discord users show up in multiple guilds?": "1151704f-92c1-4273-9a2a-af361dfb88be"
           },
           {
+            "What fundamental jsonschema format can be used for notes, messages, imported social media data, blog posts, annotations, and LLM logs?": "b80280ea-90e2-409c-bb6c-aa1c9d0cb305"
+          },
+          {
             "What is ETL to Question Engine?": "65d3b35b-b939-4da8-bd29-e206dd2ea9bc"
+          },
+          {
+            "What is Question Engine?": "c9ad4625-84be-4210-967a-c45bb3ec11ce"
           },
           {
             "What is a Poke in Hoon and how do you perform it?": "0362bbdd-cf29-4898-be54-2f675a4d3596"
@@ -9188,10 +9861,16 @@
             "What is the average message count per Channel in a particular Discord Guild?": "ad60bd2d-b872-4d0b-8f13-6f4214896871"
           },
           {
+            "What is the best way to produce a large merkle tree?": "1a2fa5ec-813a-48f9-bb95-1f8f313cca8d"
+          },
+          {
             "What is the date of their latest tweet?": "dad75ab3-22a0-4bd2-bf53-4c0c774ce8c8"
           },
           {
             "What is the first thing someone should do on Question Engine?": "97a88056-f839-4ca7-913a-be9b97710a9e"
+          },
+          {
+            "What is the fourth thing someone should do on Question Engine?": "1fde4324-449a-4ec6-b0d9-a83e3b882670"
           },
           {
             "What is the length of the Bertopic default dataset from sklearn?": "7b81aadb-d7cd-4afa-8c16-4402e8ce19d5"
@@ -9236,6 +9915,18 @@
             "What is the second thing someone should do on Question Engine?": "c69d5896-cb91-43da-b454-a396447a3d7e"
           },
           {
+            "What is the third thing someone should do on Question Engine?": "63adbd84-8206-4907-8085-683b478e845d"
+          },
+          {
+            "What is your plan?": "cc75d594-d10d-4815-bbf8-476e87d06dd5"
+          },
+          {
+            "What kind of data structure can be used to manage a series of online identities that are supposed to remain separate?": "2c37ea83-2c3b-4b55-b510-37ea6fd2e0e5"
+          },
+          {
+            "What kind of data structure is supposed to represent a user's profile?": "90614ce3-b4ce-4bd6-bb6f-904ce39072f4"
+          },
+          {
             "What message with an attachment from a particular author in a discord guild got the most reactions?": "2c19f286-32de-4f5e-94f0-98d6eae21492"
           },
           {
@@ -9266,6 +9957,9 @@
             "Where is a list of the most popular Urbit apps, also including their source code?": "b633ea18-544c-4f74-ae9d-3395c9a78192"
           },
           {
+            "Where to download wikipedia?": "15ca8c44-35ce-4f3e-b803-5d3fd40bc309"
+          },
+          {
             "Which discord channel was most active between two dates?": "25b82439-effc-4780-a493-2ababf099494"
           },
           {
@@ -9294,6 +9988,9 @@
           },
           {
             "Why would someone want to use question engine over something else?": "11dfc34a-889a-404d-be43-06fb18c3ab8d"
+          },
+          {
+            "Within QE what is the equivalent conception of a folder or dataset?": "58f9eab0-efb0-43b5-9e87-bc43f56a4d62"
           }
         ]
       }
@@ -9359,6 +10056,9 @@
       {
         "Tutorial Research": [
           {
+            "IndexdDB Tutorial": "1f3fcb39-7639-4c81-8d2c-1df7595f617c"
+          },
+          {
             "Logs - SQL Alchemy Tutorial": "8502a9ac-1ae1-42de-97e2-80777ff04908"
           },
           {
@@ -9370,7 +10070,7 @@
         "Create a Multi ISO USB Drive and document the process as a tutorial": "69a15b0e-608e-4f59-ba71-a4b159ca12a0"
       },
       {
-        "Dentropys's SQL Alchemy Tutorial": "34aa710f-0d0e-4098-88aa-e0b554a2298e"
+        "Dentropys' SQL Alchemy Tutorial": "34aa710f-0d0e-4098-88aa-e0b554a2298e"
       },
       {
         "Discord Scraping Procedures": "dc48a7b7-34e6-4113-bdeb-c655cf2da186"
@@ -9403,6 +10103,9 @@
         "Searching Through Files Tutorial": "21c0a45b-3f65-446a-bcae-89242cc63469"
       },
       {
+        "Set or Change Git Commit Time or History": "9eaa0f36-21ae-4a24-9c80-8f1334f671cf"
+      },
+      {
         "Umbrel - Backup and Restore": "92aa8e61-712a-414d-95c1-7b9ff98c2f98"
       },
       {
@@ -9415,10 +10118,13 @@
         "Upgrading history on Unix Systems": "c01c8156-996f-4a53-97f5-1f287e28f1d6"
       },
       {
-        "Web Scraping Tutorial": "83ffe54f-3356-44ae-9d1a-878ef448fb57"
+        "Web Scraping Tutorial": "bf73b80d-db97-45e8-8959-610735a5d18a"
       },
       {
         "docker nginx proxy with auth": "c9972dec-d741-4735-9998-1c81b5e0c192"
+      },
+      {
+        "jsonschema Tutorial": "24e80f52-8991-4499-b02c-e313131904d0"
       }
     ]
   },
@@ -9431,10 +10137,19 @@
         "ACID": "0f1f6127-3cd4-4e4a-83f2-8cd048090d61"
       },
       {
+        "ACT": "f9869502-f320-4211-a671-8ede369e89c7"
+      },
+      {
+        "AES": "694247fc-263f-452a-8af3-1546ca54991f"
+      },
+      {
         "AMM": "132723bd-200e-4d5d-b8a5-423857248251"
       },
       {
         "AMQP": "c293d1d0-e995-42cd-bbe9-d4a57762a1df"
+      },
+      {
+        "ARG": "db3d13d9-f535-40ff-8ef6-81073f112426"
       },
       {
         "BCI": "2c29ee3b-adf2-40de-8911-c01cf9b18a45"
@@ -9444,6 +10159,9 @@
       },
       {
         "BTC": "05101a51-4068-4034-923a-42167f5ccea0"
+      },
+      {
+        "CAD": "60455b18-2392-4c4a-bfd4-d9a649c0c88a"
       },
       {
         "CAP": "09bfd7f9-3f84-4f97-bca2-c60f4444dd44"
@@ -9467,7 +10185,13 @@
         "CLV": "5051ab00-856e-4c32-b137-c5a9a1fb4db8"
       },
       {
+        "CMS": "66ce9697-462e-45a1-befe-5330a52d1145"
+      },
+      {
         "CORS": "29b9c0f8-506f-450a-b959-c357e2eaa6d4"
+      },
+      {
+        "CRDT": "9b4fec6f-946d-4190-89c0-fc93d8c20977"
       },
       {
         "CRM": "7d9fa0af-e0be-4674-8fc2-380b641f2564"
@@ -9488,6 +10212,9 @@
         "DDL": "a2026d45-81b5-4b47-b9a4-c86d10df5424"
       },
       {
+        "DM": "71b10480-9d7f-4358-80c2-eb119e3db4f0"
+      },
+      {
         "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
       },
       {
@@ -9503,16 +10230,28 @@
         "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
       },
       {
+        "EIP": "f0c854cc-e82f-4e8a-9d77-165bc8bd4b93"
+      },
+      {
         "ELI5": "13d066d8-56a6-4273-890d-695214da4dad"
       },
       {
         "ELT": "04d9c099-c626-46d7-aa94-1a33117e1d90"
       },
       {
+        "ERC": "d5ab86a4-ae4e-400f-acaa-7ea03b7db0e0"
+      },
+      {
         "ERD": "169abeb2-1466-40b0-8b0a-08b90ed1851d"
       },
       {
         "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf"
+      },
+      {
+        "FOAF": "de759b3c-b687-48a3-93ec-62c18c7e7709"
+      },
+      {
+        "FPS": "8046ded3-3d82-433a-be3d-650320ab3d3d"
       },
       {
         "FTDI": "4551f817-57a0-4d68-b764-7bc58d193470"
@@ -9527,6 +10266,9 @@
         "GUCCES": "2df77633-f7af-45bb-9351-1a7e6c17d162"
       },
       {
+        "HLC": "89467309-dc10-48f0-8340-9f781e9117f0"
+      },
+      {
         "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
       },
       {
@@ -9536,10 +10278,31 @@
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
       },
       {
+        "ICO": "e6dd3bb7-baa6-418f-b294-4a75a8270438"
+      },
+      {
+        "IEEE": "1fe3dd5c-44d4-419e-8882-ff22e8101394"
+      },
+      {
         "IFS": "6d04ca02-e54a-4654-aba5-cc984788a711"
       },
       {
+        "IOT": "f6fc7a3d-6bcc-44f5-9fcf-7f07c832dd39"
+      },
+      {
+        "IOU": "0807d74f-6c14-4d8e-a70f-cefd2949174b"
+      },
+      {
+        "IRC": "46a939aa-7fb0-4739-b132-14e503d21f7c"
+      },
+      {
         "IRL": "0bd9f89b-1a65-4247-bff5-8148fab73b05"
+      },
+      {
+        "ISO": "b9255cc3-c936-42f8-9235-83f9416f6b15"
+      },
+      {
+        "JSON": "072b4c73-5b7a-40ab-a745-36ef24078856"
       },
       {
         "KISS": "8412af19-c492-44c7-8e39-7fad1b85155e"
@@ -9560,6 +10323,12 @@
         "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732"
       },
       {
+        "MFS": "1f7f9ae3-1ecd-40dc-a005-1c5d2f495680"
+      },
+      {
+        "MMORPG": "f6ce1c1e-3c75-4daf-aa6c-aa045355b2bf"
+      },
+      {
         "MPP": "93fab9de-fb11-4fcc-825c-8047cbe55203"
       },
       {
@@ -9569,7 +10338,16 @@
         "MVP": "41018894-c14f-4996-bc7a-e8c656d10d26"
       },
       {
+        "NDA": "c0984c74-eecf-4f44-a59a-684eeeb6ad9d"
+      },
+      {
         "NER": "a33f0277-9ea9-4c79-8eb9-41a052aa3a21"
+      },
+      {
+        "NIP": "79ef73c3-8e89-4380-9c54-689d8406ec49"
+      },
+      {
+        "OCSP": "a170dae3-7acf-4b1c-80cc-4687d260da44"
       },
       {
         "OLAP": "515a019e-5333-4996-956c-d4661cd215c8"
@@ -9587,10 +10365,22 @@
         "P2P": "eb562da3-447f-489a-a715-3cfcca10e8ec"
       },
       {
+        "PCR": "3734e05f-8b10-40e8-b0c4-ee257db5b0c2"
+      },
+      {
+        "PII": "9fe2504c-85d1-4d2e-bad6-f69baa1a72c0"
+      },
+      {
+        "PKI": "93f10d7f-09ea-4f32-85c9-a0f8f334fff1"
+      },
+      {
         "PKM": "10e57c0e-9c54-41fb-82d0-f36f3165c4ac"
       },
       {
         "PKMS": "ea5dd34b-8140-436d-9106-1bea26a2b5d9"
+      },
+      {
+        "POC": "5579525f-febe-4c18-a19f-83d134e50292"
       },
       {
         "QE": "96fab60c-c9db-4d51-8388-5b51a595d302"
@@ -9608,6 +10398,9 @@
         "REPL": "a821f5d6-b82b-428c-8e4c-d160bd900a33"
       },
       {
+        "RFC": "9fb5cb9f-08dd-44a2-8b07-82b56ae78b06"
+      },
+      {
         "RLHF": "46897e09-c4c6-47c8-a75c-d9294e5dc65e"
       },
       {
@@ -9617,10 +10410,19 @@
         "ROS": "0cf1f864-a4c0-4db0-9364-0de898fb12f1"
       },
       {
+        "RPG": "808187e0-b056-4cc0-8152-d59e581b6ecf"
+      },
+      {
+        "SAML": "0a65626f-d641-4eb7-9601-d68f55f5c0e1"
+      },
+      {
         "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
       },
       {
         "STER": "62229267-8ee7-4c11-9b74-9cdb95c335fb"
+      },
+      {
+        "TCP": "d2b22d56-7fad-402e-b818-cbead7cd3309"
       },
       {
         "TED": "8a7ce6c6-1eb3-45b1-950a-bf6bdb721fb0"
@@ -9629,10 +10431,19 @@
         "TF-IDF": "76c6adee-7782-4a88-b47b-a073853dbefc"
       },
       {
+        "TLD": "2bf07ba9-aa79-4c22-b3bc-cfd75fe14e14"
+      },
+      {
         "TLS": "017fa480-0484-452c-9144-3b34b3ad6c37"
       },
       {
+        "TOML": "1f39d93c-237a-48e3-958b-7086d2a216c8"
+      },
+      {
         "TZM": "b39a1e1f-e391-4451-bccb-b3e6052de91d"
+      },
+      {
+        "UDP": "558a1125-f59c-4bce-8773-1056206e3a39"
       },
       {
         "UPC": "8031e447-1998-4778-9b63-11e085b3e1ca"
@@ -9699,6 +10510,9 @@
         "Roadmap - DDaemon Monorepo": "2ffcf8b7-75d5-4f99-bf20-10826df12580"
       },
       {
+        "Roadmap - Dentropy Daemon 0.0.1": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
+      },
+      {
         "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
       }
     ]
@@ -9711,12 +10525,6 @@
   },
   {
     "Tutorials and Learning Pathways": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
-  },
-  {
-    "What is the fourth thing someone should do on Question Engine?": "1fde4324-449a-4ec6-b0d9-a83e3b882670"
-  },
-  {
-    "What is the third thing someone should do on Question Engine?": "63adbd84-8206-4907-8085-683b478e845d"
   },
   {
     "index": "146656b4-573a-4e42-8f00-239ab29eac3b"

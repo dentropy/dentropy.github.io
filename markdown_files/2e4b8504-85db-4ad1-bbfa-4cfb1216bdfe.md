@@ -8,3 +8,7 @@ title: Lens Protocol
 
 * [Zerion Integrates Lens Protocol’s Web3 Social Graph](https://zerion.io/blog/zerion-integrates-lens-protocols-web3-social-graph/)
 * [Aave Team Launches 'Decentralized Social Graph' With Lens Protocol Venture - The Defiant](https://thedefiant.io/lens-web3-social-media-polygon)
+
+#### Backlinks
+
+* [Social Media Protocols](/37e87601-6401-4560-95ba-13e732de1ce4)
