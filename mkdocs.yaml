@@ -3137,6 +3137,7 @@ nav:
         - How many users have posted more than 100 messages in a particular discord guild?: edc06a13-7305-4b5f-8eb6-9e8eb1b4df23
         - How much activity for a specific discord guild per day of week?: 7cd7bef3-c7ca-4d80-b02b-ba6552b6087c
         - How much activity for a specific discord guild per month?: efcd6f7d-b36e-4032-b89b-0fe9fd5a0da9
+        - How to Append Path Linux?: 1510f0e8-0187-43aa-aa0f-bbc6da002ea8
         - How to Remove files recursively in Linux?: 6ea8ec9a-77e4-42e8-8f20-0b2b04dbb186
         - How to check if file or directory exists using python3?: 301a1a37-47e3-4dc4-8d1c-1f16bf9338b5
         - How to clear up storage on Linux: 8e763366-4c9a-4546-9a28-f80420dbddfc
@@ -3328,9 +3329,11 @@ nav:
     - ACID: 0f1f6127-3cd4-4e4a-83f2-8cd048090d61
     - ACT: f9869502-f320-4211-a671-8ede369e89c7
     - AES: 694247fc-263f-452a-8af3-1546ca54991f
+    - AI: 5222f3a8-7069-4102-b6ec-b4014a5bdfcc
     - AMM: 132723bd-200e-4d5d-b8a5-423857248251
     - AMQP: c293d1d0-e995-42cd-bbe9-d4a57762a1df
     - ARG: db3d13d9-f535-40ff-8ef6-81073f112426
+    - ASI: cd0c5b32-d1d5-479a-b446-019a18646972
     - BCI: 2c29ee3b-adf2-40de-8911-c01cf9b18a45
     - BI: 76120376-82a3-461f-8bae-032f5ae9c7dd
     - BTC: 05101a51-4068-4034-923a-42167f5ccea0

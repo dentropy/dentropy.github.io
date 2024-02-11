@@ -112,7 +112,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#companion-to-nostr-tutorial" class="md-skip">
+        <a href="#tldr-nostr-relay-tutorial" class="md-skip">
           Skip to content
         </a>
       
@@ -77651,6 +77651,8 @@
       
         
       
+        
+      
     
     
     
@@ -78239,6 +78241,27 @@
   
   <span class="md-ellipsis">
     How much activity for a specific discord guild per month?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1510f0e8-0187-43aa-aa0f-bbc6da002ea8" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to Append Path Linux?
   </span>
   
 
@@ -82559,6 +82582,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -82680,6 +82707,27 @@
   
   
     <li class="md-nav__item">
+      <a href="../5222f3a8-7069-4102-b6ec-b4014a5bdfcc" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../132723bd-200e-4d5d-b8a5-423857248251" class="md-nav__link">
         
   
@@ -82727,6 +82775,27 @@
   
   <span class="md-ellipsis">
     ARG
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cd0c5b32-d1d5-479a-b446-019a18646972" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ASI
   </span>
   
 
@@ -85448,13 +85517,58 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#companion-to-nostr-tutorial" class="md-nav__link">
+  <a href="#tldr-nostr-relay-tutorial" class="md-nav__link">
     <span class="md-ellipsis">
-      Companion to Nostr Tutorial
+      TL;DR Nostr Relay Tutorial
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Companion to Nostr Tutorial">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#install" class="md-nav__link">
+    <span class="md-ellipsis">
+      Install
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tests
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#todo" class="md-nav__link">
+    <span class="md-ellipsis">
+      TODO
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TODO">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -85504,10 +85618,26 @@
                   
 
 
-  <h1>Nostr Relay Tutorial</h1>
+<h4 id="tldr-nostr-relay-tutorial">TL;DR Nostr Relay Tutorial</h4>
+<ul>
+<li>Nostr is decentralized social media protocol</li>
+<li>To learn how to use it check out <a href="../d0d2eb3c-a491-462a-ba23-bcc03246f837">Nostr Tutorial</a></li>
+<li>Nostr uses photographically signed messages as a primitive not DNS</li>
+<li>Nostr messages spread via relays, servers that store nostr messages for nostr clients to read</li>
+</ul>
+<h4 id="description">Description</h4>
+<p>In this tutorial we we setup a public Nostr relay.</p>
+<h4 id="requirements">Requirements</h4>
+<ul>
+<li>Git</li>
+<li>Docker-compose</li>
+<li>Nodejs + npm</li>
+</ul>
+<h4 id="install">Install</h4>
+<pre><code class="language-bash">
+wget -O config.toml https://raw.githubusercontent.com/vdo/nostr-rs-relay-compose/main/config.toml
 
-<h3 id="companion-to-nostr-tutorial">Companion to <a href="../d0d2eb3c-a491-462a-ba23-bcc03246f837">Nostr Tutorial</a></h3>
-<pre><code class="language-bash">wget -O config.toml https://raw.githubusercontent.com/vdo/nostr-rs-relay-compose/main/config.toml
+
 wget -O config.toml https://git.sr.ht/~gheartsfield/nostr-rs-relay/blob/HEAD/config.toml
 
 mkdir data
@@ -85528,6 +85658,47 @@ services:
 
 
 </code></pre>
+<h4 id="tests">Tests</h4>
+<ul>
+<li>Updating <a href="../1f39d93c-237a-48e3-958b-7086d2a216c8">TOML</a> file while the relay is running<ul>
+<li>Doesn't change server settings</li>
+</ul>
+</li>
+<li>White listing Public Keys<ul>
+<li>Works</li>
+</ul>
+</li>
+<li>Max Message Size<ul>
+<li>Works and is tested</li>
+</ul>
+</li>
+<li>Max messages per second<ul>
+<li>Doesn't actually work</li>
+</ul>
+</li>
+<li>DNS Identity <a href="../Nostr NIP 05">Nostr NIP 05</a><ul>
+<li>Works</li>
+</ul>
+</li>
+<li>White list Nostr identity with DNS on Relay<ul>
+<li>
+<h1 id="todo">TODO</h1>
+</li>
+</ul>
+</li>
+<li>Dumping all messages from relay<ul>
+<li>See <a href="../nosdump">nosdump</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>Get relay metadata <a href="../Nostr NIP 11">Nostr NIP 11</a></strong></p>
+<p>Works like a charm</p>
+<pre><code class="language-bash">
+curl \
+    -H &quot;Accept: application/nostr+json&quot; \
+    http://localhost:7000 | jq
+
+</code></pre>
 <h4 id="links">Links</h4>
 <ul>
 <li><a href="../How to specify Linux UID and GID in docker-compose?">How to specify Linux UID and GID in docker-compose?</a></li>
@@ -85536,12 +85707,12 @@ services:
 <h4 id="sources">Sources</h4>
 <ul>
 <li><a href="https://chat.openai.com/share/567e1f1b-b8e6-4092-98a0-beb276f93b00">Set User in Docker-Compose</a></li>
-<li></li>
 </ul>
 <h4 id="backlinks">Backlinks</h4>
 <ul>
 <li><a href="/72b60152-c15c-4243-8329-67cd13e78ba6">ETL to QE, Update 22, Tutorial Your Way To Victory</a></li>
 <li><a href="/457c6a22-361f-4b4b-9867-809c7c6d0316">DDaemon - Tech Breakdown</a></li>
+<li><a href="/31f7e81a-967e-41f4-872e-91d1571df726">Backlog - Tutorials</a></li>
 </ul>
 
 
