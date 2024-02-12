@@ -432,9 +432,6 @@
                 "Questions": "25781b58-155b-469f-84e8-d719b169bc4f"
               },
               {
-                "Signing using EthersJS": "6a000f06-f308-4736-bffa-b55c35f6bccd"
-              },
-              {
                 "Upgrades": "7cb5c470-1ec5-4851-8959-12434815b5ec"
               },
               {
@@ -2020,6 +2017,12 @@
             "Nostr Badges": "e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0"
           },
           {
+            "Nostr NIP 05": "8db2dd22-7235-4c50-bd6d-d79b4a55e879"
+          },
+          {
+            "Nostr NIP 11": "62987d3a-b320-4b5b-b762-e49ee3508f3f"
+          },
+          {
             "Nostr": "78abfe73-37cb-4f3b-9e08-faad85669fb7"
           },
           {
@@ -3239,6 +3242,9 @@
           },
           {
             "nodejs": "94377dc4-14fb-44cd-9892-4cf3cff78726"
+          },
+          {
+            "nosdump": "4223c9a7-5acc-433b-b5a4-87ef3301134c"
           },
           {
             "nostr-rs-relay": "cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750"
@@ -5073,9 +5079,6 @@
       },
       {
         "Epic User Journeys": "c81f0da9-8d82-4176-8458-cfb3d06924c4"
-      },
-      {
-        "QE Meme Schema": "f940cb98-0af6-42ad-b116-e4094c350d29"
       }
     ]
   },
@@ -10057,6 +10060,13 @@
         ]
       },
       {
+        "Encryption and Signing": [
+          {
+            "Signing using ethersjs tutorial": "6a000f06-f308-4736-bffa-b55c35f6bccd"
+          }
+        ]
+      },
+      {
         "Tutorial Research": [
           {
             "IndexdDB Tutorial": "1f3fcb39-7639-4c81-8d2c-1df7595f617c"
@@ -10086,6 +10096,9 @@
       },
       {
         "IPFS IPLD CID Tutorial": "100d6889-e83d-4967-bec2-7e9424d8cd24"
+      },
+      {
+        "JS Cryptographic Signing Tutorial": "be82e67e-13f4-4c86-b3ec-b32852c54e2b"
       },
       {
         "JSON in sqlite": "b1112011-a44d-4764-bff7-21b74dc2e57c"

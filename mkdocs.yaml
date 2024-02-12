@@ -165,7 +165,6 @@ nav:
             - Contract Factory: 48e11601-45a6-4c17-905e-e15781375c75
             - Minting Tokens: 96c77155-73e3-4b22-acff-84a47f3de7e2
             - Questions: 25781b58-155b-469f-84e8-d719b169bc4f
-            - Signing using EthersJS: 6a000f06-f308-4736-bffa-b55c35f6bccd
             - Upgrades: 7cb5c470-1ec5-4851-8959-12434815b5ec
             - offline transactions: aa06083b-8eac-4b32-8904-a2092a3f2087
             - tests: 72d0699a-a3ea-47f4-bc14-805b39bea7ba
@@ -680,6 +679,8 @@ nav:
         - Noonet: bcaac6fd-9ce7-48cf-9972-d48fb645fa32
         - Noosphere Software: 4379ad45-7dd3-42ae-aa3a-8521a3101f9a
         - Nostr Badges: e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0
+        - Nostr NIP 05: 8db2dd22-7235-4c50-bd6d-d79b4a55e879
+        - Nostr NIP 11: 62987d3a-b320-4b5b-b762-e49ee3508f3f
         - Nostr: 78abfe73-37cb-4f3b-9e08-faad85669fb7
         - NostrBounties: fe023658-904c-4112-97f6-c5546b5c83b4
         - Nostrends: d4d6c015-4ef0-4e86-9b1a-5df082c44222
@@ -1087,6 +1088,7 @@ nav:
         - nmap: bcdbfa9f-79b2-485f-97e3-db7d30970a3d
         - nodejs better-sqlite3: 0d770ab2-d1eb-43bd-8de8-4213fd6971c1
         - nodejs: 94377dc4-14fb-44cd-9892-4cf3cff78726
+        - nosdump: 4223c9a7-5acc-433b-b5a4-87ef3301134c
         - nostr-rs-relay: cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750
         - nostr.cooking: 8310fda2-698c-4659-9d84-564eeb5f2662
         - nostr.kiwi: 68d08579-9988-4648-bbba-3a333b9c063f
@@ -1675,7 +1677,6 @@ nav:
     - Dentropy Cloud Reference Designs: 890c1069-453d-4b96-80b0-6d153cfbbe9f
     - Dentropy Daemon - Home: 488cb22c-91d3-4d1e-bd47-b1588e3fb899
     - Epic User Journeys: c81f0da9-8d82-4176-8458-cfb3d06924c4
-    - QE Meme Schema: f940cb98-0af6-42ad-b116-e4094c350d29
 - Media:
     - List:
         - Atlas Shrugged:
@@ -3300,6 +3301,8 @@ nav:
         - S3 Backup and Restore: b3a29c74-a6a1-415e-b1ae-68048431d2ac
         - S3 Tutorial: 6fc73bc3-fa08-484f-a817-f512cc89dcdb
         - WebDev: df7749a8-3943-4aa1-a2ef-e29b293c13d5
+    - Encryption and Signing:
+        - Signing using ethersjs tutorial: 6a000f06-f308-4736-bffa-b55c35f6bccd
     - Tutorial Research:
         - IndexdDB Tutorial: 1f3fcb39-7639-4c81-8d2c-1df7595f617c
         - Logs - SQL Alchemy Tutorial: 8502a9ac-1ae1-42de-97e2-80777ff04908
@@ -3310,6 +3313,7 @@ nav:
     - Docker Postgres with Backup and Restore: c32224a7-826f-47a5-a7af-dfe0ffcdb2f1
     - Get list of all wikipedia articles: dd0e7670-af04-4eb0-8af5-5a85af115360
     - IPFS IPLD CID Tutorial: 100d6889-e83d-4967-bec2-7e9424d8cd24
+    - JS Cryptographic Signing Tutorial: be82e67e-13f4-4c86-b3ec-b32852c54e2b
     - JSON in sqlite: b1112011-a44d-4764-bff7-21b74dc2e57c
     - Mastering Docker: a00212a5-a743-4dfe-a796-eb8c0bb65233
     - Mastering SQL: fa961bbf-f992-45c2-99d4-8ff4d5a1d4a1
