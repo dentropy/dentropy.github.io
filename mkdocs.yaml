@@ -376,6 +376,8 @@ nav:
         - ArchiveBox: 405b67dc-be60-4211-ad64-9d65188fbef8
         - ArchiveWeb.page: 3d0e13b7-f764-4b8d-8be0-10e79054d2bf
         - Archivy: 43eb9af8-f292-48c5-9489-078adc3bc9f1
+        - ArduinoJSON: 82821804-4510-4b8e-87b8-a623c2ea137b
+        - Arduino_JSON: 2ba3f645-a3c8-4559-853d-9d1c953ad1a9
         - Arweave: e4e8d9c8-f039-4c21-bf25-35d36feb3f7b
         - Asana: 0d22f0dc-ec05-464d-957c-1734f0608a32
         - Athens: 60158e53-96cc-40fb-bf8a-b2d1199a947b
@@ -474,6 +476,7 @@ nav:
         - ERC721: 36572430-69db-43ab-ab20-7228c84920df
         - ESP Home: 56b8fc16-b823-4c35-b477-a91e0410ddc3
         - ESP32: 3cf359ac-b4b7-4a2d-8884-f60d259afac3
+        - ESPAsyncWebServer: dce38029-3f43-44fd-bed0-8a3b672c361b
         - EVM: c8f3d2e4-2f03-496a-b59c-f0111fc8075c
         - Ebay: 5688d2f5-4d68-406e-884a-2cac314ea264
         - EdgeDB: b358ea0e-fa1f-4584-bea5-36891955fde8
@@ -862,7 +865,6 @@ nav:
         - Synapse - Matrix: fc9b7b3e-f0ac-4f6b-b14c-7463b2902820
         - Synapse for Matrix Protocol: 54fe7bec-84b3-482e-ba8f-24c47286934e
         - Syncthing: 0c7e22a8-554b-4c34-8f0f-7f9b6e5b832f
-        - System D - systemd: 2bf93e44-adcb-4d5a-9d85-4d82015e6983
         - Szyszka: 5a82c311-3cf0-425c-8122-1b2c53ab155f
         - TMDB: 8d3dbe79-fafe-4d12-811e-ed8f137f5549
         - TOR: c7838894-8f9f-4bd1-9b5f-d2916bbbcc92
@@ -1190,6 +1192,7 @@ nav:
         - stemstr.app: 65356d5a-e57c-44d1-ad8c-1197ac41af7d
         - syslog-ng: 76882170-483f-4fb6-8f7c-08a37d07109f
         - systemctl: 044b4897-60c9-4349-9a5d-a8d0975af5fa
+        - systemd: 2bf93e44-adcb-4d5a-9d85-4d82015e6983
         - tar: d2272d3a-0619-4303-b230-f8c6ae73d436
         - tiddlywiki: 0616d5be-c9a1-4854-bfd1-a7e4614d1500
         - timedatectl: e6cd348f-765f-49ce-8edd-c81d9f93448b
@@ -1696,7 +1699,7 @@ nav:
         - Load Discord Data into CGFS then into a Cypher or SQL database: e018ce04-bcee-44bb-849a-7646e5b4f9ce
         - QE Demo for Friends at Get Together: ec5b995d-f5ce-4183-ae17-11efb114aef8
         - Query my close friends and family for a good coffee maker they have bought: 49563aed-e972-4cf8-8e80-929ba40e2171
-    - CGFS Personal Persona Data Model: bbb2e4e9-08b9-461e-ba58-8a15c27d06d1
+    - CGFS Persona Data Model: bbb2e4e9-08b9-461e-ba58-8a15c27d06d1
     - CGFS Specification: 8a7e9ee4-c32a-47af-8e79-8c1c85a85f12
     - DDaemon - Tech Breakdown: 457c6a22-361f-4b4b-9867-809c7c6d0316
     - DDaemon - Thoughts: edc2124b-c88b-4aaf-8d15-4dfb8ca8397b
@@ -1706,6 +1709,7 @@ nav:
     - Dentropy Cloud Reference Designs: 890c1069-453d-4b96-80b0-6d153cfbbe9f
     - Dentropy Daemon - Home: 488cb22c-91d3-4d1e-bd47-b1588e3fb899
     - Epic User Journeys: c81f0da9-8d82-4176-8458-cfb3d06924c4
+    - QE Meme Schema: 5be0be92-f274-43f4-bdde-4cec676ab084
 - Media:
     - List:
         - Atlas Shrugged:
@@ -2964,7 +2968,7 @@ nav:
         - "ETL to QE, Update 23, Designing and Checking my Premises": 2bd9365f-daba-418c-bbe8-3aed2804909d
         - "ETL to QE, Update 24, Roadmap Revisited with Memes": 89c90b4a-2065-4b58-93eb-107794ed8671
         - "ETL to QE, Update 25, Research is one thing a usable product is quite another": 0688a5f2-87e0-4754-b09b-88b09b92ebd8
-        - "ETL to QE, Update 26, Roadmap Revisited and Scalable Memes": a6694d76-0b96-4dd7-8f4a-8d213fef86f0
+        - "ETL to QE, Update 26, Observe and Orient": a6694d76-0b96-4dd7-8f4a-8d213fef86f0
         - "ETL to QE, Update 3, Progress on first Report to be Published": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
         - "ETL to QE, Update 4, Code Refactor and TrueNAS S3": d59dbed7-08bd-462e-8f87-24a80c791f46
         - "ETL to QE, Update 5, Optimizations": 88cd3a9e-9156-4482-aaa5-2bb8eeebca0d
@@ -3509,6 +3513,7 @@ nav:
     - Logs - Robotics: 665bc8a7-d6f9-4fe2-be93-1f1e162cf4a1
     - Roadmap - DDaemon Monorepo: 2ffcf8b7-75d5-4f99-bf20-10826df12580
     - Roadmap - Dentropy Daemon 0.0.1: 8d4d461f-49f7-4dbd-829f-807d0bb602df
+    - Roadmap - Dentropy Daemon 0.0.2: 35c32ef3-4e1c-4ec2-bde4-c20cb454d39f
     - Roadmap - DentropyCloud: f6ae9aa0-41dc-431d-972c-47cfe397fda2
 - Daily Learnings: 4271e403-0a66-46c8-8bcc-af847888e548
 - My Projects: e76c8ac9-69f3-477f-8015-556e83738432

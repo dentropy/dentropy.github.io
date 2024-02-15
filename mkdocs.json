@@ -1108,6 +1108,12 @@
             "Archivy": "43eb9af8-f292-48c5-9489-078adc3bc9f1"
           },
           {
+            "ArduinoJSON": "82821804-4510-4b8e-87b8-a623c2ea137b"
+          },
+          {
+            "Arduino_JSON": "2ba3f645-a3c8-4559-853d-9d1c953ad1a9"
+          },
+          {
             "Arweave": "e4e8d9c8-f039-4c21-bf25-35d36feb3f7b"
           },
           {
@@ -1400,6 +1406,9 @@
           },
           {
             "ESP32": "3cf359ac-b4b7-4a2d-8884-f60d259afac3"
+          },
+          {
+            "ESPAsyncWebServer": "dce38029-3f43-44fd-bed0-8a3b672c361b"
           },
           {
             "EVM": "c8f3d2e4-2f03-496a-b59c-f0111fc8075c"
@@ -2566,9 +2575,6 @@
             "Syncthing": "0c7e22a8-554b-4c34-8f0f-7f9b6e5b832f"
           },
           {
-            "System D - systemd": "2bf93e44-adcb-4d5a-9d85-4d82015e6983"
-          },
-          {
             "Szyszka": "5a82c311-3cf0-425c-8122-1b2c53ab155f"
           },
           {
@@ -3548,6 +3554,9 @@
           },
           {
             "systemctl": "044b4897-60c9-4349-9a5d-a8d0975af5fa"
+          },
+          {
+            "systemd": "2bf93e44-adcb-4d5a-9d85-4d82015e6983"
           },
           {
             "tar": "d2272d3a-0619-4303-b230-f8c6ae73d436"
@@ -5138,7 +5147,7 @@
         ]
       },
       {
-        "CGFS Personal Persona Data Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
+        "CGFS Persona Data Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
       },
       {
         "CGFS Specification": "8a7e9ee4-c32a-47af-8e79-8c1c85a85f12"
@@ -5166,6 +5175,9 @@
       },
       {
         "Epic User Journeys": "c81f0da9-8d82-4176-8458-cfb3d06924c4"
+      },
+      {
+        "QE Meme Schema": "5be0be92-f274-43f4-bdde-4cec676ab084"
       }
     ]
   },
@@ -9001,7 +9013,7 @@
             "ETL to QE, Update 25, Research is one thing a usable product is quite another": "0688a5f2-87e0-4754-b09b-88b09b92ebd8"
           },
           {
-            "ETL to QE, Update 26, Roadmap Revisited and Scalable Memes": "a6694d76-0b96-4dd7-8f4a-8d213fef86f0"
+            "ETL to QE, Update 26, Observe and Orient": "a6694d76-0b96-4dd7-8f4a-8d213fef86f0"
           },
           {
             "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
@@ -10686,6 +10698,9 @@
       },
       {
         "Roadmap - Dentropy Daemon 0.0.1": "8d4d461f-49f7-4dbd-829f-807d0bb602df"
+      },
+      {
+        "Roadmap - Dentropy Daemon 0.0.2": "35c32ef3-4e1c-4ec2-bde4-c20cb454d39f"
       },
       {
         "Roadmap - DentropyCloud": "f6ae9aa0-41dc-431d-972c-47cfe397fda2"
