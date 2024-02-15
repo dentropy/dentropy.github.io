@@ -54,6 +54,8 @@ title: Facebook
 
 * [Social Media Platforms](/5e30f762-9b65-479a-9d72-e84a5d9e12da)
 * [Research - Format of messages from different messaging apps](/6af8ae27-bf2e-4228-aaba-d28f82f4e329)
+* [ETL to QE, Update 24, Roadmap Revisited with Memes](/89c90b4a-2065-4b58-93eb-107794ed8671)
+* [ETL to QE, Update 24, Roadmap Revisited with Memes](/89c90b4a-2065-4b58-93eb-107794ed8671)
 * [Namespace Knowledge Schemas](/98674655-97b4-4c2d-a7ce-4ae6967044ac)
 * [home - Screen](/0cc409fa-8498-41ea-bc37-4cdf82686746)
 * [Face Smash](/2ba669ed-029a-4b54-9a6f-237148aaf6f4)

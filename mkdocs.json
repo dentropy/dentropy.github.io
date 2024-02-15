@@ -1036,6 +1036,9 @@
             "Airtable": "b41b6d77-6dc8-4050-9986-e046eb8d4cfa"
           },
           {
+            "Akash Network": "f106e394-2b6d-4ad0-9386-08c5679842af"
+          },
+          {
             "Algorand": "41ceec84-6c55-40a4-a454-920c38027c7c"
           },
           {
@@ -1144,6 +1147,9 @@
             "Beeper": "a54ec889-fd2f-422f-9b7d-36831ea8a12a"
           },
           {
+            "Benchling": "7aceb285-a91c-4d6b-8c50-e5d1e7be0dbd"
+          },
+          {
             "Bind9": "ae8f6e7d-2e46-4308-b162-70c5e49bae9f"
           },
           {
@@ -1157,6 +1163,12 @@
           },
           {
             "Bitfinity": "96ff4833-d4ee-40c1-be26-7b0a6daafe36"
+          },
+          {
+            "Bitwarden": "d074796b-e9ea-490d-81e7-8980f0d1288a"
+          },
+          {
+            "Blockchain Wallets": "10944f11-fe2d-4348-9497-ae49a93c4c8e"
           },
           {
             "Blockscout": "cefe77de-ab0b-47e6-9629-86fae2ff36f0"
@@ -1403,6 +1415,9 @@
           },
           {
             "Electron Software": "393cce93-b698-40cf-bfbb-51f0fcfc1734"
+          },
+          {
+            "Electronic Lab Notebook": "1460c2bc-e6fb-42cb-acb9-026e018c78f5"
           },
           {
             "Element For Matrix Protocol": "9158b8fa-8cd1-4fe7-af66-8f4cccde3c79"
@@ -1696,6 +1711,9 @@
             "IPFS Peer Identity": "f1be0323-ea8b-476d-ae4b-ede73ae2adf4"
           },
           {
+            "IPFS- Kugo": "0bf132f6-0a0e-4bd3-9b8e-1ed31de58363"
+          },
+          {
             "IPFS": "e1636216-dee3-430e-949c-3b2c24c36701"
           },
           {
@@ -1793,6 +1811,9 @@
           },
           {
             "LM Studio": "fab4d5b4-4863-4109-baea-5b376fe1910c"
+          },
+          {
+            "Lab Guru": "d5de47da-43e0-4061-9723-a3eb3976e7c6"
           },
           {
             "Lang Chain": "f2746cd8-46b4-4d36-a3d7-cfe8937bbe96"
@@ -2350,6 +2371,9 @@
             "Realm": "c181e631-20c0-4b54-83c7-d9bc41bc96bf"
           },
           {
+            "Rectangle MacOS": "70f59c68-c992-45dd-b257-8098329cb98d"
+          },
+          {
             "Reddit": "c7b0b5e1-52e9-45e9-b17f-8377b7883aa5"
           },
           {
@@ -2456,6 +2480,12 @@
           },
           {
             "Sobol.io": "4d2a9441-0c44-4723-a392-2c8d2ad6601c"
+          },
+          {
+            "Solana web3js": "ad3a13f6-13c0-4676-80d6-5c9f442059a5"
+          },
+          {
+            "Solflare": "35f10ddd-8b1e-41cd-8222-32a4545b26ac"
           },
           {
             "Solid Protocol": "f04c21f5-fcca-4a30-9cf4-5686a95bb0c4"
@@ -2788,6 +2818,9 @@
             "Zulip": "0a129b23-c38a-4bd3-8802-f5c1b7ca1b09"
           },
           {
+            "age-encryption": "ee76ebf3-b313-4d6e-b115-1217ee168781"
+          },
+          {
             "ajv": "368549f6-ade2-4205-b763-8915c962e113"
           },
           {
@@ -2815,6 +2848,9 @@
             "beets-audible": "533a2f18-a660-4f10-912a-543a7c36bd05"
           },
           {
+            "bitcoinjs-lib": "941b063a-6fe9-4900-b67c-281d9c92822d"
+          },
+          {
             "blot.im": "e5a9738a-f376-4118-a5f6-6fcb21588258"
           },
           {
@@ -2822,6 +2858,9 @@
           },
           {
             "cadvisor": "6f1aa40c-33ab-4b52-b391-91feb7604c1c"
+          },
+          {
+            "cardano-wallet-js": "de0f742e-bde2-400b-9c6a-ec38f8d303e7"
           },
           {
             "ceph": "a85c2a12-44ee-4015-b459-28e56b3e5c45"
@@ -2843,6 +2882,9 @@
           },
           {
             "cron": "114a8409-b525-455e-8428-6bdfb14b6f55"
+          },
+          {
+            "crypto-js": "4e7ba573-8031-46ba-b406-4a4c954230b4"
           },
           {
             "csv": "97d87a5f-1ad1-4188-9d11-b0051acf8a88"
@@ -3016,6 +3058,9 @@
             "gridjs": "2dd9bb42-a018-4f69-a856-b4a792274b6d"
           },
           {
+            "gvm": "fc91b6f5-9922-4f11-9575-e7a3475915fd"
+          },
+          {
             "gzip": "90de346e-8be7-4454-8355-c430cda75b4d"
           },
           {
@@ -3040,6 +3085,9 @@
             "ipfs-car": "a5f00d8b-caf0-48f5-82cc-383380c59a14"
           },
           {
+            "ipfs-nucleus": "286ac6c5-6107-47a2-a4bc-517afc7fc78e"
+          },
+          {
             "ipfs-social-proof": "96fd16b6-f52e-4a5a-9c58-bdb471205715"
           },
           {
@@ -3050,6 +3098,9 @@
           },
           {
             "irchiver": "4bf832ee-c913-41d1-86c5-cf82550d16e4"
+          },
+          {
+            "jenv": "e47d9e79-bfcb-49c8-b6ed-8cd583255e5c"
           },
           {
             "journalctl": "45e80be0-f479-49ef-992b-493aecce88ab"
@@ -3118,10 +3169,16 @@
             "languagetool": "c0261b8e-ce72-4d26-aadb-29b7159c42f2"
           },
           {
+            "libkeybase-js": "e51d0d6e-77c4-4056-9ca7-d861fd44ff39"
+          },
+          {
             "libp2p": "e257272f-7f6f-497e-a678-0649148b9458"
           },
           {
             "librephotos": "12d4ab7b-2fcd-468a-a04e-4fb4168f9e88"
+          },
+          {
+            "libsodium": "445bb786-1847-4f51-b55b-94d00c39b541"
           },
           {
             "linux": "92dd5bac-e9a3-40b5-9b4d-d776c3bfc784"
@@ -3238,6 +3295,9 @@
             "nmap": "bcdbfa9f-79b2-485f-97e3-db7d30970a3d"
           },
           {
+            "node-sshpk": "3c9b476d-7fc7-4756-8ec8-ee1cbb32f63a"
+          },
+          {
             "nodejs better-sqlite3": "0d770ab2-d1eb-43bd-8de8-4213fd6971c1"
           },
           {
@@ -3248,6 +3308,9 @@
           },
           {
             "nostr-rs-relay": "cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750"
+          },
+          {
+            "nostr-tools": "e4593c48-11c2-474d-9d51-f479edfd51f6"
           },
           {
             "nostr.cooking": "8310fda2-698c-4659-9d84-564eeb5f2662"
@@ -3278,6 +3341,12 @@
           },
           {
             "openobserve": "afd34891-bd19-484b-a122-57b34254f6e6"
+          },
+          {
+            "openpgp js": "70086c2c-2b63-4270-b784-d2a495ce6da1"
+          },
+          {
+            "openpgp": "3e9a4ca9-6c4d-43a6-bab7-f01f0cccd855"
           },
           {
             "org-mode": "c62c8cf0-9f46-48fd-a24e-e6af99f5417d"
@@ -3427,6 +3496,12 @@
             "snipe-it": "04730aed-d75b-41ea-aef7-cacced36e9e3"
           },
           {
+            "snippet": "655e9081-16a4-40c5-af04-f4ecdca98cde"
+          },
+          {
+            "somachat": "2c4b5925-c62b-44a5-8aff-2001ef9db881"
+          },
+          {
             "spacy-llm": "36f46138-ae35-4afb-8df4-9d2be12423d1"
           },
           {
@@ -3542,6 +3617,9 @@
           },
           {
             "web3": "d06d3d5a-0c86-4229-a46a-4ef53b614759"
+          },
+          {
+            "web3js": "de1a8edc-18d7-42c1-bab4-686dbc427a18"
           },
           {
             "webtorrent": "b19e478c-5609-4ffe-aac6-6e32214a7805"
@@ -4165,6 +4243,9 @@
         "Kan Board": "21e152ea-802c-4101-9910-90ca9a0b4a23"
       },
       {
+        "Lab Management Software": "c7035155-b5fc-4fe2-a2b2-f8bd0eb29d40"
+      },
+      {
         "MacOS Fresh Install": "656dc143-6511-423c-8ce1-c6cda77b8f2f"
       },
       {
@@ -4187,6 +4268,9 @@
       },
       {
         "Pastebin Software": "8fd99fbd-efd5-4549-b944-a8120c71f3d2"
+      },
+      {
+        "Review Blockchain Wallets": "8a13a93d-1a96-4977-a05d-7781e3d722ea"
       },
       {
         "Self Hosted Platforms": "69c72ebe-ae25-4212-acb1-fb0c32f0e070"
@@ -4985,6 +5069,9 @@
       },
       {
         "Brand Elements": [
+          {
+            "DDaemon - Brand Elements": "83cb4e78-016e-4a9f-bcc4-e0dd9743d696"
+          },
           {
             "DDaemon - Two Root Problems": "38fcd810-80ab-4de0-8ad4-9c66da369de3"
           }
@@ -6047,6 +6134,9 @@
             "Algorithmic Reflection": "d956df02-ea51-491b-a2a3-edd25c1666c7"
           },
           {
+            "All work and no play makes Jack a dull boy.": "df488c72-bd4f-4f90-850e-7fbf815e16a8"
+          },
+          {
             "Allometic Laws": "e6ce0e5e-107b-419f-b83d-68533ba7c3a1"
           },
           {
@@ -6084,6 +6174,9 @@
           },
           {
             "Ascetic Ideal": "34ed3679-99eb-4f8f-a4a1-92441ddfda61"
+          },
+          {
+            "Atlantis": "b2c955fc-3097-46c1-b46b-3ca30fdde899"
           },
           {
             "Authenticity": "0b0f22f4-b3f2-4bd0-a8e6-47a46491c041"
@@ -6144,6 +6237,9 @@
           },
           {
             "Big Five Personality Traits": "98bd1412-f674-4a4b-bb84-5bfc1b26b3c3"
+          },
+          {
+            "Biology": "89120ef6-487f-460a-8cb2-33c7ac246911"
           },
           {
             "Bird": "14928e6c-b858-4a08-be9a-00e304cd3b6f"
@@ -6362,6 +6458,9 @@
             "Cryptography": "391ab4bd-43fd-44fc-9813-82da7807e0df"
           },
           {
+            "Curve25519": "16b06b44-4d6c-4f7f-9c3a-63e68298aa04"
+          },
+          {
             "Customer lifetime value model": "89bed915-b117-4af6-8d58-7af46eccdfb9"
           },
           {
@@ -6458,6 +6557,9 @@
             "Demisexual": "36238004-9b3a-47ae-8bc4-6bfb39fca9fa"
           },
           {
+            "Denazification": "0ad61288-7db9-493c-aebc-21eeaf2a4a21"
+          },
+          {
             "Denormalization": "030ae2e4-3ea1-4140-b91c-e58ec8caf78d"
           },
           {
@@ -6552,6 +6654,9 @@
           },
           {
             "Ed25519": "f4a2bcb6-51c5-42ba-9f95-b08a0e5a4730"
+          },
+          {
+            "Edwards Curves": "64cf5cba-2089-4348-a0fa-d368f51d1b8e"
           },
           {
             "Effective Accelerationism": "ef09f823-0d0d-4d76-a1bd-5d80e597c9cd"
@@ -6842,6 +6947,9 @@
             "I am thou... Thou art I...": "fcdb6d4e-792d-4dcd-8a9f-9d8b13ed4633"
           },
           {
+            "I enjoy being me": "1ebda4b0-19d0-45ef-a142-3ed2dbf82136"
+          },
+          {
             "ICO Yourself": "a3fa8523-515a-475f-8aaa-a76d10bd16cb"
           },
           {
@@ -6939,6 +7047,9 @@
           },
           {
             "Internet of Things": "48fe8904-225b-4aea-9663-804ce3520455"
+          },
+          {
+            "Islander Training": "84f75b3f-8775-4331-80ab-1163cef42bc4"
           },
           {
             "JSON Web Token": "f7619f8b-09c3-42ed-afed-a5dd2acac315"
@@ -7199,6 +7310,9 @@
             "NFT": "1dc1e76e-7ad5-428c-97bf-8d86ea6808d9"
           },
           {
+            "NIST Curves": "d6cba5f7-73bc-4d58-bbe8-cdd307144a9c"
+          },
+          {
             "NLP": "5cd22bfe-14f1-4724-9560-95a24b8cb849"
           },
           {
@@ -7257,6 +7371,9 @@
           },
           {
             "OLAP vs OLTP": "283d27f8-1257-438b-9159-5fc825d17eb1"
+          },
+          {
+            "OSI Model": "a34f8b97-f40f-4268-b8cd-e521e23400cd"
           },
           {
             "OSINT": "e5a5a594-f979-4aa3-bbd0-da97ff62c224"
@@ -7484,6 +7601,9 @@
             "README": "d8c7020b-fa33-4a44-b3b2-b9daab505ff6"
           },
           {
+            "RSA": "f04a63f2-68b0-49cc-9fef-b93dee955a09"
+          },
+          {
             "Ractor": "21f6031d-e0a8-43a2-8af7-bf02889f025d"
           },
           {
@@ -7701,6 +7821,9 @@
           },
           {
             "Tabletop Roleplaying Games": "b8ed90ee-7105-421d-a129-d1e2cd74b71b"
+          },
+          {
+            "Talk does not cook rice": "de0110dc-cca0-4ef5-a61d-628131122e4e"
           },
           {
             "Technological Singularity": "fa4a378f-e4b7-4d57-982b-b847ba23ecc4"
@@ -8081,6 +8204,9 @@
             "fractal resonance": "c8724c97-18ca-4be6-ab2b-d737a036fa5e"
           },
           {
+            "glowies": "110e1452-ae53-4290-833c-3435eccb13cc"
+          },
+          {
             "graphs": "f17f125a-67fe-4243-aab9-a200db034b5d"
           },
           {
@@ -8118,6 +8244,9 @@
           },
           {
             "incel": "634a87e7-e5bd-44be-bf18-148e712bfbdd"
+          },
+          {
+            "informational cancer in cyberspace": "72ce434d-4925-4af2-8ca3-45e16848081a"
           },
           {
             "internet": "a2b70820-68e9-4593-940d-28cae928ecb1"
@@ -8250,6 +8379,9 @@
           },
           {
             "sexisim": "fb5cfe94-7fbd-4077-a788-99ce3978e330"
+          },
+          {
+            "skeuomorphic": "f1acec51-3574-49c3-9fe2-0c813ccd54d8"
           },
           {
             "slashdot": "e822a467-8201-4456-937e-b46ac654dbb5"
@@ -8863,7 +8995,13 @@
             "ETL to QE, Update 23, Designing and Checking my Premises": "2bd9365f-daba-418c-bbe8-3aed2804909d"
           },
           {
+            "ETL to QE, Update 24, Roadmap Revisited with Memes": "89c90b4a-2065-4b58-93eb-107794ed8671"
+          },
+          {
             "ETL to QE, Update 25, Research is one thing a usable product is quite another": "0688a5f2-87e0-4754-b09b-88b09b92ebd8"
+          },
+          {
+            "ETL to QE, Update 26, Roadmap Revisited and Scalable Memes": "a6694d76-0b96-4dd7-8f4a-8d213fef86f0"
           },
           {
             "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
@@ -9609,6 +9747,9 @@
             "How to edit a file inside a Desk from inside Dojo?": "ed0f66f5-3cfd-459f-bded-decfb2cb02ef"
           },
           {
+            "How to export sqlite schema?": "578fd026-8ce6-4cb3-9de4-5b6474a0685e"
+          },
+          {
             "How to find copies of the same file and images within a directory?": "2ce63d39-0b1a-4dbe-85a4-fcc67acabda6"
           },
           {
@@ -9870,6 +10011,9 @@
             "What is the best way to produce a large merkle tree?": "1a2fa5ec-813a-48f9-bb95-1f8f313cca8d"
           },
           {
+            "What is the daemon?": "43179a38-12ad-42a7-a9bb-7e75f3a184f2"
+          },
+          {
             "What is the date of their latest tweet?": "dad75ab3-22a0-4bd2-bf53-4c0c774ce8c8"
           },
           {
@@ -10104,6 +10248,9 @@
         "JSON in sqlite": "b1112011-a44d-4764-bff7-21b74dc2e57c"
       },
       {
+        "JSONSchema + jq Tutorial": "24e80f52-8991-4499-b02c-e313131904d0"
+      },
+      {
         "Mastering Docker": "a00212a5-a743-4dfe-a796-eb8c0bb65233"
       },
       {
@@ -10138,9 +10285,6 @@
       },
       {
         "docker nginx proxy with auth": "c9972dec-d741-4735-9998-1c81b5e0c192"
-      },
-      {
-        "jsonschema Tutorial": "24e80f52-8991-4499-b02c-e313131904d0"
       }
     ]
   },
@@ -10240,6 +10384,9 @@
         "DNS": "6f2b1d6c-3b38-4e05-bf02-69af4d23f098"
       },
       {
+        "DSA": "cf443c81-5b28-4676-b1cf-9dd17bb7bd00"
+      },
+      {
         "DSM": "b726e1ed-3b47-44ef-9f45-e2c1bda40c09"
       },
       {
@@ -10247,6 +10394,9 @@
       },
       {
         "E2EE": "817a16c2-2d14-4abc-9054-1a3a71b118d9"
+      },
+      {
+        "ECDSA": "94d325bf-7a5f-4074-8ec8-12953526c530"
       },
       {
         "EGP": "83279a8d-9ef4-4323-841a-943c15d1aa7f"
@@ -10391,6 +10541,9 @@
       },
       {
         "PII": "9fe2504c-85d1-4d2e-bad6-f69baa1a72c0"
+      },
+      {
+        "PKCS": "aba07640-0f98-4461-8ecc-a6a3e74f68b7"
       },
       {
         "PKI": "93f10d7f-09ea-4f32-85c9-a0f8f334fff1"
