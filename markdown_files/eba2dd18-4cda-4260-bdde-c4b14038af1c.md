@@ -3,9 +3,21 @@ share: true
 uuid: eba2dd18-4cda-4260-bdde-c4b14038af1c
 title: twitter-scraper
 ---
+#### Last Update
+
+* I want to retest this one
+	* [the-convocation/twitter-scraper: A port of n0madic/twitter-scraper to Node.js.](https://github.com/the-convocation/twitter-scraper)
+	* [CORS proxy - npm search](https://www.npmjs.com/search?q=CORS%20proxy)
+	* [local-cors-proxy - npm](https://www.npmjs.com/package/local-cors-proxy)
+* This one seems well supported by the SAAS behind it, maybe just try the SaaS
+	* [metascraper - npm](https://www.npmjs.com/package/metascraper)
+	* [microlinkhq/metascraper: Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.](https://github.com/microlinkhq/metascraper)
+
+
 #### TO Test
 
 * [twitter-api-client](../35341725-9479-4657-988c-e14a766cc7a2)
+	* Doesn't quite work
 * [FixTweet/FxTwitter: Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others](https://github.com/FixTweet/FxTwitter)
 
 ## WORKS vladkens/twscrape

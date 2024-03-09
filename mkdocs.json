@@ -647,6 +647,9 @@
                 ]
               },
               {
+                "Nodejs csv": "aac7fe63-c504-4194-b599-331221b5af1f"
+              },
+              {
                 "Unit Testing": "140fa37f-55c3-450c-8b5a-845c49a61469"
               },
               {
@@ -654,9 +657,6 @@
               },
               {
                 "boilerplate": "2d8ed80e-7a4f-42db-bebc-e105943cfe63"
-              },
-              {
-                "csv": "aac7fe63-c504-4194-b599-331221b5af1f"
               },
               {
                 "gitignore": "eb29449c-a422-4ade-a370-c9ce73bc1f34"
@@ -997,6 +997,9 @@
             " Matrix": "20eff7d0-f3d2-4c79-8431-022fb64ee04c"
           },
           {
+            "0ad": "85950d94-d09a-4424-b454-55f62fd6184b"
+          },
+          {
             "A Expo": "164855b1-2f14-4f3e-8aa2-b6b4eeb17fb7"
           },
           {
@@ -1024,6 +1027,9 @@
             "Additor": "41a08157-3b15-4c2a-8836-35b97fa97131"
           },
           {
+            "Age of Empires 2": "d5eddee3-3c6b-40c7-8127-7c998d6473d6"
+          },
+          {
             "Age software": "fb4bc5ab-ea80-4856-a0ba-f2396175a226"
           },
           {
@@ -1037,6 +1043,9 @@
           },
           {
             "Akash Network": "f106e394-2b6d-4ad0-9386-08c5679842af"
+          },
+          {
+            "Alchemy Web3": "4daecf4e-e965-495f-b94d-396c7151c163"
           },
           {
             "Algorand": "41ceec84-6c55-40a4-a454-920c38027c7c"
@@ -1114,6 +1123,9 @@
             "Arduino_JSON": "2ba3f645-a3c8-4559-853d-9d1c953ad1a9"
           },
           {
+            "Artemis Spaceship Bridge Simulator": "26bab580-51c1-42e4-a0ba-218f1a1fefbe"
+          },
+          {
             "Arweave": "e4e8d9c8-f039-4c21-bf25-35d36feb3f7b"
           },
           {
@@ -1133,6 +1145,9 @@
           },
           {
             "AutoGPT": "494282ee-3cf9-44cd-b1dd-e9fb4e1b23c2"
+          },
+          {
+            "Awesomenauts": "cc1919ec-0717-45d2-a53f-ebf40a100366"
           },
           {
             "BERT": "6d64407b-22ff-4b5a-a930-1d5c20edeeec"
@@ -1156,6 +1171,9 @@
             "Benchling": "7aceb285-a91c-4d6b-8c50-e5d1e7be0dbd"
           },
           {
+            "Beyond all Reason": "4f4a9ad0-b5f3-4ac9-bf20-72769d56f8b9"
+          },
+          {
             "Bind9": "ae8f6e7d-2e46-4308-b162-70c5e49bae9f"
           },
           {
@@ -1166,6 +1184,9 @@
           },
           {
             "BitChute": "5a46b966-f4d4-45b6-9df4-32c4af4c9ca4"
+          },
+          {
+            "Bitcoin Lightning Network": "75afb5eb-509b-4f13-8c36-39e20b9153f6"
           },
           {
             "Bitfinity": "96ff4833-d4ee-40c1-be26-7b0a6daafe36"
@@ -1213,7 +1234,19 @@
             "CIDOC-CRM": "b1e2e33b-a21c-46fc-8963-03edd98089bb"
           },
           {
+            "COD 4": "7456a711-f88b-4841-9edc-9c0e75b4ae58"
+          },
+          {
             "CQL": "b158632f-d207-407b-8be2-16ac46fdf61d"
+          },
+          {
+            "CS Go": "a01097b8-5ba8-463f-bf3d-41af82c2d372"
+          },
+          {
+            "CSV Software": "97d87a5f-1ad1-4188-9d11-b0051acf8a88"
+          },
+          {
+            "Caddy": "eddb09d0-9b00-4d82-abfe-2ba84c188dfa"
           },
           {
             "Calibre": "e326e3c9-4fe3-48e2-bcd9-d0bc5f0a337e"
@@ -1246,7 +1279,13 @@
             "Chatbot Arena": "c4a56cee-e08a-4938-9c0d-b5ba2af4ee8b"
           },
           {
+            "Chromium --allow-running-insecure-content": "dbce8731-455a-414d-af09-d9c03f65a4e8"
+          },
+          {
             "Chromium Based Browser": "162dc2db-b794-4e56-b32c-82f6b327a5f0"
+          },
+          {
+            "Chromium": "e9dcbb85-e010-4a16-970f-255045f0530d"
           },
           {
             "Cirus": "397cb131-650c-4f9a-9f25-ba928253e0ce"
@@ -1345,6 +1384,9 @@
             "Dataverse": "a4ac1747-bfb6-4008-ac30-45f437b52dfd"
           },
           {
+            "Dawn of War Warhammer 40k": "1bbb6734-e34b-413c-b9b6-6f835535c004"
+          },
+          {
             "DeDRM": "15ca4cd3-c871-4cdf-9a09-0332f1d9d22b"
           },
           {
@@ -1433,6 +1475,9 @@
           },
           {
             "Email": "ee10d3a4-1249-412c-a6eb-cd8efbcb3978"
+          },
+          {
+            "Empire Earth 2": "cce3f628-8c22-4068-bbeb-bb43766e1d91"
           },
           {
             "EteSync": "e10bdd5e-16bb-4c28-9839-f83ffe7f5b02"
@@ -1537,6 +1582,9 @@
             "FreeIPA": "bd65f254-cdb5-41f3-b2ed-1fb67e71b728"
           },
           {
+            "Frogger": "be0ec6bb-4f46-4017-ae69-6343e4d876ad"
+          },
+          {
             "FunctionLand": "82dbe3dc-bdf0-488b-80a9-85562a3689e4"
           },
           {
@@ -1550,6 +1598,9 @@
           },
           {
             "Garage S3": "2d104915-33d6-44cb-8256-0bcba1347d58"
+          },
+          {
+            "Gary's Mod": "44c5518e-a436-4589-9c59-0d5e39d40ba7"
           },
           {
             "Gather.town": "13cd6141-3ced-4c7f-8ee1-9c2bc14f42da"
@@ -1624,7 +1675,7 @@
             "Guildhall guilds.xyz": "1dcd4621-390d-4d8f-a2d5-3caba4a60b82"
           },
           {
-            "GunDB": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf"
+            "GunDB gun.js": "8f3e0515-4b00-4f3e-b694-8ea82fa38baf"
           },
           {
             "HTML": "272babbb-b019-4290-941a-01ae25d07fe1"
@@ -1634,6 +1685,9 @@
           },
           {
             "Hacker News": "1d3b71d2-9f64-4c65-be3e-17f4318041e0"
+          },
+          {
+            "Halo CE": "56f40d02-9b50-4780-9e7d-731a24ae3f23"
           },
           {
             "Hamilton DAG": "a83ae1cd-71ba-4fe6-846f-2c169a802b9a"
@@ -1660,6 +1714,9 @@
             "Headway App": "6754ae67-90e5-4b27-b259-4424383d9dd5"
           },
           {
+            "Helia": "5d0d438a-16de-4cb5-8054-602f0847112d"
+          },
+          {
             "Heptabase": "9bbe63ce-8f8f-44e4-8bb5-72cc1be20fc3"
           },
           {
@@ -1667,6 +1724,9 @@
           },
           {
             "Highlighter.com": "264edd2e-40e1-43a1-ba82-9b626b374af9"
+          },
+          {
+            "Hindsight": "0e86ed25-64e3-4b10-9e53-51489f091dbb"
           },
           {
             "Hishtory": "531fb9de-0cc7-4453-8ba7-ae1cbf6dc214"
@@ -1718,6 +1778,12 @@
           },
           {
             "IPFS Peer Identity": "f1be0323-ea8b-476d-ae4b-ede73ae2adf4"
+          },
+          {
+            "IPFS Stores": "c08e1848-c53e-4edc-9b11-e85f341fb7bc"
+          },
+          {
+            "IPFS UnixFS": "b6e5b09d-6901-4eb5-97c0-814384aa6e4a"
           },
           {
             "IPFS- Kugo": "0bf132f6-0a0e-4bd3-9b8e-1ed31de58363"
@@ -1822,6 +1888,9 @@
             "LM Studio": "fab4d5b4-4863-4109-baea-5b376fe1910c"
           },
           {
+            "LNBits": "a14fe5ac-c270-4495-bc13-b615fca6c865"
+          },
+          {
             "Lab Guru": "d5de47da-43e0-4061-9723-a3eb3976e7c6"
           },
           {
@@ -1835,6 +1904,9 @@
           },
           {
             "Langserve": "d13af8ed-071d-491a-b7f0-76dacbfc9060"
+          },
+          {
+            "League of Legends": "6cd6e4aa-7932-42e1-beeb-71c39308d0b3"
           },
           {
             "Ledger Live": "a68e7ddb-710a-42fb-901d-eeeac286b2d8"
@@ -1856,6 +1928,9 @@
           },
           {
             "LevelDB": "d2b82b35-1969-4924-938c-f80733b7099b"
+          },
+          {
+            "Libre Office": "876fe92e-04fb-4403-badd-fb72f36909a5"
           },
           {
             "Link Aggregators": "eab4d9c9-d988-4d1e-8b31-ddef8133b10f"
@@ -1969,6 +2044,9 @@
             "Milanote": "ac5d90e1-1c58-49d8-999d-ddad9ed89c3b"
           },
           {
+            "Minecraft": "9fb7dc18-3342-4c42-9372-cef3a6a05336"
+          },
+          {
             "Miniflux RSS": "0cf0803d-1a0f-4c50-9128-9ebbd8878757"
           },
           {
@@ -1993,6 +2071,9 @@
             "Multi On": "8ab360ae-e3bc-4d23-a60c-23847e562228"
           },
           {
+            "Multiformats": "5ca2a82c-f00e-43eb-bc7e-7fdde4012434"
+          },
+          {
             "MyAnimeList": "17c7d18c-4aff-44ef-a0b6-576af43a78b9"
           },
           {
@@ -2002,7 +2083,13 @@
             "NATS": "6ecbaee4-8c95-44e7-a242-9a084d89074e"
           },
           {
+            "NIP-05": "40890ebc-0879-4fab-8c1d-c9a3e583aa74"
+          },
+          {
             "NIP-07": "8d015c0e-3b3b-4346-b04b-ae60b1d31769"
+          },
+          {
+            "NIP-16": "6db3c7aa-27b9-4be8-b386-d7087c712e05"
           },
           {
             "NIX OS": "827f3235-a73a-426e-941e-59f25625f426"
@@ -2047,10 +2134,10 @@
             "Nostr Badges": "e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0"
           },
           {
-            "Nostr NIP 05": "8db2dd22-7235-4c50-bd6d-d79b4a55e879"
+            "Nostr NIP 11": "62987d3a-b320-4b5b-b762-e49ee3508f3f"
           },
           {
-            "Nostr NIP 11": "62987d3a-b320-4b5b-b762-e49ee3508f3f"
+            "Nostr NIP-05": "8db2dd22-7235-4c50-bd6d-d79b4a55e879"
           },
           {
             "Nostr": "78abfe73-37cb-4f3b-9e08-faad85669fb7"
@@ -2161,6 +2248,9 @@
             "OpenLDAP": "c86697b4-258d-4e5c-8076-bd1d94e8fc54"
           },
           {
+            "OpenTTD": "a44ed4ed-d3bc-4d64-85ea-80b4a32d8db0"
+          },
+          {
             "OpenTasks": "036e6eda-b0f2-4145-adbc-0a5d47971028"
           },
           {
@@ -2174,6 +2264,9 @@
           },
           {
             "OpenZeppelin": "bc5c9f7c-7676-42cc-a070-971d9400cea1"
+          },
+          {
+            "Openllmetry": "a9ee92fe-64cb-4bdd-82ae-9f6f3ccfbe91"
           },
           {
             "Opensearch": "4cf4d838-1c65-43c5-8b4f-936c99b48350"
@@ -2207,6 +2300,9 @@
           },
           {
             "Passky": "7fa8de8e-e71d-4524-8c3b-455ae03e5500"
+          },
+          {
+            "Payday 2": "8517897e-59e0-40a3-a655-dacf63312ad3"
           },
           {
             "PeerGos": "ae681009-35f1-44ee-8830-408df0c5a2f8"
@@ -2455,16 +2551,25 @@
             "Searx": "83df7227-4614-446f-9e70-f77c4030ddad"
           },
           {
+            "Seaweedfs": "06959175-fe32-4209-a04a-c01515c070c0"
+          },
+          {
             "SelectorGadget": "4279476e-abad-486b-b860-f61060b7e8ca"
           },
           {
             "Selenium": "56e3cca8-c586-4d84-8e61-4ceb272580d1"
           },
           {
+            "Semantic Markdown": "bebec34c-ee82-4709-a575-5906e644edac"
+          },
+          {
             "Sharedrop": "41f593d5-5536-474f-b3ad-bf43d03746a4"
           },
           {
             "Sharepoint": "5c7cb257-9ea7-4dcf-9c76-62a9f903c6df"
+          },
+          {
+            "SigmaJS": "04345548-7d58-4376-b40d-088c9d5e78c0"
           },
           {
             "Signal": "e7a856fa-454b-42be-9509-110980d279fc"
@@ -2524,6 +2629,9 @@
             "Sqlite in nodejs": "8de02b07-3f06-42dd-ab2b-216d03487a06"
           },
           {
+            "Star Wars Battlefront": "49ed8ffe-78a3-4b2c-9c13-6b6177db1a76"
+          },
+          {
             "Startup Applications Gnome": "93da99fe-fb0e-45ff-9f70-96a28dfe4ffd"
           },
           {
@@ -2576,6 +2684,9 @@
           },
           {
             "Szyszka": "5a82c311-3cf0-425c-8122-1b2c53ab155f"
+          },
+          {
+            "TF2": "ca06d0a1-e309-4272-a975-58e976147805"
           },
           {
             "TMDB": "8d3dbe79-fafe-4d12-811e-ed8f137f5549"
@@ -2635,6 +2746,9 @@
             "TopicGPT": "43a10b26-0269-4ebe-9fe9-468654b529f5"
           },
           {
+            "Total Annihilation Titans": "880211ab-0847-4022-95b6-f5ae1b9d5252"
+          },
+          {
             "Tox": "dc867e5b-6aee-4e82-8140-3ce94047e0e3"
           },
           {
@@ -2671,6 +2785,9 @@
             "Twitter": "335d3083-0670-4fc8-aa73-62e970123289"
           },
           {
+            "Typing Mind": "f8c2085b-55b3-4fb1-8253-1b1b417d4d57"
+          },
+          {
             "UFW - Uncomplicated Fire Wall": "1d60cf49-a13e-41aa-9926-eb4560f11936"
           },
           {
@@ -2681,6 +2798,9 @@
           },
           {
             "Unraid": "98d27b77-5c46-46c6-bc0a-0a58ec5cd72b"
+          },
+          {
+            "Unreal Tournament": "4133814b-c68b-4fa4-b93b-c1fea6356a17"
           },
           {
             "Upwork": "6647e7ea-14ae-4e14-b536-f7d952d70d26"
@@ -2720,6 +2840,9 @@
           },
           {
             "Wallabag": "a77a4e60-ee82-4f5d-933d-fa2819d2dc2f"
+          },
+          {
+            "Warcraft III": "30370957-f686-4ce9-9c55-ae2cd3919738"
           },
           {
             "Wayland": "44f3c8f7-ce5d-4a19-a5a0-b6343c6ef137"
@@ -2791,6 +2914,9 @@
             "Write Freely": "52cc940b-cfb1-4ee8-8707-61ab6d304ce8"
           },
           {
+            "X25519": "053f3481-01bc-4f80-a214-a4f70f181653"
+          },
+          {
             "XKeyscore": "72758d0b-a14b-4afe-a512-5484219cd49d"
           },
           {
@@ -2822,6 +2948,9 @@
           },
           {
             "Zulip": "0a129b23-c38a-4bd3-8802-f5c1b7ca1b09"
+          },
+          {
+            "afraid.org": "988d6663-f709-40f5-979c-6b87ff5bf363"
           },
           {
             "age-encryption": "ee76ebf3-b313-4d6e-b115-1217ee168781"
@@ -2878,6 +3007,9 @@
             "codium": "edb5213d-c56f-451e-812f-fed0c9f4376b"
           },
           {
+            "coinos": "9f81dbbe-b764-44d8-96a1-04adc2201d96"
+          },
+          {
             "conda anaconda": "0a0d238f-87b1-403d-893c-22c804c8f5f6"
           },
           {
@@ -2891,9 +3023,6 @@
           },
           {
             "crypto-js": "4e7ba573-8031-46ba-b406-4a4c954230b4"
-          },
-          {
-            "csv": "97d87a5f-1ad1-4188-9d11-b0051acf8a88"
           },
           {
             "cube js dashboard": "33b20e38-1e7e-4945-816e-58e9c7d58f5b"
@@ -2948,6 +3077,9 @@
           },
           {
             "dweb-mirror": "147ad9fd-a1d8-4f96-8336-6bbd8e40d0d5"
+          },
+          {
+            "ed25519-keygen npm": "46f7c323-ef34-4cbc-aeaf-ca710f79e3fc"
           },
           {
             "emacs": "4a083948-720a-4b27-be17-d6bbe202c7d7"
@@ -3022,6 +3154,9 @@
             "geth": "4c767165-57d2-4a9d-ae15-4341b97dff09"
           },
           {
+            "git submodule": "f4c0649a-4c6b-4fda-acf8-338e50cd6373"
+          },
+          {
             "git-annex": "6f62ccd0-67ac-4a0f-8994-2073ebc1f292"
           },
           {
@@ -3056,6 +3191,9 @@
           },
           {
             "graphviz": "dd1ac33f-5ee0-4b14-ae9c-c7b987687b63"
+          },
+          {
+            "grayjay": "ba5f29da-91cd-4cd0-a415-4bd7ba8ac606"
           },
           {
             "grep": "ea41d9f8-0ac2-4415-9351-e7ace878508a"
@@ -3124,9 +3262,6 @@
             "js-ipns": "e1366737-ea33-4da7-bbb5-1911c74bf9d6"
           },
           {
-            "js-multiformats": "afe316e6-63a9-4007-b1b3-1f7b7ad6660a"
-          },
-          {
             "json2csv": "9614ef64-f63e-4552-8559-a9b1d2c3a65b"
           },
           {
@@ -3173,6 +3308,9 @@
           },
           {
             "languagetool": "c0261b8e-ce72-4d26-aadb-29b7159c42f2"
+          },
+          {
+            "leveldb-cli": "11b11045-7ff4-477e-87b4-92e589b10372"
           },
           {
             "libkeybase-js": "e51d0d6e-77c4-4056-9ca7-d861fd44ff39"
@@ -3259,7 +3397,13 @@
             "moocnote": "d58bd5a0-1a34-41aa-ab05-705c57371452"
           },
           {
+            "multiformats - JavaScript": "afe316e6-63a9-4007-b1b3-1f7b7ad6660a"
+          },
+          {
             "multiformats - python": "9761d8fe-a39b-413e-a94b-6b633f7eaf38"
+          },
+          {
+            "mv": "091d68a4-99bd-4cf8-9271-af5716788d1d"
           },
           {
             "mwoffliner": "cd01cb4c-de28-4355-9b98-309dc70491c7"
@@ -3583,6 +3727,9 @@
             "tuberslab": "bd8d1129-7e80-404a-9b86-bc3eb9f360f3"
           },
           {
+            "tweetnacl": "82318f38-4dec-4efa-b246-b4dff48813f2"
+          },
+          {
             "twitter-api-client": "35341725-9479-4657-988c-e14a766cc7a2"
           },
           {
@@ -3616,6 +3763,9 @@
             "virt-manager": "53947fe3-f5a3-499d-bfa3-5b87194b707a"
           },
           {
+            "vis.js": "216b9031-433f-484a-8063-96f38e92af8f"
+          },
+          {
             "vnc": "ab9a0e2d-001c-48b3-8eeb-13922d696c9f"
           },
           {
@@ -3629,6 +3779,9 @@
           },
           {
             "web3js": "de1a8edc-18d7-42c1-bab4-686dbc427a18"
+          },
+          {
+            "webcrypto": "c8fe4470-f867-4b8d-9f21-feab0f2c61df"
           },
           {
             "webtorrent": "b19e478c-5609-4ffe-aac6-6e32214a7805"
@@ -4155,6 +4308,9 @@
             "RBAC - Rule Base Access Control": "899c9af5-6115-49ab-ab30-a7e4bddec2ff"
           },
           {
+            "Requires wallet": "45515925-8a37-45a5-acac-413be19fd551"
+          },
+          {
             "SAAS - Software As A Service": "d538d7e5-8c92-485d-9034-95f578536e97"
           },
           {
@@ -4240,6 +4396,9 @@
         "Gantt Chart": "e4cec0b3-d3ef-4474-8c06-aba09e81e3d2"
       },
       {
+        "Graph Modelling and Visualization Library for Javascript": "48645e30-ce58-41dd-9068-d5dabe4f14e2"
+      },
+      {
         "Hyper Media Protocols": "ce656af2-551a-4aae-ae59-03aab2dba83c"
       },
       {
@@ -4250,6 +4409,9 @@
       },
       {
         "Kan Board": "21e152ea-802c-4101-9910-90ca9a0b4a23"
+      },
+      {
+        "LAN Party Games": "f5c3c4e3-e1e1-423b-87f6-f961e2799096"
       },
       {
         "Lab Management Software": "c7035155-b5fc-4fe2-a2b2-f8bd0eb29d40"
@@ -4277,6 +4439,9 @@
       },
       {
         "Pastebin Software": "8fd99fbd-efd5-4549-b944-a8120c71f3d2"
+      },
+      {
+        "Peer to Peer Connection Broker": "aa52e622-3946-462e-acd8-3b56a3ad0fcf"
       },
       {
         "Review Blockchain Wallets": "8a13a93d-1a96-4977-a05d-7781e3d722ea"
@@ -5147,7 +5312,7 @@
         ]
       },
       {
-        "CGFS Persona Data Model": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
+        "CGFS Persona Schema": "bbb2e4e9-08b9-461e-ba58-8a15c27d06d1"
       },
       {
         "CGFS Specification": "8a7e9ee4-c32a-47af-8e79-8c1c85a85f12"
@@ -6284,6 +6449,9 @@
             "Bohemian Grove": "10197499-a27e-4118-be98-3c35882e3b76"
           },
           {
+            "Boiled Beans": "f846a0a7-7bd3-48ea-8cdb-c60a798ebbd8"
+          },
+          {
             "Boilerplate": "8bd819a5-f0fe-4cf7-aaef-744574c58d32"
           },
           {
@@ -6291,6 +6459,9 @@
           },
           {
             "Brain": "00b2606d-2803-4793-b4ea-df731c340cfa"
+          },
+          {
+            "Breakfast Sausages": "6c7f5482-3bff-4249-be4d-3e9c9629032a"
           },
           {
             "Bridge Networking": "9a8058a0-acab-47e3-9ac7-50e83a9af59b"
@@ -6342,6 +6513,9 @@
           },
           {
             "Categorical Imperative": "c2aae916-fbe6-4181-a92c-4fba2dfef831"
+          },
+          {
+            "Cereal": "b337731f-b7d4-4f26-afa5-a735379dfa91"
           },
           {
             "Chaotic Game": "11e7d782-8dab-44f4-afeb-90918a7097d6"
@@ -6674,6 +6848,9 @@
             "Effective Accelerationism": "ef09f823-0d0d-4d76-a1bd-5d80e597c9cd"
           },
           {
+            "Eggs": "afe4c8f6-44c7-4f79-a1af-a4244821192c"
+          },
+          {
             "Egregore": "38f32675-a4ec-4b7f-a1b1-dffd556c3765"
           },
           {
@@ -6932,6 +7109,9 @@
             "Human": "f29ded80-861c-4566-b1fd-cc9f867c7b4f"
           },
           {
+            "Hummus": "3d8aa6a5-77f3-4099-8829-e4fb7c2c5833"
+          },
+          {
             "Hyercycle": "5a03278a-7253-4548-87ef-e138d8062279"
           },
           {
@@ -7010,6 +7190,9 @@
             "Ideology": "d77c97e5-e532-4912-8a5b-7d52641254c9"
           },
           {
+            "If you are as smart as you think you are.....": "22011b9d-d848-49b6-a65e-ca262c8467a7"
+          },
+          {
             "Imagine being able to control exactly what personal data each web app can see": "e58d54a0-075c-4c92-acbe-67e4a0a048f7"
           },
           {
@@ -7062,6 +7245,9 @@
           },
           {
             "Islander Training": "84f75b3f-8775-4331-80ab-1163cef42bc4"
+          },
+          {
+            "It ain’t a matter of guys or chicks, I’m just scared shitless of being rejected": "fbceae7b-850f-4522-bf3f-6ac4ff8a0a1a"
           },
           {
             "JSON Web Token": "f7619f8b-09c3-42ed-afed-a5dd2acac315"
@@ -7131,6 +7317,9 @@
           },
           {
             "Listicles": "2597cf0d-55d0-43e1-bb2b-7e0bf78ad141"
+          },
+          {
+            "Loblaws": "6384172e-5403-4c1c-bfe3-00e4613c4b82"
           },
           {
             "Love": "c2eeead1-8399-46ca-bc71-a05a483bc154"
@@ -7307,6 +7496,9 @@
             "Mutable File System": "2ec3ff8d-d30f-4ccb-9d11-2713a25c277b"
           },
           {
+            "My Diet": "1c758e4a-2653-4946-84b2-945fcf717950"
+          },
+          {
             "Myers Briggs Test": "87f5e219-4345-4014-9154-923cfdc1355b"
           },
           {
@@ -7418,6 +7610,9 @@
             "Organelle": "c8bf6452-f399-4b22-bb2c-a163a0be3db6"
           },
           {
+            "Orienting Prompts": "b701eef7-1605-47ba-8d3a-0e78ca9f9b1f"
+          },
+          {
             "Ousters": "af487b67-6de6-4b3d-8c57-736f23234426"
           },
           {
@@ -7469,6 +7664,9 @@
             "People, Places, and Things": "73c7627a-0f37-48d8-812b-bec2fe39ecdf"
           },
           {
+            "Peppers": "aca0b8c5-a9e6-40d0-8a69-b601dd8eba09"
+          },
+          {
             "Perfectionist": "71e11b08-50a0-4c23-9f50-8a939b355334"
           },
           {
@@ -7488,6 +7686,9 @@
           },
           {
             "Phone Number": "53900ff2-257b-4726-8c01-35456cce2d69"
+          },
+          {
+            "Pizza Pockets": "c775a95a-e6fd-4bd7-9d26-7bae01ad929b"
           },
           {
             "Placeness": "7a2ded97-be68-4fd6-aab2-2e82fcd6b541"
@@ -7691,7 +7892,7 @@
             "Sapiosexual": "4eb3ea02-ed2d-4361-95a8-34f05cc33265"
           },
           {
-            "Scalable Memes": "1b02f9f6-83e0-4880-9646-da943290967e"
+            "Scalable Meme": "1b02f9f6-83e0-4880-9646-da943290967e"
           },
           {
             "Science": "cc6c5e5e-cec2-4fca-9417-735223a0b0bd"
@@ -7934,6 +8135,9 @@
             "Things to Cook": "7a61e788-d0a5-4519-8d83-5c69ac2b97d8"
           },
           {
+            "Things to Eat": "705a6c97-50c3-4637-b1f8-3faf90888c4e"
+          },
+          {
             "Third Web": "a0429c90-ea17-400e-940e-03f48f9f69c6"
           },
           {
@@ -7973,6 +8177,9 @@
             "Turing test": "6854e23e-3591-4432-9bcc-c82f2121ebd3"
           },
           {
+            "Tutorial your way to victory": "50e84cba-8ce5-486a-b7a0-fac089059847"
+          },
+          {
             "UPSERT": "e694de9e-8159-4c8c-91cc-b7a5f90b0ef9"
           },
           {
@@ -7998,6 +8205,9 @@
           },
           {
             "University of Waterloo": "78baf637-938e-4368-a0ef-e037790c0f58"
+          },
+          {
+            "Usable Nostr Client": "a3213a91-512a-4246-b83e-367e77c48dc9"
           },
           {
             "User Flow Diagrams": "985139c2-5368-4e47-816e-aab0639d882e"
@@ -9075,6 +9285,13 @@
         ]
       },
       {
+        "Nostr NIP05 Hosting": [
+          {
+            "Nostr NIP05 Hosting": "d47fb94f-9b4b-4e93-abf1-7d4647bfd0c2"
+          }
+        ]
+      },
+      {
         "Social Engineering": [
           {
             "Mindfulness Prompts and Exercises": "5a11269f-4323-4052-b079-c996cbde21f1"
@@ -9828,6 +10045,9 @@
             "How to store data in complex data structures, like a list of messages rather than a single value": "98338dc9-0611-4650-85af-75b2b67f3207"
           },
           {
+            "How to upload a CAR to Filebase?": "25fad138-256d-4b91-a788-d0520f6fc537"
+          },
+          {
             "How to use Firebase to host IPFS static site?": "b6b253e7-c265-44b4-8436-2594a1f7e139"
           },
           {
@@ -10159,6 +10379,17 @@
     ]
   },
   {
+    "Quests": [
+      {
+        "List": [
+          {
+            "Quivr Deployment Failure and Time Management": "5f67da46-7c9e-493e-bd9d-7a95797638c1"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Tutorials": [
       {
         "Backlog - Tutorials": [
@@ -10242,6 +10473,9 @@
         "Dentropys' SQL Alchemy Tutorial": "34aa710f-0d0e-4098-88aa-e0b554a2298e"
       },
       {
+        "Deploying ArchiveBox": "19c73912-9f8a-43d3-9bad-108aca02e304"
+      },
+      {
         "Discord Scraping Procedures": "dc48a7b7-34e6-4113-bdeb-c655cf2da186"
       },
       {
@@ -10273,6 +10507,9 @@
       },
       {
         "Nostr Tutorial": "d0d2eb3c-a491-462a-ba23-bcc03246f837"
+      },
+      {
+        "Parsing Questions from PDF's using Python": "af523562-6156-433b-92e7-bf0b0ec75520"
       },
       {
         "Searching Through Files Tutorial": "21c0a45b-3f65-446a-bcae-89242cc63469"
@@ -10432,6 +10669,9 @@
         "ETL": "7e381790-c582-4f58-9350-ef2e51efa9cf"
       },
       {
+        "EU": "bdb6341e-a217-45cf-9d00-b3271ba36795"
+      },
+      {
         "FOAF": "de759b3c-b687-48a3-93ec-62c18c7e7709"
       },
       {
@@ -10454,6 +10694,12 @@
       },
       {
         "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
+      },
+      {
+        "HTTP": "2093e831-34f9-470e-a7de-efd00b084063"
+      },
+      {
+        "HTTPS": "1ec39053-a1f2-47e3-b951-e46c209273a5"
       },
       {
         "I2P": "5433eba4-db14-4f9c-9726-37e15b94420c"
@@ -10502,6 +10748,9 @@
       },
       {
         "LLaMA": "a722edb6-d8e9-4b1c-9eed-6a8c84e1553e"
+      },
+      {
+        "LN": "3fa2bea4-bbac-4474-82b6-fa2270deaf75"
       },
       {
         "LTV": "752df433-2e6a-4ca6-8a61-c489dd090732"
@@ -10576,6 +10825,9 @@
         "QPS": "e700d36f-a803-44e9-863e-c5cd4f98e877"
       },
       {
+        "RAG": "f70025cb-0c68-48c1-8176-4c3eb26bbf20"
+      },
+      {
         "RBAC": "c2a97a91-e9a0-4b83-9b91-acae4ec52e73"
       },
       {
@@ -10640,6 +10892,9 @@
       },
       {
         "WASM": "af3c2f6a-2d4f-4eb9-ab21-d3d64c59d431"
+      },
+      {
+        "YABSS": "8318a1d5-2422-4b5b-9963-d7bffdc9b98e"
       },
       {
         "Z2D": "eb40b443-3aa8-42e4-b68d-dbd4af49534b"
@@ -10708,10 +10963,20 @@
     ]
   },
   {
+    "Catechisms": [
+      {
+        "Catechism - CGFS Meme Model": "f8a441e8-67b1-4672-9dad-a1ad8ed192a2"
+      }
+    ]
+  },
+  {
     "Daily Learnings": "4271e403-0a66-46c8-8bcc-af847888e548"
   },
   {
     "My Projects": "e76c8ac9-69f3-477f-8015-556e83738432"
+  },
+  {
+    "Plausible analytics with Material for MkDocs": "d14a691b-cf9f-4f00-924d-6d2b415f5046"
   },
   {
     "Tutorials and Learning Pathways": "b554fe38-0be3-4e5e-a817-41077f5f6e69"
