@@ -1021,7 +1021,7 @@
             "AdGuard": "9b38e17e-4959-4c24-829a-8880e9c77017"
           },
           {
-            "Adahandle": "c04a3f8b-9f39-4941-bc60-a80d5efd9c0c"
+            "Ada Handle": "c04a3f8b-9f39-4941-bc60-a80d5efd9c0c"
           },
           {
             "Additor": "41a08157-3b15-4c2a-8836-35b97fa97131"
@@ -1132,6 +1132,9 @@
             "Asana": "0d22f0dc-ec05-464d-957c-1734f0608a32"
           },
           {
+            "Atala PRISM": "3e2ce670-56bf-4c65-8c2e-8ea431785522"
+          },
+          {
             "Athens": "60158e53-96cc-40fb-bf8a-b2d1199a947b"
           },
           {
@@ -1141,10 +1144,16 @@
             "Audiobookshelf": "5c08983b-5976-421a-876a-f95474deb1d0"
           },
           {
+            "Audius": "665c16a5-ed55-46d3-92b8-86afb8060d8b"
+          },
+          {
             "Authelia": "351b5ef8-761e-4e55-b00f-053170071ab7"
           },
           {
             "AutoGPT": "494282ee-3cf9-44cd-b1dd-e9fb4e1b23c2"
+          },
+          {
+            "Automerge": "f1e0f946-7a64-4d6d-93bd-2344b55870cc"
           },
           {
             "Awesomenauts": "cc1919ec-0717-45d2-a53f-ebf40a100366"
@@ -1231,6 +1240,9 @@
             "C": "ad823902-e1e3-43ef-8a73-b1a21e670bb9"
           },
           {
+            "CAIP-2": "0b8753c8-65cc-43fb-b1d0-625042bd18b5"
+          },
+          {
             "CIDOC-CRM": "b1e2e33b-a21c-46fc-8963-03edd98089bb"
           },
           {
@@ -1238,6 +1250,9 @@
           },
           {
             "CQL": "b158632f-d207-407b-8be2-16ac46fdf61d"
+          },
+          {
+            "CRDT JSON tooling": "6b039d8a-9e0a-4edb-8e41-632912884375"
           },
           {
             "CS Go": "a01097b8-5ba8-463f-bf3d-41af82c2d372"
@@ -1339,6 +1354,9 @@
             "Cyph": "3286d183-7abd-4768-a96b-008ccb955ac7"
           },
           {
+            "Cytoscape.js": "e69dec21-c10a-40dc-a0e0-64fe063690d8"
+          },
+          {
             "Cytoscape": "7959eac3-09b5-42df-b702-a7c65458052e"
           },
           {
@@ -1355,6 +1373,12 @@
           },
           {
             "DB Beaver": "4839cc5b-06f9-4d68-b95e-e3bef18b0d5c"
+          },
+          {
+            "DDaemon verses LNBits": "1530c0a0-c56a-4f85-98c1-bfe07c0733a0"
+          },
+          {
+            "DESeq2": "0d36b573-a3d0-4835-918a-50727e96888d"
           },
           {
             "DGraph": "980869eb-e907-4e49-888b-0b7d839b7505"
@@ -1495,6 +1519,9 @@
             "Evernote": "913c6f6a-3f34-4a69-a56a-ada8d63d11e5"
           },
           {
+            "Excel": "99ce5f78-1087-48a4-983c-6f34794b1f7c"
+          },
+          {
             "Facebook 1": "6f9d9f92-583d-4244-b2eb-92bf99725964"
           },
           {
@@ -1520,6 +1547,9 @@
           },
           {
             "Feast Software": "41f616fc-ac5b-47fc-830b-cb96e201a5a5"
+          },
+          {
+            "Feather files": "ae813e94-b19a-4e41-a7de-5e5289be5270"
           },
           {
             "Fedora": "cddf176b-95cf-45ab-9000-55a3c9e27b38"
@@ -1670,6 +1700,9 @@
           },
           {
             "Graylog": "5372aeb9-9391-4e14-9a04-ffc91ee73c4e"
+          },
+          {
+            "Greasemonkey": "c2f1405e-1608-44b4-81f9-cda59c2f5f16"
           },
           {
             "Guildhall guilds.xyz": "1dcd4621-390d-4d8f-a2d5-3caba4a60b82"
@@ -2134,6 +2167,9 @@
             "Nostr Badges": "e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0"
           },
           {
+            "Nostr Import Events Feature": "c1abb651-971f-4a03-8fba-67f0ecb66b9b"
+          },
+          {
             "Nostr NIP 11": "62987d3a-b320-4b5b-b762-e49ee3508f3f"
           },
           {
@@ -2335,6 +2371,9 @@
             "Pi Hole": "9f0919a6-ad63-47d3-a602-e039fc36bf3c"
           },
           {
+            "Pickle files": "cd18b774-792a-40d3-a9f6-ec80b8e983aa"
+          },
+          {
             "Pidgin": "58b8d719-f9a1-4856-bce8-dc672df11fa2"
           },
           {
@@ -2381,6 +2420,9 @@
           },
           {
             "Polars": "23d59da1-4db9-4e54-89c3-6d70064129cd"
+          },
+          {
+            "Polkadot": "8ef6c3ed-ffb9-43f1-a612-36a427d1643b"
           },
           {
             "Polygon": "758764cf-e79b-4365-af51-1ea077bc5cb8"
@@ -2449,6 +2491,9 @@
             "RClone": "253c9f0b-fdaf-41e4-ae0b-584e2bc15cee"
           },
           {
+            "RNAseqChef": "0a52d625-4601-4ca8-afea-0eef436c63f5"
+          },
+          {
             "ROCm": "915f6439-7628-438f-be14-1169ee4f6666"
           },
           {
@@ -2500,7 +2545,13 @@
             "Rocket Note": "222e4d30-8747-4ed5-b00b-95a376eaef28"
           },
           {
+            "Rumble - Platform": "af0c6865-e6fb-439d-a9a9-a72dda2895cd"
+          },
+          {
             "Rust Keylogger": "fff7855c-9b9b-49ea-84a4-8d4add2063a8"
+          },
+          {
+            "RxDB": "527176c4-7981-4297-a62d-fedf04bf9460"
           },
           {
             "S3": "cc64a399-1cbe-44ee-ab4a-f36343a593ff"
@@ -2647,6 +2698,12 @@
             "Strava": "d54a8965-ec39-4df1-b43c-8ad4d1deda4b"
           },
           {
+            "Strfry": "bf0375ee-628b-4962-84e5-9df784f04331"
+          },
+          {
+            "Stripe - Software": "5255d1fd-c511-4496-a426-e5a993e37050"
+          },
+          {
             "Substack": "3d4179e3-76b8-4373-a0be-218ca8fd0051"
           },
           {
@@ -2761,6 +2818,9 @@
             "Trailmarks.co": "de1c899c-acc3-4b4f-a879-7e8142af5b21"
           },
           {
+            "Tree of thoughts": "0ef2a6ff-1209-490d-9eec-66bcfcf4f36c"
+          },
+          {
             "Trilium Notes": "ac895e08-776c-4f91-86a6-5108e7634d3d"
           },
           {
@@ -2855,9 +2915,6 @@
           },
           {
             "What agents are supported by Telegraf?": "1c84db6e-b0f4-4de0-b7c7-686965662cec"
-          },
-          {
-            "What do you do with a backdoor to the NSA?": "6a30c01e-4939-4b86-af79-555d26eb67bc"
           },
           {
             "What is Telegraf?": "09d4ce43-62ea-45eb-8d60-1409d4c67475"
@@ -3052,6 +3109,9 @@
             "ddclient": "ef2ee0c3-ed2e-4065-ac16-666f22d9f32a"
           },
           {
+            "delta-crdts": "ffc08294-4ed5-4bb1-bfdd-db37f464afae"
+          },
+          {
             "dendron": "99dfbc86-bdad-4cae-8b6a-031cd240f016"
           },
           {
@@ -3089,6 +3149,9 @@
           },
           {
             "eralchemy2": "1ad7685f-69bf-4412-a9fa-628315242c08"
+          },
+          {
+            "erbeos.js": "43cdceeb-45ba-4ab3-a2cd-821c662b5d61"
           },
           {
             "espial": "ea411ad3-3dc5-43d1-898e-175ae4fe3288"
@@ -3220,6 +3283,9 @@
             "hoppscotch": "df1a516e-6439-43df-8484-8aadeb81917b"
           },
           {
+            "iRegulon": "234b8a6b-a57a-4717-b4a3-3557014a9106"
+          },
+          {
             "imagemagick": "08210701-e8de-412b-b288-6088322d5713"
           },
           {
@@ -3244,6 +3310,9 @@
             "irchiver": "4bf832ee-c913-41d1-86c5-cf82550d16e4"
           },
           {
+            "jQuery": "e8552008-8b3d-4e23-93e2-0b2307ddc260"
+          },
+          {
             "jenv": "e47d9e79-bfcb-49c8-b6ed-8cd583255e5c"
           },
           {
@@ -3263,6 +3332,9 @@
           },
           {
             "json2csv": "9614ef64-f63e-4552-8559-a9b1d2c3a65b"
+          },
+          {
+            "jsondiffpatch": "9413737c-1754-4819-b7dc-a5331e6e00e7"
           },
           {
             "jsonschema - python": "b9772360-b037-47b7-b7a4-76f1ab500d7e"
@@ -3332,6 +3404,9 @@
           },
           {
             "llamafile": "1e5f29d1-1e9f-4fc9-ad64-0cf8dd8dfacc"
+          },
+          {
+            "lnbits nostrnip5": "3258265e-6f96-4dfd-86ee-9fad9c412321"
           },
           {
             "locate": "47f3feb3-37cd-4793-94f9-76cfa8aedf32"
@@ -3457,6 +3532,12 @@
             "nosdump": "4223c9a7-5acc-433b-b5a4-87ef3301134c"
           },
           {
+            "nostr-fetch": "6ea299a3-d2de-40cd-a8d5-89c999e4ba94"
+          },
+          {
+            "nostr-relay npm": "1311c32b-cfce-4aa9-9c5d-20f066e236f6"
+          },
+          {
             "nostr-rs-relay": "cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750"
           },
           {
@@ -3506,6 +3587,9 @@
           },
           {
             "paperless-ngx": "19725a3e-8636-4c91-99c5-4dbb01c9ccaf"
+          },
+          {
+            "peer-base": "c0ee1c48-b251-4adf-941c-ce0ec74dc2a6"
           },
           {
             "pgloader": "3e68e86b-999f-48fa-9ae8-116b40062c78"
@@ -3640,6 +3724,9 @@
             "sha256sum": "2dbcd37f-9646-4616-a0fc-939f10732a8b"
           },
           {
+            "sharedb": "25caca8f-17d2-41cf-a3a1-6675228969b9"
+          },
+          {
             "sklearn": "08a78987-7a1c-42a2-99c6-19a95728bc84"
           },
           {
@@ -3751,6 +3838,9 @@
             "valico": "2141fa8c-6c12-4623-9191-c567d27fcd97"
           },
           {
+            "vector5db": "b0ca0d50-3c8a-4605-8d0e-65703cbd8387"
+          },
+          {
             "vega lite": "7689616e-19a2-473d-ba91-80fdcbe833ab"
           },
           {
@@ -3821,6 +3911,9 @@
           },
           {
             "yinote": "09197424-fa0d-47b4-b92e-006027f0b885"
+          },
+          {
+            "yjs": "fb215102-fbae-4e31-b3ce-15a70be91723"
           },
           {
             "youtube-dl": "d3390ba5-8e62-49d0-ac77-3f5b877df60b"
@@ -4427,6 +4520,9 @@
       },
       {
         "Nostr Client Reviews": "60856d0a-a8eb-49dd-ab2b-dd33d16ea527"
+      },
+      {
+        "Nostr Relay": "435bf774-37a9-4ec0-be89-905d469b7919"
       },
       {
         "Notable AI tools": "1f16e3ec-47c6-4f57-97a6-4ab3bbec3237"
@@ -6317,6 +6413,9 @@
             "Allometic Laws": "e6ce0e5e-107b-419f-b83d-68533ba7c3a1"
           },
           {
+            "Anaerobic": "fdd053ba-7408-4b07-a7b4-3e60a7e67ca8"
+          },
+          {
             "Analysis Paralysis": "31c46c1e-012c-4f11-85d5-843eaabe2ba1"
           },
           {
@@ -6686,6 +6785,9 @@
             "DME Zone": "0a13ace5-0078-4f4f-bc3e-edd62315eba4"
           },
           {
+            "DNA Sequencing": "ad0e127c-3b42-4ed5-b838-9a9206128699"
+          },
+          {
             "Daily Reflections": "71dfecce-161f-4272-8e90-29ca8b680f96"
           },
           {
@@ -6860,6 +6962,9 @@
             "Elite": "f4ff28b3-80a2-45fd-99d0-3b35f80efa63"
           },
           {
+            "Embeddings": "67bed256-4bac-4cda-9511-79915e8a226d"
+          },
+          {
             "Emoji": "aa7dda9a-4fb3-4f03-8f75-d7dea92ed4bf"
           },
           {
@@ -6897,6 +7002,9 @@
           },
           {
             "Ethernal September": "7e0d9c51-011a-4bff-982a-02b18ebf37a4"
+          },
+          {
+            "Eukaryotic": "63ad32b5-790b-4c35-abdd-b9bce77c2b18"
           },
           {
             "Eventual Consistency": "57a74be4-4fda-4b0e-8729-587a870bcb07"
@@ -6969,6 +7077,9 @@
           },
           {
             "Flynn Effect": "fc27a3c1-688e-4f91-bf6e-dca32a322463"
+          },
+          {
+            "Folding Awareness": "2c3e255f-0072-4271-afa5-09ec4a737132"
           },
           {
             "Founder Effect": "d364661e-060c-47ba-9e41-f48c8fab3dfa"
@@ -7235,6 +7346,9 @@
             "Intelligence 1": "5fcb81ab-5ba2-4a24-9826-e891be8e0132"
           },
           {
+            "Interesting White Papers": "d4a3e468-bff1-4b3b-8fc1-7c0df7050926"
+          },
+          {
             "Interference theory": "0679bd5d-395d-43da-9973-60a1c6604234"
           },
           {
@@ -7359,6 +7473,9 @@
           },
           {
             "Markov Blanket": "b4e6ccfc-3b54-4c11-9a79-ed75c1b7f2e3"
+          },
+          {
+            "Markov Chain": "30063de5-c3a7-40a7-89fe-f7d4636368f4"
           },
           {
             "Marriage": "0c1651c6-76a4-429d-b54b-1a5dc6459ddc"
@@ -7502,6 +7619,9 @@
             "Myers Briggs Test": "87f5e219-4345-4014-9154-923cfdc1355b"
           },
           {
+            "NCBI GEO2R": "42b42f9f-5941-4eaa-b1fc-a651b6056b9c"
+          },
+          {
             "NFT Dapps": "494b67eb-4d3b-415e-abf9-3746db45d340"
           },
           {
@@ -7625,6 +7745,9 @@
             "P verses NP": "16166cae-c4d6-4263-970c-4bf63b502a13"
           },
           {
+            "PCA Plot": "5ed3a118-5efd-4642-9cd4-e89497df068e"
+          },
+          {
             "Page Rank": "c1352814-9142-4529-8cbd-d120992c8dcd"
           },
           {
@@ -7644,6 +7767,9 @@
           },
           {
             "Parquet files": "091b520d-6df2-4a99-960f-67228d784ccf"
+          },
+          {
+            "Parsimony": "733e39a0-59fa-4954-98d9-d7a2adb27619"
           },
           {
             "Pavlovian Conditioning": "b24fcf42-0471-4b21-bd9f-c3b7f4c2d563"
@@ -7887,6 +8013,9 @@
           },
           {
             "Sage": "91ebbefc-2cdd-4278-8c0f-f1b19f963713"
+          },
+          {
+            "Sanger sequencing": "de4299d2-2f5f-4997-9bb1-018a52343047"
           },
           {
             "Sapiosexual": "4eb3ea02-ed2d-4361-95a8-34f05cc33265"
@@ -8241,6 +8370,9 @@
           },
           {
             "Vitalisim": "ba556fc4-5521-4ac8-95e1-f055e61d90f4"
+          },
+          {
+            "Volcano Plot": "bfe7a541-d704-49ae-8123-e7adf722bf4f"
           },
           {
             "WTF Happened in 1971": "81258339-d5d0-4621-976f-48bfd0fe2d17"
@@ -9815,6 +9947,17 @@
     ]
   },
   {
+    "Queries and Prompts": [
+      {
+        "List": [
+          {
+            "lightning network integration nodejs": "06efb9ed-7b21-4029-b650-3f405cefa5c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Questions": [
       {
         "Sets": [
@@ -10333,6 +10476,9 @@
             "What time of day does the particular discord author post their messages, group by hour?": "d0faa6c6-be48-4170-941a-a30d833f6d1c"
           },
           {
+            "What would you do with a backdoor to the NSA?": "6a30c01e-4939-4b86-af79-555d26eb67bc"
+          },
+          {
             "When was the most active month for the most active channel in each discord guild?": "30d09691-d6bc-462d-b9ae-8534e88e4cf1"
           },
           {
@@ -10573,10 +10719,22 @@
         "BI": "76120376-82a3-461f-8bae-032f5ae9c7dd"
       },
       {
+        "BIP": "67dba90f-ba58-42b8-810b-081f9197e709"
+      },
+      {
+        "BLN": "84e981ed-e7dd-42af-8a8f-bde0541095dd"
+      },
+      {
         "BTC": "05101a51-4068-4034-923a-42167f5ccea0"
       },
       {
+        "CAC": "555e20ca-6cad-4488-b22f-b7f98e619cad"
+      },
+      {
         "CAD": "60455b18-2392-4c4a-bfd4-d9a649c0c88a"
+      },
+      {
+        "CAIP": "e8dc08eb-86e8-4ec2-b8eb-b147fd2390de"
       },
       {
         "CAP": "09bfd7f9-3f84-4f97-bca2-c60f4444dd44"
@@ -10610,6 +10768,12 @@
       },
       {
         "CRM": "7d9fa0af-e0be-4674-8fc2-380b641f2564"
+      },
+      {
+        "CRUD": "cb37c60a-793e-4734-b659-122843557132"
+      },
+      {
+        "CSV": "a331e9a5-7679-44bd-be24-9f5235c76adb"
       },
       {
         "CUCEGS": "a24a6b3d-b8f2-435d-91cc-ed636dddaee4"
@@ -10693,6 +10857,9 @@
         "HLC": "89467309-dc10-48f0-8340-9f781e9117f0"
       },
       {
+        "HLS": "96ccb9e4-c83e-439a-85e7-e08fbe8a97e3"
+      },
+      {
         "HPI": "dfda1180-e79f-4f05-880a-91f26f7c906c"
       },
       {
@@ -10703,6 +10870,9 @@
       },
       {
         "I2P": "5433eba4-db14-4f9c-9726-37e15b94420c"
+      },
+      {
+        "IAC": "60d2a648-ff72-4b5f-8dd3-f9f1ef5b80d4"
       },
       {
         "IAS": "cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98"
@@ -10739,6 +10909,9 @@
       },
       {
         "KOL": "bae8309a-b4a2-46de-8be6-d944d615977e"
+      },
+      {
+        "KV": "392b1a69-3a26-4ae7-9419-83ac8348a88d"
       },
       {
         "LDIF": "7598f2d5-f5a1-4dac-afb2-e7394b8c8938"
@@ -10783,6 +10956,9 @@
         "OCSP": "a170dae3-7acf-4b1c-80cc-4687d260da44"
       },
       {
+        "OG": "3571c4eb-833d-45a2-8e25-32a1fe5e5e9b"
+      },
+      {
         "OLAP": "515a019e-5333-4996-956c-d4661cd215c8"
       },
       {
@@ -10817,6 +10993,9 @@
       },
       {
         "POC": "5579525f-febe-4c18-a19f-83d134e50292"
+      },
+      {
+        "PWA": "e21a3a79-8723-4df0-bbc4-7e6a6c15cd71"
       },
       {
         "QE": "96fab60c-c9db-4d51-8388-5b51a595d302"
@@ -10892,6 +11071,9 @@
       },
       {
         "WASM": "af3c2f6a-2d4f-4eb9-ab21-d3d64c59d431"
+      },
+      {
+        "XML": "3c9b1393-826d-4290-a8ca-13829547eedc"
       },
       {
         "YABSS": "8318a1d5-2422-4b5b-9963-d7bffdc9b98e"

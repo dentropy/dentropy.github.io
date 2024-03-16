@@ -347,7 +347,7 @@ nav:
         - Active Directory: 7635da98-e692-4241-8464-0d50152edb2c
         - ActivityWatch: c01a2d70-0b4b-4ba3-9149-928494bb231b
         - AdGuard: 9b38e17e-4959-4c24-829a-8880e9c77017
-        - Adahandle: c04a3f8b-9f39-4941-bc60-a80d5efd9c0c
+        - Ada Handle: c04a3f8b-9f39-4941-bc60-a80d5efd9c0c
         - Additor: 41a08157-3b15-4c2a-8836-35b97fa97131
         - Age of Empires 2: d5eddee3-3c6b-40c7-8127-7c998d6473d6
         - Age software: fb4bc5ab-ea80-4856-a0ba-f2396175a226
@@ -384,11 +384,14 @@ nav:
         - Artemis Spaceship Bridge Simulator: 26bab580-51c1-42e4-a0ba-218f1a1fefbe
         - Arweave: e4e8d9c8-f039-4c21-bf25-35d36feb3f7b
         - Asana: 0d22f0dc-ec05-464d-957c-1734f0608a32
+        - Atala PRISM: 3e2ce670-56bf-4c65-8c2e-8ea431785522
         - Athens: 60158e53-96cc-40fb-bf8a-b2d1199a947b
         - Atlassian Suite: eb3bdddd-55be-4954-91d6-67a26c70a8c5
         - Audiobookshelf: 5c08983b-5976-421a-876a-f95474deb1d0
+        - Audius: 665c16a5-ed55-46d3-92b8-86afb8060d8b
         - Authelia: 351b5ef8-761e-4e55-b00f-053170071ab7
         - AutoGPT: 494282ee-3cf9-44cd-b1dd-e9fb4e1b23c2
+        - Automerge: f1e0f946-7a64-4d6d-93bd-2344b55870cc
         - Awesomenauts: cc1919ec-0717-45d2-a53f-ebf40a100366
         - BERT: 6d64407b-22ff-4b5a-a930-1d5c20edeeec
         - BSD: 75aba95f-ee60-4081-91ec-f61758a36b5b
@@ -417,9 +420,11 @@ nav:
         - Buku: 61cfce69-8e9e-4b9c-9c26-cb5305a24f3e
         - BypassPaywall: ed13d4f1-6e03-4ce2-85d0-937028a0295b
         - C: ad823902-e1e3-43ef-8a73-b1a21e670bb9
+        - CAIP-2: 0b8753c8-65cc-43fb-b1d0-625042bd18b5
         - CIDOC-CRM: b1e2e33b-a21c-46fc-8963-03edd98089bb
         - COD 4: 7456a711-f88b-4841-9edc-9c0e75b4ae58
         - CQL: b158632f-d207-407b-8be2-16ac46fdf61d
+        - CRDT JSON tooling: 6b039d8a-9e0a-4edb-8e41-632912884375
         - CS Go: a01097b8-5ba8-463f-bf3d-41af82c2d372
         - CSV Software: 97d87a5f-1ad1-4188-9d11-b0051acf8a88
         - Caddy: eddb09d0-9b00-4d82-abfe-2ba84c188dfa
@@ -453,12 +458,15 @@ nav:
         - Cronometer: 6d2c437b-611e-43fc-967b-47e2f8b934b3
         - Curve Token: 64c85909-908c-4da4-a5f2-839aae5e93ff
         - Cyph: 3286d183-7abd-4768-a96b-008ccb955ac7
+        - Cytoscape.js: e69dec21-c10a-40dc-a0e0-64fe063690d8
         - Cytoscape: 7959eac3-09b5-42df-b702-a7c65458052e
         - Czkawka: 080fac3a-0f70-4f57-bce6-129eb4d0efba
         - D3js: 2889bf83-2aa6-4168-babc-d2b74fe96026
         - DAG-JSON: 542cf224-0a5f-4c62-b4f8-41521da2dd50
         - DAOmehaus: 6086aa85-9683-4fb9-a5da-f9d23b3182ea
         - DB Beaver: 4839cc5b-06f9-4d68-b95e-e3bef18b0d5c
+        - DDaemon verses LNBits: 1530c0a0-c56a-4f85-98c1-bfe07c0733a0
+        - DESeq2: 0d36b573-a3d0-4835-918a-50727e96888d
         - DGraph: 980869eb-e907-4e49-888b-0b7d839b7505
         - DNSxyz: 1fc0ade3-41fb-4d34-ade4-b56ca53611db
         - Dalai: 12b80fef-933d-4c49-9564-e818506124a9
@@ -505,6 +513,7 @@ nav:
         - Ethereum Classic: acea1c18-e502-4a7c-bee7-76fac0c03bd0
         - Ethereum: 76ac962e-ea08-4b00-95e7-aa798b16a502
         - Evernote: 913c6f6a-3f34-4a69-a56a-ada8d63d11e5
+        - Excel: 99ce5f78-1087-48a4-983c-6f34794b1f7c
         - Facebook 1: 6f9d9f92-583d-4244-b2eb-92bf99725964
         - Facebook: ffaff3fb-3237-40f8-abba-0b87ed05c16b
         - Fail2Ban: 22faf5e0-cb53-4912-a3e8-a3563b759e48
@@ -514,6 +523,7 @@ nav:
         - FastAPI: 7e4b1b4d-6d27-4131-95a2-e3e87a407672
         - Favorite Obsidian Plugins: 275484f1-3b27-4128-93bb-a12846eb3a02
         - Feast Software: 41f616fc-ac5b-47fc-830b-cb96e201a5a5
+        - Feather files: ae813e94-b19a-4e41-a7de-5e5289be5270
         - Fedora: cddf176b-95cf-45ab-9000-55a3c9e27b38
         - Figma: fe975c11-6bc7-43a5-ba5a-d2b1be83175d
         - Filebase: d5f0f13e-5c6e-4019-b235-e7b316df6131
@@ -564,6 +574,7 @@ nav:
         - Graph QL Alchemy: 75253e36-3ac7-4e0b-b6d9-1bf53124de6c
         - GraphQL Software: 4ad9fcf5-6717-4e6c-97ed-0be3754373a8
         - Graylog: 5372aeb9-9391-4e14-9a04-ffc91ee73c4e
+        - Greasemonkey: c2f1405e-1608-44b4-81f9-cda59c2f5f16
         - Guildhall guilds.xyz: 1dcd4621-390d-4d8f-a2d5-3caba4a60b82
         - GunDB gun.js: 8f3e0515-4b00-4f3e-b694-8ea82fa38baf
         - HTML: 272babbb-b019-4290-941a-01ae25d07fe1
@@ -718,6 +729,7 @@ nav:
         - Noonet: bcaac6fd-9ce7-48cf-9972-d48fb645fa32
         - Noosphere Software: 4379ad45-7dd3-42ae-aa3a-8521a3101f9a
         - Nostr Badges: e7e629fc-1bc2-45c2-bdd7-2f52466ba8f0
+        - Nostr Import Events Feature: c1abb651-971f-4a03-8fba-67f0ecb66b9b
         - Nostr NIP 11: 62987d3a-b320-4b5b-b762-e49ee3508f3f
         - Nostr NIP-05: 8db2dd22-7235-4c50-bd6d-d79b4a55e879
         - Nostr: 78abfe73-37cb-4f3b-9e08-faad85669fb7
@@ -785,6 +797,7 @@ nav:
         - Photoprism: dc1d6445-8b30-42be-bdaa-d385496cc882
         - Photostructure: 126bae04-4646-42cf-aafc-9232cf27bbca
         - Pi Hole: 9f0919a6-ad63-47d3-a602-e039fc36bf3c
+        - Pickle files: cd18b774-792a-40d3-a9f6-ec80b8e983aa
         - Pidgin: 58b8d719-f9a1-4856-bce8-dc672df11fa2
         - Pihole: 4944e684-ff75-45a5-841f-bddd2c8ea34d
         - Pinboard: b83d7b7a-e9ad-4a5e-b9f8-63884a119e6b
@@ -801,6 +814,7 @@ nav:
         - Poetry: 9b5f7b3c-98e6-4efe-8adb-6c855fe4eed1
         - Polar: 4b6098fb-25c2-43d6-ac31-55fbbc41837f
         - Polars: 23d59da1-4db9-4e54-89c3-6d70064129cd
+        - Polkadot: 8ef6c3ed-ffb9-43f1-a612-36a427d1643b
         - Polygon: 758764cf-e79b-4365-af51-1ea077bc5cb8
         - PopOS: 47e387e8-df22-4c35-b257-716073c8d190
         - Portainer: 83cb8e38-fbaf-4366-9eb6-01c85ef1c5eb
@@ -823,6 +837,7 @@ nav:
         - Quivr: 5f6823db-9bc8-422a-be89-b7bbe75bdb79
         - Quora: d30cf424-13dd-4f0a-8820-019b17e325ae
         - RClone: 253c9f0b-fdaf-41e4-ae0b-584e2bc15cee
+        - RNAseqChef: 0a52d625-4601-4ca8-afea-0eef436c63f5
         - ROCm: 915f6439-7628-438f-be14-1169ee4f6666
         - RabbitMQ: f99d6492-cee5-41b3-b41f-b18a09c92b29
         - Rabby: 2ca74e2e-066a-42ef-b7f5-b95c3b23475b
@@ -840,7 +855,9 @@ nav:
         - Rettiwt-API: 8d315560-b3cb-453a-b8a6-cd0480651340
         - Roam Research: 6c6425a5-d844-46fd-ba26-8d0fa23ce07a
         - Rocket Note: 222e4d30-8747-4ed5-b00b-95a376eaef28
+        - Rumble - Platform: af0c6865-e6fb-439d-a9a9-a72dda2895cd
         - Rust Keylogger: fff7855c-9b9b-49ea-84a4-8d4add2063a8
+        - RxDB: 527176c4-7981-4297-a62d-fedf04bf9460
         - S3: cc64a399-1cbe-44ee-ab4a-f36343a593ff
         - S3Fs: 0c461187-fa96-47b1-a32e-f6ed0b81b072
         - SERVICE - postgres: 3f50dc5b-20b7-4aac-b57a-47da77b5e96f
@@ -889,6 +906,8 @@ nav:
         - Steam - Software: a767bb2e-1e7e-4ef0-a32f-766fefc91b9d
         - Storj: e544dd7d-86c3-4206-b53d-6426885e4fdb
         - Strava: d54a8965-ec39-4df1-b43c-8ad4d1deda4b
+        - Strfry: bf0375ee-628b-4962-84e5-9df784f04331
+        - Stripe - Software: 5255d1fd-c511-4496-a426-e5a993e37050
         - Substack: 3d4179e3-76b8-4373-a0be-218ca8fd0051
         - Supabase: 85a1e96b-889a-4349-a47e-0064a7e8d0fa
         - SuperDAO: 8a1b83dd-decc-47cf-beb6-1efcbd9fd242
@@ -927,6 +946,7 @@ nav:
         - Trackt.tv: c68b3429-9e36-4ec7-9381-1b94b880c1a9
         - Traefik: 3ef4b413-5629-48d7-802c-fb13ee5f5b24
         - Trailmarks.co: de1c899c-acc3-4b4f-a879-7e8142af5b21
+        - Tree of thoughts: 0ef2a6ff-1209-490d-9eec-66bcfcf4f36c
         - Trilium Notes: ac895e08-776c-4f91-86a6-5108e7634d3d
         - True Charts: 951bac20-04ca-4d27-85e2-b59e15722a81
         - TrueNAS Scale S3 Service: ba724021-d172-4189-b8e4-395be7ef7e13
@@ -959,7 +979,6 @@ nav:
         - Web Highlights: 1cc8d41c-4f37-4054-8176-8d4440ee643e
         - WebFinger: 6128bd66-61c4-4855-89a6-84885e91c505
         - What agents are supported by Telegraf?: 1c84db6e-b0f4-4de0-b7c7-686965662cec
-        - What do you do with a backdoor to the NSA?: 6a30c01e-4939-4b86-af79-555d26eb67bc
         - What is Telegraf?: 09d4ce43-62ea-45eb-8d60-1409d4c67475
         - What is your favorite dapp?: 017268b0-d3e5-4a25-b0cc-77482b8f880b
         - Whatsapp: b6867df2-e91e-48e0-883b-e573003e18eb
@@ -1024,6 +1043,7 @@ nav:
         - db browser for sqlite: ea2c387b-0305-4b78-a376-b081b9f75e70
         - ddaemon core: c8cf6166-c81b-45f9-9df0-2e165c3a2089
         - ddclient: ef2ee0c3-ed2e-4065-ac16-666f22d9f32a
+        - delta-crdts: ffc08294-4ed5-4bb1-bfdd-db37f464afae
         - dendron: 99dfbc86-bdad-4cae-8b6a-031cd240f016
         - dentropys-obsidian-publisher troubleshooting: 61b7d446-78c6-4344-9141-8686a35c851a
         - dework.xyz: bddd218a-12d7-49ab-864a-d88643117a7a
@@ -1037,6 +1057,7 @@ nav:
         - emacs: 4a083948-720a-4b27-be17-d6bbe202c7d7
         - epal: 08b83aac-cc39-4fcb-b9f8-1f18893aa46c
         - eralchemy2: 1ad7685f-69bf-4412-a9fa-628315242c08
+        - erbeos.js: 43cdceeb-45ba-4ab3-a2cd-821c662b5d61
         - espial: ea411ad3-3dc5-43d1-898e-175ae4fe3288
         - essay app: d6148b5a-f820-4342-896c-1ac3f0a80d55
         - ethereum2-docker-compose: 7849a00d-d6e6-4760-b1d2-9fedc65a8875
@@ -1080,6 +1101,7 @@ nav:
         - helm: 58862bb9-e2b3-4e8e-91c0-2c55d743b76e
         - histre: 2132d6ca-499c-43b4-bdf9-a70f68f15035
         - hoppscotch: df1a516e-6439-43df-8484-8aadeb81917b
+        - iRegulon: 234b8a6b-a57a-4717-b4a3-3557014a9106
         - imagemagick: 08210701-e8de-412b-b288-6088322d5713
         - infranodus: e8ca78e3-422e-4f21-9607-88c20a61048e
         - ipfs-car: a5f00d8b-caf0-48f5-82cc-383380c59a14
@@ -1088,6 +1110,7 @@ nav:
         - ipns-link: c3f033cf-c2d6-416a-ae8c-3f061d597e05
         - iptables: d96e4299-927f-4fd5-ac86-07473ad7b8ad
         - irchiver: 4bf832ee-c913-41d1-86c5-cf82550d16e4
+        - jQuery: e8552008-8b3d-4e23-93e2-0b2307ddc260
         - jenv: e47d9e79-bfcb-49c8-b6ed-8cd583255e5c
         - journalctl: 45e80be0-f479-49ef-992b-493aecce88ab
         - jpegoptim: ccb2e810-649a-41ea-9a3c-a8b89b151b6e
@@ -1095,6 +1118,7 @@ nav:
         - js-dag-json: e49d6b61-507e-46de-9f61-74d5c670f01b
         - js-ipns: e1366737-ea33-4da7-bbb5-1911c74bf9d6
         - json2csv: 9614ef64-f63e-4552-8559-a9b1d2c3a65b
+        - jsondiffpatch: 9413737c-1754-4819-b7dc-a5331e6e00e7
         - jsonschema - python: b9772360-b037-47b7-b7a4-76f1ab500d7e
         - jsonschema - rust: 1b649a7a-071c-4b14-9282-c0c8994b61a7
         - jsonschema npm package: 94f8f5d2-7ff3-47a6-ba83-df44ee8374e7
@@ -1118,6 +1142,7 @@ nav:
         - linux: 92dd5bac-e9a3-40b5-9b4d-d776c3bfc784
         - listr.lol: 8983f80e-c517-4bd1-8bb0-e9e59554e5ba
         - llamafile: 1e5f29d1-1e9f-4fc9-ad64-0cf8dd8dfacc
+        - lnbits nostrnip5: 3258265e-6f96-4dfd-86ee-9fad9c412321
         - locate: 47f3feb3-37cd-4793-94f9-76cfa8aedf32
         - logseq: e8047586-3985-4caa-9020-b8a5dde09d50
         - ls: 49e56a94-0408-45fa-88b8-a010266954f7
@@ -1159,6 +1184,8 @@ nav:
         - nodejs better-sqlite3: 0d770ab2-d1eb-43bd-8de8-4213fd6971c1
         - nodejs: 94377dc4-14fb-44cd-9892-4cf3cff78726
         - nosdump: 4223c9a7-5acc-433b-b5a4-87ef3301134c
+        - nostr-fetch: 6ea299a3-d2de-40cd-a8d5-89c999e4ba94
+        - nostr-relay npm: 1311c32b-cfce-4aa9-9c5d-20f066e236f6
         - nostr-rs-relay: cbe052f9-ebc2-4f4b-845f-f6e5d9aa2750
         - nostr-tools: e4593c48-11c2-474d-9d51-f479edfd51f6
         - nostr.cooking: 8310fda2-698c-4659-9d84-564eeb5f2662
@@ -1176,6 +1203,7 @@ nav:
         - org-mode: c62c8cf0-9f46-48fd-a24e-e6af99f5417d
         - pandas: 7326b865-6598-4839-bafa-4af8174b0b27
         - paperless-ngx: 19725a3e-8636-4c91-99c5-4dbb01c9ccaf
+        - peer-base: c0ee1c48-b251-4adf-941c-ce0ec74dc2a6
         - pgloader: 3e68e86b-999f-48fa-9ae8-116b40062c78
         - pgp2: 7436e2c5-ff55-4b6f-92fe-4e7bdebfc125
         - pgvector: 3029ac33-c2ec-4824-80a6-77dbd0c779a0
@@ -1220,6 +1248,7 @@ nav:
         - serde_json - rust: e294a414-ce57-466f-adf9-1d17affb1a3c
         - sftpgo: 0ba89afa-acdb-4106-af0a-b37bbb9518dd
         - sha256sum: 2dbcd37f-9646-4616-a0fc-939f10732a8b
+        - sharedb: 25caca8f-17d2-41cf-a3a1-6675228969b9
         - sklearn: 08a78987-7a1c-42a2-99c6-19a95728bc84
         - snipe-it: 04730aed-d75b-41ea-aef7-cacced36e9e3
         - snippet: 655e9081-16a4-40c5-af04-f4ecdca98cde
@@ -1257,6 +1286,7 @@ nav:
         - urlextract: 1a425c29-ff46-4e68-bda1-dc4f32023936
         - usermod: f8c07d24-b3d6-491c-9d30-ae072f7a056d
         - valico: 2141fa8c-6c12-4623-9191-c567d27fcd97
+        - vector5db: b0ca0d50-3c8a-4605-8d0e-65703cbd8387
         - vega lite: 7689616e-19a2-473d-ba91-80fdcbe833ab
         - velero: df3425d9-432e-457a-9119-69426c695d36
         - vim: b43cc376-8fa6-4bb6-b305-5afb9a126937
@@ -1281,6 +1311,7 @@ nav:
         - yakihonne: ab4c5678-9565-4867-9e3e-e19394f76619
         - yay: 827e0f6c-eaa7-4f4a-a768-b25a29ea186c
         - yinote: 09197424-fa0d-47b4-b92e-006027f0b885
+        - yjs: fb215102-fbae-4e31-b3ce-15a70be91723
         - youtube-dl: d3390ba5-8e62-49d0-ac77-3f5b877df60b
         - yq: b686f50a-90fc-4893-b355-05142debfe04
         - zap.stream: 719c727b-6343-4660-84e2-7d1fa4d77b95
@@ -1476,6 +1507,7 @@ nav:
     - Media Streaming Platform: d4c5cf77-f71e-4448-a116-308cac04c414
     - Merkle Tree Libraries: d8f32f54-369c-4fb3-9609-603311cc8e24
     - Nostr Client Reviews: 60856d0a-a8eb-49dd-ab2b-dd33d16ea527
+    - Nostr Relay: 435bf774-37a9-4ec0-be89-905d469b7919
     - Notable AI tools: 1f16e3ec-47c6-4f57-97a6-4ab3bbec3237
     - Notable Nostr Apps: f5a7d558-219b-4d37-9e18-28f749488612
     - Open Source Google Analytics: d500cc46-c9d0-4392-88bb-25a797ba3600
@@ -2079,6 +2111,7 @@ nav:
         - Algorithmic Reflection: d956df02-ea51-491b-a2a3-edd25c1666c7
         - All work and no play makes Jack a dull boy.: df488c72-bd4f-4f90-850e-7fbf815e16a8
         - Allometic Laws: e6ce0e5e-107b-419f-b83d-68533ba7c3a1
+        - Anaerobic: fdd053ba-7408-4b07-a7b4-3e60a7e67ca8
         - Analysis Paralysis: 31c46c1e-012c-4f11-85d5-843eaabe2ba1
         - Analytical  Jungian Psychology: 8fccac26-f3bd-4341-a374-8c4db38e2b4f
         - Animal: 2af1b93a-e652-4809-b2e5-4607eb8ae5a1
@@ -2202,6 +2235,7 @@ nav:
         - DID: 4bc51a58-a746-42df-ab29-b8deb14682ae
         - DIY Annotation Tooling: 6cd3ff9d-b7f2-4292-a631-c07b7a9f5920
         - DME Zone: 0a13ace5-0078-4f4f-bc3e-edd62315eba4
+        - DNA Sequencing: ad0e127c-3b42-4ed5-b838-9a9206128699
         - Daily Reflections: 71dfecce-161f-4272-8e90-29ca8b680f96
         - Dash Cryptocurrency: 6c7e5502-f4bf-407c-a369-d21ddfcc3c06
         - Data Annotation: 8f641fc4-f59b-42c0-9ed0-a74a38b0c65a
@@ -2260,6 +2294,7 @@ nav:
         - Egregore: 38f32675-a4ec-4b7f-a1b1-dffd556c3765
         - Elite overproduction: 80d8b309-f444-49be-9d83-cdf0776eeec7
         - Elite: f4ff28b3-80a2-45fd-99d0-3b35f80efa63
+        - Embeddings: 67bed256-4bac-4cda-9511-79915e8a226d
         - Emoji: aa7dda9a-4fb3-4f03-8f75-d7dea92ed4bf
         - Emotional Intelligence: 40a2f6e3-ef05-4045-9659-757a150dbf7b
         - Encapsulate the human experience: 35b49943-7105-4331-b4bf-0ac2f23583af
@@ -2273,6 +2308,7 @@ nav:
         - Eternal September: 616da5df-ef96-427b-80a0-6690355c2116
         - Ethereum ETH: 1e839bd9-8e58-4a04-836c-72ddd1589f3f
         - Ethernal September: 7e0d9c51-011a-4bff-982a-02b18ebf37a4
+        - Eukaryotic: 63ad32b5-790b-4c35-abdd-b9bce77c2b18
         - Eventual Consistency: 57a74be4-4fda-4b0e-8729-587a870bcb07
         - Evolutionary Analysis: 125102ff-b44c-452d-a6b6-13814b0607ac
         - Example Grant Applictions: cf7fd56b-2613-490a-a7e3-80f1ef473727
@@ -2297,6 +2333,7 @@ nav:
         - Flow State: 65e44fba-1666-4304-9b35-4069d286feea
         - Flow Triggers: 39500d67-7304-48b2-9915-5cb0be7f9dc0
         - Flynn Effect: fc27a3c1-688e-4f91-bf6e-dca32a322463
+        - Folding Awareness: 2c3e255f-0072-4271-afa5-09ec4a737132
         - Founder Effect: d364661e-060c-47ba-9e41-f48c8fab3dfa
         - Free Energy Principal: 77d20571-affa-4190-9ac9-07c1c45c48b1
         - Full Stack Developer: 44aa09d5-dcf1-49ce-a2d3-045dc1e82437
@@ -2385,6 +2422,7 @@ nav:
         - Installing Pip: 36f157a0-97c3-4aaa-b412-cd82eb555653
         - Intel SGX: fc368796-e391-45fd-a982-7608f6c74bb6
         - Intelligence 1: 5fcb81ab-5ba2-4a24-9826-e891be8e0132
+        - Interesting White Papers: d4a3e468-bff1-4b3b-8fc1-7c0df7050926
         - Interference theory: 0679bd5d-395d-43da-9973-60a1c6604234
         - Internet Archive: 33d7fe86-a712-4430-be91-9b7ff1738e65
         - Internet of Things: 48fe8904-225b-4aea-9663-804ce3520455
@@ -2427,6 +2465,7 @@ nav:
         - Map vs Territory: 141000ee-8d0a-4937-8960-b6932062c30e
         - Markdown Files: ceb61472-539e-4d96-8db5-9168bf51b6e9
         - Markov Blanket: b4e6ccfc-3b54-4c11-9a79-ed75c1b7f2e3
+        - Markov Chain: 30063de5-c3a7-40a7-89fe-f7d4636368f4
         - Marriage: 0c1651c6-76a4-429d-b54b-1a5dc6459ddc
         - Marriam-Webster: 6b55ab1d-0279-4e65-bfd9-27a1ad9dabfe
         - Masculine vs Feminine Archetypes: 7e9d3b56-69a0-44fb-a255-a4c336428999
@@ -2474,6 +2513,7 @@ nav:
         - Mutable File System: 2ec3ff8d-d30f-4ccb-9d11-2713a25c277b
         - My Diet: 1c758e4a-2653-4946-84b2-945fcf717950
         - Myers Briggs Test: 87f5e219-4345-4014-9154-923cfdc1355b
+        - NCBI GEO2R: 42b42f9f-5941-4eaa-b1fc-a651b6056b9c
         - NFT Dapps: 494b67eb-4d3b-415e-abf9-3746db45d340
         - NFT Example: 4aaf66c2-ea76-4e89-a4cb-426bd3e6f227
         - NFT Shit: 1e329554-449f-411c-bfa0-4014c4adad42
@@ -2515,6 +2555,7 @@ nav:
         - Overton Window: 7ec7e9c4-f1de-43cd-8ae2-15124c80a787
         - Overweb: 659e9fe4-043c-4751-984c-f960fae56cff
         - P verses NP: 16166cae-c4d6-4263-970c-4bf63b502a13
+        - PCA Plot: 5ed3a118-5efd-4642-9cd4-e89497df068e
         - Page Rank: c1352814-9142-4529-8cbd-d120992c8dcd
         - Palentir: 532ece8a-c0c7-4655-9d1a-c92d438b6458
         - Panama Papers: 174b10ea-7d1c-4e33-86fe-dbe1c5762544
@@ -2522,6 +2563,7 @@ nav:
         - Pareto principle: 1b342931-f077-4345-bee0-5c60b93e9635
         - Parity: 2198c7e1-f11c-49b4-9d4d-9ba78b82e44b
         - Parquet files: 091b520d-6df2-4a99-960f-67228d784ccf
+        - Parsimony: 733e39a0-59fa-4954-98d9-d7a2adb27619
         - Pavlovian Conditioning: b24fcf42-0471-4b21-bd9f-c3b7f4c2d563
         - Peacock feathers: a2f66e6c-3dac-49f6-a201-14d7d2a519e2
         - Peafowl: b5376a11-140c-4854-87e9-3bfe1b117512
@@ -2603,6 +2645,7 @@ nav:
         - SEGMENT AND PROMPT: 0ddb6672-8614-4c06-922d-37aa925666e0
         - Sacred Geometry: e071d929-af5c-4659-9837-7fb03734c71d
         - Sage: 91ebbefc-2cdd-4278-8c0f-f1b19f963713
+        - Sanger sequencing: de4299d2-2f5f-4997-9bb1-018a52343047
         - Sapiosexual: 4eb3ea02-ed2d-4361-95a8-34f05cc33265
         - Scalable Meme: 1b02f9f6-83e0-4880-9646-da943290967e
         - Science: cc6c5e5e-cec2-4fca-9417-735223a0b0bd
@@ -2721,6 +2764,7 @@ nav:
         - Vision of the Future: 570cc184-8d24-4cb5-9768-c2eb582a0788
         - Vision: a3735b61-cc59-4014-960c-2b29e5f708c5
         - Vitalisim: ba556fc4-5521-4ac8-95e1-f055e61d90f4
+        - Volcano Plot: bfe7a541-d704-49ae-8123-e7adf722bf4f
         - WTF Happened in 1971: 81258339-d5d0-4621-976f-48bfd0fe2d17
         - We are already Cyborgs: 26cc08da-d2f9-4aa7-bb01-bfeaacc224df
         - Wealth Simple: 71254124-49fc-49f3-a7e9-9bd961badbd7
@@ -3220,6 +3264,9 @@ nav:
     - Research - DDaemon Dashboard: 5a448eab-2246-424e-bd1f-fff5cfd692e1
     - Research - Format of messages from different messaging apps: 6af8ae27-bf2e-4228-aaba-d28f82f4e329
     - Research Template: d557e3da-a57b-4d87-a1da-aa477dfc40eb
+- Queries and Prompts:
+    - List:
+        - lightning network integration nodejs: 06efb9ed-7b21-4029-b650-3f405cefa5c8
 - Questions:
     - Sets:
         - Conversational Questions: 0625ee2d-6a91-4105-8550-7d80d89e1968
@@ -3393,6 +3440,7 @@ nav:
         - "What percentage of users on each Discord Guild posted less than 1, 3, 10, or 100 messages?": fb38895a-faca-42e7-8e40-416fe115a9ee
         - What problem does the dentropydaemon solve?: 97e9c159-ac4f-454b-a2fe-0922348e0480
         - "What time of day does the particular discord author post their messages, group by hour?": d0faa6c6-be48-4170-941a-a30d833f6d1c
+        - What would you do with a backdoor to the NSA?: 6a30c01e-4939-4b86-af79-555d26eb67bc
         - When was the most active month for the most active channel in each discord guild?: 30d09691-d6bc-462d-b9ae-8534e88e4cf1
         - "Where is a list of the most popular Urbit apps, also including their source code?": b633ea18-544c-4f74-ae9d-3395c9a78192
         - Where to download wikipedia?: 15ca8c44-35ce-4f3e-b803-5d3fd40bc309
@@ -3470,8 +3518,12 @@ nav:
     - ASI: cd0c5b32-d1d5-479a-b446-019a18646972
     - BCI: 2c29ee3b-adf2-40de-8911-c01cf9b18a45
     - BI: 76120376-82a3-461f-8bae-032f5ae9c7dd
+    - BIP: 67dba90f-ba58-42b8-810b-081f9197e709
+    - BLN: 84e981ed-e7dd-42af-8a8f-bde0541095dd
     - BTC: 05101a51-4068-4034-923a-42167f5ccea0
+    - CAC: 555e20ca-6cad-4488-b22f-b7f98e619cad
     - CAD: 60455b18-2392-4c4a-bfd4-d9a649c0c88a
+    - CAIP: e8dc08eb-86e8-4ec2-b8eb-b147fd2390de
     - CAP: 09bfd7f9-3f84-4f97-bca2-c60f4444dd44
     - CAR: 1cf53dcd-8555-48ce-8782-bba0d34c1f2a
     - CGFS: 6ca740f7-9928-4997-9cc1-2cc6db297117
@@ -3483,6 +3535,8 @@ nav:
     - CORS: 29b9c0f8-506f-450a-b959-c357e2eaa6d4
     - CRDT: 9b4fec6f-946d-4190-89c0-fc93d8c20977
     - CRM: 7d9fa0af-e0be-4674-8fc2-380b641f2564
+    - CRUD: cb37c60a-793e-4734-b659-122843557132
+    - CSV: a331e9a5-7679-44bd-be24-9f5235c76adb
     - CUCEGS: a24a6b3d-b8f2-435d-91cc-ed636dddaee4
     - CUDA: 12a0653d-c01e-47fb-a4f4-2ec3dcfce564
     - DAG: 5c845e58-c017-4660-9de7-1146168f3e83
@@ -3510,10 +3564,12 @@ nav:
     - GIS: fb164f5f-a98f-4241-be55-2b0b31e9ca43
     - GUCCES: 2df77633-f7af-45bb-9351-1a7e6c17d162
     - HLC: 89467309-dc10-48f0-8340-9f781e9117f0
+    - HLS: 96ccb9e4-c83e-439a-85e7-e08fbe8a97e3
     - HPI: dfda1180-e79f-4f05-880a-91f26f7c906c
     - HTTP: 2093e831-34f9-470e-a7de-efd00b084063
     - HTTPS: 1ec39053-a1f2-47e3-b951-e46c209273a5
     - I2P: 5433eba4-db14-4f9c-9726-37e15b94420c
+    - IAC: 60d2a648-ff72-4b5f-8dd3-f9f1ef5b80d4
     - IAS: cf9d55f9-cb75-4a76-a2a0-cd302ebd5d98
     - ICO: e6dd3bb7-baa6-418f-b294-4a75a8270438
     - IEEE: 1fe3dd5c-44d4-419e-8882-ff22e8101394
@@ -3526,6 +3582,7 @@ nav:
     - JSON: 072b4c73-5b7a-40ab-a745-36ef24078856
     - KISS: 8412af19-c492-44c7-8e39-7fad1b85155e
     - KOL: bae8309a-b4a2-46de-8be6-d944d615977e
+    - KV: 392b1a69-3a26-4ae7-9419-83ac8348a88d
     - LDIF: 7598f2d5-f5a1-4dac-afb2-e7394b8c8938
     - LLM: 8098d812-cde1-4a26-ac6f-793f02067948
     - LLaMA: a722edb6-d8e9-4b1c-9eed-6a8c84e1553e
@@ -3540,6 +3597,7 @@ nav:
     - NER: a33f0277-9ea9-4c79-8eb9-41a052aa3a21
     - NIP: 79ef73c3-8e89-4380-9c54-689d8406ec49
     - OCSP: a170dae3-7acf-4b1c-80cc-4687d260da44
+    - OG: 3571c4eb-833d-45a2-8e25-32a1fe5e5e9b
     - OLAP: 515a019e-5333-4996-956c-d4661cd215c8
     - OLTP: bd1fc221-f8e8-40f0-b0f3-c3b5a3e145f3
     - OODA: 2040ddee-0202-4465-85db-ea0739f84fbf
@@ -3552,6 +3610,7 @@ nav:
     - PKM: 10e57c0e-9c54-41fb-82d0-f36f3165c4ac
     - PKMS: ea5dd34b-8140-436d-9106-1bea26a2b5d9
     - POC: 5579525f-febe-4c18-a19f-83d134e50292
+    - PWA: e21a3a79-8723-4df0-bbc4-7e6a6c15cd71
     - QE: 96fab60c-c9db-4d51-8388-5b51a595d302
     - QPS: e700d36f-a803-44e9-863e-c5cd4f98e877
     - RAG: f70025cb-0c68-48c1-8176-4c3eb26bbf20
@@ -3577,6 +3636,7 @@ nav:
     - UPC: 8031e447-1998-4778-9b63-11e085b3e1ca
     - WAGMI: 99dc23d5-ebf9-4bba-b259-bb34c491a44b
     - WASM: af3c2f6a-2d4f-4eb9-ab21-d3d64c59d431
+    - XML: 3c9b1393-826d-4290-a8ca-13829547eedc
     - YABSS: 8318a1d5-2422-4b5b-9963-d7bffdc9b98e
     - Z2D: eb40b443-3aa8-42e4-b68d-dbd4af49534b
     - saas2: 6d27e465-d93c-4de2-b0e4-82ba5eabd7ea
