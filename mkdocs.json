@@ -1000,6 +1000,9 @@
             "0ad": "85950d94-d09a-4424-b454-55f62fd6184b"
           },
           {
+            "2key-ratchet": "d88d4202-9f58-424d-885f-0bccd200fa36"
+          },
+          {
             "A Expo": "164855b1-2f14-4f3e-8aa2-b6b4eeb17fb7"
           },
           {
@@ -1126,6 +1129,9 @@
             "Artemis Spaceship Bridge Simulator": "26bab580-51c1-42e4-a0ba-218f1a1fefbe"
           },
           {
+            "Arvo": "be30cd7f-a8e7-47a7-ac86-3a45743f7d34"
+          },
+          {
             "Arweave": "e4e8d9c8-f039-4c21-bf25-35d36feb3f7b"
           },
           {
@@ -1166,6 +1172,9 @@
           },
           {
             "BadaBoomBooks": "46f5b998-54e3-40a0-a8b9-7dbe0e5781af"
+          },
+          {
+            "Based Dolphin Mixtral": "b6678aaf-811e-44f6-a1da-951a0a1d61eb"
           },
           {
             "Bear Writer": "b45a58f8-79a0-4258-9df7-9def4f7051d0"
@@ -1285,6 +1294,9 @@
             "Cargo": "ddbe90a6-2250-4c5f-884b-5643ce3a5c57"
           },
           {
+            "CasaOS": "ca36583f-57d1-4780-8dec-c33c8bc919a6"
+          },
+          {
             "Casandra DB": "94ac4626-d679-4739-a52b-c670de343604"
           },
           {
@@ -1313,6 +1325,9 @@
           },
           {
             "Cirus": "397cb131-650c-4f9a-9f25-ba928253e0ce"
+          },
+          {
+            "Cisco": "1e730153-40a7-4250-8822-799b1fbce133"
           },
           {
             "Clickup": "1d875b76-a61f-4115-81ad-73504f013271"
@@ -1391,6 +1406,9 @@
           },
           {
             "DGraph": "980869eb-e907-4e49-888b-0b7d839b7505"
+          },
+          {
+            "DID X509": "5b6becf5-fdbd-4767-9e67-8693e9173f16"
           },
           {
             "DNSxyz": "1fc0ade3-41fb-4d34-ade4-b56ca53611db"
@@ -1534,6 +1552,9 @@
             "Evernote": "913c6f6a-3f34-4a69-a56a-ada8d63d11e5"
           },
           {
+            "Excalidraw": "c7559701-1bad-4bff-bb1c-ab1a1e1b2093"
+          },
+          {
             "Excel": "99ce5f78-1087-48a4-983c-6f34794b1f7c"
           },
           {
@@ -1621,6 +1642,9 @@
             "Formstr": "539e1f6e-2985-4f1c-8418-d8e98cb1e212"
           },
           {
+            "Fossil Software": "bb3c1146-47d6-4633-ac67-b0a4417a2e2c"
+          },
+          {
             "Franz": "0d047e48-b1c9-4c0d-a972-bb850946eddd"
           },
           {
@@ -1694,6 +1718,9 @@
           },
           {
             "Google Drive": "a23f4407-385f-4e98-88fd-8e3d1530a418"
+          },
+          {
+            "Google Inbox": "ef8d8b3e-f35c-4b8e-83d6-75ad5f1b2e2d"
           },
           {
             "Google Play": "87b29a54-0bb9-4c65-92b2-9a82e960228c"
@@ -1942,6 +1969,9 @@
             "LM Studio": "fab4d5b4-4863-4109-baea-5b376fe1910c"
           },
           {
+            "LMDB": "1ecdef01-daf7-4714-8762-668de25d9f3d"
+          },
+          {
             "LNBits": "a14fe5ac-c270-4495-bc13-b615fca6c865"
           },
           {
@@ -2047,6 +2077,9 @@
             "MacOS": "12fa0fb4-9d90-4403-9778-533a5a3d7e91"
           },
           {
+            "Malloy 1": "1fe0cc69-4e47-4400-8950-18e19a10f487"
+          },
+          {
             "Manjaro": "60a614f7-3813-4ad8-bc23-1980c1d850bd"
           },
           {
@@ -2060,6 +2093,9 @@
           },
           {
             "Markup Annotate Software": "f55d6794-c0fe-41dd-acf6-08bdac14df73"
+          },
+          {
+            "Marp": "a3d46bc5-b46f-4db0-b15c-18251144c785"
           },
           {
             "Massive wiki": "61e6a1e4-50bc-437b-96f2-8840086f1bdc"
@@ -2101,6 +2137,9 @@
             "MetaMask": "037fca47-315e-46e3-a9f0-fc5dbc3ca4ef"
           },
           {
+            "Metasploit": "1d97b8a8-5d80-4f8b-9759-c606bc25f48f"
+          },
+          {
             "Milanote": "ac5d90e1-1c58-49d8-999d-ddad9ed89c3b"
           },
           {
@@ -2131,6 +2170,9 @@
             "Multi On": "8ab360ae-e3bc-4d23-a60c-23847e562228"
           },
           {
+            "Multicodec": "a8d1319f-af6d-406b-a83f-240d45377049"
+          },
+          {
             "Multiformats": "5ca2a82c-f00e-43eb-bc7e-7fdde4012434"
           },
           {
@@ -2156,6 +2198,9 @@
           },
           {
             "NIP05": "806e41b6-fcfc-4d00-94e9-0d10266c3591"
+          },
+          {
+            "NIP06": "0f7d1b9f-0601-4433-a4a3-0e39105a018f"
           },
           {
             "NIX OS": "827f3235-a73a-426e-941e-59f25625f426"
@@ -2353,6 +2398,9 @@
             "Opensearch": "4cf4d838-1c65-43c5-8b4f-936c99b48350"
           },
           {
+            "Orama": "d19f8b70-fae0-4e0c-9c99-d59b55a1b1b0"
+          },
+          {
             "OrbitDB": "36e8ce81-5c50-479f-a9bd-2eff92802abf"
           },
           {
@@ -2369,6 +2417,9 @@
           },
           {
             "PRQL": "cce82b1d-c9ad-44f0-a748-c17c0ab69b3d"
+          },
+          {
+            "PRSQL": "d3d2277e-09fb-4631-9260-fe5f0acc32ba"
           },
           {
             "Packet Tracer": "63db2418-6be9-4d07-8667-d70d0fa730e5"
@@ -2461,6 +2512,9 @@
             "Plutus": "d215115a-f3c2-40ac-8f35-0f6640ef178c"
           },
           {
+            "Pocket App": "2cc02bd4-24b9-4b32-b490-c9236a83a99b"
+          },
+          {
             "Poetry": "9b5f7b3c-98e6-4efe-8adb-6c855fe4eed1"
           },
           {
@@ -2503,10 +2557,16 @@
             "Promisfy": "d018be49-2905-43da-9662-a63a3259c419"
           },
           {
+            "Promox Remote Backup": "80115acb-474f-451b-9dce-4f2587a7cc3f"
+          },
+          {
             "Promptify": "18a6290b-59ff-4df1-98f7-673cdc7a7118"
           },
           {
             "Promtail": "a389c80b-31cb-4818-86c2-22999d2b19b8"
+          },
+          {
+            "Protobuf": "da1246bd-9407-4d50-9c0c-79ab295400cb"
           },
           {
             "Proton Mail": "680a8972-e5c6-445a-b930-a8c980125140"
@@ -2596,10 +2656,16 @@
             "Rumble - Platform": "af0c6865-e6fb-439d-a9a9-a72dda2895cd"
           },
           {
+            "Runtipi": "06a71542-1f19-45ba-b52a-4557a50e0540"
+          },
+          {
             "Rust Keylogger": "fff7855c-9b9b-49ea-84a4-8d4add2063a8"
           },
           {
             "RxDB": "527176c4-7981-4297-a62d-fedf04bf9460"
+          },
+          {
+            "S3 Cheap Cloud Storage": "b73ee6ba-0d03-4f67-9ad8-3a244c9fdb37"
           },
           {
             "S3": "cc64a399-1cbe-44ee-ab4a-f36343a593ff"
@@ -2633,6 +2699,9 @@
           },
           {
             "Sails": "1db29e53-b78e-4b13-8002-858c7bc87e31"
+          },
+          {
+            "Sandstorm.io": "4d8c25d0-1200-48fb-b8cc-1e4c2be95864"
           },
           {
             "Save page with single file": "f278aafd-a626-411e-8f30-90780cddb04e"
@@ -2746,6 +2815,9 @@
             "Storj": "e544dd7d-86c3-4206-b53d-6426885e4fdb"
           },
           {
+            "Storybook": "068ca3e8-ab4c-46a3-8b13-b2bdfe556195"
+          },
+          {
             "Strava": "d54a8965-ec39-4df1-b43c-8ad4d1deda4b"
           },
           {
@@ -2780,6 +2852,9 @@
           },
           {
             "SurveyMonkey": "22b66930-433d-4089-83c6-5c0182c3fbda"
+          },
+          {
+            "Swagger": "5b3c95b3-fb54-462f-bf1d-84539905901e"
           },
           {
             "Synapse - Matrix": "fc9b7b3e-f0ac-4f6b-b14c-7463b2902820"
@@ -2900,6 +2975,9 @@
           },
           {
             "UFW - Uncomplicated Fire Wall": "1d60cf49-a13e-41aa-9926-eb4560f11936"
+          },
+          {
+            "Ubiquity": "b4ba6172-fc16-4928-ac3d-1eab07a78a62"
           },
           {
             "Ubuntu": "a55f9e87-3627-4503-ad12-9e0748b12a50"
@@ -3043,6 +3121,9 @@
             "Youtube": "93aab4f8-57b5-4d6e-a778-7dd0d4052a8e"
           },
           {
+            "Yuno Host": "0eb42ea2-55f2-46b9-94ea-62534491d2ae"
+          },
+          {
             "ZBD": "8ecd76e5-9778-4a56-a049-563b82d50c7e"
           },
           {
@@ -3125,6 +3206,9 @@
           },
           {
             "check-jsonschema": "4ed22770-406f-4a2f-8c49-7c1433095f8f"
+          },
+          {
+            "client-vector-search": "3d045368-4520-4d41-a4ed-e604e5119a09"
           },
           {
             "codium": "edb5213d-c56f-451e-812f-fed0c9f4376b"
@@ -3370,6 +3454,9 @@
             "gphotos-sync": "775550c5-64cb-4cb3-a342-d5cd9ed5c145"
           },
           {
+            "gpt 4 chan": "92deaad8-4443-42fc-9110-142e3d2f126b"
+          },
+          {
             "graphviz": "dd1ac33f-5ee0-4b14-ae9c-c7b987687b63"
           },
           {
@@ -3476,6 +3563,9 @@
           },
           {
             "keycloak": "147f06cb-f6ca-4346-9099-cd804486147d"
+          },
+          {
+            "keyoxide": "aea177e1-f828-412b-9afa-7bb3c449386e"
           },
           {
             "kialo": "8460cddd-ef1a-42df-a4c9-2060d30963da"
@@ -3724,6 +3814,9 @@
             "peer-base": "c0ee1c48-b251-4adf-941c-ce0ec74dc2a6"
           },
           {
+            "pfSense": "02495f48-6436-4b30-a5fd-f9c337a7ee3f"
+          },
+          {
             "pgloader": "3e68e86b-999f-48fa-9ae8-116b40062c78"
           },
           {
@@ -3860,6 +3953,9 @@
           },
           {
             "sharedb": "25caca8f-17d2-41cf-a3a1-6675228969b9"
+          },
+          {
+            "simplex": "ae3ce3dc-6d90-4961-a9a3-3dc385207a77"
           },
           {
             "sklearn": "08a78987-7a1c-42a2-99c6-19a95728bc84"
@@ -4013,6 +4109,9 @@
           },
           {
             "webcrypto": "c8fe4470-f867-4b8d-9f21-feab0f2c61df"
+          },
+          {
+            "webhooks": "e503682b-330c-4bb3-8e08-3985b3174d8c"
           },
           {
             "webtorrent": "b19e478c-5609-4ffe-aac6-6e32214a7805"
@@ -6506,6 +6605,9 @@
             "Accelerationisim": "9a3bbd28-7cc4-444a-9c27-a4ceb815a9ab"
           },
           {
+            "Accountability Buddy": "bad2a6b8-9fef-4ee6-9bc2-0ebf2f95f935"
+          },
+          {
             "Acronyms": "dd44570a-6b71-4628-a63f-def716a3d1eb"
           },
           {
@@ -6866,6 +6968,9 @@
             "Cringe": "eb9539fa-c2c5-49c5-8b1d-3f91d891b59a"
           },
           {
+            "Cringiest": "5e434e70-7220-498c-a861-28d48d3dd678"
+          },
+          {
             "Crypto Projects": "409347b3-f25a-4bb9-8ffc-6f49ccf08961"
           },
           {
@@ -6965,6 +7070,9 @@
             "Decentralized Cryptography LDAP": "ddb95613-96e0-4e9f-94f9-3ef4c40f7354"
           },
           {
+            "Decentralized Identifier": "dee89abe-0f68-44cf-a0b7-1d418e25eb98"
+          },
+          {
             "Decision Sieve": "293e4694-14ed-45ab-8fd5-7c84fee0a2b6"
           },
           {
@@ -7055,6 +7163,9 @@
             "Dopamine Pumps": "f79eb288-40e6-4afa-a414-cc78007f47a2"
           },
           {
+            "Double Ratchet Encryption": "cc1b3654-1832-410e-b4a6-840e70cd4a15"
+          },
+          {
             "Double Spend Problem": "5359177b-3774-4312-b8c3-3d2e99876d09"
           },
           {
@@ -7062,6 +7173,9 @@
           },
           {
             "Dualisim": "b9f3d0a1-4752-432b-a8e2-d44084fa6487"
+          },
+          {
+            "Dumbar's Number": "e5f71752-bbf7-47e8-a0ec-f85a86707edd"
           },
           {
             "ENS": "354e7428-f69e-42c5-97dd-92bf18521112"
@@ -7202,6 +7316,9 @@
             "File Transfer Protocol": "b47a7f38-9cdc-4ada-bda4-1bc949240c88"
           },
           {
+            "Fiver": "b8e5bbbe-043b-4c1a-8bcb-ed8e8cc417e1"
+          },
+          {
             "Flat Earth": "c3040417-3377-4285-96f4-93c020e7a47e"
           },
           {
@@ -7248,6 +7365,9 @@
           },
           {
             "Gargoyles": "b743b4b0-4a54-4ee0-8bc2-ad5a7d52f24e"
+          },
+          {
+            "Gary Stew": "b4b3ff3f-d194-4fb1-8d17-d1b75de143e7"
           },
           {
             "Gell-Mann Amnesia": "9f7b5274-98ef-48af-9f8b-24816ab699f5"
@@ -7422,6 +7542,9 @@
           },
           {
             "IFS 8 C's": "1450114c-1b37-4a65-80e9-0550f8161a3c"
+          },
+          {
+            "ISO 27001": "9a578fba-bc13-4e96-abe6-8d5fcc2ddde7"
           },
           {
             "Id  Ego  Superego": "f6af78d0-0e0f-42bf-b5d2-5bd38c3f5511"
@@ -7623,6 +7746,9 @@
           },
           {
             "Marriam-Webster": "6b55ab1d-0279-4e65-bfd9-27a1ad9dabfe"
+          },
+          {
+            "Mary Sue": "ba4ba777-b0b2-4206-8043-2a25df4516e3"
           },
           {
             "Masculine vs Feminine Archetypes": "7e9d3b56-69a0-44fb-a255-a4c336428999"
@@ -8039,7 +8165,13 @@
             "Proposal Title": "74808b2e-2f7e-47ae-ac2e-35b501021a7d"
           },
           {
+            "Providence": "430ccd83-0a30-45fa-be73-a219115a0d2c"
+          },
+          {
             "Psyche": "972a0bc0-8e54-40a4-8678-3dad78e1a73f"
+          },
+          {
+            "Psychological Mirror": "98daf697-043d-47c8-8c60-854c6d90f0b0"
           },
           {
             "Psychology": "c547d9f7-395b-4e73-a8a9-91e6856acf9e"
@@ -8097,6 +8229,9 @@
           },
           {
             "Reality": "137d8b09-dc00-4ed9-bb2c-825b5173c62b"
+          },
+          {
+            "Recipes I have cooked": "2e2c15cd-9a1c-4bf8-90db-f1865886d5d8"
           },
           {
             "Red Team": "f14a4d51-7ccb-41fd-bbf0-1a2e6ba9a7ab"
@@ -8181,6 +8316,9 @@
           },
           {
             "Second Hander": "cff110ea-4efb-4c29-85a4-8f73ae001aa6"
+          },
+          {
+            "Secure Enclave": "8117f7a6-2f8f-404a-bb05-5b9637c9c2d8"
           },
           {
             "SegWit": "b49d524c-d04d-48bb-9440-20fc2af95bc0"
@@ -8498,6 +8636,9 @@
             "User Journeys": "8d38ccde-e851-4f77-aeae-82924e55728b"
           },
           {
+            "User Stories 1": "0a35a47e-8ad9-42f5-9cdf-cd7842f53db9"
+          },
+          {
             "User Stories": "44c10f20-28ae-489d-bc46-0547c7997242"
           },
           {
@@ -8516,6 +8657,9 @@
             "Virtue": "b5438c4a-fc92-41e0-b2ae-dfb863c07aa1"
           },
           {
+            "Vision Statement": "dfde544d-5033-4a24-93b3-2ddabbdc23e7"
+          },
+          {
             "Vision of the Future": "570cc184-8d24-4cb5-9768-c2eb582a0788"
           },
           {
@@ -8529,6 +8673,9 @@
           },
           {
             "WTF Happened in 1971": "81258339-d5d0-4621-976f-48bfd0fe2d17"
+          },
+          {
+            "Washington DC": "737c7a52-a935-4f0c-a3f6-254276e941f6"
           },
           {
             "We are already Cyborgs": "26cc08da-d2f9-4aa7-bb01-bfeaacc224df"
@@ -8565,6 +8712,9 @@
           },
           {
             "Whim Hoff Method": "3ca89414-a4d7-47e6-a078-c3a4392e6542"
+          },
+          {
+            "White Paper": "bef85eb3-8d8e-4115-894a-aa73bdf559ac"
           },
           {
             "Whitepaper": "6b8bed79-2b9b-47cc-83b1-f612998b35d5"
@@ -8844,6 +8994,9 @@
           },
           {
             "psychopathy": "7f19ce59-a75b-4443-a884-82f3e1ee1bf2"
+          },
+          {
+            "radically articulate": "55fa8445-6e9c-4c18-8a4a-1b9a1f12f589"
           },
           {
             "rape": "995cc032-f951-4c7e-a3ac-c29ece0f9303"
@@ -11035,6 +11188,9 @@
         "GIS": "fb164f5f-a98f-4241-be55-2b0b31e9ca43"
       },
       {
+        "GPT": "3eb0b3ce-b8cd-4c22-97bc-dff148dc724c"
+      },
+      {
         "GUCCES": "2df77633-f7af-45bb-9351-1a7e6c17d162"
       },
       {
@@ -11069,6 +11225,9 @@
       },
       {
         "IFS": "6d04ca02-e54a-4654-aba5-cc984788a711"
+      },
+      {
+        "IMAP": "b8182dcd-3c59-4c08-82fb-a5a162408c87"
       },
       {
         "IOT": "f6fc7a3d-6bcc-44f5-9fcf-7f07c832dd39"
@@ -11224,7 +11383,13 @@
         "SAML": "0a65626f-d641-4eb7-9601-d68f55f5c0e1"
       },
       {
+        "SFTP": "20ac9565-9f8c-47cf-a389-018137b71f2c"
+      },
+      {
         "SMART": "7aaae105-b1ea-4e4c-ac0a-2e1013b2d244"
+      },
+      {
+        "SMTP": "91b86181-8e98-4c19-84a6-ee1d108c9718"
       },
       {
         "SSL": "f6d6dfab-c3e5-4901-b8ff-c45b0859a9b6"
@@ -11243,6 +11408,9 @@
       },
       {
         "TLD": "2bf07ba9-aa79-4c22-b3bc-cfd75fe14e14"
+      },
+      {
+        "TLDR": "4391a3a1-bb0e-471d-b2cb-4480fb849077"
       },
       {
         "TLS": "017fa480-0484-452c-9144-3b34b3ad6c37"
@@ -11273,6 +11441,9 @@
       },
       {
         "Z2D": "eb40b443-3aa8-42e4-b68d-dbd4af49534b"
+      },
+      {
+        "ZFS": "016e98b6-c608-4619-9b94-6620869c6ffd"
       },
       {
         "saas2": "6d27e465-d93c-4de2-b0e4-82ba5eabd7ea"
