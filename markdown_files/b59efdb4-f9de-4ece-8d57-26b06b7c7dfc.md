@@ -34,3 +34,4 @@ pip install langchain-community
 * [Langserve](/d13af8ed-071d-491a-b7f0-76dacbfc9060)
 * [Filling self described SQL models via LLM Heilmer Catechism](/c1f5a29f-e664-480a-86c3-67efed75ff0b)
 * [ETL to QE, Update 24, Roadmap Revisited with Memes](/89c90b4a-2065-4b58-93eb-107794ed8671)
+* [Toronto Accelerationists](/ff5dbaf7-a669-4873-8fa5-fd47e23dfd1a)

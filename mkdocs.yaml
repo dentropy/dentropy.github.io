@@ -445,6 +445,7 @@ nav:
         - Charmverse: 2455412c-594c-48da-ab23-5e59ad7520c5
         - ChatGPT: 05e1e78b-2103-4abe-bf33-bc8d7eb3582c
         - Chatbot Arena: c4a56cee-e08a-4938-9c0d-b5ba2af4ee8b
+        - ChromaDB: 46d50149-cf59-4609-92fd-d651a0bf97eb
         - Chromium --allow-running-insecure-content: dbce8731-455a-414d-af09-d9c03f65a4e8
         - Chromium Based Browser: 162dc2db-b794-4e56-b32c-82f6b327a5f0
         - Chromium: e9dcbb85-e010-4a16-970f-255045f0530d
@@ -526,6 +527,7 @@ nav:
         - Evernote: 913c6f6a-3f34-4a69-a56a-ada8d63d11e5
         - Excalidraw: c7559701-1bad-4bff-bb1c-ab1a1e1b2093
         - Excel: 99ce5f78-1087-48a4-983c-6f34794b1f7c
+        - Ext4: dc9c518a-76dd-44b1-9ce2-821414f1de86
         - Facebook 1: 6f9d9f92-583d-4244-b2eb-92bf99725964
         - Facebook: ffaff3fb-3237-40f8-abba-0b87ed05c16b
         - Fail2Ban: 22faf5e0-cb53-4912-a3e8-a3563b759e48
@@ -717,6 +719,8 @@ nav:
         - Mega.io: 81f86914-5efa-41e5-a090-b36e034ed46b
         - Meilisearch: 91735b8b-9efc-4e78-97ab-254ee418a01e
         - Memgraph: 01d240b4-d5cf-4717-a10e-3dede64d5ced
+        - Mercurial: e0a0ba7b-10bd-438d-8215-899bb34f95f4
+        - Merlin AI: 8fadae11-506a-48d1-b8b8-fd0b43ff56fa
         - MetaGPT: d68b265b-aff7-4804-a4b3-6fed329b5fd8
         - MetaMask: 037fca47-315e-46e3-a9f0-fc5dbc3ca4ef
         - Metasploit: 1d97b8a8-5d80-4f8b-9759-c606bc25f48f
@@ -789,6 +793,7 @@ nav:
         - Odysee: 85398c36-8236-46c3-b394-645d98486142
         - Office 365: 2fd9d3ea-eff5-4518-aa25-12433c56343c
         - Okular PDF: 78d09f5d-ae01-4c06-9b35-e7db91c2abf7
+        - Ollama and Open-WebUI queries: 00f10601-4a54-44ea-8b06-642e0278a833
         - One Note: 77feab76-6907-4250-9ff8-aa34549fbaaf
         - Open Library: 4ead51de-4419-4950-8466-92ee3780437d
         - Open Phone: 844dd08e-4812-4cf5-9e2d-02f1f0aa0686
@@ -903,6 +908,7 @@ nav:
         - SPEC-93: af6ada8d-f0fa-4249-a4fd-f53ceed3256a
         - SQL: 9bf437f1-b997-4df7-9cb5-d1dcb65fb892
         - SQLAlchemy: 3d3db79a-ae22-4620-8516-5cec289c31c3
+        - SQLite-VSS: 2166749e-6a59-4b3c-8c85-f2df9af5e374
         - SWARM protocol: 58bc9aff-7fa8-484a-80d0-af74ab146b76
         - Saddle: 8e6a7a62-e0c7-4c7f-b9ed-82ab8623e25d
         - SafeSnap: a1199e2b-e6fc-4492-bf9c-baf596e745ed
@@ -1002,6 +1008,7 @@ nav:
         - Ubiquity: b4ba6172-fc16-4928-ac3d-1eab07a78a62
         - Ubuntu: a55f9e87-3627-4503-ad12-9e0748b12a50
         - Umbrel: 60722662-eccc-443d-af35-af0ee02d1c9c
+        - Unix: 3e65e0af-2fca-485f-86cf-f9d1560f5950
         - Unraid: 98d27b77-5c46-46c6-bc0a-0a58ec5cd72b
         - Unreal Tournament: 4133814b-c68b-4fa4-b93b-c1fea6356a17
         - Upwork: 6647e7ea-14ae-4e14-b536-f7d952d70d26
@@ -1172,6 +1179,7 @@ nav:
         - iRegulon: 234b8a6b-a57a-4717-b4a3-3557014a9106
         - imagemagick: 08210701-e8de-412b-b288-6088322d5713
         - infranodus: e8ca78e3-422e-4f21-9607-88c20a61048e
+        - inode: b7a50411-7110-46f2-b872-911e135f4c5a
         - ipfs-car: a5f00d8b-caf0-48f5-82cc-383380c59a14
         - ipfs-nucleus: 286ac6c5-6107-47a2-a4bc-517afc7fc78e
         - ipfs-social-proof: 96fd16b6-f52e-4a5a-9c58-bdb471205715
@@ -1296,6 +1304,7 @@ nav:
         - psql: 4409a1a7-de50-4bbb-8a7c-73c57dc3439a
         - psycopg2: 3fab38a4-8d02-49ff-b524-db359affb04f
         - pyenv: 687bbe1e-57b1-4cc6-a44e-e4f470319f11
+        - pypi: f2c54af8-4654-4dc2-9265-27bfe83cb746
         - pyspark: 9ef67b7c-c4ff-466c-ae92-b6e6d43da454
         - python-libzim: 77d7de43-cd80-4437-ac94-77001f7a1268
         - python-scraperlib: edae4c0e-c4dc-428d-b6eb-bdc23aa026e1
@@ -1348,6 +1357,7 @@ nav:
         - systemctl: 044b4897-60c9-4349-9a5d-a8d0975af5fa
         - systemd: 2bf93e44-adcb-4d5a-9d85-4d82015e6983
         - tar: d2272d3a-0619-4303-b230-f8c6ae73d436
+        - telnet: b67a085e-822e-43d6-b278-e1e9f7acca9c
         - tiddlywiki: 0616d5be-c9a1-4854-bfd1-a7e4614d1500
         - timedatectl: e6cd348f-765f-49ce-8edd-c81d9f93448b
         - tmux: 42f56aae-f26e-471e-838e-ecf432750f08
@@ -1365,6 +1375,7 @@ nav:
         - valico: 2141fa8c-6c12-4623-9191-c567d27fcd97
         - vcf: 47e8a28d-7eb1-47f7-a7c5-94a17406c634
         - vector5db: b0ca0d50-3c8a-4605-8d0e-65703cbd8387
+        - vectra: a21fe148-e48f-4a49-a7f2-4c75bbcb61d8
         - vega lite: 7689616e-19a2-473d-ba91-80fdcbe833ab
         - velero: df3425d9-432e-457a-9119-69426c695d36
         - vim: b43cc376-8fa6-4bb6-b305-5afb9a126937
@@ -1379,6 +1390,7 @@ nav:
         - webcrypto: c8fe4470-f867-4b8d-9f21-feab0f2c61df
         - webhooks: e503682b-330c-4bb3-8e08-3985b3174d8c
         - webtorrent: b19e478c-5609-4ffe-aac6-6e32214a7805
+        - weron: 1ddfe02d-e15f-4269-a6b4-7957c21a0d8d
         - wexo: 338e2a91-c6c4-4e92-8540-76c1ba535ba0
         - wget: c5006247-3747-4a31-be2f-a5f3b70fcc9a
         - wikijs: c7f4916b-aecb-4d00-a8e3-bb4908e1158d
@@ -2792,6 +2804,7 @@ nav:
         - TLS certificates: d92b98f2-54c8-4243-8a3c-8962c04a712f
         - TTRPG: cb50fd3f-3585-4d1e-b0a6-9b041406394e
         - Tabletop Roleplaying Games: b8ed90ee-7105-421d-a129-d1e2cd74b71b
+        - Take great notes that outlive you.: 51533d48-c3cc-46f2-8b50-6674ce2fe12f
         - Talk does not cook rice: de0110dc-cca0-4ef5-a61d-628131122e4e
         - Technological Singularity: fa4a378f-e4b7-4d57-982b-b847ba23ecc4
         - Technology  Purpose of Technology: a8840f23-6d6c-47b2-ab0f-8b0d09fae889
@@ -3190,7 +3203,14 @@ nav:
         - "ETL to QE, Update 24, Roadmap Revisited with Memes": 89c90b4a-2065-4b58-93eb-107794ed8671
         - "ETL to QE, Update 25, Research is one thing a usable product is quite another": 0688a5f2-87e0-4754-b09b-88b09b92ebd8
         - "ETL to QE, Update 26, Observe and Orient": a6694d76-0b96-4dd7-8f4a-8d213fef86f0
+        - "ETL to QE, Update 27, Meme Schema Roadmap to Implementation": f0940244-8feb-4c30-99b6-d64f155c0d10
+        - "ETL to QE, Update 28, Separation of Concerns": 1c28c038-689a-4083-a472-3bdab8489c4f
+        - "ETL to QE, Update 29, Tangible Competition": 05939e4f-56fd-4e30-8b09-054f0da09282
         - "ETL to QE, Update 3, Progress on first Report to be Published": a4afe3e7-e3ae-44ae-a1dc-e22754900e37
+        - "ETL to QE, Update 30, Reflection on Tutorial Your Way to Victory": b70e4d07-50b5-4684-be64-cc194f661725
+        - "ETL to QE, Update 31, The Man that Takes Things off The Table": 9d4498f4-7759-46db-bbcf-b2fe797b0760
+        - "ETL to QE, Update 32, Defining a short term vision": 4b29e643-872e-491f-bd1e-688965b09e2d
+        - "ETL to QE, Update 33, Let's Set Some Goals": 6b1da9a5-397e-40e5-918d-34431338b3ac
         - "ETL to QE, Update 4, Code Refactor and TrueNAS S3": d59dbed7-08bd-462e-8f87-24a80c791f46
         - "ETL to QE, Update 5, Optimizations": 88cd3a9e-9156-4482-aaa5-2bb8eeebca0d
         - "ETL to QE, Update 6, Native SQL Decision": 9dc97a82-96a0-495b-a8e2-a5c4d5c60abe
@@ -3371,6 +3391,9 @@ nav:
     - Research - DDaemon Dashboard: 5a448eab-2246-424e-bd1f-fff5cfd692e1
     - Research - Format of messages from different messaging apps: 6af8ae27-bf2e-4228-aaba-d28f82f4e329
     - Research Template: d557e3da-a57b-4d87-a1da-aa477dfc40eb
+- Community:
+    - list:
+        - Toronto Accelerationists: ff5dbaf7-a669-4873-8fa5-fd47e23dfd1a
 - Queries and Prompts:
     - List:
         - lightning network integration nodejs: 06efb9ed-7b21-4029-b650-3f405cefa5c8
@@ -3615,6 +3638,7 @@ nav:
     - Web Scraping Tutorial: bf73b80d-db97-45e8-8959-610735a5d18a
     - docker nginx proxy with auth: c9972dec-d741-4735-9998-1c81b5e0c192
 - Acronyms:
+    - 2FA: 7122ff8e-7e08-49c2-84f3-2ad93cb52f1e
     - AAA: f695942a-96ad-4a1f-9f10-cced4ae7bf97
     - ACID: 0f1f6127-3cd4-4e4a-83f2-8cd048090d61
     - ACL: 83b4a2b7-d54c-4199-8db0-27fddfc67176
@@ -3669,6 +3693,7 @@ nav:
     - ERD: 169abeb2-1466-40b0-8b0a-08b90ed1851d
     - ETL: 7e381790-c582-4f58-9350-ef2e51efa9cf
     - EU: bdb6341e-a217-45cf-9d00-b3271ba36795
+    - FAT: 6c50e52a-c26b-4973-a65f-d706ff2024cd
     - FOAF: de759b3c-b687-48a3-93ec-62c18c7e7709
     - FPS: 8046ded3-3d82-433a-be3d-650320ab3d3d
     - FTDI: 4551f817-57a0-4d68-b764-7bc58d193470

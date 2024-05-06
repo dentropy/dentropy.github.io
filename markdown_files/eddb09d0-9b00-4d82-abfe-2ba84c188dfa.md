@@ -124,3 +124,7 @@ iptables -t nat -A OUTPUT -o lo -p tcp --dport 80 -j REDIRECT --to-port 8080
 * [How to configure the API interface via a Caddyfile? - Help - Caddy Community](https://caddy.community/t/how-to-configure-the-api-interface-via-a-caddyfile/7669)
 * [API Tutorial — Caddy Documentation](https://caddyserver.com/docs/api-tutorial)
 * [How to reset caddy to a blank config state? - Help - Caddy Community](https://caddy.community/t/how-to-reset-caddy-to-a-blank-config-state/7698)
+
+#### Backlinks
+
+* [ETL to QE, Update 29, Tangible Competition](/05939e4f-56fd-4e30-8b09-054f0da09282)

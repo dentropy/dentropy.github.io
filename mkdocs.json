@@ -1315,6 +1315,9 @@
             "Chatbot Arena": "c4a56cee-e08a-4938-9c0d-b5ba2af4ee8b"
           },
           {
+            "ChromaDB": "46d50149-cf59-4609-92fd-d651a0bf97eb"
+          },
+          {
             "Chromium --allow-running-insecure-content": "dbce8731-455a-414d-af09-d9c03f65a4e8"
           },
           {
@@ -1556,6 +1559,9 @@
           },
           {
             "Excel": "99ce5f78-1087-48a4-983c-6f34794b1f7c"
+          },
+          {
+            "Ext4": "dc9c518a-76dd-44b1-9ce2-821414f1de86"
           },
           {
             "Facebook 1": "6f9d9f92-583d-4244-b2eb-92bf99725964"
@@ -2131,6 +2137,12 @@
             "Memgraph": "01d240b4-d5cf-4717-a10e-3dede64d5ced"
           },
           {
+            "Mercurial": "e0a0ba7b-10bd-438d-8215-899bb34f95f4"
+          },
+          {
+            "Merlin AI": "8fadae11-506a-48d1-b8b8-fd0b43ff56fa"
+          },
+          {
             "MetaGPT": "d68b265b-aff7-4804-a4b3-6fed329b5fd8"
           },
           {
@@ -2345,6 +2357,9 @@
           },
           {
             "Okular PDF": "78d09f5d-ae01-4c06-9b35-e7db91c2abf7"
+          },
+          {
+            "Ollama and Open-WebUI queries": "00f10601-4a54-44ea-8b06-642e0278a833"
           },
           {
             "One Note": "77feab76-6907-4250-9ff8-aa34549fbaaf"
@@ -2689,6 +2704,9 @@
             "SQLAlchemy": "3d3db79a-ae22-4620-8516-5cec289c31c3"
           },
           {
+            "SQLite-VSS": "2166749e-6a59-4b3c-8c85-f2df9af5e374"
+          },
+          {
             "SWARM protocol": "58bc9aff-7fa8-484a-80d0-af74ab146b76"
           },
           {
@@ -2984,6 +3002,9 @@
           },
           {
             "Umbrel": "60722662-eccc-443d-af35-af0ee02d1c9c"
+          },
+          {
+            "Unix": "3e65e0af-2fca-485f-86cf-f9d1560f5950"
           },
           {
             "Unraid": "98d27b77-5c46-46c6-bc0a-0a58ec5cd72b"
@@ -3496,6 +3517,9 @@
             "infranodus": "e8ca78e3-422e-4f21-9607-88c20a61048e"
           },
           {
+            "inode": "b7a50411-7110-46f2-b872-911e135f4c5a"
+          },
+          {
             "ipfs-car": "a5f00d8b-caf0-48f5-82cc-383380c59a14"
           },
           {
@@ -3868,6 +3892,9 @@
             "pyenv": "687bbe1e-57b1-4cc6-a44e-e4f470319f11"
           },
           {
+            "pypi": "f2c54af8-4654-4dc2-9265-27bfe83cb746"
+          },
+          {
             "pyspark": "9ef67b7c-c4ff-466c-ae92-b6e6d43da454"
           },
           {
@@ -4024,6 +4051,9 @@
             "tar": "d2272d3a-0619-4303-b230-f8c6ae73d436"
           },
           {
+            "telnet": "b67a085e-822e-43d6-b278-e1e9f7acca9c"
+          },
+          {
             "tiddlywiki": "0616d5be-c9a1-4854-bfd1-a7e4614d1500"
           },
           {
@@ -4075,6 +4105,9 @@
             "vector5db": "b0ca0d50-3c8a-4605-8d0e-65703cbd8387"
           },
           {
+            "vectra": "a21fe148-e48f-4a49-a7f2-4c75bbcb61d8"
+          },
+          {
             "vega lite": "7689616e-19a2-473d-ba91-80fdcbe833ab"
           },
           {
@@ -4115,6 +4148,9 @@
           },
           {
             "webtorrent": "b19e478c-5609-4ffe-aac6-6e32214a7805"
+          },
+          {
+            "weron": "1ddfe02d-e15f-4269-a6b4-7957c21a0d8d"
           },
           {
             "wexo": "338e2a91-c6c4-4e92-8540-76c1ba535ba0"
@@ -8456,6 +8492,9 @@
             "Tabletop Roleplaying Games": "b8ed90ee-7105-421d-a129-d1e2cd74b71b"
           },
           {
+            "Take great notes that outlive you.": "51533d48-c3cc-46f2-8b50-6674ce2fe12f"
+          },
+          {
             "Talk does not cook rice": "de0110dc-cca0-4ef5-a61d-628131122e4e"
           },
           {
@@ -9680,7 +9719,28 @@
             "ETL to QE, Update 26, Observe and Orient": "a6694d76-0b96-4dd7-8f4a-8d213fef86f0"
           },
           {
+            "ETL to QE, Update 27, Meme Schema Roadmap to Implementation": "f0940244-8feb-4c30-99b6-d64f155c0d10"
+          },
+          {
+            "ETL to QE, Update 28, Separation of Concerns": "1c28c038-689a-4083-a472-3bdab8489c4f"
+          },
+          {
+            "ETL to QE, Update 29, Tangible Competition": "05939e4f-56fd-4e30-8b09-054f0da09282"
+          },
+          {
             "ETL to QE, Update 3, Progress on first Report to be Published": "a4afe3e7-e3ae-44ae-a1dc-e22754900e37"
+          },
+          {
+            "ETL to QE, Update 30, Reflection on Tutorial Your Way to Victory": "b70e4d07-50b5-4684-be64-cc194f661725"
+          },
+          {
+            "ETL to QE, Update 31, The Man that Takes Things off The Table": "9d4498f4-7759-46db-bbcf-b2fe797b0760"
+          },
+          {
+            "ETL to QE, Update 32, Defining a short term vision": "4b29e643-872e-491f-bd1e-688965b09e2d"
+          },
+          {
+            "ETL to QE, Update 33, Let's Set Some Goals": "6b1da9a5-397e-40e5-918d-34431338b3ac"
           },
           {
             "ETL to QE, Update 4, Code Refactor and TrueNAS S3": "d59dbed7-08bd-462e-8f87-24a80c791f46"
@@ -10265,6 +10325,17 @@
       },
       {
         "Research Template": "d557e3da-a57b-4d87-a1da-aa477dfc40eb"
+      }
+    ]
+  },
+  {
+    "Community": [
+      {
+        "list": [
+          {
+            "Toronto Accelerationists": "ff5dbaf7-a669-4873-8fa5-fd47e23dfd1a"
+          }
+        ]
       }
     ]
   },
@@ -11011,6 +11082,9 @@
   {
     "Acronyms": [
       {
+        "2FA": "7122ff8e-7e08-49c2-84f3-2ad93cb52f1e"
+      },
+      {
         "AAA": "f695942a-96ad-4a1f-9f10-cced4ae7bf97"
       },
       {
@@ -11171,6 +11245,9 @@
       },
       {
         "EU": "bdb6341e-a217-45cf-9d00-b3271ba36795"
+      },
+      {
+        "FAT": "6c50e52a-c26b-4973-a65f-d706ff2024cd"
       },
       {
         "FOAF": "de759b3c-b687-48a3-93ec-62c18c7e7709"
